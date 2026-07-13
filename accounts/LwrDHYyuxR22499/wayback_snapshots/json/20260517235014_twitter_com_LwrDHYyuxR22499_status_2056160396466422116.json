@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2056041826529017856"
+      ],
+      "media_source_tweet_id": [
+        "2056041879721083374"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056160396466422116",
+    "created_at": "2026-05-17T23:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056160396466422116"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "江西"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKqeOzCHpX",
+          "end": 55,
+          "expanded_url": "https://x.com/NL8526/status/2056041879721083374/video/1",
+          "media_key": "7_2056041826529017856",
+          "start": 32,
+          "url": "https://t.co/lKqeOzCHpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056160396466422116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056041879721083374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 被戒网瘾学校的教官打进icu…\n#江西 https://t.co/lKqeOzCHpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56679,
+        "height": 1024,
+        "media_key": "7_2056041826529017856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056041826529017856/pu/img/axFTT7JOPONARIal.jpg",
+        "public_metrics": {
+          "view_count": 641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056041826529017856/pu/vid/avc1/320x568/RMX-tAQ6wwsIQJtc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056041826529017856/pu/vid/avc1/480x852/bxzCK6kiQwQtjpZa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056041826529017856/pu/vid/avc1/576x1024/tQLWwlCGi4L_tgLa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056041826529017856/pu/pl/Hv5I1cr1TYUGaSSi.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056041826529017856"
+          ],
+          "media_source_tweet_id": [
+            "2056041879721083374"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056160396466422116",
+        "created_at": "2026-05-17T23:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056160396466422116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "江西"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKqeOzCHpX",
+              "end": 55,
+              "expanded_url": "https://x.com/NL8526/status/2056041879721083374/video/1",
+              "media_key": "7_2056041826529017856",
+              "start": 32,
+              "url": "https://t.co/lKqeOzCHpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056160396466422116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056041879721083374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 被戒网瘾学校的教官打进icu…\n#江西 https://t.co/lKqeOzCHpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056041826529017856"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2056041879721083374",
+        "created_at": "2026-05-17T15:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056041879721083374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "江西"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKqeOzCHpX",
+              "end": 43,
+              "expanded_url": "https://x.com/NL8526/status/2056041879721083374/video/1",
+              "media_key": "7_2056041826529017856",
+              "start": 20,
+              "url": "https://t.co/lKqeOzCHpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056041879721083374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 839,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被戒网瘾学校的教官打进icu…\n#江西 https://t.co/lKqeOzCHpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 2843,
+          "like_count": 2815,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2778
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/为什么无人在意?为什么你们都讨厌我? 🩷扩列互关 拒接线下 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 855,
+          "like_count": 11897,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

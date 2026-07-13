@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894805485846724608",
+        "3_1894805488111333378"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1894805492897325475",
+    "created_at": "2025-02-26T17:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T18:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894805492897325475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wqwIOPg5tI",
+          "end": 90,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1894805492897325475/photo/1",
+          "media_key": "3_1894805485846724608",
+          "start": 67,
+          "url": "https://t.co/wqwIOPg5tI"
+        },
+        {
+          "display_url": "pic.x.com/wqwIOPg5tI",
+          "end": 90,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1894805492897325475/photo/1",
+          "media_key": "3_1894805488111333378",
+          "start": 67,
+          "url": "https://t.co/wqwIOPg5tI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894805492897325475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "山东某银泰城里每个衣服店面前都会摆一套或者三套行政夹克来吸引客人\n单衣售价2899人民币\n这算是山东人吸引山东客户的特有营销手段吗😳 https://t.co/wqwIOPg5tI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894805485846724608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkuzjN5bAAADjhm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1894805488111333378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkuzjWVWMAIsNSQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894805485846724608",
+            "3_1894805488111333378"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1894805492897325475",
+        "created_at": "2025-02-26T17:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T18:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894805492897325475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqwIOPg5tI",
+              "end": 90,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1894805492897325475/photo/1",
+              "media_key": "3_1894805485846724608",
+              "start": 67,
+              "url": "https://t.co/wqwIOPg5tI"
+            },
+            {
+              "display_url": "pic.x.com/wqwIOPg5tI",
+              "end": 90,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1894805492897325475/photo/1",
+              "media_key": "3_1894805488111333378",
+              "start": 67,
+              "url": "https://t.co/wqwIOPg5tI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894805492897325475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东某银泰城里每个衣服店面前都会摆一套或者三套行政夹克来吸引客人\n单衣售价2899人民币\n这算是山东人吸引山东客户的特有营销手段吗😳 https://t.co/wqwIOPg5tI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 205,
+          "like_count": 162,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 301
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

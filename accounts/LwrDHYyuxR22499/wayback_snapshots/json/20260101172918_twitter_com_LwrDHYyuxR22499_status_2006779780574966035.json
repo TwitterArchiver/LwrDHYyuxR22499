@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006779629118566403"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2006779780574966035",
+    "created_at": "2026-01-01T17:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006779780574966035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWHAsDQKNR",
+          "end": 48,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2006779780574966035/video/1",
+          "media_key": "7_2006779629118566403",
+          "start": 25,
+          "url": "https://t.co/RWHAsDQKNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006779780574966035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这东西看着像一台白色的超大洗衣机我该如何使用它? https://t.co/RWHAsDQKNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17030,
+        "height": 1280,
+        "media_key": "7_2006779629118566403",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006779629118566403/pu/img/k5cEaYtjRRB-fCEx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006779629118566403/pu/vid/avc1/320x568/P6gPgLXNs9oL9RR4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006779629118566403/pu/vid/avc1/480x852/GrZvl42mE7_fJMS9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006779629118566403/pu/vid/avc1/720x1280/dEjl4FqtSDNPdDBc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006779629118566403/pu/pl/kb-lYFDjXWq4OVjj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006779629118566403"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2006779780574966035",
+        "created_at": "2026-01-01T17:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006779780574966035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWHAsDQKNR",
+              "end": 48,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2006779780574966035/video/1",
+              "media_key": "7_2006779629118566403",
+              "start": 25,
+              "url": "https://t.co/RWHAsDQKNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006779780574966035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这东西看着像一台白色的超大洗衣机我该如何使用它? https://t.co/RWHAsDQKNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1471,
+          "like_count": 1236,
+          "listed_count": 9,
+          "media_count": 300,
+          "tweet_count": 1771
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

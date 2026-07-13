@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004830103046672438",
+    "created_at": "2025-12-28T08:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005190036648853993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912450775307218944",
+          "start": 0,
+          "username": "D4H7ZhMULd54273"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005190036648853993",
+    "in_reply_to_user_id": "1912450775307218944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005189639184023701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D4H7ZhMULd54273 似乎正相反打的都是爱国的\n相信军人警察的\n要不也不会因为说自己是👮🏻‍♀️就乖乖跟着走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004830103046672438",
+        "created_at": "2025-12-28T08:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005190036648853993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912450775307218944",
+              "start": 0,
+              "username": "D4H7ZhMULd54273"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005190036648853993",
+        "in_reply_to_user_id": "1912450775307218944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005189639184023701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D4H7ZhMULd54273 似乎正相反打的都是爱国的\n相信军人警察的\n要不也不会因为说自己是👮🏻‍♀️就乖乖跟着走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912450775307218944",
+        "conversation_id": "2004830103046672438",
+        "created_at": "2025-12-28T08:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005189639184023701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005189639184023701",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004830103046672438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 打的都是支黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 1457,
+          "like_count": 1202,
+          "listed_count": 9,
+          "media_count": 296,
+          "tweet_count": 1738
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T10:19:47.000Z",
+        "description": "",
+        "id": "1912450775307218944",
+        "name": "李fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947029038033207298/prk5HWeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 404,
+          "like_count": 374,
+          "listed_count": 5,
+          "media_count": 909,
+          "tweet_count": 6543
+        },
+        "username": "D4H7ZhMULd54273",
+        "verified": false
+      }
+    ]
+  }
+}

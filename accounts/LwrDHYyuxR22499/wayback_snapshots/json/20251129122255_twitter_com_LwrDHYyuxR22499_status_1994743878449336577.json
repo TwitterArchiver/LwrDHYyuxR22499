@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1994548636437680410",
+    "created_at": "2025-11-29T12:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994743878449336577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956526823128563712",
+          "start": 0,
+          "username": "NayutaZoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994743878449336577",
+    "in_reply_to_user_id": "1956526823128563712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994741310289580135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NayutaZoe 来来来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1994548636437680410",
+        "created_at": "2025-11-29T12:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994743878449336577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956526823128563712",
+              "start": 0,
+              "username": "NayutaZoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994743878449336577",
+        "in_reply_to_user_id": "1956526823128563712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994741310289580135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NayutaZoe 来来来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1994548636437680410",
+        "created_at": "2025-11-29T12:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994741310289580135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994741310289580135",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994548636437680410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我可以试试🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1118,
+          "like_count": 910,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1478
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/15岁/\n音乐制作/数码科技/\nOnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 64
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      }
+    ]
+  }
+}

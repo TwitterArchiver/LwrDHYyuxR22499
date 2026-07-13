@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996227863952101376",
+        "3_1996227864241598464",
+        "3_1996227864472199170",
+        "3_1996227863956406272"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1996227915848045011",
+    "created_at": "2025-12-03T14:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996227915848045011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 86,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "7_1996227863952101376",
+          "start": 63,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 86,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227864241598464",
+          "start": 63,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 86,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227864472199170",
+          "start": 63,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 86,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227863956406272",
+          "start": 63,
+          "url": "https://t.co/F6ktkZxjb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996227915848045011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81850,
+        "height": 640,
+        "media_key": "7_1996227863952101376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996227863952101376/pu/img/c4GQ0MDf7ncgvUCS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/320x568/3UQB7KSHAlTi_hck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/360x640/nOcBPXUca7eayG96.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/pl/5V5yBcMr5QbWn4Qf.m3u8?tag=12"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996227864241598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqoLbcAAl95Z.jpg",
+        "width": 917
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996227864472199170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqpCaIAIzoDM.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996227863956406272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqnHbwAAOJuX.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996227863952101376",
+            "3_1996227864241598464",
+            "3_1996227864472199170",
+            "3_1996227863956406272"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1996227915848045011",
+        "created_at": "2025-12-03T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996227915848045011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "7_1996227863952101376",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864241598464",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864472199170",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227863956406272",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996227915848045011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1132,
+          "like_count": 920,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 1490
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

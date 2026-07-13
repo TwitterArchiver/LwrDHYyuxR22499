@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2006968910223192397",
+    "created_at": "2026-01-02T06:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T07:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006968910223192397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chn2026/status…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/chn2026/status/2006913102848340285",
+          "start": 141,
+          "url": "https://t.co/qCcugGnq8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006968910223192397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006913102848340285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "随他说去好了汤戈韬要造谣、要搞霸凌，随便他说我诈骗，给我扣反跨的帽子，都无所谓我该救人，就绝不会停。只是他们这般趋炎附势、动辄搞人格毁灭的发现造谣无效就否认奉献的嘴脸，\n实在不堪入目。他们没有心吗\n照镜子时，真的意识不到？自己对异议人士的造谣霸凌，远比他们日日唾骂的共产党还要过分 https://t.co/qCcugGnq8U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2006968910223192397",
+        "created_at": "2026-01-02T06:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006968910223192397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chn2026/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/chn2026/status/2006913102848340285",
+              "start": 141,
+              "url": "https://t.co/qCcugGnq8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006968910223192397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006913102848340285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "随他说去好了汤戈韬要造谣、要搞霸凌，随便他说我诈骗，给我扣反跨的帽子，都无所谓我该救人，就绝不会停。只是他们这般趋炎附势、动辄搞人格毁灭的发现造谣无效就否认奉献的嘴脸，\n实在不堪入目。他们没有心吗\n照镜子时，真的意识不到？自己对异议人士的造谣霸凌，远比他们日日唾骂的共产党还要过分 https://t.co/qCcugGnq8U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001540643060109312",
+        "conversation_id": "2006761107185349054",
+        "created_at": "2026-01-02T02:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T03:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006913102848340285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006913102848340285",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006761107185349054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 又装逼呢？汤姐说了，你丫就是个干诈骗的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1472,
+          "like_count": 1239,
+          "listed_count": 9,
+          "media_count": 300,
+          "tweet_count": 1773
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T06:30:58.000Z",
+        "description": "所长亲亇人人🍵",
+        "id": "2001540643060109312",
+        "location": "布鲁克林厕所",
+        "name": "厕所所长🇺🇸🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006908836683350016/MD3nRNII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 2,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "chn2026",
+        "verified": false
+      }
+    ]
+  }
+}

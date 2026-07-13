@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2069029860635455613",
+    "created_at": "2026-06-22T15:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069084773562380575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1669376642094092290",
+          "start": 0,
+          "username": "yxzlwz"
+        },
+        {
+          "end": 16,
+          "id": "1838527847570509826",
+          "start": 8,
+          "username": "CLK5601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069084773562380575",
+    "in_reply_to_user_id": "1669376642094092290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069082884925690009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxzlwz @CLK5601 我一向无所谓\n最擅长做的事情就是无视大众\n墙内是这样墙外也是\n我有自己一套办事的标准\n看不惯的人可以一直保持看不惯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2069029860635455613",
+        "created_at": "2026-06-22T15:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069084773562380575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1669376642094092290",
+              "start": 0,
+              "username": "yxzlwz"
+            },
+            {
+              "end": 16,
+              "id": "1838527847570509826",
+              "start": 8,
+              "username": "CLK5601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069084773562380575",
+        "in_reply_to_user_id": "1669376642094092290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069082884925690009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxzlwz @CLK5601 我一向无所谓\n最擅长做的事情就是无视大众\n墙内是这样墙外也是\n我有自己一套办事的标准\n看不惯的人可以一直保持看不惯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669376642094092290",
+        "conversation_id": "2069029860635455613",
+        "created_at": "2026-06-22T15:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069082884925690009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 25,
+              "id": "1838527847570509826",
+              "start": 17,
+              "username": "CLK5601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069082884925690009",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069030632924365070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @CLK5601 我看到了最近无数人对你的工作的无端指责\n我想也许本质上只是一些人对哪怕一点权威的其他人的无端指责\n祝你你不要受到这些信息的影响，继续把你们的工作做得更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 3215,
+          "like_count": 3449,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3116
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T16:09:52.000Z",
+        "description": "NYUSH CS在读｜全栈开发｜互fo｜欢迎来与我闲聊～\nGitHub: https://t.co/EiXDUTefUj\nEnglish account: @yxzlwz_en",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yxzlwz_en"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/yxzlwz",
+                "end": 60,
+                "expanded_url": "https://github.com/yxzlwz",
+                "start": 37,
+                "url": "https://t.co/EiXDUTefUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yxzl.dev",
+                "end": 23,
+                "expanded_url": "https://yxzl.dev/",
+                "start": 0,
+                "url": "https://t.co/DCTqcTLe0L"
+              }
+            ]
+          }
+        },
+        "id": "1669376642094092290",
+        "location": "上海",
+        "name": "异想之旅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059932666338607109/mZ1zhdtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 306,
+          "like_count": 3136,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/DCTqcTLe0L",
+        "username": "yxzlwz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14 /\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 1579,
+          "like_count": 2938,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      }
+    ]
+  }
+}

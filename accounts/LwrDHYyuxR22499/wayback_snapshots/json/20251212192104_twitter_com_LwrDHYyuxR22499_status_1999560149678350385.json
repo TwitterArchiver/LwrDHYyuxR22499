@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999491299708403895",
+    "created_at": "2025-12-12T19:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T20:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999560149678350385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749232086840647680",
+          "start": 0,
+          "username": "llll926080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999560149678350385",
+    "in_reply_to_user_id": "1749232086840647680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999491299708403895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llll926080 小事😎低调"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999491299708403895",
+        "created_at": "2025-12-12T19:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999560149678350385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749232086840647680",
+              "start": 0,
+              "username": "llll926080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999560149678350385",
+        "in_reply_to_user_id": "1749232086840647680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999491299708403895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llll926080 小事😎低调"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749232086840647680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1999491299708403895",
+        "created_at": "2025-12-12T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999491299708403895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1999309621845254386",
+              "start": 40,
+              "url": "https://t.co/pIbuCbr3Jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999491299708403895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999309621845254386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为一个曾经被父母送进矫正学校关了6个月的人能看到这种纪录片出现真的是三生有幸 https://t.co/pIbuCbr3Jf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1137,
+          "like_count": 966,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1548
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T00:46:54.000Z",
+        "description": "pan/brat 可能是男娘（？🇨🇳🇨🇦175cm 53kg 17高二坐牢中… 中文/English welcome dm欢迎大家来找我聊天🥺od/自伤元素注意⚠️好友位🚪50CNY 后背隐藏能源：@fuckmylife8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "fuckmylife8964"
+              }
+            ]
+          }
+        },
+        "id": "1749232086840647680",
+        "location": "上海",
+        "name": "网友泉顺方",
+        "pinned_tweet_id": "1997879696113930667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325613352538112/-fZhgABW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 172,
+          "like_count": 1519,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2058
+        },
+        "username": "llll926080",
+        "verified": false
+      }
+    ]
+  }
+}

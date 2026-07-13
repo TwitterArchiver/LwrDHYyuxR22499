@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980903268948799992",
+    "created_at": "2025-10-22T07:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980903268948799992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alina_Medverov…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/Alina_Medverova/status/1980887346020278591",
+          "start": 138,
+          "url": "https://t.co/l8y4DM9tOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980903268948799992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980887346020278591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个地方拿着社会公信力批量迫害未成年导致都还没到社会就丧失了对共产党的公信力\n甚至丧失劳动能力变成精神病或者残疾变成社会不稳定分子\n也能算维稳成功?\n如果你说共产党员以及地方性政府拿着青少年的命创收我觉得到还差不多\n你要说辅助维稳……\n算了吧我怎么找也觉得维稳应该是个中性词 https://t.co/l8y4DM9tOq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980903268948799992",
+        "created_at": "2025-10-22T07:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980903268948799992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alina_Medverov…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Alina_Medverova/status/1980887346020278591",
+              "start": 138,
+              "url": "https://t.co/l8y4DM9tOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980903268948799992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980887346020278591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个地方拿着社会公信力批量迫害未成年导致都还没到社会就丧失了对共产党的公信力\n甚至丧失劳动能力变成精神病或者残疾变成社会不稳定分子\n也能算维稳成功?\n如果你说共产党员以及地方性政府拿着青少年的命创收我觉得到还差不多\n你要说辅助维稳……\n算了吧我怎么找也觉得维稳应该是个中性词 https://t.co/l8y4DM9tOq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1980887346020278591",
+        "created_at": "2025-10-22T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980887346020278591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1980495361157554244",
+              "start": 81,
+              "url": "https://t.co/g7EIg5164q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980887346020278591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980495361157554244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还运行逻辑上了，地头蛇用资金寻求灰色地带庇护有啥运行逻辑，从家属那高额榨钱自己吃，辅助维稳还能拉动社会闲散人员就业，对共产党就没有任何一丁点坏处，不默许就有鬼了 https://t.co/g7EIg5164q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 927,
+          "like_count": 721,
+          "listed_count": 5,
+          "media_count": 238,
+          "tweet_count": 1138
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1526,
+          "like_count": 74776,
+          "listed_count": 6,
+          "media_count": 984,
+          "tweet_count": 16349
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

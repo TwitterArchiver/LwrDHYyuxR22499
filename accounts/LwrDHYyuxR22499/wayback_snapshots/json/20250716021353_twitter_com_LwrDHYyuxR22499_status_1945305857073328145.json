@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1945158421285642351",
+    "created_at": "2025-07-16T02:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T03:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945305857073328145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878681729407356928",
+          "start": 0,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945305857073328145",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945158421285642351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYuusui1999 我不接受这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1945157896209358848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6WzPua4AA15mC.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1945158421285642351",
+        "created_at": "2025-07-16T02:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T03:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945305857073328145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945305857073328145",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945158421285642351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 我不接受这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945157896209358848"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1945158421285642351",
+        "created_at": "2025-07-15T16:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T17:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945158421285642351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "关注救助者健康"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuOaac8l1O",
+              "end": 56,
+              "expanded_url": "https://x.com/HYuusui1999/status/1945158421285642351/photo/1",
+              "media_key": "3_1945157896209358848",
+              "start": 33,
+              "url": "https://t.co/LuOaac8l1O"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1945123018218279332",
+              "start": 57,
+              "url": "https://t.co/8JlV8S5n2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945158421285642351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945123018218279332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#关注救助者健康\n男人好难（）\n救助者需要大家的帮助\n请多少捐点 https://t.co/LuOaac8l1O https://t.co/8JlV8S5n2P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 425,
+          "like_count": 419,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 577
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1379,
+          "like_count": 25615,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 6371
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

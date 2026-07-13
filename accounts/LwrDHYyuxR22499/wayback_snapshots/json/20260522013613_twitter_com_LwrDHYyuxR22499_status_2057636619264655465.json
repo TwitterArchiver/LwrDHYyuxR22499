@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057636541221232640",
+        "3_2057636542613737472",
+        "3_2057636544849346562",
+        "7_2057636547139338240"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2057636619264655465",
+    "created_at": "2026-05-22T01:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057636619264655465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gN4kzyb2kX",
+          "end": 148,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+          "media_key": "3_2057636541221232640",
+          "start": 125,
+          "url": "https://t.co/gN4kzyb2kX"
+        },
+        {
+          "display_url": "pic.x.com/gN4kzyb2kX",
+          "end": 148,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+          "media_key": "3_2057636542613737472",
+          "start": 125,
+          "url": "https://t.co/gN4kzyb2kX"
+        },
+        {
+          "display_url": "pic.x.com/gN4kzyb2kX",
+          "end": 148,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+          "media_key": "3_2057636544849346562",
+          "start": 125,
+          "url": "https://t.co/gN4kzyb2kX"
+        },
+        {
+          "display_url": "pic.x.com/gN4kzyb2kX",
+          "end": 148,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+          "media_key": "7_2057636547139338240",
+          "start": 125,
+          "url": "https://t.co/gN4kzyb2kX"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2057632155543757057",
+          "start": 149,
+          "url": "https://t.co/71uoTF1FNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057636619264655465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057632155543757057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然了，校长那就更赚钱了🤠。\n根据中华网的调查，\n利用“反游戏”“戒网瘾”\n等概念开设扭转机构，进行殴打虐待、售卖家长网课，涉及的暴利链条，年创收700亿。\n我打别人四个亿的利益链，都跟闹着玩似的。\n随便一个人口为200+的扭转机构\n年收入就近千万 https://t.co/gN4kzyb2kX https://t.co/71uoTF1FNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057636541221232640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4xiExa4AAEXtL.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057636542613737472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4xiJ9a0AASPId.jpg",
+        "width": 917
+      },
+      {
+        "height": 1067,
+        "media_key": "3_2057636544849346562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4xiSSbgAIpMqs.jpg",
+        "width": 800
+      },
+      {
+        "duration_ms": 7333,
+        "height": 640,
+        "media_key": "7_2057636547139338240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057636547139338240/pu/img/BPwfOQn0B4Nvap6Q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057636547139338240/pu/vid/avc1/320x580/JV5K6f03c0ay9OFO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057636547139338240/pu/vid/avc1/352x640/DtRasgGX9GXwgs5T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057636547139338240/pu/pl/o32IiGqCvCthuqV_.m3u8?tag=12"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057636541221232640",
+            "3_2057636542613737472",
+            "3_2057636544849346562",
+            "7_2057636547139338240"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057636619264655465",
+        "created_at": "2026-05-22T01:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057636619264655465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gN4kzyb2kX",
+              "end": 148,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+              "media_key": "3_2057636541221232640",
+              "start": 125,
+              "url": "https://t.co/gN4kzyb2kX"
+            },
+            {
+              "display_url": "pic.x.com/gN4kzyb2kX",
+              "end": 148,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+              "media_key": "3_2057636542613737472",
+              "start": 125,
+              "url": "https://t.co/gN4kzyb2kX"
+            },
+            {
+              "display_url": "pic.x.com/gN4kzyb2kX",
+              "end": 148,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+              "media_key": "3_2057636544849346562",
+              "start": 125,
+              "url": "https://t.co/gN4kzyb2kX"
+            },
+            {
+              "display_url": "pic.x.com/gN4kzyb2kX",
+              "end": 148,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465/video/1",
+              "media_key": "7_2057636547139338240",
+              "start": 125,
+              "url": "https://t.co/gN4kzyb2kX"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2057632155543757057",
+              "start": 149,
+              "url": "https://t.co/71uoTF1FNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057636619264655465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057632155543757057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然了，校长那就更赚钱了🤠。\n根据中华网的调查，\n利用“反游戏”“戒网瘾”\n等概念开设扭转机构，进行殴打虐待、售卖家长网课，涉及的暴利链条，年创收700亿。\n我打别人四个亿的利益链，都跟闹着玩似的。\n随便一个人口为200+的扭转机构\n年收入就近千万 https://t.co/gN4kzyb2kX https://t.co/71uoTF1FNA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057632155543757057",
+        "created_at": "2026-05-22T01:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057632155543757057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sizhe_bitcat/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Sizhe_bitcat/status/2057340436893815094",
+              "start": 146,
+              "url": "https://t.co/aT0IaLnUrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057632155543757057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057340436893815094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扭转机构教官🤠👆🏻，底薪工资6k~8k，然而实际上通过敲诈勒索学员的生活费，外加绑架他人可轻松达到1.5w。看谁不爽还能轮起来暴打一顿，在里面有掌握别人生死的权利，只要不被发现甚至可以轮奸别人。有的是女学生想要拿性交易换手机玩，换更大的权利不挨欺负顺带欺负别人，\n重要的是他确实挺low的。 https://t.co/aT0IaLnUrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 2904,
+          "like_count": 2876,
+          "listed_count": 18,
+          "media_count": 418,
+          "tweet_count": 2822
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

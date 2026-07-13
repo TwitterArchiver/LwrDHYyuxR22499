@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2072047755930054656"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072046811746111663",
+    "created_at": "2026-06-30T20:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072047757855191203"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072047757855191203",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072046811746111663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我们开启一个投票\n本次线下无规则格斗谁能取胜?"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-01T20:00:56.000Z",
+        "id": "2072047755930054656",
+        "options": [
+          {
+            "label": "帕夏",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "牢牧",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "有人要尿遁了",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2072047755930054656"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072046811746111663",
+        "created_at": "2026-06-30T20:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072047757855191203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072047757855191203",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072046811746111663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我们开启一个投票\n本次线下无规则格斗谁能取胜?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072046811746111663",
+        "created_at": "2026-06-30T19:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072046811746111663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sayuki_Inoue/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Sayuki_Inoue/status/2061369429511053578",
+              "start": 44,
+              "url": "https://t.co/6xNtNQ1xP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072046811746111663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061369429511053578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "七月一已到\n请帕夏如约出现在上海\n这是你第二次提出与我约架\n希望你不要再像上次一样逃跑 https://t.co/6xNtNQ1xP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 3295,
+          "like_count": 3608,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3234
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

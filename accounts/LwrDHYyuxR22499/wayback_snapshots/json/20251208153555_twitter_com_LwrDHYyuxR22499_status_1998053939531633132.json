@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1997676389907181702",
+    "created_at": "2025-12-08T15:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998053939531633132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802604031371845632",
+          "start": 0,
+          "username": "Yi_ping1"
+        },
+        {
+          "end": 20,
+          "id": "1445222248902651906",
+          "start": 10,
+          "username": "wanghebbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998053939531633132",
+    "in_reply_to_user_id": "1802604031371845632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998034857470075166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yi_ping1 @wanghebbf 怎会如此相像?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1997676389907181702",
+        "created_at": "2025-12-08T15:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998053939531633132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802604031371845632",
+              "start": 0,
+              "username": "Yi_ping1"
+            },
+            {
+              "end": 20,
+              "id": "1445222248902651906",
+              "start": 10,
+              "username": "wanghebbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998053939531633132",
+        "in_reply_to_user_id": "1802604031371845632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998034857470075166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yi_ping1 @wanghebbf 怎会如此相像?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802604031371845632",
+        "conversation_id": "1997676389907181702",
+        "created_at": "2025-12-08T14:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998034857470075166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1445222248902651906",
+              "start": 17,
+              "username": "wanghebbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998034857470075166",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997676389907181702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @wanghebbf 差点认成你了😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1139,
+          "like_count": 934,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 1507
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T07:28:09.000Z",
+        "description": "平希木音-大厨烹调｜输入-教育，生成-电影，输出-就业｜贰叁航线-跨行桥｜琥珀眼制造",
+        "id": "1802604031371845632",
+        "name": "芙兰",
+        "pinned_tweet_id": "1940191488820093392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978425974200115200/F0WenSvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 85,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 1520,
+          "tweet_count": 5067
+        },
+        "username": "Yi_ping1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T03:00:20.000Z",
+        "description": "嘴撸 赌徒，#OKX Web3钱包现已支持100+公链#web3入口 一个就够 https://t.co/fwm39TWSQ8  #Binance 币安福利官专属注册通道👉 https://t.co/G1rnYY0vv1 #WEEX 大使专属注册：https://t.co/RiQO013wQp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "OKX"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "Binance"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "WEEX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/oKybmq",
+                "end": 63,
+                "expanded_url": "https://reurl.cc/oKybmq",
+                "start": 40,
+                "url": "https://t.co/fwm39TWSQ8"
+              },
+              {
+                "display_url": "psce.pw/8bgh86",
+                "end": 110,
+                "expanded_url": "https://psce.pw/8bgh86",
+                "start": 87,
+                "url": "https://t.co/G1rnYY0vv1"
+              },
+              {
+                "display_url": "reurl.cc/8bXAbg",
+                "end": 147,
+                "expanded_url": "https://reurl.cc/8bXAbg",
+                "start": 124,
+                "url": "https://t.co/RiQO013wQp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunperp.com/zh-cn/futures/…",
+                "end": 23,
+                "expanded_url": "https://www.sunperp.com/zh-cn/futures/invite?invitecode=ve622223",
+                "start": 0,
+                "url": "https://t.co/aIjb9wfiAX"
+              }
+            ]
+          }
+        },
+        "id": "1445222248902651906",
+        "location": "第一个中文DEX华语品牌孙悟空⬇️",
+        "name": "王短鸟 (长鸟版) 🧠SENT MemeMax⚡️OKB $M | 🐜 $BARD 🦅🟠",
+        "pinned_tweet_id": "1702199777566331091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990688328262561796/Ptwdn_iU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90685,
+          "following_count": 4695,
+          "like_count": 7963,
+          "listed_count": 1483,
+          "media_count": 4787,
+          "tweet_count": 40916
+        },
+        "url": "https://t.co/aIjb9wfiAX",
+        "username": "wanghebbf",
+        "verified": true
+      }
+    ]
+  }
+}

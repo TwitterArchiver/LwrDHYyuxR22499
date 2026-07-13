@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999593967776858365",
+    "created_at": "2025-12-12T21:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T22:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999593967776858365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CongMangSeven4…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/CongMangSeven43/status/1999158017405989215",
+          "start": 14,
+          "url": "https://t.co/bKfd4uD7vV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999593967776858365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999158017405989215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔🤔你们跨性别都这么阴暗吗 https://t.co/bKfd4uD7vV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999593967776858365",
+        "created_at": "2025-12-12T21:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999593967776858365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CongMangSeven4…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/CongMangSeven43/status/1999158017405989215",
+              "start": 14,
+              "url": "https://t.co/bKfd4uD7vV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999593967776858365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999158017405989215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔🤔你们跨性别都这么阴暗吗 https://t.co/bKfd4uD7vV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1086585820939579393",
+        "conversation_id": "1998754286076047687",
+        "created_at": "2025-12-11T16:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999158017405989215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999158017405989215",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998754286076047687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 招笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1139,
+          "like_count": 969,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1552
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-19T11:27:02.000Z",
+        "description": "這裡是77喔ENFP重度抑鬱重度焦慮ADHD Arknights/maimaiDX/負能推ODpossible/🏳️‍🌈🏳️‍⚧️Friendly/頭像@zaoyang521/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "zaoyang521"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.com.cn",
+                "start": 0,
+                "url": "https://t.co/3FpHtNlc9Z"
+              }
+            ]
+          }
+        },
+        "id": "1086585820939579393",
+        "name": "暮冬",
+        "pinned_tweet_id": "1878479767780856045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696045448249970688/ZTjiIL_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 2294,
+          "like_count": 67265,
+          "listed_count": 1,
+          "media_count": 723,
+          "tweet_count": 8454
+        },
+        "url": "https://t.co/3FpHtNlc9Z",
+        "username": "CongMangSeven43",
+        "verified": false
+      }
+    ]
+  }
+}

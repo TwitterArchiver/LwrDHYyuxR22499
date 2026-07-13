@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935391354781097984"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1935369797988139433",
+    "created_at": "2025-06-18T17:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T18:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935391379720651113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4o16cQewPy",
+          "end": 44,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935391379720651113/photo/1",
+          "media_key": "3_1935391354781097984",
+          "start": 21,
+          "url": "https://t.co/4o16cQewPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935391379720651113",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935369797988139433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure 如何呢 https://t.co/4o16cQewPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935391354781097984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvkLtsW4AA6Z0l.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935369714458308608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvQgFNWMAAZ65n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935391354781097984"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1935369797988139433",
+        "created_at": "2025-06-18T17:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935391379720651113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4o16cQewPy",
+              "end": 44,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935391379720651113/photo/1",
+              "media_key": "3_1935391354781097984",
+              "start": 21,
+              "url": "https://t.co/4o16cQewPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935391379720651113",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935369797988139433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 如何呢 https://t.co/4o16cQewPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935369714458308608"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1935369797988139433",
+        "created_at": "2025-06-18T16:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935369797988139433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En2lOdvyFo",
+              "end": 29,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1935369797988139433/photo/1",
+              "media_key": "3_1935369714458308608",
+              "start": 6,
+              "url": "https://t.co/En2lOdvyFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935369797988139433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点像耄耋 https://t.co/En2lOdvyFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 378,
+          "like_count": 370,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 532
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🧊🌊⁉️｜叫líng就好啦 ｜非二元MtX🏳️‍🌈🏳️‍⚧️｜🍥hrt24.4.20｜179cm55kg骨头架子｜🇬🇧预备役英区留子乐子人｜08｜川渝常驻重庆｜入坑半年音游人 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "minokakay"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🧊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6942,
+          "following_count": 1123,
+          "like_count": 28274,
+          "listed_count": 8,
+          "media_count": 2006,
+          "tweet_count": 15612
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": false
+      }
+    ]
+  }
+}

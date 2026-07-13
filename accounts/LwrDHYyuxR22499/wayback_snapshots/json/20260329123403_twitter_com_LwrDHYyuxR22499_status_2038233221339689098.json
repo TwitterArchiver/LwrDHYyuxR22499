@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038233221339689098",
+    "created_at": "2026-03-29T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038233221339689098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SakurabaEma_IT…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2037972354014605383",
+          "start": 125,
+          "url": "https://t.co/ytg0UdZPVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038233221339689098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037972354014605383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鉴于部分人将代称与话术对错看得比生命安危更重要，自身不敢为了自己所谓的代号抗争连跨一下都要深柜躲到阴沟里可笑的样子\n却对伸出援手者百般苛求，甚至认为“不犯错”比“救人”更重要\n本着求仁得仁的原则\n本人即日起不再对这类人群提供任何相关救助，望各位珍重 https://t.co/ytg0UdZPVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037972350537469952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhVDh_akAAagBb.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037972350311059456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhVDhJb0AAMe_H.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037972351032401920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhVDj1aoAAc04a.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038233221339689098",
+        "created_at": "2026-03-29T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038233221339689098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurabaEma_IT…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2037972354014605383",
+              "start": 125,
+              "url": "https://t.co/ytg0UdZPVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038233221339689098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037972354014605383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鉴于部分人将代称与话术对错看得比生命安危更重要，自身不敢为了自己所谓的代号抗争连跨一下都要深柜躲到阴沟里可笑的样子\n却对伸出援手者百般苛求，甚至认为“不犯错”比“救人”更重要\n本着求仁得仁的原则\n本人即日起不再对这类人群提供任何相关救助，望各位珍重 https://t.co/ytg0UdZPVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037972350537469952",
+            "3_2037972350311059456",
+            "3_2037972351032401920"
+          ]
+        },
+        "author_id": "1991445096013918208",
+        "conversation_id": "2037972354014605383",
+        "created_at": "2026-03-28T19:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037972354014605383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GTqbbnKIt",
+              "end": 139,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383/photo/1",
+              "media_key": "3_2037972350537469952",
+              "start": 116,
+              "url": "https://t.co/4GTqbbnKIt"
+            },
+            {
+              "display_url": "pic.x.com/4GTqbbnKIt",
+              "end": 139,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383/photo/1",
+              "media_key": "3_2037972350311059456",
+              "start": 116,
+              "url": "https://t.co/4GTqbbnKIt"
+            },
+            {
+              "display_url": "pic.x.com/4GTqbbnKIt",
+              "end": 139,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383/photo/1",
+              "media_key": "3_2037972351032401920",
+              "start": 116,
+              "url": "https://t.co/4GTqbbnKIt"
+            },
+            {
+              "display_url": "x.com/DrSunan2022422…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/DrSunan2022422/status/2037945149964312702",
+              "start": 140,
+              "url": "https://t.co/Pj610cuUpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037972354014605383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 22965,
+          "like_count": 277,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037945149964312702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直都不理解\n为什么温柔的每一个和mtf受害者有关的视频都是用“男孩”等男性称呼称呼受害者，明明受害者是mtf，而且正是因为性别认同才被迫害\n这次人都死了\n就不能给点最基本的尊重吗……\n还有评论区也是神人\n说什么mtf是男的呃呃 https://t.co/4GTqbbnKIt https://t.co/Pj610cuUpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4003,
+          "following_count": 2299,
+          "like_count": 2187,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2403
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 87,
+          "like_count": 3639,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

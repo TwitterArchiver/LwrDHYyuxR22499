@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989706734097895932",
+    "created_at": "2025-11-16T07:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T08:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989963423904665991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikahsnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989963423904665991",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989706734097895932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikahsnya 这自杀鸡毛哥们直接补给你不就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989706726212603904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zbub8bkAAKdCU.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989706726187438082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zbub2bkAI7MhZ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989706734097895932",
+        "created_at": "2025-11-16T07:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989963423904665991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikahsnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989963423904665991",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989706734097895932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikahsnya 这自杀鸡毛哥们直接补给你不就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989706726212603904",
+            "3_1989706726187438082"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "conversation_id": "1989706734097895932",
+        "created_at": "2025-11-15T14:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989706734097895932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rlTzQb4XJ7",
+              "end": 81,
+              "expanded_url": "https://x.com/suikahsnya/status/1989706734097895932/photo/1",
+              "media_key": "3_1989706726212603904",
+              "start": 58,
+              "url": "https://t.co/rlTzQb4XJ7"
+            },
+            {
+              "display_url": "pic.x.com/rlTzQb4XJ7",
+              "end": 81,
+              "expanded_url": "https://x.com/suikahsnya/status/1989706734097895932/photo/1",
+              "media_key": "3_1989706726187438082",
+              "start": 58,
+              "url": "https://t.co/rlTzQb4XJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989706734097895932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11907,
+          "like_count": 65,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "對不起\n我被李保興騙了\n讓我自殺吧\n吃亞硝酸鈉吧\n180\n我攢了快\n不知道多久了\n我從夾縫裡摳出來的錢\n一下子被他 https://t.co/rlTzQb4XJ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1068,
+          "like_count": 852,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1410
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "負能注意❗️/高一/LGBTQ🏳️‍⚧️🏳️‍🌈/MtX(F)/hrt🍥114.09.30/🍰98.12.22/GD/深櫃/家長半知道黨/181-69超大隻/住宿/是一隻小貓貓/民國派🇹🇼/皮下醜國男/坐標上海/抱抱最可愛的姊姊們喵 @N552AA @AGeSang2008 @Mira10022568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 117,
+                "username": "N552AA"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Mira10022568"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXuP3z"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "西瓜好酸喵🏳️‍⚧️🍥🍉🧊🍔🍜",
+        "pinned_tweet_id": "1984480011240554687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969054346727059456/GXALGfIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1385,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 3182
+        },
+        "url": "https://t.co/iBBruXuP3z",
+        "username": "suikahsnya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1923772787233046632",
+    "created_at": "2025-05-20T02:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T03:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924650526177898655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878681729407356928",
+          "start": 0,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 23,
+          "id": "1523478962910941184",
+          "start": 13,
+          "username": "JudyXie16"
+        },
+        {
+          "end": 35,
+          "id": "1799461746291425280",
+          "start": 24,
+          "username": "Linanyue42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924650526177898655",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924650116817867190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYuusui1999 @JudyXie16 @Linanyue42 回家换身衣服换身行头又要奔赴前线了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924650116817867190].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924650116817867190",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924650116817867190"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1923772787233046632",
+        "created_at": "2025-05-20T02:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T03:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924650526177898655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 23,
+              "id": "1523478962910941184",
+              "start": 13,
+              "username": "JudyXie16"
+            },
+            {
+              "end": 35,
+              "id": "1799461746291425280",
+              "start": 24,
+              "username": "Linanyue42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924650526177898655",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924650116817867190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @JudyXie16 @Linanyue42 回家换身衣服换身行头又要奔赴前线了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 321,
+          "like_count": 295,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 452
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@TencentRM好久前开始从b站盗句号视频，\n视频创作者是@juhao0721，请注意\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "TencentRM"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 1015,
+          "like_count": 19758,
+          "listed_count": 6,
+          "media_count": 193,
+          "tweet_count": 4334
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T01:44:40.000Z",
+        "description": "17yo/妹宝@Linanyue42/微键政/粉蛆支黑滚/Swiftie/lgbtq+友好（真的友好）/////以及黄推别来沾边/发着玩玩可理解为愤青女拳的自娱自乐可接受请进",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Linanyue42"
+              }
+            ]
+          }
+        },
+        "id": "1523478962910941184",
+        "name": "狗不理包子",
+        "pinned_tweet_id": "1896157841058418777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896150290870468608/9RcMur9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 97,
+          "like_count": 5747,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 605
+        },
+        "username": "JudyXie16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T15:21:34.000Z",
+        "description": "mtf🏳️‍⚧️ she/they infp-t 高二 文科生 上海 hrt25.1.15 姐姐@JudyXie16",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "JudyXie16"
+              }
+            ]
+          }
+        },
+        "id": "1799461746291425280",
+        "name": "临安月",
+        "pinned_tweet_id": "1897570974905860129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888813711814746112/4uBYhNQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 99,
+          "like_count": 2416,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 460
+        },
+        "username": "Linanyue42",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1973683853840843020",
+    "created_at": "2025-10-02T09:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T10:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973683853840843020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaming00742313…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/yaming00742313/status/1973675351629865306",
+          "start": 77,
+          "url": "https://t.co/k3Bb1NT5AP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973683853840843020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973675351629865306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救个人算什么本事\n我来做事就是这样\n我出手是要见血的\n惹到我是要付出代价的\n绑架谁虐待谁被我盯上就做好倒闭的准备\n可别到时候玩白的不占理\n玩黑的又打不过 https://t.co/k3Bb1NT5AP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973675102488371200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PnDHnaIAA3peH.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 120432,
+        "height": 960,
+        "media_key": "7_1973675193131520000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1973675193131520000/pu/img/Uch5hAjoxdHX0zAm.jpg",
+        "public_metrics": {
+          "view_count": 75
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973675193131520000/pu/vid/avc1/320x564/Tty5EW4PLPnItIun.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973675193131520000/pu/vid/avc1/480x846/3c1sFEIaLiUPiYeD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973675193131520000/pu/vid/avc1/544x960/AEOI1aKnSIxMEkey.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1973675193131520000/pu/pl/KiYgwVon7Z4hQ_OA.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973675195014811648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PnIgTbkAApMXj.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 20672,
+        "height": 960,
+        "media_key": "7_1973675312358805504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1973675312358805504/pu/img/3f3iQTMBWJgwua-N.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973675312358805504/pu/vid/avc1/320x568/Z6o8XsMeFzjx6PDI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973675312358805504/pu/vid/avc1/480x852/GpwXqg01Iyh2DB3P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1973675312358805504/pu/vid/avc1/540x960/TQAyHSVQv9k0w7HD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1973675312358805504/pu/pl/qLG9SWlleEw1YvVD.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1973683853840843020",
+        "created_at": "2025-10-02T09:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T10:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973683853840843020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/yaming00742313/status/1973675351629865306",
+              "start": 77,
+              "url": "https://t.co/k3Bb1NT5AP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973683853840843020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973675351629865306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救个人算什么本事\n我来做事就是这样\n我出手是要见血的\n惹到我是要付出代价的\n绑架谁虐待谁被我盯上就做好倒闭的准备\n可别到时候玩白的不占理\n玩黑的又打不过 https://t.co/k3Bb1NT5AP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973675102488371200",
+            "7_1973675193131520000",
+            "3_1973675195014811648",
+            "7_1973675312358805504"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1973675351629865306",
+        "created_at": "2025-10-02T09:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T10:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973675351629865306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 115,
+              "id": "1843201902550634496",
+              "start": 99,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IoOnt70ZWb",
+              "end": 178,
+              "expanded_url": "https://x.com/yaming00742313/status/1973675351629865306/video/1",
+              "media_key": "3_1973675102488371200",
+              "start": 155,
+              "url": "https://t.co/IoOnt70ZWb"
+            },
+            {
+              "display_url": "pic.x.com/IoOnt70ZWb",
+              "end": 178,
+              "expanded_url": "https://x.com/yaming00742313/status/1973675351629865306/video/1",
+              "media_key": "7_1973675193131520000",
+              "start": 155,
+              "url": "https://t.co/IoOnt70ZWb"
+            },
+            {
+              "display_url": "pic.x.com/IoOnt70ZWb",
+              "end": 178,
+              "expanded_url": "https://x.com/yaming00742313/status/1973675351629865306/video/1",
+              "media_key": "3_1973675195014811648",
+              "start": 155,
+              "url": "https://t.co/IoOnt70ZWb"
+            },
+            {
+              "display_url": "pic.x.com/IoOnt70ZWb",
+              "end": 178,
+              "expanded_url": "https://x.com/yaming00742313/status/1973675351629865306/video/1",
+              "media_key": "7_1973675312358805504",
+              "start": 155,
+              "url": "https://t.co/IoOnt70ZWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973675351629865306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 115,
+                "id": "1843201902550634496",
+                "start": 99,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 220,
+                "id": "1843201902550634496",
+                "start": 204,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          },
+          "text": "于2025/8/9/\n我们接到了@SHUlxixixi\n亲密关系向我们发起的求助\n表示其被非法绑架进山东济南一家名叫仁人教育的机构里。\n组员于十二号展开工作用时六天解救解救出受害者。\n😁不过出于善意@LwrDHYyuxR22499调查了该校的档案\n私底下走访暗访多名受害者收集实证\n在这个过程中我们注意到了，\n该校的超额收费，以及无资质超范围经营半年超过百起，投诉电话并绑架成年人，宣传封建迷信思想等问题\n\n@LwrDHYyuxR22499在掌握了大量受害人相关证据后，开始奔走于线下游说检察院教育局工商局等部门成立转班开启联合执法，并负责协助受害者报案，整理收集证据。\n\n在组员介入后时隔一个半月仁人教育于前日关门倒闭全员搬空\n该机构倒闭垮台😁\n\n                                         此案正式结束"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "于2025/8/9/\n我们接到了@SHUlxixixi\n亲密关系向我们发起的求助\n表示其被非法绑架进山东济南一家名叫仁人教育的机构里。\n组员于十二号展开工作用时六天解救解救出受害者。\n😁不过出于善意@LwrDHYyuxR22499调查了该校的档案\n私底下走访暗访多名受害者收集实证\n在这个过程中我们注意到了， https://t.co/IoOnt70ZWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 806,
+          "like_count": 655,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 944
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12217,
+          "following_count": 1549,
+          "like_count": 6513,
+          "listed_count": 28,
+          "media_count": 346,
+          "tweet_count": 2483
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

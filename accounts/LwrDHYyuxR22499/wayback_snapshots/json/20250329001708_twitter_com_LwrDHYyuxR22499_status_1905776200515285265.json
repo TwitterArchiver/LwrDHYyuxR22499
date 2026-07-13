@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1905727334021521524",
+    "created_at": "2025-03-29T00:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T01:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905776200515285265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905776200515285265",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905736131926544886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 那自然是很正常的我跟ve硕我是基督教跟琴春或者北燕书硕那可完全不一样🤣\n你该庆幸他只是在看乐子\n而不是在搞对立\n之前在风口浪尖上\n造谣亚明精神不受控制导致我们被警察迫害造谣他是清真小编\n造我俩黄谣的时候吃相可比这难看多了\n这种人没有人与人最基本的关系\n只有立场还有的偏执与仇恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1905727334021521524",
+        "created_at": "2025-03-29T00:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905776200515285265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905776200515285265",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905736131926544886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 那自然是很正常的我跟ve硕我是基督教跟琴春或者北燕书硕那可完全不一样🤣\n你该庆幸他只是在看乐子\n而不是在搞对立\n之前在风口浪尖上\n造谣亚明精神不受控制导致我们被警察迫害造谣他是清真小编\n造我俩黄谣的时候吃相可比这难看多了\n这种人没有人与人最基本的关系\n只有立场还有的偏执与仇恨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1905727334021521524",
+        "created_at": "2025-03-28T21:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T22:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905736131926544886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905736131926544886",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905727334021521524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 所以我看到 valeria 这条推真的感觉很搞笑 真就只是欺软怕硬而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 262,
+          "like_count": 196,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 346
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ",
+        "id": "1424779836938022913",
+        "name": "amber",
+        "pinned_tweet_id": "1905273257168711695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9876,
+          "following_count": 2294,
+          "like_count": 30849,
+          "listed_count": 31,
+          "media_count": 436,
+          "tweet_count": 14293
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

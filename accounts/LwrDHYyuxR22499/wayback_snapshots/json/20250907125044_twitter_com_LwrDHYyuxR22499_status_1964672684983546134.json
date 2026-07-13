@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1964659833887666232",
+    "created_at": "2025-09-07T12:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T13:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964672684983546134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964672684983546134",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964659833887666232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia出来狗叫！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1964659833887666232",
+        "created_at": "2025-09-07T12:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964672684983546134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964672684983546134",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964659833887666232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia出来狗叫！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1964659833887666232",
+        "created_at": "2025-09-07T11:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964659833887666232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ce3319749964/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/ce3319749964/status/1964650674735763492",
+              "start": 64,
+              "url": "https://t.co/WzGZw7MvMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964659833887666232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964650674735763492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救人还能救到曾经被救人的朋友😁真难蚌依稀记得当年汤戈韬女士带着一群跨畜造谣人这人不是我救的\n后续还带着别人系统性霸凌造谣我跟张 https://t.co/WzGZw7MvMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 581,
+          "like_count": 560,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 798
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1942793846691385779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 3689,
+          "like_count": 142074,
+          "listed_count": 17,
+          "media_count": 2299,
+          "tweet_count": 21475
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

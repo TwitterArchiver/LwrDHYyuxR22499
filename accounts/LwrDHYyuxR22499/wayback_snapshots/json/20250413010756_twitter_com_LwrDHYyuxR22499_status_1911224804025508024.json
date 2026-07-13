@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1911164746906161184",
+    "created_at": "2025-04-13T01:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T02:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911224804025508024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911224804025508024",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911164746906161184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 哇哦🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1911164746906161184",
+        "created_at": "2025-04-13T01:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T02:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911224804025508024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911224804025508024",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911164746906161184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 哇哦🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1911164746906161184",
+        "created_at": "2025-04-12T21:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T22:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911164746906161184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1910569984935272807",
+              "start": 34,
+              "url": "https://t.co/9rtw3zcGNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911164746906161184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910569984935272807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦我后来没跟他计较这事的主要原因之一是他自称给了寒 10w rmb https://t.co/9rtw3zcGNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 269,
+          "like_count": 212,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 366
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Chicago, IL",
+        "name": "amber",
+        "pinned_tweet_id": "1905273257168711695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9850,
+          "following_count": 2292,
+          "like_count": 31219,
+          "listed_count": 31,
+          "media_count": 429,
+          "tweet_count": 14426
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

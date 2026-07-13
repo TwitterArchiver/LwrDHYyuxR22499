@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984986060926161107",
+    "created_at": "2025-11-02T17:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985042936888000649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "60042536",
+          "start": 0,
+          "username": "keyemail"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985042936888000649",
+    "in_reply_to_user_id": "60042536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985042414298620130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keyemail 那看来还是我现在就给你提供一下很“屌”的服务比较好🥰🥰🥰🥰\n跟我进屋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984986060926161107",
+        "created_at": "2025-11-02T17:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985042936888000649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "60042536",
+              "start": 0,
+              "username": "keyemail"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985042936888000649",
+        "in_reply_to_user_id": "60042536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985042414298620130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keyemail 那看来还是我现在就给你提供一下很“屌”的服务比较好🥰🥰🥰🥰\n跟我进屋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60042536",
+        "conversation_id": "1984986060926161107",
+        "created_at": "2025-11-02T17:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985042414298620130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985042414298620130",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985042236124635319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你知道这个词会让我联想起什么来的。我真的PTSD了。  好歹等案子结果出来，你再用这个词。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 996,
+          "like_count": 834,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1458
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "人权工作者。  专注于儿少权益，身心障碍人士与精神健康",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/xFQJAqXeSx"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1930796444086411627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4041,
+          "following_count": 533,
+          "like_count": 638,
+          "listed_count": 24,
+          "media_count": 458,
+          "tweet_count": 6758
+        },
+        "url": "https://t.co/xFQJAqXeSx",
+        "username": "keyemail",
+        "verified": true
+      }
+    ]
+  }
+}

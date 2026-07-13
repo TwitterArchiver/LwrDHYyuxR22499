@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020723870354075648",
+        "3_2020723870337224704"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2020723894387384375",
+    "created_at": "2026-02-09T04:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020723894387384375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D5xUyO8JDJ",
+          "end": 29,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2020723894387384375/photo/1",
+          "media_key": "3_2020723870354075648",
+          "start": 6,
+          "url": "https://t.co/D5xUyO8JDJ"
+        },
+        {
+          "display_url": "pic.x.com/D5xUyO8JDJ",
+          "end": 29,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2020723894387384375/photo/1",
+          "media_key": "3_2020723870337224704",
+          "start": 6,
+          "url": "https://t.co/D5xUyO8JDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020723894387384375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧双子星 https://t.co/D5xUyO8JDJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2020723870354075648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsNp2GbcAAbSBJ.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2020723870337224704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsNp2CaUAAqx-N.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020723870354075648",
+            "3_2020723870337224704"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2020723894387384375",
+        "created_at": "2026-02-09T04:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020723894387384375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5xUyO8JDJ",
+              "end": 29,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2020723894387384375/photo/1",
+              "media_key": "3_2020723870354075648",
+              "start": 6,
+              "url": "https://t.co/D5xUyO8JDJ"
+            },
+            {
+              "display_url": "pic.x.com/D5xUyO8JDJ",
+              "end": 29,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2020723894387384375/photo/1",
+              "media_key": "3_2020723870337224704",
+              "start": 6,
+              "url": "https://t.co/D5xUyO8JDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020723894387384375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧双子星 https://t.co/D5xUyO8JDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 1739,
+          "like_count": 1460,
+          "listed_count": 10,
+          "media_count": 327,
+          "tweet_count": 2046
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013103655667572975",
+    "created_at": "2026-01-20T14:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013626858458185750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842186696441700352",
+          "start": 0,
+          "username": "ACGBMMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013626858458185750",
+    "in_reply_to_user_id": "1842186696441700352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013597838350131284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACGBMMN 灭不灭关系不大中国是历史上最擅长更换皇位朝代的国家\n也不见得换来换去就变好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013103655667572975",
+        "created_at": "2026-01-20T14:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013626858458185750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842186696441700352",
+              "start": 0,
+              "username": "ACGBMMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013626858458185750",
+        "in_reply_to_user_id": "1842186696441700352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013597838350131284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACGBMMN 灭不灭关系不大中国是历史上最擅长更换皇位朝代的国家\n也不见得换来换去就变好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842186696441700352",
+        "conversation_id": "2013103655667572975",
+        "created_at": "2026-01-20T13:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013597838350131284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013597838350131284",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013103655667572975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 咱始终保持一个观点，中共不亡天理难容😂\n咱在中国被父母逼到卖，到现在人不人鬼不鬼，整天还要被逼着去学校，只能在学校睡觉看手机看圣经，咱有什么理由不恨这个国家呢（期待小粉红网暴）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 1628,
+          "like_count": 1366,
+          "listed_count": 9,
+          "media_count": 314,
+          "tweet_count": 1911
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T12:55:23.000Z",
+        "description": "在淄博上初中的14岁药娘喵\n身高171，体重44kg（似乎变胖了）\n不约也不sm（因为先生不允许！）\n性爱经验嘛……好久没做爱了感觉生疏了\n非常不欢迎客官们随意玩弄（没有🚪！）\n虽然但是为什么我大腿臀部一直瘦不下来啊！\n想被捆起来窒息轮奸死喵～\n可以找咱聊天哒～本人之前搞过抗抑，也写作喵～此乃备用号！\n开学挣扎ing",
+        "id": "1842186696441700352",
+        "location": "山东省淄博市张店区",
+        "name": "裕之沐光「ゆうこうあお」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924498341192515584/tG_M46sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 91,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "ACGBMMN",
+        "verified": false
+      }
+    ]
+  }
+}

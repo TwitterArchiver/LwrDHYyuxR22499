@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981759016935288847",
+    "created_at": "2025-10-24T16:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T17:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981759016935288847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981757364417208377",
+          "start": 65,
+          "url": "https://t.co/LBx34KzEp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981759016935288847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981757364417208377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣我去我该说我看你急了吗？\n算了吧我还是别说了你不如自己去你姐妹给我评论的那条底下找找看看是不是真的\n还是说您又一次视而不见了? https://t.co/LBx34KzEp5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981759016935288847",
+        "created_at": "2025-10-24T16:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981759016935288847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981757364417208377",
+              "start": 65,
+              "url": "https://t.co/LBx34KzEp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981759016935288847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981757364417208377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣我去我该说我看你急了吗？\n算了吧我还是别说了你不如自己去你姐妹给我评论的那条底下找找看看是不是真的\n还是说您又一次视而不见了? https://t.co/LBx34KzEp5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981757364417208377",
+        "created_at": "2025-10-24T16:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981757364417208377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981755231093584087",
+              "start": 143,
+              "url": "https://t.co/cC6N2703lt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981757364417208377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981755231093584087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要对你的妄图离间的人身攻击有别的回应吗？我连求证都懒得去，我为什么需要为了毫无攻击力的人身攻击去跟可信的人进行无意义的求证啊？\n你说是就是，你觉得是就是\n你要实在好奇，那你就当我是精神病\n毕竟我都是不配上桌+没有统战价值了，你觉得我是精神病只能更不配上桌，更没统战价值，那就更好了 https://t.co/cC6N2703lt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 949,
+          "like_count": 766,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 1356
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 188,
+          "like_count": 9532,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2213
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

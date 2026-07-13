@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038314743568732275",
+    "created_at": "2026-03-29T18:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038323982966173818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854784694602416130",
+          "start": 0,
+          "username": "Chiyuyu1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038323982966173818",
+    "in_reply_to_user_id": "1854784694602416130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038323806562116062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu1314 我当然有攻击力但是错的事情就是错的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038314743568732275",
+        "created_at": "2026-03-29T18:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038323982966173818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854784694602416130",
+              "start": 0,
+              "username": "Chiyuyu1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038323982966173818",
+        "in_reply_to_user_id": "1854784694602416130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038323806562116062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu1314 我当然有攻击力但是错的事情就是错的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2038314743568732275",
+        "created_at": "2026-03-29T18:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038323806562116062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038323806562116062",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038323667697115219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你的攻击力呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008,
+          "following_count": 2305,
+          "like_count": 2216,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2444
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 13,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      }
+    ]
+  }
+}

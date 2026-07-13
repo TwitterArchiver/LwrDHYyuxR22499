@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1988474427424862550",
+    "created_at": "2025-11-12T13:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988597486169321595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1071923570060726272",
+          "start": 0,
+          "username": "Christi59780652"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988597486169321595",
+    "in_reply_to_user_id": "1071923570060726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988558467309678815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Christi59780652 🥵🥵🥵🥵太对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1988474427424862550",
+        "created_at": "2025-11-12T13:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988597486169321595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1071923570060726272",
+              "start": 0,
+              "username": "Christi59780652"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988597486169321595",
+        "in_reply_to_user_id": "1071923570060726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988558467309678815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christi59780652 🥵🥵🥵🥵太对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071923570060726272",
+        "conversation_id": "1988474427424862550",
+        "created_at": "2025-11-12T10:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988558467309678815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988558467309678815",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988474427424862550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 拉裤兜子里了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1014,
+          "like_count": 824,
+          "listed_count": 6,
+          "media_count": 257,
+          "tweet_count": 1384
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T00:24:29.000Z",
+        "description": "🚪+vx ¥199/$28 （纯打赏，并不意味着可以睡觉） ⛔️不兼职，免开尊口⛔️🎂98/175cm/55kg 大屌萌妹🦄CD / 🇺🇸AL&GA 🇨🇳Beijing 没吃药/靠P图 / 不互推 /不接推广 / 微信、QQ、Instagram、X上活动，别的平台都是盗图的臭狗！",
+        "id": "1071923570060726272",
+        "location": "Alabama, USA",
+        "name": "Christina Xu",
+        "pinned_tweet_id": "1979108839027839097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943934273469526016/_75NrRoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53782,
+          "following_count": 260,
+          "like_count": 10228,
+          "listed_count": 307,
+          "media_count": 535,
+          "tweet_count": 2086
+        },
+        "username": "Christi59780652",
+        "verified": true
+      }
+    ]
+  }
+}

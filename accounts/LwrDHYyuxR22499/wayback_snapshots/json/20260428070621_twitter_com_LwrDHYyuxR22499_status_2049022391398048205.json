@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2049022391398048205",
+    "created_at": "2026-04-28T07:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049022391398048205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Michell3273110…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Michell32731103/status/2048948408275357861",
+          "start": 35,
+          "url": "https://t.co/4M0U4N1Y05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049022391398048205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048948408275357861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤠👆🏻搞得好像不会给你打雄激素\n或者饭里混进激素给你进行激素扭转一样 https://t.co/4M0U4N1Y05"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2049022391398048205",
+        "created_at": "2026-04-28T07:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049022391398048205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Michell3273110…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Michell32731103/status/2048948408275357861",
+              "start": 35,
+              "url": "https://t.co/4M0U4N1Y05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049022391398048205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048948408275357861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤠👆🏻搞得好像不会给你打雄激素\n或者饭里混进激素给你进行激素扭转一样 https://t.co/4M0U4N1Y05"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668767958032629760",
+        "conversation_id": "2048850793756012918",
+        "created_at": "2026-04-28T02:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048948408275357861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "822329886257790976",
+              "start": 0,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048948408275357861",
+        "in_reply_to_user_id": "822329886257790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2309,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048850793756012918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumidexNZ 这种是激素问题。。转不过来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 2648,
+          "like_count": 2638,
+          "listed_count": 18,
+          "media_count": 398,
+          "tweet_count": 2664
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T23:51:21.000Z",
+        "description": "冲",
+        "id": "1668767958032629760",
+        "name": "橙子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026163686281527297/sIAeFThP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 198,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 380
+        },
+        "username": "Michell32731103",
+        "verified": false
+      }
+    ]
+  }
+}

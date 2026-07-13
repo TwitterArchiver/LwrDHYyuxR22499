@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055076679371104256"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2055076726162747517",
+    "created_at": "2026-05-15T00:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055076726162747517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tPrN09AgZL",
+          "end": 36,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055076726162747517/video/1",
+          "media_key": "7_2055076679371104256",
+          "start": 13,
+          "url": "https://t.co/tPrN09AgZL"
+        },
+        {
+          "display_url": "x.com/nnxjing1/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/nnxjing1/status/2055074842240807007",
+          "start": 37,
+          "url": "https://t.co/LdEpSPdpu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055076726162747517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055074842240807007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结单\n前往下一个工作地点 https://t.co/tPrN09AgZL https://t.co/LdEpSPdpu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7616,
+        "height": 1280,
+        "media_key": "7_2055076679371104256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055076679371104256/pu/img/GTvdfCUGnBzN_7dF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055076679371104256/pu/vid/avc1/320x568/rpoSQVlShf_Y4TqG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055076679371104256/pu/vid/avc1/480x852/OU_a4jfumJhfodIe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055076679371104256/pu/vid/avc1/720x1280/xB3f-MNkvxzoQqcI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055076679371104256/pu/pl/gqD-_24H594JqqaU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055076679371104256"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055076726162747517",
+        "created_at": "2026-05-15T00:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055076726162747517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPrN09AgZL",
+              "end": 36,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055076726162747517/video/1",
+              "media_key": "7_2055076679371104256",
+              "start": 13,
+              "url": "https://t.co/tPrN09AgZL"
+            },
+            {
+              "display_url": "x.com/nnxjing1/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/nnxjing1/status/2055074842240807007",
+              "start": 37,
+              "url": "https://t.co/LdEpSPdpu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055076726162747517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055074842240807007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结单\n前往下一个工作地点 https://t.co/tPrN09AgZL https://t.co/LdEpSPdpu6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559071293957255168",
+        "conversation_id": "2055074842240807007",
+        "created_at": "2026-05-14T23:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055074842240807007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1843201902550634496",
+              "start": 14,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055074842240807007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受害者回家了喵～谢谢谢谢喵～@LwrDHYyuxR22499"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5061,
+          "following_count": 2783,
+          "like_count": 2756,
+          "listed_count": 18,
+          "media_count": 415,
+          "tweet_count": 2740
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:55:45.000Z",
+        "description": "出厂日期（已过保）：2007.9.25 mt（？）169/110 发疯和分享日常，🚪30000美金，过门可以聊天，可以打游戏",
+        "id": "1559071293957255168",
+        "location": "桥洞下",
+        "name": "板猫🍥",
+        "pinned_tweet_id": "2053889210416038347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993288174580498432/GvAMVLEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 204,
+          "like_count": 227,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 538
+        },
+        "username": "nnxjing1",
+        "verified": false
+      }
+    ]
+  }
+}

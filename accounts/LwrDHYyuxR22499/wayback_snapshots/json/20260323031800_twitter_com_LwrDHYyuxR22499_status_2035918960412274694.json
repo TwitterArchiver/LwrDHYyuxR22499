@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2035918960412274694",
+    "created_at": "2026-03-23T03:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035918960412274694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nkm050903/stat…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/nkm050903/status/2035882897719365844",
+          "start": 139,
+          "url": "https://t.co/Wh9UauNe0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035918960412274694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035882897719365844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你从哪看出来我有问题？\n要论傻逼，你们被扭转机构当软柿子捏拿欺负了二三十年连个快速救人的办法都想不出来\n那可比我傻逼多了\n我只看到你门这种在秩序暴力之下，连抗议都不敢、自私自利的人反倒来指责我一个愿意为了别人舍弃自身利益的人刻薄\n张张嘴皮子当然是好的\n因为可能这是你唯一会做的 https://t.co/Wh9UauNe0M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2035918960412274694",
+        "created_at": "2026-03-23T03:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035918960412274694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nkm050903/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/nkm050903/status/2035882897719365844",
+              "start": 139,
+              "url": "https://t.co/Wh9UauNe0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035918960412274694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035882897719365844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你从哪看出来我有问题？\n要论傻逼，你们被扭转机构当软柿子捏拿欺负了二三十年连个快速救人的办法都想不出来\n那可比我傻逼多了\n我只看到你门这种在秩序暴力之下，连抗议都不敢、自私自利的人反倒来指责我一个愿意为了别人舍弃自身利益的人刻薄\n张张嘴皮子当然是好的\n因为可能这是你唯一会做的 https://t.co/Wh9UauNe0M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755542288502255616",
+        "conversation_id": "2035645224073273749",
+        "created_at": "2026-03-23T00:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035882897719365844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035882897719365844",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035645224073273749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这啥？把傻逼一样的刻薄当幽默风趣吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3947,
+          "following_count": 2249,
+          "like_count": 2164,
+          "listed_count": 14,
+          "media_count": 367,
+          "tweet_count": 2378
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T10:41:29.000Z",
+        "description": "友跨小楠娘一只喵~还没想好怎么写个人简介呢，暂且写上拉黑我默认破防跳脚死全家呢叭🥰",
+        "id": "1755542288502255616",
+        "location": "台北市",
+        "name": "一只秋刀魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955764356026929152/xT0qNoXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 4727,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1725
+        },
+        "username": "nkm050903",
+        "verified": false
+      }
+    ]
+  }
+}

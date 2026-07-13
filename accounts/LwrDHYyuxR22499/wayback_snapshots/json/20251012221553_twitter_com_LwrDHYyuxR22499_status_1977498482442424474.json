@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977498482442424474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377860792599519237",
+          "start": 0,
+          "username": "alexder51947745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977498482442424474",
+    "in_reply_to_user_id": "1377860792599519237",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977495989373260141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexder51947745 ʕ ᵔᴥᵔ ʔ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498482442424474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377860792599519237",
+              "start": 0,
+              "username": "alexder51947745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498482442424474",
+        "in_reply_to_user_id": "1377860792599519237",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977495989373260141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexder51947745 ʕ ᵔᴥᵔ ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377860792599519237",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977495989373260141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977495989373260141",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 879,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1037
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T05:49:54.000Z",
+        "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx",
+        "id": "1377860792599519237",
+        "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1742408171870953829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 3073,
+          "like_count": 188482,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 9653
+        },
+        "username": "alexder51947745",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1983004226726035877",
+    "created_at": "2025-10-29T01:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T02:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983343691524976896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542529354042712064",
+          "start": 0,
+          "username": "MEOWLITSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983343691524976896",
+    "in_reply_to_user_id": "1542529354042712064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983153430949703711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEOWLITSU 认知问题你想要弄这些学校的话，可不是找拆迁队这么简单的事儿。术业有专攻的。就按理论上来说，很多有经验的人光过来，来回的车费就很贵了，还要食宿费，伙食费。\n假设五个有经验的人凑在一起\n来回车费算六百就是三千了\n期间要租车排点\n甚至要搞卧底花大价钱把人送进去\n😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1983004226726035877",
+        "created_at": "2025-10-29T01:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983343691524976896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542529354042712064",
+              "start": 0,
+              "username": "MEOWLITSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983343691524976896",
+        "in_reply_to_user_id": "1542529354042712064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983153430949703711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEOWLITSU 认知问题你想要弄这些学校的话，可不是找拆迁队这么简单的事儿。术业有专攻的。就按理论上来说，很多有经验的人光过来，来回的车费就很贵了，还要食宿费，伙食费。\n假设五个有经验的人凑在一起\n来回车费算六百就是三千了\n期间要租车排点\n甚至要搞卧底花大价钱把人送进去\n😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542529354042712064",
+        "conversation_id": "1983004226726035877",
+        "created_at": "2025-10-28T12:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983153430949703711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983153430949703711",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983004226726035877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 十万不现实，在中国只要花1千的日薪就能买到一个拼命干活不怕风险的劳动力，就算组一个小拆迁队加上设备租赁费用一天也不超过1万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1982717483980374122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 963,
+          "like_count": 779,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1389
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T15:23:59.000Z",
+        "description": "想生活在夏天不超过25摄氏度冬天不低于零下5度的地方/已满16岁/poly/对大姐姐没有抵抗力/摄影📷🎞️/165/60/🚪即将解放/混乱邪恶/吸毒无罪，od有理/Ⓐ🏳️‍⚧️☮️/😚😚😚气波波🥰🥰🥰",
+        "id": "1542529354042712064",
+        "location": "坎通公社",
+        "name": "喵粒子❤️🖤🏳️‍⚧️Ⓐ（戒奶茶版）",
+        "pinned_tweet_id": "1702634560578781576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668106282719678465/WYg6SR8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 2932,
+          "like_count": 38448,
+          "listed_count": 7,
+          "media_count": 190,
+          "tweet_count": 15348
+        },
+        "username": "MEOWLITSU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2066619822771667340",
+    "created_at": "2026-06-16T18:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066953558059253972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1394517595",
+          "start": 0,
+          "username": "anarcho_tux"
+        },
+        {
+          "end": 24,
+          "id": "1366703653080485888",
+          "start": 13,
+          "username": "joe_br1ght"
+        },
+        {
+          "end": 34,
+          "id": "1209269312302637056",
+          "start": 25,
+          "username": "MSpondee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066953558059253972",
+    "in_reply_to_user_id": "1394517595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066952179777425762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anarcho_tux @joe_br1ght @MSpondee 🤔🤔你们在吵什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2066619822771667340",
+        "created_at": "2026-06-16T18:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066953558059253972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1394517595",
+              "start": 0,
+              "username": "anarcho_tux"
+            },
+            {
+              "end": 24,
+              "id": "1366703653080485888",
+              "start": 13,
+              "username": "joe_br1ght"
+            },
+            {
+              "end": 34,
+              "id": "1209269312302637056",
+              "start": 25,
+              "username": "MSpondee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066953558059253972",
+        "in_reply_to_user_id": "1394517595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066952179777425762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anarcho_tux @joe_br1ght @MSpondee 🤔🤔你们在吵什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394517595",
+        "conversation_id": "2066619822771667340",
+        "created_at": "2026-06-16T18:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066952179777425762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1366703653080485888",
+              "start": 0,
+              "username": "joe_br1ght"
+            },
+            {
+              "end": 21,
+              "id": "1209269312302637056",
+              "start": 12,
+              "username": "MSpondee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20247…",
+              "end": 148,
+              "expanded_url": "https://x.com/i/status/2024716277764542683",
+              "start": 125,
+              "url": "https://t.co/DmP9Zu0Yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066952179777425762",
+        "in_reply_to_user_id": "1366703653080485888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024716277764542683",
+            "type": "quoted"
+          },
+          {
+            "id": "2066947079969161630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joe_br1ght @MSpondee For example, another account of students being beaten extremely severely in these facilities recently.\nhttps://t.co/DmP9Zu0Yuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5648,
+          "following_count": 3153,
+          "like_count": 3246,
+          "listed_count": 18,
+          "media_count": 457,
+          "tweet_count": 3010
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-01T12:07:48.000Z",
+        "description": "Brahmsmaxxing Schumannmoder | not an anarchist",
+        "id": "1394517595",
+        "location": "she/they",
+        "name": "Tux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775073585763414016/1NWK_GIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 834,
+          "like_count": 146097,
+          "listed_count": 4,
+          "media_count": 1743,
+          "tweet_count": 23376
+        },
+        "username": "anarcho_tux",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T10:55:39.000Z",
+        "description": "Scary 🇷🇺🇩🇪☭ man. LG(B)T. Proud Ork.",
+        "id": "1366703653080485888",
+        "location": "he/him",
+        "name": "♂Kremlin♂Joe♂На♂Девятке♂",
+        "pinned_tweet_id": "1561701823454613509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584995854838104070/0h2fBqjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 616,
+          "like_count": 106839,
+          "listed_count": 4,
+          "media_count": 1797,
+          "tweet_count": 29623
+        },
+        "username": "joe_br1ght",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T00:27:36.000Z",
+        "description": "Peace, jobs, housing",
+        "id": "1209269312302637056",
+        "name": "Molossus Spondee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831094967017836544/_m6Bk7Ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1684,
+          "like_count": 47150,
+          "listed_count": 10,
+          "media_count": 1173,
+          "tweet_count": 18518
+        },
+        "username": "MSpondee",
+        "verified": false
+      }
+    ]
+  }
+}

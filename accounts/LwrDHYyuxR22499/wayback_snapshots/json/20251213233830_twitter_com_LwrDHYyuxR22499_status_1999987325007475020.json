@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999987325007475020",
+    "created_at": "2025-12-13T23:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T00:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999987325007475020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Si1entW4ve/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Si1entW4ve/status/1999888984520937735",
+          "start": 27,
+          "url": "https://t.co/8aa35IP257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999987325007475020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999888984520937735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔🤔🤔我有什么人品问题不方便评价?你大可直说来指控我 https://t.co/8aa35IP257"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999987325007475020",
+        "created_at": "2025-12-13T23:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999987325007475020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Si1entW4ve/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Si1entW4ve/status/1999888984520937735",
+              "start": 27,
+              "url": "https://t.co/8aa35IP257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999987325007475020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999888984520937735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔🤔🤔我有什么人品问题不方便评价?你大可直说来指控我 https://t.co/8aa35IP257"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586252938120466434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1999888984520937735",
+        "created_at": "2025-12-13T17:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999888984520937735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1999309621845254386",
+              "start": 48,
+              "url": "https://t.co/K8KWDw0Rit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999888984520937735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999309621845254386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精彩。\n\n虽然这几位的人品本人不便评价，但很显然他们清楚打击中共的集中营灭绝政策须靠境外势力。 https://t.co/K8KWDw0Rit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 1142,
+          "like_count": 984,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 1570
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T07:06:00.000Z",
+        "description": "Talk is cheap & take action for it. | Libertarian Socialism | he/him | LGBT+ Friendly | @Si1ent_W4ve@mstdn.social | https://t.co/Lr3YsZ65tg | 0x8ED4235C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "si1entw4ve.bsky.social",
+                "end": 139,
+                "expanded_url": "http://si1entw4ve.bsky.social",
+                "start": 116,
+                "url": "https://t.co/Lr3YsZ65tg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "si1entw4ve.codeberg.page",
+                "end": 23,
+                "expanded_url": "https://si1entw4ve.codeberg.page",
+                "start": 0,
+                "url": "https://t.co/oFaAXxNw8a"
+              }
+            ]
+          }
+        },
+        "id": "1586252938120466434",
+        "location": "Singapore",
+        "name": "靜默電波 Silent Wave",
+        "pinned_tweet_id": "1917618951653326937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987897016454676480/oqBm3Jzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 210,
+          "like_count": 33443,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 7256
+        },
+        "url": "https://t.co/oFaAXxNw8a",
+        "username": "Si1entW4ve",
+        "verified": false
+      }
+    ]
+  }
+}

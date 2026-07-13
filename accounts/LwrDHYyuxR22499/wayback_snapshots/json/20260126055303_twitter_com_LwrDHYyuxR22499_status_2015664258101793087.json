@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015296767462637676",
+    "created_at": "2026-01-26T05:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T06:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015664258101793087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837794522249809921",
+          "start": 0,
+          "username": "WiseChord"
+        },
+        {
+          "end": 22,
+          "id": "1671467609689305088",
+          "start": 11,
+          "username": "daiduodexs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015664258101793087",
+    "in_reply_to_user_id": "1837794522249809921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015660150057754794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiseChord @daiduodexs 抖音快收哔哩哔哩微博之类的都可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015296767462637676",
+        "created_at": "2026-01-26T05:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015664258101793087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837794522249809921",
+              "start": 0,
+              "username": "WiseChord"
+            },
+            {
+              "end": 22,
+              "id": "1671467609689305088",
+              "start": 11,
+              "username": "daiduodexs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015664258101793087",
+        "in_reply_to_user_id": "1837794522249809921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015660150057754794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiseChord @daiduodexs 抖音快收哔哩哔哩微博之类的都可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837794522249809921",
+        "conversation_id": "2015296767462637676",
+        "created_at": "2026-01-26T05:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015660150057754794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 28,
+              "id": "1671467609689305088",
+              "start": 17,
+              "username": "daiduodexs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015660150057754794",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015483689413841250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @daiduodexs 誒，主要是博取流量嗎，什麼平台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 1672,
+          "like_count": 1415,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1976
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T10:02:23.000Z",
+        "description": "Being dying is alive.\n\nMatrix: @wisechord:https://t.co/IpCtmwO0sJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "wisechord"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 65,
+                "expanded_url": "http://matrix.org",
+                "start": 42,
+                "url": "https://t.co/IpCtmwO0sJ"
+              }
+            ]
+          }
+        },
+        "id": "1837794522249809921",
+        "name": "Wise Chord",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837794565409198083/rL6F2iHM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 693,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 245
+        },
+        "username": "WiseChord",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T10:38:42.000Z",
+        "description": "ISFP-T 尼康佬 全栈开发者 技术的技能树快点满了（半吊子罢了hhh…） 会画点PCB 爱折腾各种客制化 会点玄学东西(可算卦 29￥起）的16岁小男娘 可称呼为十一 178cm/58kg 喜欢可爱小男娘小药娘 属性是S 经常出cos并游逛于东营部分漫展 小号@DAIDUODEXIAOSUN 老婆@cmyf_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "DAIDUODEXIAOSUN"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "cmyf_qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "home.dddxs.xyz",
+                "end": 23,
+                "expanded_url": "https://home.dddxs.xyz/",
+                "start": 0,
+                "url": "https://t.co/LTtaRSopCh"
+              }
+            ]
+          }
+        },
+        "id": "1671467609689305088",
+        "location": "山东省 东营市 广饶县",
+        "name": "怠惰的小孙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671468244820164608/9_FO1Nmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 27,
+          "like_count": 1347,
+          "listed_count": 7,
+          "media_count": 113,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/LTtaRSopCh",
+        "username": "daiduodexs",
+        "verified": false
+      }
+    ]
+  }
+}

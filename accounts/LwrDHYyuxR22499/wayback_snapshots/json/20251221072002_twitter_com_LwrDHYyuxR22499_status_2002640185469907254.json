@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2002640185469907254",
+    "created_at": "2025-12-21T07:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T08:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002640185469907254"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Westoids",
+          "probability": 0.4156,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "China",
+          "probability": 0.9601,
+          "start": 88,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929015109579345920",
+          "start": 3,
+          "username": "Qwarz_Atarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002640185469907254",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 726
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001284412076364022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qwarz_Atarz: Westoids really have no idea how bad the situation for trans people in China is.   \n\nConversion camps are a whole ass indu…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2002640185469907254",
+        "created_at": "2025-12-21T07:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T08:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002640185469907254"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Westoids",
+              "probability": 0.4156,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "China",
+              "probability": 0.9601,
+              "start": 88,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929015109579345920",
+              "start": 3,
+              "username": "Qwarz_Atarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002640185469907254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 726
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001284412076364022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qwarz_Atarz: Westoids really have no idea how bad the situation for trans people in China is.   \n\nConversion camps are a whole ass indu…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929015109579345920",
+        "conversation_id": "2001284412076364022",
+        "created_at": "2025-12-17T13:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001284412076364022"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Westoids",
+              "probability": 0.3278,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "China",
+              "probability": 0.964,
+              "start": 71,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/The_RadicalDin…",
+              "end": 226,
+              "expanded_url": "https://twitter.com/The_RadicalDino/status/2001067579075448870",
+              "start": 203,
+              "url": "https://t.co/1HYxhchI1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001284412076364022",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 684,
+          "impression_count": 187588,
+          "like_count": 5808,
+          "quote_count": 81,
+          "reply_count": 185,
+          "retweet_count": 726
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001067579075448870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Westoids really have no idea how bad the situation for trans people in China is.   \n\nConversion camps are a whole ass industry here, and police assists them by kidnapping trans people at a parent's whim https://t.co/1HYxhchI1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1389,
+          "like_count": 1139,
+          "listed_count": 7,
+          "media_count": 291,
+          "tweet_count": 1692
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T03:20:51.000Z",
+        "description": "#1 ILLEGAL TRANSGENDER ALIEN \n🏳️‍⚧️👽🏳️‍⚧️ #DarkWoke 🩷🩵🤍 \n\nsupport meeeee :33333 https://t.co/UGCg3Pz0pt\n\n☆ Your Favourite Russian Femboy ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "DarkWoke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/QwarzAtarz",
+                "end": 103,
+                "expanded_url": "http://patreon.com/QwarzAtarz",
+                "start": 80,
+                "url": "https://t.co/UGCg3Pz0pt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@qwarzatarz7440",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@qwarzatarz7440",
+                "start": 0,
+                "url": "https://t.co/LPgW7VGq0p"
+              }
+            ]
+          }
+        },
+        "id": "1929015109579345920",
+        "name": "Qwarzu🏳️‍⚧️👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943984352087425024/XbEOTqmZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 53,
+          "like_count": 35357,
+          "listed_count": 83,
+          "media_count": 151,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/LPgW7VGq0p",
+        "username": "Qwarz_Atarz",
+        "verified": false
+      }
+    ]
+  }
+}

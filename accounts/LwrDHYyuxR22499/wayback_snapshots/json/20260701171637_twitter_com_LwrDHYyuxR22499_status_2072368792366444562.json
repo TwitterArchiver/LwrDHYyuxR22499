@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072311092551049619",
+    "created_at": "2026-07-01T17:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072368792366444562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2067769579900948480",
+          "start": 0,
+          "username": "geezji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072368792366444562",
+    "in_reply_to_user_id": "2067769579900948480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072368398978388139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geezji 你以为他就干过这点蠢事吗?\n这人当年在我去线下救人逼人自杀充当杀人犯的时候\n可比这恶劣多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072311092551049619",
+        "created_at": "2026-07-01T17:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072368792366444562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2067769579900948480",
+              "start": 0,
+              "username": "geezji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072368792366444562",
+        "in_reply_to_user_id": "2067769579900948480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072368398978388139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geezji 你以为他就干过这点蠢事吗?\n这人当年在我去线下救人逼人自杀充当杀人犯的时候\n可比这恶劣多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067769579900948480",
+        "conversation_id": "2072311092551049619",
+        "created_at": "2026-07-01T17:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072368398978388139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072368398978388139",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072311092551049619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 可怜的跨性别人群有这样的样本才会名声不佳的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6181,
+          "following_count": 3301,
+          "like_count": 3647,
+          "listed_count": 19,
+          "media_count": 482,
+          "tweet_count": 3295
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T00:41:43.000Z",
+        "description": "不不不，我无疑是喜悦的\n请继续窥探我",
+        "id": "2067769579900948480",
+        "name": "全网0人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071979130371858432/aMs0gQxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "geezji",
+        "verified": false
+      }
+    ]
+  }
+}

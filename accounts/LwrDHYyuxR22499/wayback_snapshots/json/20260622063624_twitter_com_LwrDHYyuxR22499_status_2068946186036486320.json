@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068944881956139247",
+    "created_at": "2026-06-22T06:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068946186036486320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068946186036486320",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068946068612812965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 彳亍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068944881956139247",
+        "created_at": "2026-06-22T06:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068946186036486320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068946186036486320",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068946068612812965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 彳亍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2068944881956139247",
+        "created_at": "2026-06-22T06:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068946068612812965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18792…",
+              "end": 46,
+              "expanded_url": "https://x.com/i/status/1879279526838190080",
+              "start": 23,
+              "url": "https://t.co/4hiiWBSJPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068946068612812965",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879279526838190080",
+            "type": "quoted"
+          },
+          {
+            "id": "2068944881956139247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 复述而已\n\nhttps://t.co/4hiiWBSJPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 3199,
+          "like_count": 3424,
+          "listed_count": 19,
+          "media_count": 467,
+          "tweet_count": 3100
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41802,
+          "following_count": 3854,
+          "like_count": 1786,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

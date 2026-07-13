@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883913567583543479",
+    "created_at": "2025-01-27T17:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T18:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883937112543879208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 0,
+          "tag": "纳粹鉴跨皇帝ValeriaEulabeia公开表示王宇航即是宇宙的中心"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883937112543879208",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883914844455460947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#纳粹鉴跨皇帝ValeriaEulabeia公开表示王宇航即是宇宙的中心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883913567583543479",
+        "created_at": "2025-01-27T17:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T18:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883937112543879208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 0,
+              "tag": "纳粹鉴跨皇帝ValeriaEulabeia公开表示王宇航即是宇宙的中心"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883937112543879208",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883914844455460947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#纳粹鉴跨皇帝ValeriaEulabeia公开表示王宇航即是宇宙的中心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883913567583543479",
+        "created_at": "2025-01-27T16:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883914844455460947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883914844455460947",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883913567583543479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia我们的跨性别女王再次糊弄了一大堆啥也不懂阅读理解都不会的人\n跨圈皇帝也真看得起我\n我不站队就变成了攻击你寒爹的帮凶了把寒涟漪干倒闭了🤣\n按你这理论我也没站你妈活着\n复活甲还够吗\n\n各位记住了以后需要救助尽可能的找上面这几位\n如果对小二有意见可以找剩下的这些\n他们全是跨性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 151,
+          "like_count": 107,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 248
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

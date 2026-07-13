@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2028131586475216990",
+    "created_at": "2026-03-01T17:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T18:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028156379962511611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673386998097416192",
+          "start": 0,
+          "username": "beheaderSQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028156379962511611",
+    "in_reply_to_user_id": "1673386998097416192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028152726073540698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beheaderSQY 😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2028131586475216990",
+        "created_at": "2026-03-01T17:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028156379962511611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673386998097416192",
+              "start": 0,
+              "username": "beheaderSQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028156379962511611",
+        "in_reply_to_user_id": "1673386998097416192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028152726073540698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beheaderSQY 😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673386998097416192",
+        "conversation_id": "2028131586475216990",
+        "created_at": "2026-03-01T16:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028152726073540698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028152726073540698",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028131586475216990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 妈妈🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3348,
+          "following_count": 1927,
+          "like_count": 1796,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2251
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T17:45:32.000Z",
+        "description": "欢迎推友互fo",
+        "id": "1673386998097416192",
+        "name": "SQY秽土转生形态",
+        "pinned_tweet_id": "1860364562228556189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902216132712656896/nCKAciZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 1944,
+          "like_count": 64912,
+          "listed_count": 11,
+          "media_count": 2723,
+          "tweet_count": 33213
+        },
+        "username": "beheaderSQY",
+        "verified": false
+      }
+    ]
+  }
+}

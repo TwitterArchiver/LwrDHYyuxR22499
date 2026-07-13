@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2002381668439540132",
+    "created_at": "2025-12-20T17:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002426375593181345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002426375593181345",
+    "in_reply_to_user_id": "1069931275698335744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002425958591311995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma 🤓🫵🏻这有啥不敢看的我每天看的可比这多多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2002381668439540132",
+        "created_at": "2025-12-20T17:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002426375593181345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002426375593181345",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002425958591311995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma 🤓🫵🏻这有啥不敢看的我每天看的可比这多多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "2002381668439540132",
+        "created_at": "2025-12-20T17:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002425958591311995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002425958591311995",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002381668439540132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 太痛心了，不敢看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1379,
+          "like_count": 1126,
+          "listed_count": 7,
+          "media_count": 289,
+          "tweet_count": 1684
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "1971978210486505664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882716350759788544/hkD4Er1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15692,
+          "following_count": 347,
+          "like_count": 3953,
+          "listed_count": 116,
+          "media_count": 675,
+          "tweet_count": 6034
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

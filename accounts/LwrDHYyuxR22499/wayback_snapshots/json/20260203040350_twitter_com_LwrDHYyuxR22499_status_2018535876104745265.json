@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018387287458083244",
+    "created_at": "2026-02-03T04:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018535876104745265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 20,
+          "id": "1723532985679704064",
+          "start": 13,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018535876104745265",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018457826931445844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @HFLMTF 我不知道哦😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018387287458083244",
+        "created_at": "2026-02-03T04:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018535876104745265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 20,
+              "id": "1723532985679704064",
+              "start": 13,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018535876104745265",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018457826931445844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @HFLMTF 我不知道哦😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2018387287458083244",
+        "created_at": "2026-02-02T22:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T23:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018457826931445844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            },
+            {
+              "end": 24,
+              "id": "1843201902550634496",
+              "start": 8,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018457826931445844",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12330,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018387287458083244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF @LwrDHYyuxR22499 你爸怎么会在里面🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 1718,
+          "like_count": 1438,
+          "listed_count": 10,
+          "media_count": 319,
+          "tweet_count": 2004
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "不许草我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2013260482921017577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4764,
+          "following_count": 2141,
+          "like_count": 21261,
+          "listed_count": 7,
+          "media_count": 1863,
+          "tweet_count": 18324
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/欢迎扩列(记得私信)喵~/🚪52？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgcDlZ"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968042296778752/utd9W8jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 195,
+          "like_count": 1950,
+          "listed_count": 4,
+          "media_count": 313,
+          "tweet_count": 2299
+        },
+        "url": "https://t.co/N9WRdgcDlZ",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

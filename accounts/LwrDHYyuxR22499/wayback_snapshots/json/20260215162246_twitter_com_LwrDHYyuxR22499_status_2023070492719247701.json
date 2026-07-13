@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023070492719247701",
+    "created_at": "2026-02-15T16:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023070492719247701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/torontobigface/status/2022910735588663499",
+          "start": 33,
+          "url": "https://t.co/URfmAbfsKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023070492719247701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022910735588663499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁一个冷知识其实小二在扭转机构上基本上不干活\n做案子基本没他啥事 https://t.co/URfmAbfsKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2022910729947353088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLSl07WkAAXMMx.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1069,
+        "media_key": "3_2022910729943220224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLSl06XgAAXbzD.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2022910729943240704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLSl06X0AAxbwQ.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1129,
+        "media_key": "3_2022910729947406336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLSl07XYAAe80X.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023070492719247701",
+        "created_at": "2026-02-15T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023070492719247701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/torontobigface/status/2022910735588663499",
+              "start": 33,
+              "url": "https://t.co/URfmAbfsKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023070492719247701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022910735588663499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁一个冷知识其实小二在扭转机构上基本上不干活\n做案子基本没他啥事 https://t.co/URfmAbfsKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022910729947353088",
+            "3_2022910729943220224",
+            "3_2022910729943240704",
+            "3_2022910729947406336"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "2022910735588663499",
+        "created_at": "2026-02-15T05:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022910735588663499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbVdqFeGjM",
+              "end": 138,
+              "expanded_url": "https://x.com/torontobigface/status/2022910735588663499/photo/1",
+              "media_key": "3_2022910729947353088",
+              "start": 115,
+              "url": "https://t.co/sbVdqFeGjM"
+            },
+            {
+              "display_url": "pic.x.com/sbVdqFeGjM",
+              "end": 138,
+              "expanded_url": "https://x.com/torontobigface/status/2022910735588663499/photo/1",
+              "media_key": "3_2022910729943220224",
+              "start": 115,
+              "url": "https://t.co/sbVdqFeGjM"
+            },
+            {
+              "display_url": "pic.x.com/sbVdqFeGjM",
+              "end": 138,
+              "expanded_url": "https://x.com/torontobigface/status/2022910735588663499/photo/1",
+              "media_key": "3_2022910729943240704",
+              "start": 115,
+              "url": "https://t.co/sbVdqFeGjM"
+            },
+            {
+              "display_url": "pic.x.com/sbVdqFeGjM",
+              "end": 138,
+              "expanded_url": "https://x.com/torontobigface/status/2022910735588663499/photo/1",
+              "media_key": "3_2022910729947406336",
+              "start": 115,
+              "url": "https://t.co/sbVdqFeGjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022910735588663499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在推特上被说是大外宣的人挺多\n而我手里有确凿证据的，除了之前4万刀要收买徐某人的落日海盗，还有一个就是这个身在澳大利亚的小二\n我们也可以从他的发言，研究一下大外宣的运转模式\n\n其在推特上，长期树立的人设是，关注中国的戒网瘾学校\n但其本质上却是中共大外宣的组成部分，和国安部门有联系，并曾于2025年3月回国\n\n而对其大外宣身份以及和国安合作的情况\n小二在私下美其名曰，是为了做双面间谍，更好的实现自己的目标\n当然做了大外宣之后，发言的画风，也出现了180度的转弯\n\n根据其近期发帖内容来看\n主要内容包含小骂一下共产党\n其他大部分时间则是在和北美王路飞，陈军，猫叔，上官乱，北美刘索隆等“理中客”互动，支持他们的发言\n同时批判自由派人士和台湾政府\n\n小二的模式，其实彰显了典型的外宣运转模式\n看似他自己也在高举人权，法治，民主的旗帜\n但本质上还是在充当共产党的喉舌，高举旗帜只是混淆试听，掩盖洗地发言的手段\n这也体现了，中共在宣传口上的进化，中共知道墙外反贼偏多，过去依靠水军，单纯的赞扬共产党很难获得支持\n所以派出了一些，看似也支持人权，法治，民主的外宣人员，以此来争取海外，舆论话语权"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 174083,
+          "like_count": 616,
+          "quote_count": 10,
+          "reply_count": 109,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "现在推特上被说是大外宣的人挺多\n而我手里有确凿证据的，除了之前4万刀要收买徐某人的落日海盗，还有一个就是这个身在澳大利亚的小二\n我们也可以从他的发言，研究一下大外宣的运转模式\n\n其在推特上，长期树立的人设是，关注中国的戒网瘾学校 https://t.co/sbVdqFeGjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3054,
+          "following_count": 1827,
+          "like_count": 1595,
+          "listed_count": 12,
+          "media_count": 335,
+          "tweet_count": 2160
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2022910735588663499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777499,
+          "following_count": 240,
+          "like_count": 4445,
+          "listed_count": 2388,
+          "media_count": 6276,
+          "tweet_count": 18557
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

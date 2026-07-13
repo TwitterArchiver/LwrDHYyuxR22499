@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052267518375743488",
+        "3_2052267524486733824",
+        "3_2052267519663345664",
+        "3_2052267520879644672"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2052267528601448781",
+    "created_at": "2026-05-07T06:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052267528601448781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMpN7AXVGK",
+          "end": 104,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+          "media_key": "3_2052267518375743488",
+          "start": 81,
+          "url": "https://t.co/eMpN7AXVGK"
+        },
+        {
+          "display_url": "pic.x.com/eMpN7AXVGK",
+          "end": 104,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+          "media_key": "3_2052267524486733824",
+          "start": 81,
+          "url": "https://t.co/eMpN7AXVGK"
+        },
+        {
+          "display_url": "pic.x.com/eMpN7AXVGK",
+          "end": 104,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+          "media_key": "3_2052267519663345664",
+          "start": 81,
+          "url": "https://t.co/eMpN7AXVGK"
+        },
+        {
+          "display_url": "pic.x.com/eMpN7AXVGK",
+          "end": 104,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+          "media_key": "3_2052267520879644672",
+          "start": 81,
+          "url": "https://t.co/eMpN7AXVGK"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2052266355873952051",
+          "start": 105,
+          "url": "https://t.co/Ix7Ucn0S8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052267528601448781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052266355873952051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本资料为教育局内部相关存档资料，涵盖该校全部套皮名称、线下实际地址，收录主要负责人个人身份信息与联系方式，同时包含内部家长举报投诉渠道及相关反馈记录等完整内容。 https://t.co/eMpN7AXVGK https://t.co/Ix7Ucn0S8a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052267518375743488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHseb0Db0AAxmbL.jpg",
+        "width": 917
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2052267524486733824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsecK0aIAAMcJj.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2052267519663345664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHseb42bEAA_HrC.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052267520879644672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHseb9YaUAA21Ah.jpg",
+        "width": 193
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052266351113424896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsdX3qaUAAWq8_.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052266352094904320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsdX7UagAAeuCt.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052266352401113088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsdX8da4AA0YaD.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052266353223192576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsdX_ha0AA68GB.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052267518375743488",
+            "3_2052267524486733824",
+            "3_2052267519663345664",
+            "3_2052267520879644672"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052267528601448781",
+        "created_at": "2026-05-07T06:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052267528601448781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMpN7AXVGK",
+              "end": 104,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+              "media_key": "3_2052267518375743488",
+              "start": 81,
+              "url": "https://t.co/eMpN7AXVGK"
+            },
+            {
+              "display_url": "pic.x.com/eMpN7AXVGK",
+              "end": 104,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+              "media_key": "3_2052267524486733824",
+              "start": 81,
+              "url": "https://t.co/eMpN7AXVGK"
+            },
+            {
+              "display_url": "pic.x.com/eMpN7AXVGK",
+              "end": 104,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+              "media_key": "3_2052267519663345664",
+              "start": 81,
+              "url": "https://t.co/eMpN7AXVGK"
+            },
+            {
+              "display_url": "pic.x.com/eMpN7AXVGK",
+              "end": 104,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052267528601448781/photo/1",
+              "media_key": "3_2052267520879644672",
+              "start": 81,
+              "url": "https://t.co/eMpN7AXVGK"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2052266355873952051",
+              "start": 105,
+              "url": "https://t.co/Ix7Ucn0S8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052267528601448781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052266355873952051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本资料为教育局内部相关存档资料，涵盖该校全部套皮名称、线下实际地址，收录主要负责人个人身份信息与联系方式，同时包含内部家长举报投诉渠道及相关反馈记录等完整内容。 https://t.co/eMpN7AXVGK https://t.co/Ix7Ucn0S8a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052266351113424896",
+            "3_2052266352094904320",
+            "3_2052266352401113088",
+            "3_2052266353223192576"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052266355873952051",
+        "created_at": "2026-05-07T05:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052266355873952051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86FQa3KuyK",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052266355873952051/photo/1",
+              "media_key": "3_2052266351113424896",
+              "start": 147,
+              "url": "https://t.co/86FQa3KuyK"
+            },
+            {
+              "display_url": "pic.x.com/86FQa3KuyK",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052266355873952051/photo/1",
+              "media_key": "3_2052266352094904320",
+              "start": 147,
+              "url": "https://t.co/86FQa3KuyK"
+            },
+            {
+              "display_url": "pic.x.com/86FQa3KuyK",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052266355873952051/photo/1",
+              "media_key": "3_2052266352401113088",
+              "start": 147,
+              "url": "https://t.co/86FQa3KuyK"
+            },
+            {
+              "display_url": "pic.x.com/86FQa3KuyK",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2052266355873952051/photo/1",
+              "media_key": "3_2052266353223192576",
+              "start": 147,
+              "url": "https://t.co/86FQa3KuyK"
+            },
+            {
+              "display_url": "x.com/nnxjing1/statu…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/nnxjing1/status/2051819427633725858",
+              "start": 171,
+              "url": "https://t.co/B6tAB7i2uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052266355873952051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819427633725858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "信息简报:\n受害者目前被囚禁于山东省潍坊市\n作案对象为“仁人体系”\n看过我推文的\n应该对这个名字不陌生\n这已经是我第三次从这个体系干预\n跨性别者了\n因此我还组织过线下抗议迫使其关门\n这令我怀疑他们是否对跨性别者有什么特殊的嗜好\n事不过三在此我将公开我掌握的该体系的所有套皮及教育局内部调查材料 https://t.co/86FQa3KuyK https://t.co/B6tAB7i2uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 2707,
+          "like_count": 2664,
+          "listed_count": 18,
+          "media_count": 404,
+          "tweet_count": 2682
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

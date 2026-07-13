@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1990424108019130730",
+    "created_at": "2025-11-17T14:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990424108019130730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ellequeer1120/…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/ellequeer1120/status/1990382073744683436",
+          "start": 110,
+          "url": "https://t.co/3E4cPUdsex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990424108019130730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990382073744683436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤨按照你跨社群这德行\n还没等建国呢内斗搞政治斗争就得死光光造神运动大盛行\n估计能为了定义什么事跨性别\n人脑子打成狗脑子\n最后有手腕的掌握定义话语权把其他认都灭掉\n别说建立国家了\n为了争话语权\n现在不就天天在这搞这一套? https://t.co/3E4cPUdsex"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1990424108019130730",
+        "created_at": "2025-11-17T14:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990424108019130730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ellequeer1120/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/ellequeer1120/status/1990382073744683436",
+              "start": 110,
+              "url": "https://t.co/3E4cPUdsex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990424108019130730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990382073744683436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤨按照你跨社群这德行\n还没等建国呢内斗搞政治斗争就得死光光造神运动大盛行\n估计能为了定义什么事跨性别\n人脑子打成狗脑子\n最后有手腕的掌握定义话语权把其他认都灭掉\n别说建立国家了\n为了争话语权\n现在不就天天在这搞这一套? https://t.co/3E4cPUdsex"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "conversation_id": "1990382073744683436",
+        "created_at": "2025-11-17T11:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990382073744683436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990382073744683436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1735,
+          "like_count": 7,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想过，找一块地，把全世界的酷儿汇集到一起，建立起我们自己的国家\n那将会是世界上最民主，最自由和最进步的国家\n在那里，传统的家庭结构彻底解体，人们以共同的身份认同和价值观结合在一起\n那里将拥有世界上最先进的科技，但所有的科技都为人的自由服务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 1078,
+          "like_count": 864,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 1428
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | asexual🖤🩶🤍💜 | Atheist ⚛️ | radical transfeminist | social liberalism | HRT 2023.12.11 | Free Palestine 🇵🇸",
+        "id": "1617138994227339265",
+        "location": "San Frantransco",
+        "name": "Elle Queer Freesoul🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1927290401569771532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984237481835786240/KDluz_H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1181,
+          "like_count": 8731,
+          "listed_count": 12,
+          "media_count": 924,
+          "tweet_count": 5976
+        },
+        "username": "ellequeer1120",
+        "verified": false
+      }
+    ]
+  }
+}

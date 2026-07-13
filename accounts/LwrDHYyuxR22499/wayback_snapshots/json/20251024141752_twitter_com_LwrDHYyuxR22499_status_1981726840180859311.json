@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981726840180859311",
+    "created_at": "2025-10-24T14:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981726840180859311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981725115592151383",
+          "start": 127,
+          "url": "https://t.co/qASadpfJH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981726840180859311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981725115592151383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣你这傻逼脑子不知道是正常的\n不如看看那群鉴证人是为啥被抓的?\n都是因为比你蠢拿着86手机号注册的?\n你又开始意淫了\n所以你能解释这个现象吗低能儿\n你要真是维稳名单上的人\n你一言一行言论早就被盯完了\n还是你在质疑中国得维稳力度在这洗地?你也太像一条狗了 https://t.co/qASadpfJH6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981726840180859311",
+        "created_at": "2025-10-24T14:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981726840180859311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981725115592151383",
+              "start": 127,
+              "url": "https://t.co/qASadpfJH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981726840180859311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981725115592151383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣你这傻逼脑子不知道是正常的\n不如看看那群鉴证人是为啥被抓的?\n都是因为比你蠢拿着86手机号注册的?\n你又开始意淫了\n所以你能解释这个现象吗低能儿\n你要真是维稳名单上的人\n你一言一行言论早就被盯完了\n还是你在质疑中国得维稳力度在这洗地?你也太像一条狗了 https://t.co/qASadpfJH6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1981725115592151383",
+        "created_at": "2025-10-24T14:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981725115592151383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981724373129060744",
+              "start": 72,
+              "url": "https://t.co/3TOJVDrrN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981725115592151383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981724373129060744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日笑点：\n推特需要手机号\n你可以靠推文或WiFi找到用户的IP/WiFi所在\n\n我是不是应该趁机业配一点VPN啊，不然显得我不像职业反贼了🤣 https://t.co/3TOJVDrrN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 949,
+          "like_count": 765,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 1336
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 187,
+          "like_count": 9519,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2190
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

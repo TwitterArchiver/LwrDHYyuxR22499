@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1982718029822906660",
+    "created_at": "2025-10-28T02:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983001630191825024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907152174431535104",
+          "start": 0,
+          "username": "6L217qw9Fg66380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983001630191825024",
+    "in_reply_to_user_id": "1907152174431535104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982843887761899822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6L217qw9Fg66380 😁😁😁那必须蹭的还就乃个嗯蹭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1982718029822906660",
+        "created_at": "2025-10-28T02:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983001630191825024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907152174431535104",
+              "start": 0,
+              "username": "6L217qw9Fg66380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983001630191825024",
+        "in_reply_to_user_id": "1907152174431535104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982843887761899822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6L217qw9Fg66380 😁😁😁那必须蹭的还就乃个嗯蹭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907152174431535104",
+        "conversation_id": "1982718029822906660",
+        "created_at": "2025-10-27T16:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982843887761899822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982843887761899822",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982718029822906660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 遗产还有多少犹未可知，但是什么都必须得蹭一手呗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1982717483980374122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 955,
+          "like_count": 775,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1382
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T19:25:00.000Z",
+        "description": "最尊重山东人的推主，od💊自由，文学爱好者。",
+        "id": "1907152174431535104",
+        "location": "Minato-ku, Tokyo",
+        "name": "前列腺高潮不是被爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980860743072305152/vWsx8_Qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 77,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "username": "6L217qw9Fg66380",
+        "verified": false
+      }
+    ]
+  }
+}

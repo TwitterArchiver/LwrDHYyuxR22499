@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2014259343093641608",
+    "created_at": "2026-01-23T06:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014590545889525837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896175390005342208",
+          "start": 0,
+          "username": "Chufeinya"
+        },
+        {
+          "end": 27,
+          "id": "1565981667746914304",
+          "start": 11,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014590545889525837",
+    "in_reply_to_user_id": "1896175390005342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014319781667901623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinya @Kagura_Yukikaze 🤔何意味我不也是男人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2014259343093641608",
+        "created_at": "2026-01-23T06:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014590545889525837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            },
+            {
+              "end": 27,
+              "id": "1565981667746914304",
+              "start": 11,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014590545889525837",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014319781667901623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya @Kagura_Yukikaze 🤔何意味我不也是男人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "2014259343093641608",
+        "created_at": "2026-01-22T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014319781667901623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014319781667901623",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 206,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014319514461368574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 那也不要喜欢男生啊喂，男生一点都不好的\n可以喜欢那根东西，但是绝对不要喜欢男生）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 1643,
+          "like_count": 1401,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1954
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉 Liên Dạ Mộng Giác | MtF🏳️‍⚧️/Lesbian❤️🧡🤍🩷💜 | 10 | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | 在学🇻🇳越南语 Đang học tiếng Việt | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2005528085513568379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1753,
+          "like_count": 16445,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 1194
+        },
+        "username": "Chufeinya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 2259,
+          "like_count": 82340,
+          "listed_count": 2,
+          "media_count": 605,
+          "tweet_count": 9581
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

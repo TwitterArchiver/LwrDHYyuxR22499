@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T17:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977426068081619102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "961832160377282560",
+          "start": 0,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977426068081619102",
+    "in_reply_to_user_id": "961832160377282560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977425748068810756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMoeAya 好的谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T17:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977426068081619102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "961832160377282560",
+              "start": 0,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977426068081619102",
+        "in_reply_to_user_id": "961832160377282560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977425748068810756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMoeAya 好的谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T17:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977425748068810756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977425748068810756",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 芙宁娜同一天哎～生快🍰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 876,
+          "like_count": 698,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 1003
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38770,
+          "following_count": 4347,
+          "like_count": 167099,
+          "listed_count": 135,
+          "media_count": 1104,
+          "tweet_count": 34761
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

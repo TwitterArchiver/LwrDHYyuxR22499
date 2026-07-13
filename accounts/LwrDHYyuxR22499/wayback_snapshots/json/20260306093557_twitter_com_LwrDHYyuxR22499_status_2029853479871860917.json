@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2029704202004668732",
+    "created_at": "2026-03-06T09:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029853479871860917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650462372677705728",
+          "start": 0,
+          "username": "ShinChangr52505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029853479871860917",
+    "in_reply_to_user_id": "1650462372677705728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029852430041743653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShinChangr52505 好兄弟讲讲这学校?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029852427252572160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCt8ByjaoAAfy3M.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2029704202004668732",
+        "created_at": "2026-03-06T09:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029853479871860917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650462372677705728",
+              "start": 0,
+              "username": "ShinChangr52505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029853479871860917",
+        "in_reply_to_user_id": "1650462372677705728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029852430041743653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShinChangr52505 好兄弟讲讲这学校?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029852427252572160"
+          ]
+        },
+        "author_id": "1650462372677705728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029704202004668732",
+        "created_at": "2026-03-06T09:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029852430041743653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSxTpuDdis",
+              "end": 75,
+              "expanded_url": "https://x.com/ShinChangr52505/status/2029852430041743653/photo/1",
+              "media_key": "3_2029852427252572160",
+              "start": 52,
+              "url": "https://t.co/vSxTpuDdis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029852430041743653",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029704202004668732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 啊啊啊，到我家了🥵🥵🥵这真是家门口了。甚至还曾出现在该校的光荣榜上🤡 https://t.co/vSxTpuDdis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3436,
+          "following_count": 1969,
+          "like_count": 1892,
+          "listed_count": 11,
+          "media_count": 348,
+          "tweet_count": 2276
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T11:31:22.000Z",
+        "description": "我不知道该简介些什么，因为对自己也有很无语。只能简洁地做一个简短的无聊的无趣的无任何意义的简介来表示我的简洁确实是有真实存在的。",
+        "id": "1650462372677705728",
+        "name": "我是读《春秋》的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984297889062141954/73tC5Wz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 149,
+          "like_count": 4959,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 1875
+        },
+        "username": "ShinChangr52505",
+        "verified": false
+      }
+    ]
+  }
+}

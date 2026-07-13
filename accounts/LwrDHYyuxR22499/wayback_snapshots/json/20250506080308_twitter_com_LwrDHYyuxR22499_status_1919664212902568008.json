@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1919590436118921415",
+    "created_at": "2025-05-06T08:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T09:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919664212902568008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103821331588571136",
+          "start": 0,
+          "username": "recatorseky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919664212902568008",
+    "in_reply_to_user_id": "1103821331588571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919657556571521194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recatorseky 微信19528024150请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1919590436118921415",
+        "created_at": "2025-05-06T08:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T09:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919664212902568008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103821331588571136",
+              "start": 0,
+              "username": "recatorseky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919664212902568008",
+        "in_reply_to_user_id": "1103821331588571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919657556571521194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recatorseky 微信19528024150请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103821331588571136",
+        "conversation_id": "1919590436118921415",
+        "created_at": "2025-05-06T07:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919657556571521194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919657556571521194",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919590436118921415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 一直很想了解到底发生了什么，但是一直没听明白\n但是就这篇文章而言，我感觉Ta应该是地平论爱好者\n就好像说我知道我朋友不能吃花生，对花生过敏，但是在吃牛肉火锅的时候还是会说牛肉蘸沙茶酱或者花生酱好好吃我就可能谋害我朋友一样…．"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 292,
+          "like_count": 245,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 404
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "/中文 Eng/FF14 / R 6 S/ buhurt/cosplay/Gundam/ 互联网贪心赖皮蛇",
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1782252108609470689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918668349711785984/JEhFQA3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 85,
+          "like_count": 12863,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 2078
+        },
+        "username": "recatorseky",
+        "verified": false
+      }
+    ]
+  }
+}

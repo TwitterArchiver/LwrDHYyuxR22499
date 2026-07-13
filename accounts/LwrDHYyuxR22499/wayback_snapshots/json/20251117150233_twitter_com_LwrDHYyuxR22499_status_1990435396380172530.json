@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1990424108019130730",
+    "created_at": "2025-11-17T15:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990435396380172530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837794522249809921",
+          "start": 0,
+          "username": "WiseChord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990435396380172530",
+    "in_reply_to_user_id": "1837794522249809921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990434992095154570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiseChord 好奇嘛?支持你录音我将为你讲述我遭遇的所有事情\n我本身就是一个跨性别社群造谣迫害的一个受害者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1990424108019130730",
+        "created_at": "2025-11-17T15:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990435396380172530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837794522249809921",
+              "start": 0,
+              "username": "WiseChord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990435396380172530",
+        "in_reply_to_user_id": "1837794522249809921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990434992095154570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiseChord 好奇嘛?支持你录音我将为你讲述我遭遇的所有事情\n我本身就是一个跨性别社群造谣迫害的一个受害者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837794522249809921",
+        "conversation_id": "1990424108019130730",
+        "created_at": "2025-11-17T15:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990434992095154570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990434992095154570",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990428077059608608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 有些好奇這些事件\n如果您願意，能否私訊我一下您說的這些內容的詳細資料及其來源（如果有什麼限制也可跟我說下，我盡量滿足）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1079,
+          "like_count": 868,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 1434
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T10:02:23.000Z",
+        "description": "Being dying is alive.\n\nMatrix: @wisechord:https://t.co/IpCtmwO0sJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "wisechord"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 65,
+                "expanded_url": "http://matrix.org",
+                "start": 42,
+                "url": "https://t.co/IpCtmwO0sJ"
+              }
+            ]
+          }
+        },
+        "id": "1837794522249809921",
+        "name": "Wise Chord",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837794565409198083/rL6F2iHM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 712,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 185
+        },
+        "username": "WiseChord",
+        "verified": false
+      }
+    ]
+  }
+}

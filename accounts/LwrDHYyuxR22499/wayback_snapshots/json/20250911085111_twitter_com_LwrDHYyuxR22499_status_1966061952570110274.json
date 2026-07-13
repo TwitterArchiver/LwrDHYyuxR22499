@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1966031145919033606",
+    "created_at": "2025-09-11T08:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T09:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966061952570110274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966061952570110274",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966057389859418623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 真受不了🤧打击官员是遮羞布\n救人是跟黑皮合作嗯扣帽子\n永远不要忘记法西斯会以反法西斯的样子出现\n你这样给自己贴上一个受压迫者的权威符号来暴力别人\n平白无故去揣测别人还不如黑皮呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1966031145919033606",
+        "created_at": "2025-09-11T08:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966061952570110274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966061952570110274",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966057389859418623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 真受不了🤧打击官员是遮羞布\n救人是跟黑皮合作嗯扣帽子\n永远不要忘记法西斯会以反法西斯的样子出现\n你这样给自己贴上一个受压迫者的权威符号来暴力别人\n平白无故去揣测别人还不如黑皮呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1966031145919033606",
+        "created_at": "2025-09-11T08:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966057389859418623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966057389859418623",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966055533431108019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你也知道没人信你这套在不和黑皮勾兑的情况下可以行之有效啊？那还挺有自知之明哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 649,
+          "like_count": 619,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 882
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1928781798773072159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 168,
+          "like_count": 3704,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1192
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

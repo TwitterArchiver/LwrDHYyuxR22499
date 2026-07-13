@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1940573180868853760"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1940345970606399640",
+    "created_at": "2025-07-03T00:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T01:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940573244165444033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729273790616817664",
+          "start": 0,
+          "username": "AkihaneQvQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r5lxpC0D7k",
+          "end": 35,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1940573244165444033/video/1",
+          "media_key": "7_1940573180868853760",
+          "start": 12,
+          "url": "https://t.co/r5lxpC0D7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940573244165444033",
+    "in_reply_to_user_id": "1729273790616817664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940345970606399640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkihaneQvQ https://t.co/r5lxpC0D7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24380,
+        "height": 720,
+        "media_key": "7_1940573180868853760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1940573180868853760/pu/img/lPoeZCU2LyZjqwet.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940573180868853760/pu/vid/avc1/320x320/FxKpPqsY7ZvR1H_5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940573180868853760/pu/vid/avc1/540x540/Z56B0g5rFUf-GXHU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940573180868853760/pu/vid/avc1/720x720/4zWqpYodd8g-sbbh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1940573180868853760/pu/pl/iSeYYqKlO3aP_QLt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940345958434238464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1-XmnWcAAjFm4.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1940573180868853760"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1940345970606399640",
+        "created_at": "2025-07-03T00:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T01:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940573244165444033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729273790616817664",
+              "start": 0,
+              "username": "AkihaneQvQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5lxpC0D7k",
+              "end": 35,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1940573244165444033/video/1",
+              "media_key": "7_1940573180868853760",
+              "start": 12,
+              "url": "https://t.co/r5lxpC0D7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940573244165444033",
+        "in_reply_to_user_id": "1729273790616817664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940345970606399640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkihaneQvQ https://t.co/r5lxpC0D7k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940345958434238464"
+          ]
+        },
+        "author_id": "1729273790616817664",
+        "conversation_id": "1940345970606399640",
+        "created_at": "2025-07-02T09:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940345970606399640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "femboy"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05KjECSIkz",
+              "end": 62,
+              "expanded_url": "https://x.com/AkihaneQvQ/status/1940345970606399640/photo/1",
+              "media_key": "3_1940345958434238464",
+              "start": 39,
+              "url": "https://t.co/05KjECSIkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940345970606399640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 37030,
+          "like_count": 648,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #femboy #男の娘\n你丫完了，我说的！\n来，咱俩练练！ https://t.co/05KjECSIkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 405,
+          "like_count": 402,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 567
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T22:59:42.000Z",
+        "description": "前几天号被盗了，任何我的账号发送的链接请务必都不要点进去!\n \nBilibili账号同名",
+        "id": "1729273790616817664",
+        "location": "蚀之刻",
+        "name": "秋羽Akihane",
+        "pinned_tweet_id": "1920451493452276116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922281868906364928/3g645TR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24469,
+          "following_count": 331,
+          "like_count": 5784,
+          "listed_count": 80,
+          "media_count": 92,
+          "tweet_count": 745
+        },
+        "username": "AkihaneQvQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038879663834169548",
+    "created_at": "2026-03-31T08:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038900085308973112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459453832",
+          "start": 0,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038900085308973112",
+    "in_reply_to_user_id": "1459453832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038899786489745884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sauricat 你让我说机理我不知道然而多次实践成果是这样\n这是我跟温柔实践过很多次得出来的结论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038879663834169548",
+        "created_at": "2026-03-31T08:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038900085308973112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038900085308973112",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038899786489745884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat 你让我说机理我不知道然而多次实践成果是这样\n这是我跟温柔实践过很多次得出来的结论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "2038879663834169548",
+        "created_at": "2026-03-31T08:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899786489745884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899786489745884",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038879663834169548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 如果只是跟突然爆火的视频比，那所有东西看起来都被限流/锁定了。做过自媒体都知道爆火是个概率事件。审核/推荐算法没有提「男」就限流？顺女也做不了？审核还能识别这个了？对着一个黑箱算法在这里猜吗？还是说，你觉得我们都没搞过自媒体？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 2312,
+          "like_count": 2301,
+          "listed_count": 15,
+          "media_count": 382,
+          "tweet_count": 2498
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Beiyan-Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11114,
+          "following_count": 981,
+          "like_count": 34068,
+          "listed_count": 36,
+          "media_count": 610,
+          "tweet_count": 12025
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

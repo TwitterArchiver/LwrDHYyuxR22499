@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935986515164753920",
+        "3_1935986510228013056",
+        "3_1935986513323433984",
+        "3_1935986522051813377"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1935986526162227210",
+    "created_at": "2025-06-20T09:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T10:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935986526162227210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1313383273079345152",
+          "start": 1,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sYhJyCiUdm",
+          "end": 174,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+          "media_key": "3_1935986515164753920",
+          "start": 151,
+          "url": "https://t.co/sYhJyCiUdm"
+        },
+        {
+          "display_url": "pic.x.com/sYhJyCiUdm",
+          "end": 174,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+          "media_key": "3_1935986510228013056",
+          "start": 151,
+          "url": "https://t.co/sYhJyCiUdm"
+        },
+        {
+          "display_url": "pic.x.com/sYhJyCiUdm",
+          "end": 174,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+          "media_key": "3_1935986513323433984",
+          "start": 151,
+          "url": "https://t.co/sYhJyCiUdm"
+        },
+        {
+          "display_url": "pic.x.com/sYhJyCiUdm",
+          "end": 174,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+          "media_key": "3_1935986522051813377",
+          "start": 151,
+          "url": "https://t.co/sYhJyCiUdm"
+        },
+        {
+          "display_url": "x.com/KagurazakaAzur…",
+          "end": 198,
+          "expanded_url": "https://twitter.com/KagurazakaAzure/status/1935984543187804565",
+          "start": 175,
+          "url": "https://t.co/AyabLzFlI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935986526162227210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935984543187804565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他@ValeriaEulabeia爸汤铁钢还是邓稼先的徒弟呢天天吃共产党的纳税人的四处讲课养出来了这个么出生\n也不知道他的学生还有他的领导知道了汤戈韬当支黑还跟海外64分子关系这么亲近会怎么想\n天天不是造谣就是搞群体孤立要么就是鉴跨虐跨骂别人是支人当支黑的活畜生\n讲的话高高在上不把人当人\n不如清真呢 https://t.co/sYhJyCiUdm https://t.co/AyabLzFlI2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935986515164753920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4Bem5XcAArfrN.jpg",
+        "width": 922
+      },
+      {
+        "height": 577,
+        "media_key": "3_1935986510228013056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4BeUgWwAAbemO.jpg",
+        "width": 865
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1935986513323433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4BegCXIAA8qlX.jpg",
+        "width": 891
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935986522051813377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4BfAjXoAESF7-.jpg",
+        "width": 922
+      },
+      {
+        "height": 1431,
+        "media_key": "3_1935984529782472704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3_rCxWAAA8RUk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935986515164753920",
+            "3_1935986510228013056",
+            "3_1935986513323433984",
+            "3_1935986522051813377"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1935986526162227210",
+        "created_at": "2025-06-20T09:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T10:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935986526162227210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1313383273079345152",
+              "start": 1,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYhJyCiUdm",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+              "media_key": "3_1935986515164753920",
+              "start": 151,
+              "url": "https://t.co/sYhJyCiUdm"
+            },
+            {
+              "display_url": "pic.x.com/sYhJyCiUdm",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+              "media_key": "3_1935986510228013056",
+              "start": 151,
+              "url": "https://t.co/sYhJyCiUdm"
+            },
+            {
+              "display_url": "pic.x.com/sYhJyCiUdm",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+              "media_key": "3_1935986513323433984",
+              "start": 151,
+              "url": "https://t.co/sYhJyCiUdm"
+            },
+            {
+              "display_url": "pic.x.com/sYhJyCiUdm",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935986526162227210/photo/1",
+              "media_key": "3_1935986522051813377",
+              "start": 151,
+              "url": "https://t.co/sYhJyCiUdm"
+            },
+            {
+              "display_url": "x.com/KagurazakaAzur…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/KagurazakaAzure/status/1935984543187804565",
+              "start": 175,
+              "url": "https://t.co/AyabLzFlI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935986526162227210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935984543187804565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他@ValeriaEulabeia爸汤铁钢还是邓稼先的徒弟呢天天吃共产党的纳税人的四处讲课养出来了这个么出生\n也不知道他的学生还有他的领导知道了汤戈韬当支黑还跟海外64分子关系这么亲近会怎么想\n天天不是造谣就是搞群体孤立要么就是鉴跨虐跨骂别人是支人当支黑的活畜生\n讲的话高高在上不把人当人\n不如清真呢 https://t.co/sYhJyCiUdm https://t.co/AyabLzFlI2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935984529782472704"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1935984543187804565",
+        "created_at": "2025-06-20T08:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T09:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935984543187804565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACm1Bgboo3",
+              "end": 70,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1935984543187804565/photo/1",
+              "media_key": "3_1935984529782472704",
+              "start": 47,
+              "url": "https://t.co/ACm1Bgboo3"
+            },
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/1935982201004347834",
+              "start": 71,
+              "url": "https://t.co/Q3xCFUv2AG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935984543187804565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935982201004347834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能忍住不block Valeria也是神人了。\n汤戈某参与造谣早就不是一次两次的新鲜事了。。 https://t.co/ACm1Bgboo3 https://t.co/Q3xCFUv2AG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 378,
+          "like_count": 372,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 538
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1874103313274462335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6423,
+          "following_count": 3364,
+          "like_count": 130218,
+          "listed_count": 0,
+          "media_count": 2122,
+          "tweet_count": 19777
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🧊🌊⁉️｜叫líng就好啦 ｜非二元MtX🏳️‍🌈🏳️‍⚧️｜🍥hrt24.4.20｜179cm55kg骨头架子｜🇬🇧预备役英区留子乐子人｜08｜重庆｜入坑半年音游人 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 125,
+                "username": "minokakay"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🧊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6932,
+          "following_count": 1127,
+          "like_count": 28764,
+          "listed_count": 8,
+          "media_count": 2075,
+          "tweet_count": 16092
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": false
+      }
+    ]
+  }
+}

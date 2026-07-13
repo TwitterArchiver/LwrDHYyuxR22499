@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2058076520472551471",
+    "created_at": "2026-05-23T14:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058188037398380751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        },
+        {
+          "end": 16,
+          "id": "3284398555",
+          "start": 10,
+          "username": "osfg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058188037398380751",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058076520472551471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 @osfg9 问题来了\n你有战友吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2058076520472551471",
+        "created_at": "2026-05-23T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058188037398380751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            },
+            {
+              "end": 16,
+              "id": "3284398555",
+              "start": 10,
+              "username": "osfg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058188037398380751",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058076520472551471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 @osfg9 问题来了\n你有战友吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2058076520472551471",
+        "created_at": "2026-05-23T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058076520472551471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058076520472551471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天心理咨询讲到高中的经历时人家给我推荐战争创伤专家🤧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5292,
+          "following_count": 2946,
+          "like_count": 2895,
+          "listed_count": 19,
+          "media_count": 420,
+          "tweet_count": 2837
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 731,
+          "like_count": 5278,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 5485
+        },
+        "username": "Y2D80355",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-19T13:14:40.000Z",
+        "description": "XtX. There is no LGBTQ on this wrold, the gender of everyone is X. LIGHT TOUCH is enough!",
+        "id": "3284398555",
+        "location": "People's Republic of China",
+        "name": "osfg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/622757956463935488/wkQEfF_v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 2381,
+          "like_count": 48882,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 11047
+        },
+        "username": "osfg9",
+        "verified": false
+      }
+    ]
+  }
+}

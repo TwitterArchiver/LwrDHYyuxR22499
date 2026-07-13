@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2028129478678049117",
+    "created_at": "2026-03-01T15:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028129478678049117"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028129478678049117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😅坐长途拼车去救人司机一路都很热情健谈，直到问起我在做什么。\n我跟他讲我做很多事情\n现在是去救一位跨性别者\n我耐心跟他科普了半天性少数群体，结果来了一句：\n我觉得男同好恶心\n之后就再也没说过一句话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2028129478678049117",
+        "created_at": "2026-03-01T15:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028129478678049117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028129478678049117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅坐长途拼车去救人司机一路都很热情健谈，直到问起我在做什么。\n我跟他讲我做很多事情\n现在是去救一位跨性别者\n我耐心跟他科普了半天性少数群体，结果来了一句：\n我觉得男同好恶心\n之后就再也没说过一句话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3345,
+          "following_count": 1922,
+          "like_count": 1793,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2247
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

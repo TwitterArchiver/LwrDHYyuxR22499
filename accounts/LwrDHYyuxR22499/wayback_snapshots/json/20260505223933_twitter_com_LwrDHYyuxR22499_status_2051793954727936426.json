@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2051786455576727714",
+    "created_at": "2026-05-05T22:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051793954727936426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952872127725740032",
+          "start": 0,
+          "username": "Taaminaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051793954727936426",
+    "in_reply_to_user_id": "1952872127725740032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051787882051015140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taaminaru ?弱弱?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2051786455576727714",
+        "created_at": "2026-05-05T22:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051793954727936426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952872127725740032",
+              "start": 0,
+              "username": "Taaminaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051793954727936426",
+        "in_reply_to_user_id": "1952872127725740032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051787882051015140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taaminaru ?弱弱?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952872127725740032",
+        "conversation_id": "2051786455576727714",
+        "created_at": "2026-05-05T22:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051787882051015140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051787882051015140",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051786455576727714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 没能力追踪位置…😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 2696,
+          "like_count": 2652,
+          "listed_count": 18,
+          "media_count": 402,
+          "tweet_count": 2674
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T23:19:53.000Z",
+        "description": "🏳️‍⚧️HRT20260314/于终端向外发送数据-NSFW：血液/傷跡/S〇X#back���������\n前言不搭后语 思维混乱 突然发疯\n是不会说话的家伙�������",
+        "id": "1952872127725740032",
+        "name": "终端ターミナル",
+        "pinned_tweet_id": "2032736343114342468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953822055377645571/KRFSYaUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 65,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 781
+        },
+        "username": "Taaminaru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2075615178054418718",
+    "created_at": "2026-07-10T16:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075620926893219936"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075620926893219936",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075619455368126779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中央要减负我们就偷着补课\n中央要我们不把孩子往里送不要虐性少数那我们就偷着虐\n正常家长的需求没有了知道机构什么德行了\n那这些急着孩子传宗接代充满偏见不在乎我们正不正规的“特殊客户”呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2075615178054418718",
+        "created_at": "2026-07-10T16:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075620926893219936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075620926893219936",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075619455368126779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中央要减负我们就偷着补课\n中央要我们不把孩子往里送不要虐性少数那我们就偷着虐\n正常家长的需求没有了知道机构什么德行了\n那这些急着孩子传宗接代充满偏见不在乎我们正不正规的“特殊客户”呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2075615178054418718",
+        "created_at": "2026-07-10T16:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075619455368126779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075619455368126779",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075619281094729924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经做好以后打击残余机构的时候\n发现半数以上都是性少数\n以后还残存的机构\n为了招生率\n会把宣传扭转性少数作为主要卖点吸引父母了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6268,
+          "following_count": 3330,
+          "like_count": 3782,
+          "listed_count": 19,
+          "media_count": 496,
+          "tweet_count": 3405
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

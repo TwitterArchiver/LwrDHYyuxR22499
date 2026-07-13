@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1958216081925194004",
+    "created_at": "2025-08-20T17:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T18:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958216081925194004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dadaolzlkjitua…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/dadaolzlkjituan/status/1958214201459319025",
+          "start": 6,
+          "url": "https://t.co/yLTzjbY0nW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958216081925194004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958214201459319025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谣言删掉😒 https://t.co/yLTzjbY0nW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1958214185449553921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyz5bTXaAAEHc9l.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1958216081925194004",
+        "created_at": "2025-08-20T17:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T18:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958216081925194004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dadaolzlkjitua…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/dadaolzlkjituan/status/1958214201459319025",
+              "start": 6,
+              "url": "https://t.co/yLTzjbY0nW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958216081925194004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958214201459319025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谣言删掉😒 https://t.co/yLTzjbY0nW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958214185449553921"
+          ]
+        },
+        "author_id": "1725845598426030080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1958214201459319025",
+        "created_at": "2025-08-20T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958214201459319025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovcTSMRHQ8",
+              "end": 171,
+              "expanded_url": "https://x.com/dadaolzlkjituan/status/1958214201459319025/photo/1",
+              "media_key": "3_1958214185449553921",
+              "start": 148,
+              "url": "https://t.co/ovcTSMRHQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958214201459319025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "湘陰縣便衣“警察”+李錚集團“教官”，\n曾一度聯手，\n將志願者領隊王宇航先生打成重傷，\n事後卻聲稱這是“蕃茄醬”.\n———湖南心勵特訓教育管理集團，前（英高特國際教育集團）（南華英高特）， 現（雅智教育集團，啓德，雅聖思，湘學，聖博，賢德教育，湘學浙素，啓智，紐特，山東正心，長沙傑龍教育集團） 原（湖南省湘陰縣第六中學），心勵勵錚，湘陰縣中山職業技術學校，輔好孩（鐵角嘴中學）岳陽市春雷學校(嶽陽市春蕾學校)， 湖南省錚鐵藝術職業學校，(湘學教育集團)（聖博特訓敎育集團），尚島（海南）文教管理集團有限公司，湖南藝素體技教育管理集團，湖南佳特訓體育俱樂部集團，新巴蜀特訓學校，聖博青少年培源學校，青少年素質教育學校， 青少年素質成才教育學校， 貴州體德素質拓展基地， 績溪縣德智少年敎育學校， 湘陰縣教育局， 湘陰縣公安局， 湘陰縣市場監督管理局， 湘陰縣文旅廣播體育局， 湘陰縣民政局， 湘陰縣消防救援大隊， 岳陽市教育體育局， 湘陰縣縣政府， 貴州星境心理諮詢有限公司， 湖南湘友文化體育公司， 湘陰縣湘韻藝術培訓學校有限公司， 泉州市泉廈素體心理諮詢有限公司， 西安艺素体武企業管理有限公司，江西睿博青少年素质教育学校，广东博智青少年素质教育学校，浙江启智青少年素质教育学校，湖北善学青少年素质教育学校，安徽励志成才素质教育学校，安徽素体培优教育基地，湖南文博青少年素质教育学校，湖南博学青少年素质教育学校，湖南大友直播电商实训基地，湖南湘乡弦歌青少年素质教育学校，湖南湘潭市岳塘区专门教育学校，湖南城市互動文化傳播有限公司，湖南璐璐艺表體育倶樂部有限公司，湖南艺素体教育管理集團有限公司，肇慶鼎湖上德“學校”，溫州平阳县启赋励德艺体培训教育“学校”，安徽湘学浙素文化艺术交流有限公司，湖南贤德教育咨询有限公司，湖南英高特励志教育咨询有限公司，湖南心励特训教育管理集团有限公司，贵州体德素质心理咨询有限公司,贵州慧翼托管服务有限公司，贵州星境心理咨询有限公司，平阳县启赋励德教育咨询合伙企业（有限合伙），湖南佳特训体育俱乐部集团有限公司，湖南艺素体教育管理集团有限公司，河南信陽市固陽縣親情教育“学校”，河北石家莊好少年教育集団北校區，湘潭青少年素質教育“学校”（前荷塘中学），湘潭市岳塘區昭山鎮峯崗靑少年素質教育培訓“学校”，廣西桂林正知教育諮詢有限公司"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "湘陰縣便衣“警察”+李錚集團“教官”，\n曾一度聯手，\n將志願者領隊王宇航先生打成重傷，\n事後卻聲稱這是“蕃茄醬”.\n———湖南心勵特訓教育管理集團，前（英高特國際教育集團）（南華英高特）， 現（雅智教育集團，啓德，雅聖思，湘學，聖博，賢德教育，湘學浙素，啓智，紐特，山東正心，長沙傑龍教育集團） https://t.co/ovcTSMRHQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 517,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 690
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T11:57:27.000Z",
+        "description": "吃人不吐骨頭的英高特（湘陰縣李錚犯罪集團），\n一家開在名為湘陰縣中山職業技術學校內部的非人道特訓集中營“學校”。\n此校先後已有20餘名“學生”“意外”死亡，\n本少爺微博上400多條博文一夜之間， 盡數消失， 此等鬼蜮伎倆， 必定為李錚集團所為。 牠們殘害少年， 賺人血饅頭錢之鬼蜮行徑， 必將被曝於青天白日之下。",
+        "id": "1725845598426030080",
+        "location": "中華民國維新政府",
+        "name": "打倒李錚李科集中營集團",
+        "pinned_tweet_id": "1862183058700640476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804574276483514370/SzH158xM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 42,
+          "like_count": 2922,
+          "listed_count": 0,
+          "media_count": 799,
+          "tweet_count": 2762
+        },
+        "username": "dadaolzlkjituan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2043817677953872005",
+    "created_at": "2026-04-13T22:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T23:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043817677953872005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzethldOfficia…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/zzethldOfficial/status/2043553059666825488",
+          "start": 12,
+          "url": "https://t.co/sdyndyimo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043817677953872005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043553059666825488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我狂是一天两天的事吗🤓 https://t.co/sdyndyimo4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2043817677953872005",
+        "created_at": "2026-04-13T22:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043817677953872005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzethldOfficia…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/zzethldOfficial/status/2043553059666825488",
+              "start": 12,
+              "url": "https://t.co/sdyndyimo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043817677953872005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043553059666825488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我狂是一天两天的事吗🤓 https://t.co/sdyndyimo4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003990629135929345",
+        "conversation_id": "2043313575993978932",
+        "created_at": "2026-04-13T04:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043553059666825488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043553059666825488",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043313575993978932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 居然还不改自介哦 看不起央视（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4413,
+          "following_count": 2543,
+          "like_count": 2595,
+          "listed_count": 15,
+          "media_count": 398,
+          "tweet_count": 2643
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "ゼットルド伯爵 | 音ゲー | プロセカ創作譜面 | 病弱系男子",
+        "id": "2003990629135929345",
+        "location": "(411, 892)",
+        "name": "Comte Zzethld 🦋🥛",
+        "pinned_tweet_id": "2034597628646920228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038203413624918016/7F7tI8Kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1369,
+          "like_count": 7638,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2120
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

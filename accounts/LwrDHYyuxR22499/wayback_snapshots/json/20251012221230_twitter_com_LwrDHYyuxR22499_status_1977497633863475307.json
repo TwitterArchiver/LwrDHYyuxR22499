@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977497633863475307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "Sanx0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977497633863475307",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977469675970994620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanx0n 好的😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977497633863475307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "Sanx0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977497633863475307",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977469675970994620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanx0n 好的😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T20:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T21:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977469675970994620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977469675970994620",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 876,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1024
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "猫卷|退学度假中|小证含糖mtf🏳️‍⚧️🍥|欢迎聊天https://t.co/iJd9MRCuXi|买日雌请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 50,
+                "expanded_url": "http://t.me/lumigj",
+                "start": 27,
+                "url": "https://t.co/iJd9MRCuXi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.report",
+                "end": 23,
+                "expanded_url": "http://MTF.report",
+                "start": 0,
+                "url": "https://t.co/ChRvhu5QzA"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "成都/Singapore",
+        "name": "Sanxon (日雌380包邮",
+        "pinned_tweet_id": "1977465394035310718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977456881494065152/mMVbYJ6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 427,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/ChRvhu5QzA",
+        "username": "Sanx0n",
+        "verified": false
+      }
+    ]
+  }
+}

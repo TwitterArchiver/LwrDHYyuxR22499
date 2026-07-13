@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981759448348512344",
+    "created_at": "2025-10-26T06:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982333253966303474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982333253966303474",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982301469668999187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 哦牛批我又成潘佳彤了我发现磕过的人脑子确实多少沾点问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981759448348512344",
+        "created_at": "2025-10-26T06:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982333253966303474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982333253966303474",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982301469668999187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 哦牛批我又成潘佳彤了我发现磕过的人脑子确实多少沾点问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1981759448348512344",
+        "created_at": "2025-10-26T04:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982301469668999187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982301469668999187",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981759448348512344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 原来你就是那个潘佳彤吗，擅长凌晨打鸣，上午尿血，下午od，晚上水箭龟喷射治愈，深夜雌堕割手发癫，曾梦想过局子，跑公众场合漏鸟，欢迎网友看你全家出大头？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 948,
+          "like_count": 771,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 1364
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mft  不是很喜欢顺女  厌女  女的滚！不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深 @luobo4444 我已经被吴思嫣诅咒了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "luobo4444"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1981451857026568323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980652601982029824/9-ar12mL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 59,
+          "like_count": 20,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 1806
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

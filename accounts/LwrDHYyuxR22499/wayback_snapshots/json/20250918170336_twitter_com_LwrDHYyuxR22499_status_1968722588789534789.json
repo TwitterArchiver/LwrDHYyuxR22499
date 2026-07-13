@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1946663773508366782",
+    "created_at": "2025-09-18T17:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T18:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968722588789534789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812188006058471424",
+          "start": 0,
+          "username": "xioyyyy979320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968722588789534789",
+    "in_reply_to_user_id": "1812188006058471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946663773508366782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyyyy979320 需要什么帮助叫我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1042,
+        "media_key": "3_1946663770345930752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPwYqCXgAAraB_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1946663773508366782",
+        "created_at": "2025-09-18T17:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968722588789534789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812188006058471424",
+              "start": 0,
+              "username": "xioyyyy979320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968722588789534789",
+        "in_reply_to_user_id": "1812188006058471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946663773508366782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyyyy979320 需要什么帮助叫我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946663770345930752"
+          ]
+        },
+        "author_id": "1812188006058471424",
+        "conversation_id": "1946663773508366782",
+        "created_at": "2025-07-19T20:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T21:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946663773508366782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/csDQqtoAQA",
+              "end": 142,
+              "expanded_url": "https://x.com/xioyyyy979320/status/1946663773508366782/photo/1",
+              "media_key": "3_1946663770345930752",
+              "start": 119,
+              "url": "https://t.co/csDQqtoAQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946663773508366782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 696,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从戒网瘾学校出来后无时无刻不对自己所遭受的骚扰和恶意感到恶心  快当爹的人了摸我身体   掐我胸  恶心  真恶心要是这样还不如让我被操死  强迫吃泔水  打人  什么狗屁戒网瘾 什么狗屁一切为我好  想到这些止不住的呕吐反胃   恶心 https://t.co/csDQqtoAQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 696,
+          "like_count": 629,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 892
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:11:28.000Z",
+        "description": "",
+        "id": "1812188006058471424",
+        "name": "黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945822144702607360/j3xstdth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 33,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "xioyyyy979320",
+        "verified": false
+      }
+    ]
+  }
+}

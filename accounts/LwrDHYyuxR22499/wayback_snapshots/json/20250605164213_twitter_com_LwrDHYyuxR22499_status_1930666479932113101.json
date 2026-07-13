@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1930661779807592760",
+    "created_at": "2025-06-05T16:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T17:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930666479932113101"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930666479932113101",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 43,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930661779807592760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "照片显得有点非人是因为太黑了用苹果的软件补出来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1930661777320394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssWqEqbQAADuyi.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1930661779807592760",
+        "created_at": "2025-06-05T16:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930666479932113101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930666479932113101",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930661779807592760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "照片显得有点非人是因为太黑了用苹果的软件补出来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930661777320394752"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1930661779807592760",
+        "created_at": "2025-06-05T16:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930661779807592760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G88nScGY4o",
+              "end": 41,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1930661779807592760/photo/1",
+              "media_key": "3_1930661777320394752",
+              "start": 18,
+              "url": "https://t.co/G88nScGY4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930661779807592760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "正在夜间制高点观察学校的王宇航…… https://t.co/G88nScGY4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 362,
+          "like_count": 349,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 505
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

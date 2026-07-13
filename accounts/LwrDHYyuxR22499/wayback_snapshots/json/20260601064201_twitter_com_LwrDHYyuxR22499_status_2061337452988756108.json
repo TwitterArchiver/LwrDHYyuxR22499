@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2061328504168562876",
+    "created_at": "2026-06-01T06:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061337452988756108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892240715100594176",
+          "start": 0,
+          "username": "chuF6yuanmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061337452988756108",
+    "in_reply_to_user_id": "1892240715100594176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061333754325725223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuF6yuanmen 它时常幻想我嫖了他对象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2061328504168562876",
+        "created_at": "2026-06-01T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061337452988756108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892240715100594176",
+              "start": 0,
+              "username": "chuF6yuanmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061337452988756108",
+        "in_reply_to_user_id": "1892240715100594176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061333754325725223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuF6yuanmen 它时常幻想我嫖了他对象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892240715100594176",
+        "conversation_id": "2061328504168562876",
+        "created_at": "2026-06-01T06:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061333754325725223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061333754325725223",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061328504168562876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 ？这是中文吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5428,
+          "following_count": 3071,
+          "like_count": 3107,
+          "listed_count": 19,
+          "media_count": 438,
+          "tweet_count": 2920
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:52:22.000Z",
+        "description": "算是mtf吧 药区 失去所有力气 随便发点碎碎念 闺蜜 @xixijiang125714",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "xixijiang125714"
+              }
+            ]
+          }
+        },
+        "id": "1892240715100594176",
+        "name": "⁺✞假期重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039320469518831616/BwAg_pXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 916,
+          "like_count": 5969,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2430
+        },
+        "username": "chuF6yuanmen",
+        "verified": false
+      }
+    ]
+  }
+}

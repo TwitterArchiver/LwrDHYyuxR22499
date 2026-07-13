@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980905948832231781",
+    "created_at": "2025-10-22T09:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T10:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980926746955600058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620367275273633792",
+          "start": 0,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980926746955600058",
+    "in_reply_to_user_id": "1620367275273633792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980925282975678550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alina_Medverova 机构从会把基本盘无差别迫害开始就\n注定他无法有效维稳\n如果我们说有一所机构只会迫害性少数异议人体那才符合维稳的功效\n才够符合逻辑🧐\n当然我却是偶尔可以遇到那种对跨性别有偏好的机构"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T09:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980926746955600058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980926746955600058",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980925282975678550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 机构从会把基本盘无差别迫害开始就\n注定他无法有效维稳\n如果我们说有一所机构只会迫害性少数异议人体那才符合维稳的功效\n才够符合逻辑🧐\n当然我却是偶尔可以遇到那种对跨性别有偏好的机构"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T09:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980925282975678550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980925282975678550",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980924684129771533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那只能说明学生的待遇极差极差，因为学校肯定要赚钱，不能推出你后续的那些论点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 927,
+          "like_count": 723,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1162
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1526,
+          "like_count": 74825,
+          "listed_count": 6,
+          "media_count": 987,
+          "tweet_count": 16381
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

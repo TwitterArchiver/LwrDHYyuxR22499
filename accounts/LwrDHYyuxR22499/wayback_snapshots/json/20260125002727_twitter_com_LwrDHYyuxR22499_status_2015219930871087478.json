@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2014068030829986188",
+    "created_at": "2026-01-25T00:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015219930871087478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990151128605134848",
+          "start": 0,
+          "username": "ethicsofopacity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015219930871087478",
+    "in_reply_to_user_id": "1990151128605134848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014068030829986188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethicsofopacity 😁实际上他说的这群人相当大一部分我都认识对我来说简直是填空题"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2014068030829986188].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2014068030829986188",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2014068030829986188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2014068030829986188",
+        "created_at": "2026-01-25T00:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015219930871087478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990151128605134848",
+              "start": 0,
+              "username": "ethicsofopacity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015219930871087478",
+        "in_reply_to_user_id": "1990151128605134848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014068030829986188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethicsofopacity 😁实际上他说的这群人相当大一部分我都认识对我来说简直是填空题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1649,
+          "like_count": 1408,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1966
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T20:13:16.000Z",
+        "description": "emetophilia / 请放过我吧求你了",
+        "id": "1990151128605134848",
+        "name": "白",
+        "pinned_tweet_id": "1998609102298095940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990165123680358401/ms0prA5y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 606,
+          "like_count": 2751,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2392
+        },
+        "username": "ethicsofopacity",
+        "verified": true
+      }
+    ]
+  }
+}

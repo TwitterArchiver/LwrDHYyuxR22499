@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917393359087493123"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1917393362082226615",
+    "created_at": "2025-04-30T01:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T02:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917393362082226615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0hPBnZspJ",
+          "end": 164,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1917393362082226615/photo/1",
+          "media_key": "3_1917393359087493123",
+          "start": 141,
+          "url": "https://t.co/h0hPBnZspJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917393362082226615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨性别皇帝汤戈韬可不屑于干这些🤣他只需要把他看不顺眼的人打上精神病还有清真小编的帽子造谣别人搞孤立就行了🤣\n嘴上说的一套一套的说别人诈骗\n清真小编转手自己跟自己的清真小编姘头去谈恋爱了\n你跟这群人比起来也就只是在搞政治斗争上不那么低能了\n但你搞政治斗争只是为了满足你低能的大脑而已 https://t.co/h0hPBnZspJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917393359087493123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvzGe8aYAMIgHd.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917393359087493123"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1917393362082226615",
+        "created_at": "2025-04-30T01:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917393362082226615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0hPBnZspJ",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1917393362082226615/photo/1",
+              "media_key": "3_1917393359087493123",
+              "start": 141,
+              "url": "https://t.co/h0hPBnZspJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917393362082226615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别皇帝汤戈韬可不屑于干这些🤣他只需要把他看不顺眼的人打上精神病还有清真小编的帽子造谣别人搞孤立就行了🤣\n嘴上说的一套一套的说别人诈骗\n清真小编转手自己跟自己的清真小编姘头去谈恋爱了\n你跟这群人比起来也就只是在搞政治斗争上不那么低能了\n但你搞政治斗争只是为了满足你低能的大脑而已 https://t.co/h0hPBnZspJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 282,
+          "like_count": 219,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 379
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1920640262524571909",
+    "created_at": "2025-05-09T00:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T01:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920641499886202908"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920641499886202908",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920640262524571909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实自从去年开始就一直在各种各样的地方跑来跑去了🤣这辈子都没这么庆幸过自己是蒙人即使从黑龙江一天内迁移到无锡去也不会有任何水土不服的情况发生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920640250344587264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqd8IbcbQAAaIER.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1920640262524571909",
+        "created_at": "2025-05-09T00:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T01:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920641499886202908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920641499886202908",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920640262524571909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实自从去年开始就一直在各种各样的地方跑来跑去了🤣这辈子都没这么庆幸过自己是蒙人即使从黑龙江一天内迁移到无锡去也不会有任何水土不服的情况发生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920640250344587264"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1920640262524571909",
+        "created_at": "2025-05-09T00:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T01:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920640262524571909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXtkqFyxiW",
+              "end": 118,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1920640262524571909/photo/1",
+              "media_key": "3_1920640250344587264",
+              "start": 95,
+              "url": "https://t.co/WXtkqFyxiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920640262524571909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典两天半时间内三十五个小时都在火车硬座上度过又累又难受还睡不着🤥六十个小时里只睡了五个小时\n忙完了也来不及回家要顺路在去西安在处理事情递交材料\n这一年内天天全国各地跑感觉已经腰肌劳损了😢 https://t.co/WXtkqFyxiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 298,
+          "like_count": 256,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 422
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

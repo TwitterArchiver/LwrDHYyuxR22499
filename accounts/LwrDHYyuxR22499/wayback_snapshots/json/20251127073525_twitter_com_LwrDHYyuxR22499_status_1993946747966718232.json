@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1993362050958192909",
+    "created_at": "2025-11-27T07:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993946747966718232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935328713396326400",
+          "start": 0,
+          "username": "aiyinmontana"
+        },
+        {
+          "end": 22,
+          "id": "1952096601222320128",
+          "start": 14,
+          "username": "guazQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993946747966718232",
+    "in_reply_to_user_id": "1935328713396326400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993921096958238724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyinmontana @guazQAQ 一眼对扭转机构理解程度过低\n一群实践没时间狗叫有时间的主子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1993362050958192909",
+        "created_at": "2025-11-27T07:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993946747966718232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935328713396326400",
+              "start": 0,
+              "username": "aiyinmontana"
+            },
+            {
+              "end": 22,
+              "id": "1952096601222320128",
+              "start": 14,
+              "username": "guazQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993946747966718232",
+        "in_reply_to_user_id": "1935328713396326400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993921096958238724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyinmontana @guazQAQ 一眼对扭转机构理解程度过低\n一群实践没时间狗叫有时间的主子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935328713396326400",
+        "conversation_id": "1993362050958192909",
+        "created_at": "2025-11-27T05:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993921096958238724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 25,
+              "id": "1952096601222320128",
+              "start": 17,
+              "username": "guazQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HXD3D_8028/sta…",
+              "end": 49,
+              "expanded_url": "https://x.com/HXD3D_8028/status/1993917307031310520?t=ZHIsGl1c4p6OU2lDqi9v6g&s=19",
+              "start": 26,
+              "url": "https://t.co/pE6kRAjKze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993921096958238724",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993917307031310520",
+            "type": "quoted"
+          },
+          {
+            "id": "1993893013584794000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @guazQAQ https://t.co/pE6kRAjKze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1119,
+          "like_count": 909,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1476
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T13:28:24.000Z",
+        "description": "",
+        "id": "1935328713396326400",
+        "name": "Goodfellas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990015299962470400/oK2j-xUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 47,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 84
+        },
+        "username": "aiyinmontana",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T19:58:04.000Z",
+        "description": "MTF，ISFP，173cm，59kg。上一世@guaz686，可能是brat，可能有点sub属性，仅靠游玩cs2就可以支撑精神状态正常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "guaz686"
+              }
+            ]
+          }
+        },
+        "id": "1952096601222320128",
+        "location": "dust2",
+        "name": "guazQAQ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985332980483751937/QKJ9zsG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 280,
+          "like_count": 608,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 397
+        },
+        "username": "guazQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

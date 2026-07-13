@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2043672055606898866",
+    "created_at": "2026-04-13T12:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043672055606898866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2043635304788078701",
+          "start": 12,
+          "url": "https://t.co/hYhPBiqBto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043672055606898866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043635304788078701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😎这次被李上稿我没意见 https://t.co/hYhPBiqBto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2043592485373607937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxMibxaAAEjHbl.png",
+        "width": 653
+      },
+      {
+        "height": 574,
+        "media_key": "3_2043592561458307072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxMm3NaYAAfOfe.png",
+        "width": 550
+      },
+      {
+        "height": 628,
+        "media_key": "3_2043592688386396160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxMuQDbUAAmYUR.png",
+        "width": 567
+      },
+      {
+        "height": 581,
+        "media_key": "3_2043592758263521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxMyUXboAAnRk7.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2043672055606898866",
+        "created_at": "2026-04-13T12:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043672055606898866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2043635304788078701",
+              "start": 12,
+              "url": "https://t.co/hYhPBiqBto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043672055606898866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043635304788078701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😎这次被李上稿我没意见 https://t.co/hYhPBiqBto"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043592485373607937",
+            "3_2043592561458307072",
+            "3_2043592688386396160",
+            "3_2043592758263521280"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2043635304788078701",
+        "created_at": "2026-04-13T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043635304788078701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8glaviQAF",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2043635304788078701/photo/1",
+              "media_key": "3_2043592485373607937",
+              "start": 95,
+              "url": "https://t.co/x8glaviQAF"
+            },
+            {
+              "display_url": "pic.x.com/x8glaviQAF",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2043635304788078701/photo/1",
+              "media_key": "3_2043592561458307072",
+              "start": 95,
+              "url": "https://t.co/x8glaviQAF"
+            },
+            {
+              "display_url": "pic.x.com/x8glaviQAF",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2043635304788078701/photo/1",
+              "media_key": "3_2043592688386396160",
+              "start": 95,
+              "url": "https://t.co/x8glaviQAF"
+            },
+            {
+              "display_url": "pic.x.com/x8glaviQAF",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2043635304788078701/photo/1",
+              "media_key": "3_2043592758263521280",
+              "start": 95,
+              "url": "https://t.co/x8glaviQAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043635304788078701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《半月谈》刊文关注“矫正项目”乱象 呼吁加强规范管理\n4月10日，由中共中央宣传部委托、新华通讯社主办的党刊半月谈刊发题为《“镜头前感恩，镜头外挨打……一些‘矫正项目’该管管了”》的文章。\n文章指出，部分打着“教育矫正”“行为矫治”等名义开展的项目，在宣传中呈现“转变显著”“效果良好”，但实际运作中却存在体罚、辱骂等问题，甚至出现“镜头前感恩、镜头外受罚”的现象。\n文章呼吁，针对相关领域存在的监管漏洞，应进一步完善制度规范，加强执法监督，明确准入门槛和行业标准，防止类似问题侵害未成年人及相关群体权益。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21175,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "《半月谈》刊文关注“矫正项目”乱象 呼吁加强规范管理\n4月10日，由中共中央宣传部委托、新华通讯社主办的党刊半月谈刊发题为《“镜头前感恩，镜头外挨打……一些‘矫正项目’该管管了”》的文章。 https://t.co/x8glaviQAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397,
+          "following_count": 2514,
+          "like_count": 2583,
+          "listed_count": 15,
+          "media_count": 397,
+          "tweet_count": 2640
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192255,
+          "following_count": 1027,
+          "like_count": 9401,
+          "listed_count": 8613,
+          "media_count": 45176,
+          "tweet_count": 52256
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

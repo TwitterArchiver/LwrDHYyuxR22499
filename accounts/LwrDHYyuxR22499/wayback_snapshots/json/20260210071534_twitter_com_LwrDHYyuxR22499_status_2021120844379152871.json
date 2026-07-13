@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021094122925457674",
+    "created_at": "2026-02-10T07:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T08:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021120844379152871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "AkonBritain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021120844379152871",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021119987524698303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkonBritain 那么疑罪从无😁\n你没资格认为我在歧视精神残疾者并且网暴他们\n因为至少我线下见过她们\n做调查救人的时候第一件事就要看他们的精神报告\n我当然比你有这个权利讲\n他们没有病理性精神疾病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T07:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021120844379152871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "AkonBritain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021120844379152871",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021119987524698303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkonBritain 那么疑罪从无😁\n你没资格认为我在歧视精神残疾者并且网暴他们\n因为至少我线下见过她们\n做调查救人的时候第一件事就要看他们的精神报告\n我当然比你有这个权利讲\n他们没有病理性精神疾病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T07:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021119987524698303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021119987524698303",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021119532455342112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你没有任何的证据证明她们尚未严重到那种地步，但是出于她们的经历你就应当考虑到她们会严重到那种地步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 1760,
+          "like_count": 1493,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 2075
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurélia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919148943982592/yNkKa2ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 125921,
+          "listed_count": 3,
+          "media_count": 5122,
+          "tweet_count": 69705
+        },
+        "username": "AkonBritain",
+        "verified": false
+      }
+    ]
+  }
+}

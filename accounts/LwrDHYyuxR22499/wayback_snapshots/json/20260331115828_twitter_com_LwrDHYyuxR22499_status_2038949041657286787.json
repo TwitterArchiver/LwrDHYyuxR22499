@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038949041657286787",
+    "created_at": "2026-03-31T11:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038949041657286787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655914995409113088",
+          "start": 3,
+          "username": "L8n9poqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038949041657286787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038936147423072579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L8n9poqq: 同惠州黄埔军狼受害者访谈后，得知园区有受害者入校后被关禁闭室吊起双手绑在铁架床上铺罚站三天，期间限制进食饮水，禁闭刑罚期限为一天到半个月不等。\n\n这一刑罚与2017年合肥正能青少年特训学校李傲案因高温、限制体位、缺乏进食饮水、外伤等因素引起水电解质紊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038936133313413120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvBnEnawAAiYml.jpg",
+        "width": 1122
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038936133267333121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvBnEcboAEenn1.jpg",
+        "width": 1151
+      },
+      {
+        "height": 1503,
+        "media_key": "3_2038936133275668480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvBnEea0AAvqHN.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038949041657286787",
+        "created_at": "2026-03-31T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038949041657286787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655914995409113088",
+              "start": 3,
+              "username": "L8n9poqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038949041657286787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038936147423072579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L8n9poqq: 同惠州黄埔军狼受害者访谈后，得知园区有受害者入校后被关禁闭室吊起双手绑在铁架床上铺罚站三天，期间限制进食饮水，禁闭刑罚期限为一天到半个月不等。\n\n这一刑罚与2017年合肥正能青少年特训学校李傲案因高温、限制体位、缺乏进食饮水、外伤等因素引起水电解质紊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038936133313413120",
+            "3_2038936133267333121",
+            "3_2038936133275668480"
+          ]
+        },
+        "author_id": "1655914995409113088",
+        "conversation_id": "2038936147423072579",
+        "created_at": "2026-03-31T11:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038936147423072579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znGaH5T5RR",
+              "end": 160,
+              "expanded_url": "https://x.com/L8n9poqq/status/2038936147423072579/photo/1",
+              "media_key": "3_2038936133313413120",
+              "start": 137,
+              "url": "https://t.co/znGaH5T5RR"
+            },
+            {
+              "display_url": "pic.x.com/znGaH5T5RR",
+              "end": 160,
+              "expanded_url": "https://x.com/L8n9poqq/status/2038936147423072579/photo/1",
+              "media_key": "3_2038936133267333121",
+              "start": 137,
+              "url": "https://t.co/znGaH5T5RR"
+            },
+            {
+              "display_url": "pic.x.com/znGaH5T5RR",
+              "end": 160,
+              "expanded_url": "https://x.com/L8n9poqq/status/2038936147423072579/photo/1",
+              "media_key": "3_2038936133275668480",
+              "start": 137,
+              "url": "https://t.co/znGaH5T5RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038936147423072579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "同惠州黄埔军狼受害者访谈后，得知园区有受害者入校后被关禁闭室吊起双手绑在铁架床上铺罚站三天，期间限制进食饮水，禁闭刑罚期限为一天到半个月不等。\n\n这一刑罚与2017年合肥正能青少年特训学校李傲案因高温、限制体位、缺乏进食饮水、外伤等因素引起水电解质紊乱的死亡方式如出一辙。 https://t.co/znGaH5T5RR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 2313,
+          "like_count": 2314,
+          "listed_count": 15,
+          "media_count": 382,
+          "tweet_count": 2507
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T12:38:25.000Z",
+        "description": "",
+        "id": "1655914995409113088",
+        "name": "精英白给分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022175928974299136/twMmrNFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "L8n9poqq",
+        "verified": false
+      }
+    ]
+  }
+}

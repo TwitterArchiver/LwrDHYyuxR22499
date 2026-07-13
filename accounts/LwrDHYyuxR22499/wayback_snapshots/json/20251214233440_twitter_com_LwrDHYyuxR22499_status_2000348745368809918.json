@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000345337941344573",
+    "created_at": "2025-12-14T23:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T00:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000348745368809918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000348745368809918",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000345337941344573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲爱的😢为什么最后会变成这个样子?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000345337941344573",
+        "created_at": "2025-12-14T23:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T00:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000348745368809918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000348745368809918",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000345337941344573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲爱的😢为什么最后会变成这个样子?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2000345337941344573",
+        "created_at": "2025-12-14T23:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T00:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000345337941344573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/2000338198816563491",
+              "start": 146,
+              "url": "https://t.co/9RPwS8IS0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000345337941344573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000338198816563491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前做梦都没想到……\n我可以在中国实名指着鼻子骂共产党\n拿青少年性少数创收…\n与BBC合作没被共党打为境外势力抓捕我扣帽子\n而我再跨性别社群这个本该开放先进的社群指认一件他本人承认的事实可以遭到人格毁灭霸凌😢\n跨性别社群……你怎么了\n我情愿给我扣帽子的是共党\n也不愿意是新一代跨性别保皇派 https://t.co/9RPwS8IS0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 1150,
+          "like_count": 1003,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 1596
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

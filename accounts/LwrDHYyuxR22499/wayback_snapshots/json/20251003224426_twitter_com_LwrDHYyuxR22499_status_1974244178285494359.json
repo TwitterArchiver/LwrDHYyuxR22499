@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974244170404671491",
+        "3_1974244171402854400",
+        "3_1974244171784597504",
+        "3_1974244171419729920"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1974244178285494359",
+    "created_at": "2025-10-03T22:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T23:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974244178285494359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5nnGo7oP3l",
+          "end": 41,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+          "media_key": "3_1974244170404671491",
+          "start": 18,
+          "url": "https://t.co/5nnGo7oP3l"
+        },
+        {
+          "display_url": "pic.x.com/5nnGo7oP3l",
+          "end": 41,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+          "media_key": "3_1974244171402854400",
+          "start": 18,
+          "url": "https://t.co/5nnGo7oP3l"
+        },
+        {
+          "display_url": "pic.x.com/5nnGo7oP3l",
+          "end": 41,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+          "media_key": "3_1974244171784597504",
+          "start": 18,
+          "url": "https://t.co/5nnGo7oP3l"
+        },
+        {
+          "display_url": "pic.x.com/5nnGo7oP3l",
+          "end": 41,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+          "media_key": "3_1974244171419729920",
+          "start": 18,
+          "url": "https://t.co/5nnGo7oP3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974244178285494359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想换一頂新帽子各位觉得哪个好看?👀 https://t.co/5nnGo7oP3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1974244170404671491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2XsnOzbMAM4XSI.jpg",
+        "width": 1000
+      },
+      {
+        "height": 800,
+        "media_key": "3_1974244171402854400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2XsnShaQAANbSB.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_1974244171784597504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2XsnT8bMAAEgJj.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_1974244171419729920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2XsnSlbwAALXGi.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974244170404671491",
+            "3_1974244171402854400",
+            "3_1974244171784597504",
+            "3_1974244171419729920"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1974244178285494359",
+        "created_at": "2025-10-03T22:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T23:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974244178285494359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nnGo7oP3l",
+              "end": 41,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+              "media_key": "3_1974244170404671491",
+              "start": 18,
+              "url": "https://t.co/5nnGo7oP3l"
+            },
+            {
+              "display_url": "pic.x.com/5nnGo7oP3l",
+              "end": 41,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+              "media_key": "3_1974244171402854400",
+              "start": 18,
+              "url": "https://t.co/5nnGo7oP3l"
+            },
+            {
+              "display_url": "pic.x.com/5nnGo7oP3l",
+              "end": 41,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+              "media_key": "3_1974244171784597504",
+              "start": 18,
+              "url": "https://t.co/5nnGo7oP3l"
+            },
+            {
+              "display_url": "pic.x.com/5nnGo7oP3l",
+              "end": 41,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974244178285494359/photo/1",
+              "media_key": "3_1974244171419729920",
+              "start": 18,
+              "url": "https://t.co/5nnGo7oP3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974244178285494359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想换一頂新帽子各位觉得哪个好看?👀 https://t.co/5nnGo7oP3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 831,
+          "like_count": 667,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 958
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

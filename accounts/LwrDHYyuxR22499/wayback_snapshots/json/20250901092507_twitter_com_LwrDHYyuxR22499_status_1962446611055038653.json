@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1941117700895572426",
+    "created_at": "2025-09-01T09:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T10:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962446611055038653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692511487531909120",
+          "start": 0,
+          "username": "CicadaSeventeen"
+        },
+        {
+          "end": 26,
+          "id": "1459453832",
+          "start": 17,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962446611055038653",
+    "in_reply_to_user_id": "1692511487531909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941117700895572426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CicadaSeventeen @sauricat 这我哥们😁没啥事一切平安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_1941117331637403648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvA77buaAAAqhde.png",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1941117700895572426",
+        "created_at": "2025-09-01T09:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962446611055038653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692511487531909120",
+              "start": 0,
+              "username": "CicadaSeventeen"
+            },
+            {
+              "end": 26,
+              "id": "1459453832",
+              "start": 17,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962446611055038653",
+        "in_reply_to_user_id": "1692511487531909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941117700895572426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CicadaSeventeen @sauricat 这我哥们😁没啥事一切平安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941117331637403648"
+          ]
+        },
+        "author_id": "1692511487531909120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1941117700895572426",
+        "created_at": "2025-07-04T12:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T13:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941117700895572426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CwPic0q1C",
+              "end": 167,
+              "expanded_url": "https://x.com/CicadaSeventeen/status/1941117700895572426/photo/1",
+              "media_key": "3_1941117331637403648",
+              "start": 144,
+              "url": "https://t.co/0CwPic0q1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941117700895572426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2457,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "6月30日晚，刚刚结束榆林市小壕兔村回访不久的艺术家坚果兄弟，在昆明与亲友失联，下落不明。近一周来，他陆续曝光天然气井和煤矸石污染对村民健康造成的危害，发布的12篇公众号文章也突然全部被删除。\n同一晚，共同深度参与环境污染公共艺术行动的策展人郑宏彬，也在西安被警方带走，目前无法取得联系 https://t.co/0CwPic0q1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 545,
+          "like_count": 522,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 749
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "名誉mtf（？）北京中关村\n不用Tg了，请matrix联系我: @cicadaseventeen:https://t.co/78fPqUa4uF\n在北京能提供紧急避险或熟人借住。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "cicadaseventeen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mozilla.org",
+                "end": 72,
+                "expanded_url": "http://mozilla.org",
+                "start": 49,
+                "url": "https://t.co/78fPqUa4uF"
+              }
+            ]
+          }
+        },
+        "id": "1692511487531909120",
+        "location": "北京",
+        "name": "🌈 Cic17",
+        "pinned_tweet_id": "1948028104456524232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860664221408833536/ABFkm6x-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 181,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 2542
+        },
+        "username": "CicadaSeventeen",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) bluesky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "北雁书 Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11157,
+          "following_count": 921,
+          "like_count": 33645,
+          "listed_count": 36,
+          "media_count": 582,
+          "tweet_count": 11573
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

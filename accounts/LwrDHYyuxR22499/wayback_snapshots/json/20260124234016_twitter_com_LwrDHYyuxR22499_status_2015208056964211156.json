@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2014944667587207616",
+    "created_at": "2026-01-24T23:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T00:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015208056964211156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896175390005342208",
+          "start": 0,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015208056964211156",
+    "in_reply_to_user_id": "1896175390005342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014944667587207616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinya 你最近怎么看起来变魔怔了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2014944667587207616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2014944667587207616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2014944667587207616"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2014944667587207616",
+        "created_at": "2026-01-24T23:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015208056964211156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015208056964211156",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014944667587207616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya 你最近怎么看起来变魔怔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1648,
+          "like_count": 1404,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1963
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2005528085513568379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 1783,
+          "like_count": 16523,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1220
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981364714094678294",
+    "created_at": "2025-10-23T14:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T15:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981364714094678294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981362106852397507",
+          "start": 79,
+          "url": "https://t.co/SxSru4IfFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981364714094678294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981362106852397507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😴怎么不辩经了跟死了一样\n辩不过开始搞迫害喽\n真以为国安都会跟你一样智商低下?\n以后李那有我的稿子我就默认是你投的有国安找我我就把你供出去😁😁\n大家一起玩呗 https://t.co/SxSru4IfFu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981364714094678294",
+        "created_at": "2025-10-23T14:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981364714094678294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981362106852397507",
+              "start": 79,
+              "url": "https://t.co/SxSru4IfFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981364714094678294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981362106852397507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😴怎么不辩经了跟死了一样\n辩不过开始搞迫害喽\n真以为国安都会跟你一样智商低下?\n以后李那有我的稿子我就默认是你投的有国安找我我就把你供出去😁😁\n大家一起玩呗 https://t.co/SxSru4IfFu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981362106852397507",
+        "created_at": "2025-10-23T14:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981362106852397507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981361677678629096",
+              "start": 23,
+              "url": "https://t.co/fnpwx8BllY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981362106852397507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981361677678629096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不就你的身份问题再给李颖投稿一次吧（难视） https://t.co/fnpwx8BllY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 934,
+          "like_count": 745,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1260
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 184,
+          "like_count": 9031,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2057
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

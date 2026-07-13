@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1985006771958636756",
+    "created_at": "2025-11-02T17:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985029680047767724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620528974878371841",
+          "start": 0,
+          "username": "xiweiyoi"
+        },
+        {
+          "end": 22,
+          "id": "1754494415152766976",
+          "start": 10,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 39,
+          "id": "1186651487155322880",
+          "start": 23,
+          "username": "RonaldSimmonsUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985029680047767724",
+    "in_reply_to_user_id": "1620528974878371841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985029375818162488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiweiyoi @NagiExpress @RonaldSimmonsUS 头发保不住才更好玩😁\n我都是照着下次把自己哪个零件玩丢去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1985006771958636756",
+        "created_at": "2025-11-02T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985029680047767724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620528974878371841",
+              "start": 0,
+              "username": "xiweiyoi"
+            },
+            {
+              "end": 22,
+              "id": "1754494415152766976",
+              "start": 10,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 39,
+              "id": "1186651487155322880",
+              "start": 23,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985029680047767724",
+        "in_reply_to_user_id": "1620528974878371841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985029375818162488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiweiyoi @NagiExpress @RonaldSimmonsUS 头发保不住才更好玩😁\n我都是照着下次把自己哪个零件玩丢去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620528974878371841",
+        "conversation_id": "1985006771958636756",
+        "created_at": "2025-11-02T17:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985029375818162488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 29,
+              "id": "1754494415152766976",
+              "start": 17,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 46,
+              "id": "1186651487155322880",
+              "start": 30,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985029375818162488",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985028390064464371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @NagiExpress @RonaldSimmonsUS 讲真，如果明年他暑假的时候我手里没有事可以带我一个，就是我看我头发多半保不住了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 995,
+          "like_count": 830,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1455
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T21:06:37.000Z",
+        "description": "06.02.06，mtf",
+        "id": "1620528974878371841",
+        "location": "cncq",
+        "name": "熹微yoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621915136134119424/7fVhE0Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 174,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 109
+        },
+        "username": "xiweiyoi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "和nagi一起挑战想象力的极限",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "直快Nagi🥥",
+        "pinned_tweet_id": "1984939752798183515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 1857,
+          "like_count": 16559,
+          "listed_count": 6,
+          "media_count": 1403,
+          "tweet_count": 14543
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61901,
+          "following_count": 52365,
+          "like_count": 197406,
+          "listed_count": 110,
+          "media_count": 25351,
+          "tweet_count": 164905
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      }
+    ]
+  }
+}

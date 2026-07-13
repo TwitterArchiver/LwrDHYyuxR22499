@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010950664755793920"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2010950803067191737",
+    "created_at": "2026-01-13T05:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010950803067191737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ybh3JMjSaC",
+          "end": 120,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2010950803067191737/video/1",
+          "media_key": "7_2010950664755793920",
+          "start": 97,
+          "url": "https://t.co/Ybh3JMjSaC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010950803067191737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像这样被我们全程紧盯、一举一动尽在掌握的扭转机构，还有很多个。一旦他们施暴打人的行径被我们捕捉到，相关机构的全部设施信息、涉事人员名单，以及公司法人的联系方式，都会随同打人视频一起，公之于众😮 https://t.co/Ybh3JMjSaC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86272,
+        "height": 720,
+        "media_key": "7_2010950664755793920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010950664755793920/pu/img/-7HP0iFV4dyGu25h.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010950664755793920/pu/vid/avc1/360x270/Uvn7eWSeiXZz5ZpG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010950664755793920/pu/vid/avc1/480x360/5DsUqbn4w1WKpOB6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010950664755793920/pu/vid/avc1/960x720/_q_xMMmRv9Xb6w9a.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010950664755793920/pu/pl/5X5XX9nMuj9fld1W.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010950664755793920"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2010950803067191737",
+        "created_at": "2026-01-13T05:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010950803067191737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ybh3JMjSaC",
+              "end": 120,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2010950803067191737/video/1",
+              "media_key": "7_2010950664755793920",
+              "start": 97,
+              "url": "https://t.co/Ybh3JMjSaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010950803067191737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像这样被我们全程紧盯、一举一动尽在掌握的扭转机构，还有很多个。一旦他们施暴打人的行径被我们捕捉到，相关机构的全部设施信息、涉事人员名单，以及公司法人的联系方式，都会随同打人视频一起，公之于众😮 https://t.co/Ybh3JMjSaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009440425611034624/hB-hwvS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 1549,
+          "like_count": 1302,
+          "listed_count": 9,
+          "media_count": 306,
+          "tweet_count": 1849
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

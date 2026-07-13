@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999585461812031646",
+    "created_at": "2025-12-12T21:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T22:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999589799892844601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999589799892844601",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999587057597862370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 🤓🤓猜猜他跟谁学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999585461812031646",
+        "created_at": "2025-12-12T21:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999589799892844601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999589799892844601",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999587057597862370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 🤓🤓猜猜他跟谁学的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "1999585461812031646",
+        "created_at": "2025-12-12T21:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999587057597862370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999587057597862370",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999585461812031646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话如果是我的话，我可能出来就找几个我认为该死的人和他们同归于尽去了。或者可以想象，如果等的太久的话，我就会被恐惧打败，然后变成平庸的人，为这个社会上的吃人机器服务一辈子。这种事情完全是我不敢想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1138,
+          "like_count": 968,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1550
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế（圣诞 ver）🎄🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 259,
+          "like_count": 104165,
+          "listed_count": 1,
+          "media_count": 608,
+          "tweet_count": 11319
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

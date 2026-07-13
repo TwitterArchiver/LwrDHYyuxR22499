@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056952024542199889",
+    "created_at": "2026-05-20T04:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056952024542199889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SGxxxxxxxxxxxx…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/SGxxxxxxxxxxxx/status/2056947209426661454",
+          "start": 145,
+          "url": "https://t.co/3hyuzmVBhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056952024542199889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056947209426661454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真要让我回答这个问题还真有点难。\n毕竟我从不跟任何一个受助者要报酬，\n即使自己花销再多\n总是在触碰一些敏感的东西为了曝光真相\n没有薪资收入也不是为了\n跟海外谋取政治庇护身份\n这甚至导致一群阴暗蛆\n意淫我是白骑士心理为了流量\n通过获取名声诈骗别人过活\n实话讲\n我只是看不得有人在我面前被虐死 https://t.co/3hyuzmVBhB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056952024542199889",
+        "created_at": "2026-05-20T04:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056952024542199889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SGxxxxxxxxxxxx…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/SGxxxxxxxxxxxx/status/2056947209426661454",
+              "start": 145,
+              "url": "https://t.co/3hyuzmVBhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056952024542199889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056947209426661454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真要让我回答这个问题还真有点难。\n毕竟我从不跟任何一个受助者要报酬，\n即使自己花销再多\n总是在触碰一些敏感的东西为了曝光真相\n没有薪资收入也不是为了\n跟海外谋取政治庇护身份\n这甚至导致一群阴暗蛆\n意淫我是白骑士心理为了流量\n通过获取名声诈骗别人过活\n实话讲\n我只是看不得有人在我面前被虐死 https://t.co/3hyuzmVBhB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958765033577750529",
+        "conversation_id": "2056937037501264033",
+        "created_at": "2026-05-20T03:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056947209426661454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056947209426661454",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056937037501264033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 没太理解，图啥。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 2874,
+          "like_count": 2833,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2796
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T05:35:56.000Z",
+        "description": "fucking the world",
+        "id": "1958765033577750529",
+        "name": "小白龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959101150382497793/8A6ZFaMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 69,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 880
+        },
+        "username": "SGxxxxxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

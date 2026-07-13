@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038815863823016057",
+    "created_at": "2026-03-31T03:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038822637150101908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038822637150101908",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038821827901116810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 尊重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038815863823016057",
+        "created_at": "2026-03-31T03:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038822637150101908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038822637150101908",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038821827901116810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 尊重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "2038815863823016057",
+        "created_at": "2026-03-31T03:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038821827901116810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038821827901116810",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038815863823016057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 Σ(っ °Д °;)っ别跑，回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 2306,
+          "like_count": 2251,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 2464
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 781,
+          "like_count": 2067,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 622
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

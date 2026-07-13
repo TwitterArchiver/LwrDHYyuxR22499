@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021094122925457674",
+    "created_at": "2026-02-10T07:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T08:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021120327758250206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "AkonBritain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021120327758250206",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021118737626337555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkonBritain 你讲话极其的先入为主\n认定对方是陷入了创伤循环当中\n被虐待导致病理性的疾病然后我网暴他们\n实则不然\n她们大多数都依旧具有清晰的意识以及思维逻辑\n并且精神正常\n甚至有一部分是跟风厌男😁\n面对病理性的残疾人我是没办法做出\n歧视残疾人的行为的\n请你别以己度人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T07:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021120327758250206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "AkonBritain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021120327758250206",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021118737626337555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkonBritain 你讲话极其的先入为主\n认定对方是陷入了创伤循环当中\n被虐待导致病理性的疾病然后我网暴他们\n实则不然\n她们大多数都依旧具有清晰的意识以及思维逻辑\n并且精神正常\n甚至有一部分是跟风厌男😁\n面对病理性的残疾人我是没办法做出\n歧视残疾人的行为的\n请你别以己度人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T07:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021118737626337555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021118737626337555",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021118208816902620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 另外，某种层面上你和她们的地位也并没有这么“平等”，因为她们很显然有严重的创伤需要治疗、按照法律精神精神疾病是可以减刑甚至是免除刑事责任的\n\n但是你依然并没有如此的对待她们，那么招到我的讨厌也是无可奈何的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 1760,
+          "like_count": 1493,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 2074
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurélia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919148943982592/yNkKa2ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 125921,
+          "listed_count": 3,
+          "media_count": 5122,
+          "tweet_count": 69705
+        },
+        "username": "AkonBritain",
+        "verified": false
+      }
+    ]
+  }
+}

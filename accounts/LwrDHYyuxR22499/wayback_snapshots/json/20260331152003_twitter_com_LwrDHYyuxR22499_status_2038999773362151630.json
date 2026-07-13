@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038990500565524896",
+    "created_at": "2026-03-31T15:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038999773362151630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        },
+        {
+          "end": 19,
+          "id": "1459453832",
+          "start": 10,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038999773362151630",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038998636697469351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka @sauricat 毕竟我也不妄自菲薄自己是最有能力的那个\n要是做的不够好也许让位置\n给更做得更好的人是不错的选择"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038990500565524896",
+        "created_at": "2026-03-31T15:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038999773362151630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            },
+            {
+              "end": 19,
+              "id": "1459453832",
+              "start": 10,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038999773362151630",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038998636697469351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka @sauricat 毕竟我也不妄自菲薄自己是最有能力的那个\n要是做的不够好也许让位置\n给更做得更好的人是不错的选择"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2038990500565524896",
+        "created_at": "2026-03-31T15:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038998636697469351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 26,
+              "id": "1459453832",
+              "start": 17,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038998636697469351",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038997263478108449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @sauricat 你有点钻牛角尖了，其实社群的主流观点都是折中的。大家普遍都能够理解不得已的情况，但也希望在并非不得已的领域避免一些不妥当的做法……（PS.温柔的视频也已经换源了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 2322,
+          "like_count": 2336,
+          "listed_count": 15,
+          "media_count": 383,
+          "tweet_count": 2528
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "pinned_tweet_id": "2036007608755372410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 207,
+          "like_count": 14487,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 450
+        },
+        "username": "Anermoka",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Beiyan-Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11113,
+          "following_count": 983,
+          "like_count": 34099,
+          "listed_count": 36,
+          "media_count": 611,
+          "tweet_count": 12047
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

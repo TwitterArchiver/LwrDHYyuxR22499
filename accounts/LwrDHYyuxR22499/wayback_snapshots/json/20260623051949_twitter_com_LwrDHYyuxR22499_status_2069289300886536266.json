@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2069289170456182784",
+        "7_2069289202903343104"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2069289300886536266",
+    "created_at": "2026-06-23T05:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069289300886536266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b87GhSULIG",
+          "end": 28,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2069289300886536266/video/1",
+          "media_key": "7_2069289170456182784",
+          "start": 5,
+          "url": "https://t.co/b87GhSULIG"
+        },
+        {
+          "display_url": "pic.x.com/b87GhSULIG",
+          "end": 28,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2069289300886536266/video/1",
+          "media_key": "7_2069289202903343104",
+          "start": 5,
+          "url": "https://t.co/b87GhSULIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069289300886536266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/b87GhSULIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19629,
+        "height": 1280,
+        "media_key": "7_2069289170456182784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069289170456182784/pu/img/1wMsD4--oG2PmgB4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069289170456182784/pu/vid/avc1/320x568/W5IWZmfrcUxF9ech.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069289170456182784/pu/vid/avc1/480x852/-OW3nuy4w_Y--F_E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069289170456182784/pu/vid/avc1/720x1280/AOsKxsVleSULJd_R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069289170456182784/pu/pl/X-bhpZY0v_6NhMWr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 15509,
+        "height": 1280,
+        "media_key": "7_2069289202903343104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069289202903343104/pu/img/MNcmJvXp79ioj7C-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069289202903343104/pu/vid/avc1/320x568/6c3-PN2j7lhdMZlH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069289202903343104/pu/vid/avc1/480x852/U2SJhzxJUMYu8urY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069289202903343104/pu/vid/avc1/720x1280/vr9t8wQSd6W8vaVh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069289202903343104/pu/pl/9b4UxOJcaWdx-AIz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069289170456182784",
+            "7_2069289202903343104"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2069289300886536266",
+        "created_at": "2026-06-23T05:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069289300886536266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b87GhSULIG",
+              "end": 28,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2069289300886536266/video/1",
+              "media_key": "7_2069289170456182784",
+              "start": 5,
+              "url": "https://t.co/b87GhSULIG"
+            },
+            {
+              "display_url": "pic.x.com/b87GhSULIG",
+              "end": 28,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2069289300886536266/video/1",
+              "media_key": "7_2069289202903343104",
+              "start": 5,
+              "url": "https://t.co/b87GhSULIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069289300886536266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/b87GhSULIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 3225,
+          "like_count": 3463,
+          "listed_count": 19,
+          "media_count": 469,
+          "tweet_count": 3126
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

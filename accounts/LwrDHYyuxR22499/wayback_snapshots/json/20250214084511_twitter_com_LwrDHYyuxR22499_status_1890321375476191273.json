@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1890321375476191273",
+    "created_at": "2025-02-14T08:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890321375476191273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1243945571796295681",
+          "start": 3,
+          "username": "59ryq"
+        },
+        {
+          "end": 59,
+          "id": "1875852742855688192",
+          "start": 49,
+          "username": "xlj070423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890321375476191273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889590543736328485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @59ryq: ⚠️Pay attention Please⚠️\n现有一位天津塘沽的mtf @xlj070423\n炸柜且被切断通联……\n目前已知情况为：\n即将被被家里禁闭\n暂无通讯工具 借记卡被没收\n\n第一次遇到自己身边人出现这种情况……想问问大家该怎么做😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1890321375476191273",
+        "created_at": "2025-02-14T08:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890321375476191273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1243945571796295681",
+              "start": 3,
+              "username": "59ryq"
+            },
+            {
+              "end": 59,
+              "id": "1875852742855688192",
+              "start": 49,
+              "username": "xlj070423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890321375476191273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889590543736328485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @59ryq: ⚠️Pay attention Please⚠️\n现有一位天津塘沽的mtf @xlj070423\n炸柜且被切断通联……\n目前已知情况为：\n即将被被家里禁闭\n暂无通讯工具 借记卡被没收\n\n第一次遇到自己身边人出现这种情况……想问问大家该怎么做😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243945571796295681",
+        "conversation_id": "1889590543736328485",
+        "created_at": "2025-02-12T08:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T09:18:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889589831761584460",
+          "1889590543736328485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1875852742855688192",
+              "start": 38,
+              "username": "xlj070423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889590543736328485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8105,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️Pay attention Please⚠️\n现有一位天津塘沽的mtf @xlj070423\n炸柜且被切断通联……\n目前已知情况为：\n即将被被家里禁闭\n暂无通讯工具 借记卡被没收\n\n第一次遇到自己身边人出现这种情况……想问问大家该怎么做😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 172,
+          "like_count": 136,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 278
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜PUBGM Player｜Esports Analys｜Language:CN/EN/JP｜Sister & lover: @xlj070423 @xlioilxlloiilv @iranon_lcf @yizhikapaiqaq｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "xlj070423"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "xlioilxlloiilv"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "JDEsport",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16568,
+          "following_count": 4443,
+          "like_count": 170505,
+          "listed_count": 68,
+          "media_count": 4606,
+          "tweet_count": 21295
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "59ryq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T10:32:09.000Z",
+        "description": "07年天津mtf🏳‍⚧|禁止🚫見證|深櫃党無證含糖🍥|同類互fo😘|泛性恋🏳️‍🌈|190超大號|HRT2024.5.13💊|舞萌DX新手玩家|自由主義者|暫無od割手|只会色色的笨蛋🥵|笨比:@59ryq❤|里推?:@xilingjiang423|語言language🌍中文/English",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 97,
+                "username": "59ryq"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "xilingjiang423"
+              }
+            ]
+          }
+        },
+        "id": "1875852742855688192",
+        "location": "天津",
+        "name": "㬢玲醬⚧Official🏳‍⚧🏳️‍🌈🍥",
+        "pinned_tweet_id": "1888516914030461427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875853178962595840/gkxxgPbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 833,
+          "like_count": 2351,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 1276
+        },
+        "username": "xlj070423",
+        "verified": false
+      }
+    ]
+  }
+}

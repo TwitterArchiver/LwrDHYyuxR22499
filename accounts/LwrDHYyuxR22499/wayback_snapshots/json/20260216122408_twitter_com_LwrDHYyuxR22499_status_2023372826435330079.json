@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023372826435330079",
+    "created_at": "2026-02-16T12:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023372826435330079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TTypezhi/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/TTypezhi/status/2023269519754420394",
+          "start": 13,
+          "url": "https://t.co/AdqGXcTDPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023372826435330079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023269519754420394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀😎有点扭转预备的感觉 https://t.co/AdqGXcTDPH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023372826435330079",
+        "created_at": "2026-02-16T12:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023372826435330079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TTypezhi/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/TTypezhi/status/2023269519754420394",
+              "start": 13,
+              "url": "https://t.co/AdqGXcTDPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023372826435330079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023269519754420394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀😎有点扭转预备的感觉 https://t.co/AdqGXcTDPH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973792014455152640",
+        "conversation_id": "2023269519754420394",
+        "created_at": "2026-02-16T05:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023269519754420394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1953528457339834368",
+              "start": 67,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023269519754420394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5218,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜...我可能会被软禁了...\n昨天我叔来我家拜年然后听说了我的事就赶过来了\n昨天晚上11点被我叔带着我爸妈来台州刚好碰到了我和@redraft2000以及她的妈妈，随后我们简单吃了夜宵后就回她家收拾东西了...\n急匆匆收拾完之后就上车了\n而且车上面我手机基本上不能用..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3073,
+          "following_count": 1830,
+          "like_count": 1606,
+          "listed_count": 12,
+          "media_count": 336,
+          "tweet_count": 2169
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/目前是某人的第三代目哦(跟以前完全不一样了呢)😵/好希望跟大家做朋友🥺/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 797,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

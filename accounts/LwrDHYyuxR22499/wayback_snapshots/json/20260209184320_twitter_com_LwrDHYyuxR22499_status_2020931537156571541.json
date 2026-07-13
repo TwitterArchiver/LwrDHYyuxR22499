@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2020930080990691443",
+    "created_at": "2026-02-09T18:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T19:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020931537156571541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020931537156571541",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020931130728513976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 践行自己的思想就是最大的回报啦😁\n我拯救你与你何干呢?\n不过是我对抗这个虚无荒诞的世界的一种方式罢了\n他们感谢不感谢我其实都无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2020930080990691443",
+        "created_at": "2026-02-09T18:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T19:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020931537156571541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020931537156571541",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020931130728513976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 践行自己的思想就是最大的回报啦😁\n我拯救你与你何干呢?\n不过是我对抗这个虚无荒诞的世界的一种方式罢了\n他们感谢不感谢我其实都无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2020930080990691443",
+        "created_at": "2026-02-09T18:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T19:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020931130728513976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020931130728513976",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020930080990691443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 一直在付出，很少有回报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 1745,
+          "like_count": 1468,
+          "listed_count": 10,
+          "media_count": 327,
+          "tweet_count": 2053
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 348,
+          "like_count": 107650,
+          "listed_count": 3,
+          "media_count": 581,
+          "tweet_count": 15481
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

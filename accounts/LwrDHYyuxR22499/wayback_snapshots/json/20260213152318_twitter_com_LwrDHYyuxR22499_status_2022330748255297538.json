@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2022311146934702569",
+    "created_at": "2026-02-13T15:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022330748255297538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "qngfng15108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022330748255297538",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022311146934702569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngfng15108 😁别再被送回去喽牢谷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2022311146934702569",
+        "created_at": "2026-02-13T15:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330748255297538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "qngfng15108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330748255297538",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022311146934702569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngfng15108 😁别再被送回去喽牢谷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011073315763601416",
+        "conversation_id": "2022311146934702569",
+        "created_at": "2026-02-13T14:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022311146934702569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022311146934702569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和家里人吵架吵了13个小时，救命哇QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 1821,
+          "like_count": 1583,
+          "listed_count": 12,
+          "media_count": 334,
+          "tweet_count": 2138
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | intp | https://t.co/ZHBAoZQdfs | 最喜欢的人 @qqqqqf5 大号登不上了wwwww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "qqqqqf5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 39,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 16,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 430,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 115
+        },
+        "username": "qngfng15108",
+        "verified": false
+      }
+    ]
+  }
+}

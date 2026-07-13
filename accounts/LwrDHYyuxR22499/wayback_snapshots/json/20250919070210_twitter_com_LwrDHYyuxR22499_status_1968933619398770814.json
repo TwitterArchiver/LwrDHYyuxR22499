@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1966451997466374186",
+    "created_at": "2025-09-19T07:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T08:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968933619398770814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932058700518506496",
+          "start": 0,
+          "username": "ProJectEsuTrans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968933619398770814",
+    "in_reply_to_user_id": "1932058700518506496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966451997466374186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProJectEsuTrans 找您有点事咱们可以聊几句吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1966451997466374186",
+        "created_at": "2025-09-19T07:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T08:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968933619398770814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932058700518506496",
+              "start": 0,
+              "username": "ProJectEsuTrans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968933619398770814",
+        "in_reply_to_user_id": "1932058700518506496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966451997466374186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProJectEsuTrans 找您有点事咱们可以聊几句吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932058700518506496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1966451997466374186",
+        "created_at": "2025-09-12T10:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966451997466374186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/1966013462213243066",
+              "start": 151,
+              "url": "https://t.co/EVCCBfU6na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966451997466374186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966013462213243066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🌟 登封市少林文武学校校长🌟\n🐶名：刘贺龙 \n🐷神必代码：412326****04276012\n    出生于：1990\n🆔神必号码：*8638682987\n地址：河南省郑州市登封市少林街道河南省登封市嵩山少林寺王指沟35号院\n\n光荣事迹：\n经营着一所迫害未成年人的死吗武校，登封市少林文武学校校长。 https://t.co/EVCCBfU6na"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 703,
+          "like_count": 632,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 895
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T12:54:39.000Z",
+        "description": "跨性别esu互助小组，于1919年0810日成立",
+        "id": "1932058700518506496",
+        "name": "ProJect Esu Trans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962580859179147268/K4NOJsU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 42,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "username": "ProJectEsuTrans",
+        "verified": false
+      }
+    ]
+  }
+}

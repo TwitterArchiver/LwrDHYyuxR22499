@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1919884095833682351",
+    "created_at": "2025-05-06T22:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T23:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919884095833682351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaming00742313…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yaming00742313/status/1919559049819128154",
+          "start": 4,
+          "url": "https://t.co/qZXJ82AB8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919884095833682351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919559049819128154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已就位 https://t.co/qZXJ82AB8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919559039442419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqOkxq9bAAAlzq6.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1919884095833682351",
+        "created_at": "2025-05-06T22:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T23:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919884095833682351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yaming00742313/status/1919559049819128154",
+              "start": 4,
+              "url": "https://t.co/qZXJ82AB8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919884095833682351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919559049819128154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已就位 https://t.co/qZXJ82AB8W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919559039442419712"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1919559049819128154",
+        "created_at": "2025-05-06T01:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T02:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919559049819128154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WxeqJJOFy",
+              "end": 158,
+              "expanded_url": "https://x.com/yaming00742313/status/1919559049819128154/photo/1",
+              "media_key": "3_1919559039442419712",
+              "start": 135,
+              "url": "https://t.co/0WxeqJJOFy"
+            },
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/HYuusui1999/status/1919199558015259048",
+              "start": 159,
+              "url": "https://t.co/KPtHyhJdF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919559049819128154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "受害者年仅十四\n以往的救援经验告诉我这个年纪无论跑到哪父母只需要去你所在的城市报个警就能很轻松的把你带走\n并且没有庇护所愿意收这么小的孩子\n\n所以跟受害人本人协商后团队决定\n亲身前往青岛跟当地妇联社区反应报备以及向其父母谈判并保证受害人在这段时间内的人身安全与通讯自由\n\n并在后续负责其精神恢复以及其家庭问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15726,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919199558015259048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受害者年仅十四\n以往的救援经验告诉我这个年纪无论跑到哪父母只需要去你所在的城市报个警就能很轻松的把你带走\n并且没有庇护所愿意收这么小的孩子\n\n所以跟受害人本人协商后团队决定\n亲身前往青岛跟当地妇联社区反应报备以及向其父母谈判并保证受害人在这段时间内的人身安全与通讯自由 https://t.co/0WxeqJJOFy https://t.co/KPtHyhJdF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 292,
+          "like_count": 248,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 409
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1906193015112356123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12475,
+          "following_count": 1549,
+          "like_count": 6313,
+          "listed_count": 28,
+          "media_count": 321,
+          "tweet_count": 2379
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

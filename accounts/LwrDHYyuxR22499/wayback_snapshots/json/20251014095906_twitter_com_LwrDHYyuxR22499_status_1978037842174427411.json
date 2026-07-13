@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978037838534017024"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1978037842174427411",
+    "created_at": "2025-10-14T09:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978037842174427411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YU1pvfbWnf",
+          "end": 149,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978037842174427411/photo/1",
+          "media_key": "3_1978037838534017024",
+          "start": 126,
+          "url": "https://t.co/YU1pvfbWnf"
+        },
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1977712235171446874",
+          "start": 150,
+          "url": "https://t.co/7nHMP9fWYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978037842174427411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977712235171446874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给老资历跪下了\n很可惜无论我出生如何\n我凭借自己的抗争跟\n我的人生都比你成功\n至少我不需要装老资历来弥补自己可怜的自尊😁\n我不用装也有一堆人认为我是\n而你我的朋友你看着脑子就不太好使的样子\n也许你出生就一手好牌打得稀烂\n才让您这么自狠自己成了跨性别? https://t.co/YU1pvfbWnf https://t.co/7nHMP9fWYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_1978037838534017024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Nm7x4aAAAtZWN.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978037838534017024"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1978037842174427411",
+        "created_at": "2025-10-14T09:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978037842174427411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YU1pvfbWnf",
+              "end": 149,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978037842174427411/photo/1",
+              "media_key": "3_1978037838534017024",
+              "start": 126,
+              "url": "https://t.co/YU1pvfbWnf"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1977712235171446874",
+              "start": 150,
+              "url": "https://t.co/7nHMP9fWYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978037842174427411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977712235171446874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给老资历跪下了\n很可惜无论我出生如何\n我凭借自己的抗争跟\n我的人生都比你成功\n至少我不需要装老资历来弥补自己可怜的自尊😁\n我不用装也有一堆人认为我是\n而你我的朋友你看着脑子就不太好使的样子\n也许你出生就一手好牌打得稀烂\n才让您这么自狠自己成了跨性别? https://t.co/YU1pvfbWnf https://t.co/7nHMP9fWYJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1977693279744577829",
+        "created_at": "2025-10-13T12:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977712235171446874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977712235171446874",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977708960019775997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 是的，你妈在生你之前就是阴宅了，这一点确实了不起，亲妈亲爹想堕胎都堕不掉，也是堕天使了，太有生活了，太精彩了。听你说起来好像你爹在你出生前就跑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 883,
+          "like_count": 704,
+          "listed_count": 5,
+          "media_count": 229,
+          "tweet_count": 1058
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977704829515407415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 2552
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

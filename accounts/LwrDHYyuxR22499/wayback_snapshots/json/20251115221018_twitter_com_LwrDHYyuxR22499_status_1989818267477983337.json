@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989787092931809292",
+    "created_at": "2025-11-15T22:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T23:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989818267477983337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793837778314338304",
+          "start": 0,
+          "username": "Woliketouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989818267477983337",
+    "in_reply_to_user_id": "1793837778314338304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989817654031650941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Woliketouzhele 这跟他从不经我允许就转发我办的案子有什么关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989787092931809292",
+        "created_at": "2025-11-15T22:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989818267477983337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793837778314338304",
+              "start": 0,
+              "username": "Woliketouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989818267477983337",
+        "in_reply_to_user_id": "1793837778314338304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989817654031650941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Woliketouzhele 这跟他从不经我允许就转发我办的案子有什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793837778314338304",
+        "conversation_id": "1989787092931809292",
+        "created_at": "2025-11-15T22:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989817654031650941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989817654031650941",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989788277411655773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 如果没有李或者其他反贼大v发布的这信息，我是不知道还有这事的，而且跨度时间还这么长，范围还不小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1031,
+          "like_count": 835,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1395
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T02:54:39.000Z",
+        "description": "主张反共复清，西方民主，马列那一套，都是殖人思维，见了皇帝和官员三跪九叩才是正统，为什么长膝盖？就是用来下跪的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "program-think.blogspot.com/?m=1",
+                "end": 23,
+                "expanded_url": "https://program-think.blogspot.com/?m=1",
+                "start": 0,
+                "url": "https://t.co/zGAdmZB1bU"
+              }
+            ]
+          }
+        },
+        "id": "1793837778314338304",
+        "location": "笼国(网址是编程随想博客)",
+        "name": "豹国师",
+        "pinned_tweet_id": "1920350237656560034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892849509895430146/IKe388hE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 773,
+          "like_count": 36884,
+          "listed_count": 1,
+          "media_count": 1075,
+          "tweet_count": 9035
+        },
+        "url": "https://t.co/zGAdmZB1bU",
+        "username": "Woliketouzhele",
+        "verified": false
+      }
+    ]
+  }
+}

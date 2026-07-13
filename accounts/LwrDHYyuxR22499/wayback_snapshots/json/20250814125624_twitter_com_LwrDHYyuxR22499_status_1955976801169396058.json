@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1955976801169396058",
+    "created_at": "2025-08-14T12:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T13:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955976801169396058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1955939459196723692",
+          "start": 131,
+          "url": "https://t.co/PNIsoIqyGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955976801169396058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955939459196723692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这案子我在济南当地刚办到一半\n你就发?\n你这不是纯纯的给我找麻烦?\n我明天就要去教育局的专班跟人家对接去了\n我看算了明天直接去国安局得了\n再说人家受害者还有他的亲密关系不允许他的名字出现在外网的\n你有没有问?\n你这样对受害者本人完全不负责\n你应该把你的稿子删掉 https://t.co/PNIsoIqyGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 172166,
+        "height": 790,
+        "media_key": "13_1955932969761185793",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955932969761185793/img/PWw7f3J2zy4PJNEf.jpg",
+        "public_metrics": {
+          "view_count": 16248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955932969761185793/vid/avc1/320x350/h8NhqMLwujVjEiEv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955932969761185793/vid/avc1/480x526/KgsMTDF4IweIOXjQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955932969761185793/vid/avc1/720x790/rC6XEwRnHLyx2FYp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955932969761185793/pl/FRdYCnxIrLkC1OXk.m3u8?v=f01"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1955976801169396058",
+        "created_at": "2025-08-14T12:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955976801169396058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1955939459196723692",
+              "start": 131,
+              "url": "https://t.co/PNIsoIqyGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955976801169396058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955939459196723692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这案子我在济南当地刚办到一半\n你就发?\n你这不是纯纯的给我找麻烦?\n我明天就要去教育局的专班跟人家对接去了\n我看算了明天直接去国安局得了\n再说人家受害者还有他的亲密关系不允许他的名字出现在外网的\n你有没有问?\n你这样对受害者本人完全不负责\n你应该把你的稿子删掉 https://t.co/PNIsoIqyGc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955932969761185793"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1955939459196723692",
+        "created_at": "2025-08-14T10:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955939459196723692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJwiYxpz12",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1955939459196723692/video/1",
+              "media_key": "13_1955932969761185793",
+              "start": 144,
+              "url": "https://t.co/zJwiYxpz12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955939459196723692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 35168,
+          "like_count": 157,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "8月13日，有网友发布视频称，家住南京的19岁青年李冠希（音）于7月21日被山东济南仁人教育中心派人从南京非法带走后，至今音讯全无。\n\n网友称，此事已涉嫌非法拘禁，呼吁更多受害者提供有关“山东省济南市长清区海棠路336号仁人教育拓展中心”，长期非法拘禁、虐待、侮辱青少年证据和口述资料。 https://t.co/zJwiYxpz12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 484,
+          "like_count": 456,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 665
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078951,
+          "following_count": 984,
+          "like_count": 7907,
+          "listed_count": 8269,
+          "media_count": 33385,
+          "tweet_count": 40129
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

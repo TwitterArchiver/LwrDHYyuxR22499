@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2055227374833488118",
+    "created_at": "2026-05-15T10:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055233340974956690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "103279607",
+          "start": 0,
+          "username": "konggzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055233340974956690",
+    "in_reply_to_user_id": "103279607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055233151950274927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konggzi 这个摸到顶了我就打算换个做了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055227374833488118",
+        "created_at": "2026-05-15T10:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055233340974956690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "103279607",
+              "start": 0,
+              "username": "konggzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055233340974956690",
+        "in_reply_to_user_id": "103279607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055233151950274927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konggzi 这个摸到顶了我就打算换个做了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "103279607",
+        "conversation_id": "2055227374833488118",
+        "created_at": "2026-05-15T10:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055233151950274927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055233151950274927",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055227374833488118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 bro是个英雄 并且疑似找到了事业 很棒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5074,
+          "following_count": 2791,
+          "like_count": 2778,
+          "listed_count": 18,
+          "media_count": 415,
+          "tweet_count": 2746
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-09T14:14:20.000Z",
+        "description": "G+人。没有结婚，有两三个孩子等。",
+        "id": "103279607",
+        "name": "空格子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653329711412703232/pMO4zDUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 837,
+          "like_count": 63739,
+          "listed_count": 3,
+          "media_count": 1890,
+          "tweet_count": 10044
+        },
+        "username": "konggzi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1982718029822906660",
+    "created_at": "2025-10-27T07:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982718029822906660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LumiCatRoll/st…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/LumiCatRoll/status/1982651421024776406",
+          "start": 81,
+          "url": "https://t.co/Vij6MsJg1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982718029822906660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982651421024776406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤪BYD这点钱给我够我给你捞六七个人外加干碎一家学校的了\n这么一看我还是太效率了\n令我深思\n为啥救人命的经费我都要从我爸给我的遗产里扣\n这些人咋拿钱不当钱一样😢 https://t.co/Vij6MsJg1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1982651325860003840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PK4FdXwAAgiCc.jpg",
+        "width": 658
+      },
+      {
+        "height": 1125,
+        "media_key": "3_1982651338799341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PK41qWYAAmWHL.jpg",
+        "width": 606
+      },
+      {
+        "height": 1125,
+        "media_key": "3_1982651350002393088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PK5fZXYAAHq79.jpg",
+        "width": 561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1982718029822906660",
+        "created_at": "2025-10-27T07:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982718029822906660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LumiCatRoll/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LumiCatRoll/status/1982651421024776406",
+              "start": 81,
+              "url": "https://t.co/Vij6MsJg1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982718029822906660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982651421024776406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤪BYD这点钱给我够我给你捞六七个人外加干碎一家学校的了\n这么一看我还是太效率了\n令我深思\n为啥救人命的经费我都要从我爸给我的遗产里扣\n这些人咋拿钱不当钱一样😢 https://t.co/Vij6MsJg1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982651325860003840",
+            "3_1982651338799341568",
+            "3_1982651350002393088"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982651421024776406",
+        "created_at": "2025-10-27T03:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651421024776406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSaVC7iFOB",
+              "end": 116,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982651421024776406/photo/1",
+              "media_key": "3_1982651325860003840",
+              "start": 93,
+              "url": "https://t.co/ZSaVC7iFOB"
+            },
+            {
+              "display_url": "pic.x.com/ZSaVC7iFOB",
+              "end": 116,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982651421024776406/photo/1",
+              "media_key": "3_1982651338799341568",
+              "start": 93,
+              "url": "https://t.co/ZSaVC7iFOB"
+            },
+            {
+              "display_url": "pic.x.com/ZSaVC7iFOB",
+              "end": 116,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982651421024776406/photo/1",
+              "media_key": "3_1982651350002393088",
+              "start": 93,
+              "url": "https://t.co/ZSaVC7iFOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651421024776406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7275,
+          "like_count": 72,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "《池鱼鱼/吴相泽诈骗19535元人民币全纪实》，嫌犯以高超的手法博得受害者的同情和信任，专业程度令人难以想象。这篇文章我就写的幽默一点，让大家看的不那么无聊。首先是最简单的，卖惨博同情 https://t.co/ZSaVC7iFOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1982717483980374122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 951,
+          "like_count": 773,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1378
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "诉求：@Chiyuyu520 唯一解决方式是自己联系羽毛归还19535元 联系猫卷归还555元。| 长居新加坡, PhD @NTUsg, 休学度假中 | 神秘法系车主 | HRT药物请私信 日雌380泰补190诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 767,
+          "like_count": 598,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1642
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

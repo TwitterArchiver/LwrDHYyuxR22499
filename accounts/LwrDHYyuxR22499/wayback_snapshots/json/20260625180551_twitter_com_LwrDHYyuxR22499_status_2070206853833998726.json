@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2070197528864452949",
+    "created_at": "2026-06-25T18:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070206853833998726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070206853833998726",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070206688532328788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 每年圣诞节会有活动\n有人多东西可以吃还有礼物可以拿\n十分热闹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2070197528864452949",
+        "created_at": "2026-06-25T18:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070206853833998726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070206853833998726",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070206688532328788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 每年圣诞节会有活动\n有人多东西可以吃还有礼物可以拿\n十分热闹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2070197528864452949",
+        "created_at": "2026-06-25T18:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070206688532328788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070206688532328788",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070206395417612558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那说明基督还行，回头我也去瞅瞅，看看有没有贡品可以吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6016,
+          "following_count": 3263,
+          "like_count": 3531,
+          "listed_count": 19,
+          "media_count": 472,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 432,
+          "like_count": 131063,
+          "listed_count": 2,
+          "media_count": 821,
+          "tweet_count": 19995
+        },
+        "url": "",
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

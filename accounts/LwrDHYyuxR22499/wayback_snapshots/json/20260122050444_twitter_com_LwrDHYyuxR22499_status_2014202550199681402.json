@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013635176920744045",
+    "created_at": "2026-01-22T05:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T06:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014202550199681402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807127113444859904",
+          "start": 0,
+          "username": "3782315694Xiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014202550199681402",
+    "in_reply_to_user_id": "1807127113444859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014202363716735124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3782315694Xiang 😁主要是当助教有的时候就能拿手机了是就可以进行卧底取证了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-22T05:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014202550199681402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807127113444859904",
+              "start": 0,
+              "username": "3782315694Xiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014202550199681402",
+        "in_reply_to_user_id": "1807127113444859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014202363716735124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3782315694Xiang 😁主要是当助教有的时候就能拿手机了是就可以进行卧底取证了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807127113444859904",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-22T05:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014202363716735124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014202363716735124",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014201683383824584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 助教给我当我也不当，我就只想安安稳稳的过完时间，结果竟还没过完时间，精神先崩溃了，我自杀了，成功让我现在对家人的感情可以说像陌生人一样，以前我妈哭着自残扇自己嘴巴，我心痛的不得了，现在我心里只想说关我屁事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 1639,
+          "like_count": 1399,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1949
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:01:04.000Z",
+        "description": "联系方式qq3997247387，聊天群897084565",
+        "id": "1807127113444859904",
+        "name": "怀愚痴卖五倍雌二醇凝胶🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007043403515936768/FIQsBpfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 88,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 67
+        },
+        "username": "3782315694Xiang",
+        "verified": false
+      }
+    ]
+  }
+}

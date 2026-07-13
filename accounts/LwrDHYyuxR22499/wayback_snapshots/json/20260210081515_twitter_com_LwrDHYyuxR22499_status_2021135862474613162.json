@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021094122925457674",
+    "created_at": "2026-02-10T08:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T09:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021135862474613162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "AkonBritain"
+        },
+        {
+          "end": 22,
+          "id": "1968187553695272960",
+          "start": 13,
+          "username": "EzraRan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021135862474613162",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021135092094206084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkonBritain @EzraRan_ 很抱歉我只是在陈述事实\n网暴是你的说辞\n如果说一句实话就是“网暴”\n“对立”\n那你跟老共没啥区别他们也爱玩这一套只不过他们的叫法不同\n他们吧这个叫“颜色革命”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T08:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021135862474613162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "AkonBritain"
+            },
+            {
+              "end": 22,
+              "id": "1968187553695272960",
+              "start": 13,
+              "username": "EzraRan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021135862474613162",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021135092094206084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkonBritain @EzraRan_ 很抱歉我只是在陈述事实\n网暴是你的说辞\n如果说一句实话就是“网暴”\n“对立”\n那你跟老共没啥区别他们也爱玩这一套只不过他们的叫法不同\n他们吧这个叫“颜色革命”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T08:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021135092094206084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 26,
+              "id": "1968187553695272960",
+              "start": 17,
+              "username": "EzraRan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021135092094206084",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021131064597709276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @EzraRan_ 深爱…\n\n明明连自己发推引发的网爆所造成的严重性质都不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 1766,
+          "like_count": 1499,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 2084
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurélia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919148943982592/yNkKa2ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 95,
+          "like_count": 125925,
+          "listed_count": 3,
+          "media_count": 5122,
+          "tweet_count": 69713
+        },
+        "username": "AkonBritain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "EzraRan. レン エジュラです丨\nSocial Liberalism,Multiculturalism,LIBERALISM丨Liberté, Égalité, Fraternité🇫🇷丨Egalitarianism & EQUAL opportunity🌺丨\nJP国民民主党、TW民衆党支持丨ガンディー推し",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 2099,
+          "like_count": 27580,
+          "listed_count": 7,
+          "media_count": 1199,
+          "tweet_count": 8646
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

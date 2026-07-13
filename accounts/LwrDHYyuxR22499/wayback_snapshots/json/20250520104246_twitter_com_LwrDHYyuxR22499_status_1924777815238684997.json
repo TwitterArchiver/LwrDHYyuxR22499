@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1923658614608363682",
+    "created_at": "2025-05-20T10:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T11:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924777815238684997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924777815238684997",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923658614608363682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 交代我是怎么抢人的怎么开的门撬的锁身上有没有武器以及为什么这么做"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1923658583046033409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrI1Sg-XEAEmqL4.png",
+        "width": 733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1923658614608363682",
+        "created_at": "2025-05-20T10:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T11:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924777815238684997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924777815238684997",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923658614608363682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 交代我是怎么抢人的怎么开的门撬的锁身上有没有武器以及为什么这么做"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923658583046033409"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1923658614608363682",
+        "created_at": "2025-05-17T08:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923658614608363682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KqE7ISoyZ",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1923658614608363682/photo/1",
+              "media_key": "3_1923658583046033409",
+              "start": 4,
+              "url": "https://t.co/9KqE7ISoyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923658614608363682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 330706,
+          "like_count": 1651,
+          "quote_count": 91,
+          "reply_count": 558,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "来说说 https://t.co/9KqE7ISoyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 328,
+          "like_count": 322,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 477
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 3605,
+          "like_count": 9491,
+          "listed_count": 4,
+          "media_count": 1613,
+          "tweet_count": 13372
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

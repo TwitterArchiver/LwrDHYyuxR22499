@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883339740902240452",
+    "created_at": "2025-01-26T02:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T03:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883339740902240452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RIRENMB/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/RIRENMB/status/1883035644299256291",
+          "start": 9,
+          "url": "https://t.co/aGI2yPxsax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883339740902240452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883035644299256291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好事\n想跟着一起 https://t.co/aGI2yPxsax"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883339740902240452",
+        "created_at": "2025-01-26T02:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T03:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883339740902240452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RIRENMB/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/RIRENMB/status/1883035644299256291",
+              "start": 9,
+              "url": "https://t.co/aGI2yPxsax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883339740902240452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883035644299256291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好事\n想跟着一起 https://t.co/aGI2yPxsax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883035634077503488"
+          ]
+        },
+        "author_id": "1736452884282097665",
+        "conversation_id": "1883035644299256291",
+        "created_at": "2025-01-25T06:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T07:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883035644299256291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiRIS2w2dz",
+              "end": 109,
+              "expanded_url": "https://x.com/RIRENMB/status/1883035644299256291/photo/1",
+              "media_key": "3_1883035634077503488",
+              "start": 86,
+              "url": "https://t.co/hiRIS2w2dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883035644299256291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 477070,
+          "like_count": 1960,
+          "quote_count": 25,
+          "reply_count": 320,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "2025/1/24/，一四川媳妇到山东婆家过年，当地要求女性不能上桌吃饭，四川女子掀翻桌子！\n网友：没有丢四川人的脸n\n网友：不是规矩多，而是坏规矩太多，好规矩太少太少！ https://t.co/hiRIS2w2dz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 147,
+          "like_count": 86,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 198
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T18:27:19.000Z",
+        "description": "喂人民服雾！让公猪爬树！英雄不问出处，梁家河畔养猪！",
+        "id": "1736452884282097665",
+        "location": "洛杉矶",
+        "name": "日人民报",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837269385544683520/zNqzYtkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65815,
+          "following_count": 2128,
+          "like_count": 18508,
+          "listed_count": 178,
+          "media_count": 3558,
+          "tweet_count": 5621
+        },
+        "username": "RIRENMB",
+        "verified": true
+      }
+    ]
+  }
+}

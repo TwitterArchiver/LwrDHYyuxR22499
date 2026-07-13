@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1951967229219610625",
+    "created_at": "2025-08-03T20:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T21:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952111148322394606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497481140915290115",
+          "start": 0,
+          "username": "karasu_ga_warau"
+        },
+        {
+          "end": 32,
+          "id": "1260553941714186241",
+          "start": 17,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 44,
+          "id": "1280446153767649280",
+          "start": 33,
+          "username": "tomcanetti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952111148322394606",
+    "in_reply_to_user_id": "1497481140915290115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951967229219610625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karasu_ga_warau @whyyoutouzhele @tomcanetti 你们挖的太浅了这只是表面的几个人而已"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951967198009753601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbH0xqWAAEhcgg.jpg",
+        "width": 458
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951967197988798464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbH0xlWQAAjYIb.jpg",
+        "width": 530
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951967198039203842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbH0xxXYAIP3tq.jpg",
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1951967229219610625",
+        "created_at": "2025-08-03T20:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952111148322394606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497481140915290115",
+              "start": 0,
+              "username": "karasu_ga_warau"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 44,
+              "id": "1280446153767649280",
+              "start": 33,
+              "username": "tomcanetti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952111148322394606",
+        "in_reply_to_user_id": "1497481140915290115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951967229219610625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karasu_ga_warau @whyyoutouzhele @tomcanetti 你们挖的太浅了这只是表面的几个人而已"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951967198009753601",
+            "3_1951967197988798464",
+            "3_1951967198039203842"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1951967229219610625",
+        "created_at": "2025-08-03T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951967229219610625"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "扭轉治療"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "中共當局"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1280446153767649280",
+              "start": 11,
+              "username": "tomcanetti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKgEyZ8QUT",
+              "end": 176,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/1951967229219610625/photo/1",
+              "media_key": "3_1951967198009753601",
+              "start": 153,
+              "url": "https://t.co/pKgEyZ8QUT"
+            },
+            {
+              "display_url": "pic.x.com/pKgEyZ8QUT",
+              "end": 176,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/1951967229219610625/photo/1",
+              "media_key": "3_1951967197988798464",
+              "start": 153,
+              "url": "https://t.co/pKgEyZ8QUT"
+            },
+            {
+              "display_url": "pic.x.com/pKgEyZ8QUT",
+              "end": 176,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/1951967229219610625/photo/1",
+              "media_key": "3_1951967198039203842",
+              "start": 153,
+              "url": "https://t.co/pKgEyZ8QUT"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1951840454141509757",
+              "start": 177,
+              "url": "https://t.co/5QgghYVi9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951967229219610625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "扭轉治療"
+              },
+              {
+                "end": 71,
+                "start": 66,
+                "tag": "中共當局"
+              },
+              {
+                "end": 157,
+                "start": 153,
+                "tag": "何新國"
+              },
+              {
+                "end": 334,
+                "start": 331,
+                "tag": "新疆"
+              },
+              {
+                "end": 338,
+                "start": 335,
+                "tag": "西藏"
+              },
+              {
+                "end": 380,
+                "start": 375,
+                "tag": "再教育營"
+              },
+              {
+                "end": 490,
+                "start": 484,
+                "tag": "性少數群體"
+              },
+              {
+                "end": 500,
+                "start": 495,
+                "tag": "網癮少年"
+              },
+              {
+                "end": 506,
+                "start": 501,
+                "tag": "叛逆孩童"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "id": "1280446153767649280",
+                "start": 11,
+                "username": "tomcanetti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web.archive.org/web/2023032001…",
+                "end": 652,
+                "expanded_url": "https://web.archive.org/web/20230320011609/https://www.crikey.com.au/2023/03/13/china-gay-conversion-camps/",
+                "start": 629,
+                "url": "https://t.co/J0fEos3c0u"
+              }
+            ]
+          },
+          "text": "2023年，調查記者 @tomcanetti 在一篇調查報導中揭示了「網癮學校」，包括針對特定群體的 #扭轉治療 機構，其背後有著 #中共當局 的直接支持和千絲萬縷的連繫。\n\n例如，一些「學校」在教育部直接監督下開設，在它們的官網，可以找到其核心員工乃至心理專家是中共黨員。\n\n這其中最顯著的例子是這名叫 #何新國 的人，在報導之外，資料還顯示他擔任「志和學校」校長，而該學校是「一家針對網絡成癮、叛逆任性、厭學逃學、沈迷早戀….等成長問題的青少年進行心理輔導、思想教育、行為矯正、素質培訓和文化輔導的機構….先後被《政法頻道》、《當代商報》、《人民網》、《新華網》、《聯合早報網》等二十多家主流媒體深度報道。」\n\n另一些扭轉治療機構的「教官」則直接來自參與過 #新疆 #西藏 維穩行動的退伍軍人，而這些學校的衛星圖顯示它們的建築結構和維吾爾地區的 #再教育營 有著諸多相似之處。\n\n通過衛星地圖辨別、跟蹤來揭露新疆再教育營的建設過程，在過去成了相關議題下幾乎最為知名的調查方式。這篇報導的關鍵之處，在於它指出了那些當局針對維吾爾人的「管理經驗」是怎樣被推廣到內陸的 #性少數群體 和所謂 #網癮少年 #叛逆孩童 身上的。\n\n在一些官方敘事中，中國政府一直將自身塑造為在LGBT議題上保持中立（乃至相對溫和）的角色，在官方敘事上試圖切斷它直接參與迫害的證據。但是，我們仍然能通過這些專業的調查報導，從證據的碎片中一點點拼湊出官方在其中扮演的真實角色。\n\n🔗 https://t.co/J0fEos3c0u"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 83904,
+          "like_count": 150,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951840454141509757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2023年，調查記者 @tomcanetti 在一篇調查報導中揭示了「網癮學校」，包括針對特定群體的 #扭轉治療 機構，其背後有著 #中共當局 的直接支持和千絲萬縷的連繫。\n\n例如，一些「學校」在教育部直接監督下開設，在它們的官網，可以找到其核心員工乃至心理專家是中共黨員。\n\n這其中最顯著的例子是這名叫 https://t.co/pKgEyZ8QUT https://t.co/5QgghYVi9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 459,
+          "like_count": 445,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 614
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25954,
+          "following_count": 1278,
+          "like_count": 8516,
+          "listed_count": 100,
+          "media_count": 393,
+          "tweet_count": 4203
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050243,
+          "following_count": 980,
+          "like_count": 7801,
+          "listed_count": 8221,
+          "media_count": 32736,
+          "tweet_count": 39440
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-07T10:18:59.000Z",
+        "description": "Southern Africa correspondent for @France24 via @AFP , @ABCnews . tomcanetti@proton.me or tcanetti@france24.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "France24"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "username": "AFP"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "ABCnews"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "france24.com/en/",
+                "end": 23,
+                "expanded_url": "https://www.france24.com/en/",
+                "start": 0,
+                "url": "https://t.co/Babs6UgVyI"
+              }
+            ]
+          }
+        },
+        "id": "1280446153767649280",
+        "location": "Cape Town, South Africa",
+        "name": "Tom Canetti",
+        "pinned_tweet_id": "1912778242458533957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887903399686897665/IuIz12tp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 5374,
+          "like_count": 2301,
+          "listed_count": 21,
+          "media_count": 53,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/Babs6UgVyI",
+        "username": "tomcanetti",
+        "verified": false
+      }
+    ]
+  }
+}

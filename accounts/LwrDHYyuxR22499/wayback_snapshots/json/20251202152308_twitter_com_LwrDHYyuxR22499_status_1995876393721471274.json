@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1994548636437680410",
+    "created_at": "2025-12-02T15:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995876393721471274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1726219041063198720",
+          "start": 0,
+          "username": "yue35602"
+        },
+        {
+          "end": 26,
+          "id": "1608548212977324032",
+          "start": 10,
+          "username": "qwx_autumn_star"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995876393721471274",
+    "in_reply_to_user_id": "1726219041063198720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995875633730322662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue35602 @qwx_autumn_star 庇护所没有但你可以加我联系方式我会尽可能的给你提供帮助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1994548636437680410",
+        "created_at": "2025-12-02T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995876393721471274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1726219041063198720",
+              "start": 0,
+              "username": "yue35602"
+            },
+            {
+              "end": 26,
+              "id": "1608548212977324032",
+              "start": 10,
+              "username": "qwx_autumn_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995876393721471274",
+        "in_reply_to_user_id": "1726219041063198720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995875633730322662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue35602 @qwx_autumn_star 庇护所没有但你可以加我联系方式我会尽可能的给你提供帮助"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726219041063198720",
+        "conversation_id": "1994548636437680410",
+        "created_at": "2025-12-02T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995875633730322662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1608548212977324032",
+              "start": 17,
+              "username": "qwx_autumn_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995875633730322662",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995871865613811729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @qwx_autumn_star 请问，有没有河南附近的庇护所啊，我真的非常需要，我已经被送进去过一次了，可以给个联系方式吗，我没其他办法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1129,
+          "like_count": 920,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 1489
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T12:41:17.000Z",
+        "description": "",
+        "id": "1726219041063198720",
+        "location": "新加坡",
+        "name": "九月的柿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726221193840111616/PKOv2LRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 26,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "yue35602",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T19:39:24.000Z",
+        "description": "想要35w元 （许愿 🥺 这个不是求助 这个只是愿望🥹",
+        "id": "1608548212977324032",
+        "name": "秋望星",
+        "pinned_tweet_id": "1989441018924875896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962129865723064320/_HP8PRIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 393,
+          "like_count": 35880,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2807
+        },
+        "username": "qwx_autumn_star",
+        "verified": false
+      }
+    ]
+  }
+}

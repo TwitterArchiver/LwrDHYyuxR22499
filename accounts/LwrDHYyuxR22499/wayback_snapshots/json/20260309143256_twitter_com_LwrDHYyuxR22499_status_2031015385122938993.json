@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2030989109909700973",
+    "created_at": "2026-03-09T14:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031015385122938993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001768648936222720",
+          "start": 0,
+          "username": "GregoryDia70880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031015385122938993",
+    "in_reply_to_user_id": "2001768648936222720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031015003877474718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GregoryDia70880 我已经做前者了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2030989109909700973",
+        "created_at": "2026-03-09T14:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031015385122938993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001768648936222720",
+              "start": 0,
+              "username": "GregoryDia70880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031015385122938993",
+        "in_reply_to_user_id": "2001768648936222720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031015003877474718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GregoryDia70880 我已经做前者了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001768648936222720",
+        "conversation_id": "2030989109909700973",
+        "created_at": "2026-03-09T14:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031015003877474718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031015003877474718",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030989109909700973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 能帮到更多人 or  能帮一个人。你怎么不选前者，系统性的救援"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 2012,
+          "like_count": 1962,
+          "listed_count": 12,
+          "media_count": 359,
+          "tweet_count": 2327
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T21:37:02.000Z",
+        "description": "",
+        "id": "2001768648936222720",
+        "name": "Gregory Diaz",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "GregoryDia70880",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070027088741175296"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2070027097444319523",
+    "created_at": "2026-06-25T06:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070027097444319523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xSMaJclgt",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070027097444319523/photo/1",
+          "media_key": "3_2070027088741175296",
+          "start": 84,
+          "url": "https://t.co/3xSMaJclgt"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070025047297970503",
+          "start": 108,
+          "url": "https://t.co/TfNeAI8RgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070027097444319523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070025047297970503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在对方要求赔七万块钱加上他们的律师费\n虽然起诉的压根就不是我\n我可以一走了之\n但是我绝对不抛弃任何一个人\n要死可以一起死\n我目前给了三千律师费\n过几天我还要再给七千 https://t.co/3xSMaJclgt https://t.co/TfNeAI8RgO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070027088741175296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo2q3PakAAmgf6.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070025037487513600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo0zduboAA3DnQ.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070025038435340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo0zhQaUAA3y8a.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070025038800236544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo0zinaMAArNJE.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070027088741175296"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2070027097444319523",
+        "created_at": "2026-06-25T06:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070027097444319523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xSMaJclgt",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070027097444319523/photo/1",
+              "media_key": "3_2070027088741175296",
+              "start": 84,
+              "url": "https://t.co/3xSMaJclgt"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070025047297970503",
+              "start": 108,
+              "url": "https://t.co/TfNeAI8RgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070027097444319523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070025047297970503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在对方要求赔七万块钱加上他们的律师费\n虽然起诉的压根就不是我\n我可以一走了之\n但是我绝对不抛弃任何一个人\n要死可以一起死\n我目前给了三千律师费\n过几天我还要再给七千 https://t.co/3xSMaJclgt https://t.co/TfNeAI8RgO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070025037487513600",
+            "3_2070025038435340288",
+            "3_2070025038800236544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070025047297970503",
+        "created_at": "2026-06-25T06:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070025047297970503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9djqfVkyS",
+              "end": 134,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070025047297970503/photo/1",
+              "media_key": "3_2070025037487513600",
+              "start": 111,
+              "url": "https://t.co/p9djqfVkyS"
+            },
+            {
+              "display_url": "pic.x.com/p9djqfVkyS",
+              "end": 134,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070025047297970503/photo/1",
+              "media_key": "3_2070025038435340288",
+              "start": 111,
+              "url": "https://t.co/p9djqfVkyS"
+            },
+            {
+              "display_url": "pic.x.com/p9djqfVkyS",
+              "end": 134,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070025047297970503/photo/1",
+              "media_key": "3_2070025038800236544",
+              "start": 111,
+              "url": "https://t.co/p9djqfVkyS"
+            },
+            {
+              "display_url": "x.com/mkc44710888337…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/mkc447108883371/status/2069993088068751834",
+              "start": 135,
+              "url": "https://t.co/RqcCEXNowF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070025047297970503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069993088068751834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2025/10/19\n经朋友引进这案子我就接手了\n当时人在哪都不知道\n我拿着我收集到的这些学校的黑料跟一大堆人\n好劝歹劝他姐姐\n才得到了人的具体位置\n后续采访受害者完成的曝光救援\n我顺带把这位做的伪证放出来供各位自行观看 https://t.co/p9djqfVkyS https://t.co/RqcCEXNowF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6011,
+          "following_count": 3257,
+          "like_count": 3504,
+          "listed_count": 19,
+          "media_count": 471,
+          "tweet_count": 3154
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

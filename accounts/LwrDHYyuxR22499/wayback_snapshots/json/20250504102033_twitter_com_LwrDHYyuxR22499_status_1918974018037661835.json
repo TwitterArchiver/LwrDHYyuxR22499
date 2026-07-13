@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918974015089303552"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1918974018037661835",
+    "created_at": "2025-05-04T10:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T11:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918974018037661835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZkunQISjGU",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1918974018037661835/photo/1",
+          "media_key": "3_1918974015089303552",
+          "start": 144,
+          "url": "https://t.co/ZkunQISjGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918974018037661835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汤戈韬的逻辑有明显的错误\n如果只是为博取在跨性别内部的流量\n绝不该出现\n“为了不能变现的跨性别流量所以我要反跨”\n如果他真的想博取流量应该跟你一样凭空造别人黄谣\n断章取义说我辱骂你却只字不提辱骂你的原因是你造谣他人神经病导致被公权力部门迫害\n给别人扣个帽子断章取义搞霸凌\n好彰显你的进步 https://t.co/ZkunQISjGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918974015089303552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGQsxaaYAAOr9w.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918974015089303552"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1918974018037661835",
+        "created_at": "2025-05-04T10:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T11:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918974018037661835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkunQISjGU",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1918974018037661835/photo/1",
+              "media_key": "3_1918974015089303552",
+              "start": 144,
+              "url": "https://t.co/ZkunQISjGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918974018037661835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汤戈韬的逻辑有明显的错误\n如果只是为博取在跨性别内部的流量\n绝不该出现\n“为了不能变现的跨性别流量所以我要反跨”\n如果他真的想博取流量应该跟你一样凭空造别人黄谣\n断章取义说我辱骂你却只字不提辱骂你的原因是你造谣他人神经病导致被公权力部门迫害\n给别人扣个帽子断章取义搞霸凌\n好彰显你的进步 https://t.co/ZkunQISjGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 286,
+          "like_count": 228,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 385
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

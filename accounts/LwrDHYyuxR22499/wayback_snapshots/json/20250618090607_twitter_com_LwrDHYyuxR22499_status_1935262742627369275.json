@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1935262742627369275",
+    "created_at": "2025-06-18T09:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T10:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935262742627369275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuKi520521/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/YuKi520521/status/1934843389398405552",
+          "start": 19,
+          "url": "https://t.co/6xe41T2nmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935262742627369275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934843389398405552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位啊……这位被抓了我认为没太大问题 https://t.co/6xe41T2nmp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1935262742627369275",
+        "created_at": "2025-06-18T09:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935262742627369275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuKi520521/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/YuKi520521/status/1934843389398405552",
+              "start": 19,
+              "url": "https://t.co/6xe41T2nmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935262742627369275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934843389398405552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位啊……这位被抓了我认为没太大问题 https://t.co/6xe41T2nmp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-17T05:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T06:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934843389398405552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1836782122037874688",
+              "start": 13,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934843389398405552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 15560,
+          "like_count": 127,
+          "quote_count": 11,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "三崎@misakaxyg/@mio1738468两个号，最近失去音讯，特此说明:\n三崎因不可抗力被晶哥带走指控罪名贩毒，针对已在三崎处购买了药品的可以告知我，如果我在三崎住处又发现尚且残余的药品我会及时发货，针对已被带走取证的药物我无能为力需要等三崎本人取保候审、缓刑、刑满释放才能退款发货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 376,
+          "like_count": 368,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 528
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8713,
+          "following_count": 1024,
+          "like_count": 14964,
+          "listed_count": 15,
+          "media_count": 239,
+          "tweet_count": 1772
+        },
+        "username": "YuKi520521",
+        "verified": false
+      }
+    ]
+  }
+}

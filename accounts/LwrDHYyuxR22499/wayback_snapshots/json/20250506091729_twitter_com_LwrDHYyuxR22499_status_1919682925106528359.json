@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1919680286050365739",
+    "created_at": "2025-05-06T09:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T10:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919682925106528359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647815138450505730",
+          "start": 0,
+          "username": "yaming00742313"
+        },
+        {
+          "end": 30,
+          "id": "991149227613929472",
+          "start": 16,
+          "username": "Dominnicchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919682925106528359",
+    "in_reply_to_user_id": "1647815138450505730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919680286050365739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaming00742313 @Dominnicchina🤣你妈死了我头放着你剁的掉吗我因为生病服用激素类药物导致长胖也可以被你嘲讽?\n跟你这种人确实难以为谋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_1919680281973555201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQTC6lbAAE31Lj.jpg",
+        "width": 529
+      },
+      {
+        "height": 1314,
+        "media_key": "3_1919680282229407746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQTC7ibAAIc8gV.jpg",
+        "width": 540
+      },
+      {
+        "height": 387,
+        "media_key": "3_1919680281327632386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQTC4LbAAIEgdm.jpg",
+        "width": 539
+      },
+      {
+        "height": 768,
+        "media_key": "3_1919680281940000768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQTC6dbAAAG7Fx.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1919680286050365739",
+        "created_at": "2025-05-06T09:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919682925106528359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647815138450505730",
+              "start": 0,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 30,
+              "id": "991149227613929472",
+              "start": 16,
+              "username": "Dominnicchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919682925106528359",
+        "in_reply_to_user_id": "1647815138450505730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919680286050365739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaming00742313 @Dominnicchina🤣你妈死了我头放着你剁的掉吗我因为生病服用激素类药物导致长胖也可以被你嘲讽?\n跟你这种人确实难以为谋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919680281973555201",
+            "3_1919680282229407746",
+            "3_1919680281327632386",
+            "3_1919680281940000768"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1919680286050365739",
+        "created_at": "2025-05-06T09:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919680286050365739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnrwVDv0e3",
+              "end": 166,
+              "expanded_url": "https://x.com/yaming00742313/status/1919680286050365739/photo/1",
+              "media_key": "3_1919680281973555201",
+              "start": 143,
+              "url": "https://t.co/XnrwVDv0e3"
+            },
+            {
+              "display_url": "pic.x.com/XnrwVDv0e3",
+              "end": 166,
+              "expanded_url": "https://x.com/yaming00742313/status/1919680286050365739/photo/1",
+              "media_key": "3_1919680282229407746",
+              "start": 143,
+              "url": "https://t.co/XnrwVDv0e3"
+            },
+            {
+              "display_url": "pic.x.com/XnrwVDv0e3",
+              "end": 166,
+              "expanded_url": "https://x.com/yaming00742313/status/1919680286050365739/photo/1",
+              "media_key": "3_1919680281327632386",
+              "start": 143,
+              "url": "https://t.co/XnrwVDv0e3"
+            },
+            {
+              "display_url": "pic.x.com/XnrwVDv0e3",
+              "end": 166,
+              "expanded_url": "https://x.com/yaming00742313/status/1919680286050365739/photo/1",
+              "media_key": "3_1919680281940000768",
+              "start": 143,
+              "url": "https://t.co/XnrwVDv0e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919680286050365739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这就是做跨性别救助必须面临的，一边顶着精神经济多方面的压力，去干预家暴，预防自杀，从扭转机构中救人，同背后的黑色产业链斗争关闭戒网瘾机构，一边被帮助的群体在背后商量要把我恋人的头砍下来，侮辱我恋人的长相，就连我“品学兼优”，我有国内专业医生开具的“易性症，男转女”的诊断，也成了可以被辱骂被排斥的理由……😔甚至图中发出如此恶语的是我曾经以为的朋友。\n没有人非要成为众矢之的，没有人非要奉献自己，我之所以放弃自己疗养的机会把更多的精力投入帮助更多的和我一样的受害者身上，是因为我有一颗善良的心，是因为我得到志愿者和网友们的帮助才从那么多次苦难中活下来，我想传递这份爱。\n如果我的存在让我爱着的群体觉得扎眼觉得讨厌，我想这份爱也是传递不下去的，也许我该回到我曾经隐居的小小生活当中去\n被他们评价为竖子，为“三好”，“喜猪妹”的我，把全部身家投入到了救助当中，甚至没有钱去治疗我自己的耳朵，去治疗我的那些内伤，虽然我的身体情况不允许我参与线下的救援，但我依然在做着线上的工作，为每一次救援和避难所的运营出着自己的一份力\n被他们侮辱长相粗俗，甚至侮辱民族为“蒙古族”，要把他头砍下来的我的恋人，此时此刻正在开往山东的火车上，正在为一个14岁的面临危险的跨性别而奔波，他出任务裤子磨破了都舍不得买新的，我给他缝缝补补继续穿，鞋子破了也是将就穿。他把自己父亲的遗产都拿出来救人了，可是得到的是什么？😢\n我们决定燃烧自己最后的价值去传递爱，去帮助更多的人，可是这一切真的值得吗？😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 183,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是做跨性别救助必须面临的，一边顶着精神经济多方面的压力，去干预家暴，预防自杀，从扭转机构中救人，同背后的黑色产业链斗争关闭戒网瘾机构，一边被帮助的群体在背后商量要把我恋人的头砍下来，侮辱我恋人的长相，就连我“品学兼优”，我有国内专业医生开具的“易性症，男转女”的诊断，也成了可以被 https://t.co/XnrwVDv0e3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 292,
+          "like_count": 246,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 407
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1906193015112356123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12454,
+          "following_count": 1550,
+          "like_count": 6307,
+          "listed_count": 28,
+          "media_count": 321,
+          "tweet_count": 2374
+        },
+        "username": "yaming00742313",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-01T02:56:05.000Z",
+        "description": "🐟",
+        "id": "991149227613929472",
+        "name": "nni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901145483818704896/Yvl1X-Gd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 386,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 79
+        },
+        "username": "Dominnicchina",
+        "verified": false
+      }
+    ]
+  }
+}

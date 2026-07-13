@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1994879944313516440",
+    "created_at": "2025-11-30T03:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994979060678889613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994842683790290945",
+          "start": 0,
+          "username": "Zzn122002N"
+        },
+        {
+          "end": 25,
+          "id": "1684284842769539073",
+          "start": 12,
+          "username": "Shuliaosugar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994979060678889613",
+    "in_reply_to_user_id": "1994842683790290945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994879944313516440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzn122002N @Shuliaosugar 你被送的是哪一家?我收集一下信息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994879921638739968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G688uCrWEAAEV2N.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1994879944313516440",
+        "created_at": "2025-11-30T03:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994979060678889613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994842683790290945",
+              "start": 0,
+              "username": "Zzn122002N"
+            },
+            {
+              "end": 25,
+              "id": "1684284842769539073",
+              "start": 12,
+              "username": "Shuliaosugar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994979060678889613",
+        "in_reply_to_user_id": "1994842683790290945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994879944313516440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzn122002N @Shuliaosugar 你被送的是哪一家?我收集一下信息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994879921638739968"
+          ]
+        },
+        "author_id": "1994842683790290945",
+        "conversation_id": "1994879944313516440",
+        "created_at": "2025-11-29T21:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T22:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994879944313516440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "mtf"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "扭转学校"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684284842769539073",
+              "start": 0,
+              "username": "Shuliaosugar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRkQhk370T",
+              "end": 156,
+              "expanded_url": "https://x.com/Zzn122002N/status/1994879944313516440/photo/1",
+              "media_key": "3_1994879921638739968",
+              "start": 133,
+              "url": "https://t.co/BRkQhk370T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994879944313516440",
+        "in_reply_to_user_id": "1684284842769539073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Shuliaosugar\n这是我一年5个月之前的大号，我被送去所谓的特殊学校期间我听说有人在我半个月之前一直想把我弄出来非常感谢你。在此期间我当了半年助教也学到了很多东西。现在这个号将代替我之前的号当日常朋友圈用感谢哥之前对我的关心与付出😋 #mtf #扭转学校 https://t.co/BRkQhk370T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1120,
+          "like_count": 911,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1480
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T18:55:59.000Z",
+        "description": "",
+        "id": "1994842683790290945",
+        "name": "盐🍥",
+        "pinned_tweet_id": "1994879944313516440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994857195658231808/vf9vK3Bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 150,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "Zzn122002N",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T19:29:52.000Z",
+        "description": "#可国际快递 #药贩 #自制 #PPY\n                               无证含🍬✟ 牢盐 ✟ 人格解离 ✟ 本体盐与砂糖 ✟ 无🍬无💰免费领自制凝胶 ✟ 麻麻:@misakiyugan",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "可国际快递"
+              },
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "药贩"
+              },
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "自制"
+              },
+              {
+                "end": 19,
+                "start": 15,
+                "tag": "PPY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "misakiyugan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me/",
+                "start": 0,
+                "url": "https://t.co/vROZmx2nV6"
+              }
+            ]
+          }
+        },
+        "id": "1684284842769539073",
+        "location": "Q: ",
+        "name": "✟ 神户✟ 🍥 盐/糖💊🍚",
+        "pinned_tweet_id": "1814668191291089298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786172729059860480/rW-zSnDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 1408,
+          "like_count": 1290,
+          "listed_count": 7,
+          "media_count": 368,
+          "tweet_count": 1278
+        },
+        "url": "https://t.co/vROZmx2nV6",
+        "username": "Shuliaosugar",
+        "verified": false
+      }
+    ]
+  }
+}

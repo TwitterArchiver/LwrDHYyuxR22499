@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2028653528861065612",
+    "created_at": "2026-03-03T05:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028705463957962854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968444481553969152",
+          "start": 0,
+          "username": "kknoluvismine3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028705463957962854",
+    "in_reply_to_user_id": "1968444481553969152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028672369079038218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kknoluvismine3 😼指不定谁栓谁呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2028653528861065612",
+        "created_at": "2026-03-03T05:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028705463957962854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968444481553969152",
+              "start": 0,
+              "username": "kknoluvismine3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028705463957962854",
+        "in_reply_to_user_id": "1968444481553969152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028672369079038218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kknoluvismine3 😼指不定谁栓谁呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968444481553969152",
+        "conversation_id": "2028653528861065612",
+        "created_at": "2026-03-03T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028672369079038218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028672369079038218",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028653528861065612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那就直接拴起来得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 1929,
+          "like_count": 1811,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2259
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T22:38:35.000Z",
+        "description": "孔选仲就是毛腊肉转世，必须支持孔主席图纸，中国人就是👇➖，全都是三通一达的货色",
+        "id": "1968444481553969152",
+        "location": "IP属地：河北",
+        "name": "坚决拥护孔主席伟大思想",
+        "pinned_tweet_id": "2028005717215772859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021832020029276160/VbI1NMUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 99,
+          "like_count": 2395,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 2230
+        },
+        "username": "kknoluvismine3",
+        "verified": false
+      }
+    ]
+  }
+}

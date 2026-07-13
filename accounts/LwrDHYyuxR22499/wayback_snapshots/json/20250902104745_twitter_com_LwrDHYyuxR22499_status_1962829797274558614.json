@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1962824344352235573",
+    "created_at": "2025-09-02T10:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962829797274558614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628358190655246338",
+          "start": 0,
+          "username": "SNzhende2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962829797274558614",
+    "in_reply_to_user_id": "1628358190655246338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962824344352235573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNzhende2007 牛逼的这不受害者就来了能问问你关于这个学校的基础情况吗这方便我救人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1962824344352235573",
+        "created_at": "2025-09-02T10:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962829797274558614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628358190655246338",
+              "start": 0,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962829797274558614",
+        "in_reply_to_user_id": "1628358190655246338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962824344352235573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNzhende2007 牛逼的这不受害者就来了能问问你关于这个学校的基础情况吗这方便我救人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628358190655246338",
+        "conversation_id": "1962824344352235573",
+        "created_at": "2025-09-02T10:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962824344352235573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1962507948359573897",
+              "start": 17,
+              "url": "https://t.co/gVB04jiSgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962824344352235573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962507948359573897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "若水！？我之前被关在那里了五个月 https://t.co/gVB04jiSgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 553,
+          "like_count": 526,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 753
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "07/sub/mtf/le",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 357,
+          "like_count": 7658,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 1963
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

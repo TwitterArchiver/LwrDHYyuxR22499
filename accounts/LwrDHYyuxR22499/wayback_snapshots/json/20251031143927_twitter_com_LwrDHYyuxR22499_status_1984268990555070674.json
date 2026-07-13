@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984264919206990248",
+    "created_at": "2025-10-31T14:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T15:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984268990555070674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984268990555070674",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984267683790266501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 我还以为你是回国单杀他的\n他现在去哪了?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984264919206990248",
+        "created_at": "2025-10-31T14:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984268990555070674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984268990555070674",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984267683790266501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 我还以为你是回国单杀他的\n他现在去哪了?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1984264919206990248",
+        "created_at": "2025-10-31T14:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984267683790266501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984267683790266501",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984265673393270978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 迟早要回的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 979,
+          "like_count": 782,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 1392
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "是一只小猫卷 // 💌 最爱 @HobartR6 // 🐈 好猫 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "HobartR6"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🏙️",
+        "name": "𝙡𝙪𝙢𝙞.",
+        "pinned_tweet_id": "1984217717172506945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 812,
+          "like_count": 692,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 2019
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

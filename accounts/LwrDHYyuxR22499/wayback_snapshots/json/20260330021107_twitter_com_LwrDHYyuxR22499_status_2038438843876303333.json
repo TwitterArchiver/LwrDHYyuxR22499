@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2038438842383126528"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038438843876303333",
+    "created_at": "2026-03-30T02:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038438843876303333"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038438843876303333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本次投票将决定以后对跨性别人士\n得救助活动会如何进行\n如基于尊重身份认同or模糊身份那么请承担相应的代价\n如基于现实利益意味着以上需求不能被满足"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2026-04-01T02:11:07.000Z",
+        "id": "2038438842383126528",
+        "options": [
+          {
+            "label": "基于尊重",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "基于现实利益",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038438842383126528"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038438843876303333",
+        "created_at": "2026-03-30T02:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038438843876303333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038438843876303333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本次投票将决定以后对跨性别人士\n得救助活动会如何进行\n如基于尊重身份认同or模糊身份那么请承担相应的代价\n如基于现实利益意味着以上需求不能被满足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 2303,
+          "like_count": 2222,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 2452
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

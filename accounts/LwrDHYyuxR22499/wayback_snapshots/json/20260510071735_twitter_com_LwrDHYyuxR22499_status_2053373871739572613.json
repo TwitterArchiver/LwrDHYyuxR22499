@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053367739994218496"
+      ],
+      "media_source_tweet_id": [
+        "2053367796021739805"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2053373871739572613",
+    "created_at": "2026-05-10T07:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053373871739572613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655914995409113088",
+          "start": 3,
+          "username": "L8n9poqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0epRVrZa0",
+          "end": 63,
+          "expanded_url": "https://x.com/L8n9poqq/status/2053367796021739805/video/1",
+          "media_key": "13_2053367739994218496",
+          "start": 40,
+          "url": "https://t.co/C0epRVrZa0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053373871739572613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053367796021739805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L8n9poqq: 惠州市惠东县多祝镇黄埔军狼青少年特训营殴打学员证据 https://t.co/C0epRVrZa0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5381,
+        "height": 1206,
+        "media_key": "13_2053367739994218496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053367739994218496/img/lX1Nii_nBbg5-Hec.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053367739994218496/vid/avc1/320x536/zRwFzFBqfRM5hntZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053367739994218496/vid/avc1/480x804/PZtRN1tCWKnd_Nfl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053367739994218496/vid/avc1/720x1206/s1IhwjDudBMhJ7LK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053367739994218496/pl/NPZWc3gV7fihA-yL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053367739994218496"
+          ],
+          "media_source_tweet_id": [
+            "2053367796021739805"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2053373871739572613",
+        "created_at": "2026-05-10T07:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053373871739572613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655914995409113088",
+              "start": 3,
+              "username": "L8n9poqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0epRVrZa0",
+              "end": 63,
+              "expanded_url": "https://x.com/L8n9poqq/status/2053367796021739805/video/1",
+              "media_key": "13_2053367739994218496",
+              "start": 40,
+              "url": "https://t.co/C0epRVrZa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053373871739572613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053367796021739805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L8n9poqq: 惠州市惠东县多祝镇黄埔军狼青少年特训营殴打学员证据 https://t.co/C0epRVrZa0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053367739994218496"
+          ]
+        },
+        "author_id": "1655914995409113088",
+        "conversation_id": "2053367796021739805",
+        "created_at": "2026-05-10T06:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053367796021739805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0epRVrZa0",
+              "end": 49,
+              "expanded_url": "https://x.com/L8n9poqq/status/2053367796021739805/video/1",
+              "media_key": "13_2053367739994218496",
+              "start": 26,
+              "url": "https://t.co/C0epRVrZa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053367796021739805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "惠州市惠东县多祝镇黄埔军狼青少年特训营殴打学员证据 https://t.co/C0epRVrZa0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5006,
+          "following_count": 2730,
+          "like_count": 2669,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2705
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T12:38:25.000Z",
+        "description": "",
+        "id": "1655914995409113088",
+        "name": "精英白给分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022175928974299136/twMmrNFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 14,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "L8n9poqq",
+        "verified": false
+      }
+    ]
+  }
+}

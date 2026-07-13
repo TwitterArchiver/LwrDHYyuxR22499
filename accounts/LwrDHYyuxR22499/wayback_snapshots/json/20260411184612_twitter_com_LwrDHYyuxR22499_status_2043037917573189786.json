@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2042879579711508657",
+    "created_at": "2026-04-11T18:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043037917573189786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960470132070764544",
+          "start": 0,
+          "username": "messelein"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043037917573189786",
+    "in_reply_to_user_id": "1960470132070764544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043033565517222084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@messelein 正解很多时候我们只能吧注册地址填写上去\n而真正的实际地址可能需要你们手动填写\n所以如果您有时间可以去我们的网站进行投稿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2042879579711508657",
+        "created_at": "2026-04-11T18:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043037917573189786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960470132070764544",
+              "start": 0,
+              "username": "messelein"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043037917573189786",
+        "in_reply_to_user_id": "1960470132070764544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043033565517222084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@messelein 正解很多时候我们只能吧注册地址填写上去\n而真正的实际地址可能需要你们手动填写\n所以如果您有时间可以去我们的网站进行投稿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960470132070764544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2042879579711508657",
+        "created_at": "2026-04-11T18:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043033565517222084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043033565517222084",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042879579711508657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你好，有些数据可能有误\n作为当事人，“兴华成长基地”的南宁与贵港校区，我们叫它是“兴华励志学校”。其南宁校区真实地址在南宁市武鸣区永兴南路9号–绿邦国防教育基地，即南宁双汇食品有限公司的西侧，那个青秀区的应该是注册地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 2413,
+          "like_count": 2489,
+          "listed_count": 14,
+          "media_count": 396,
+          "tweet_count": 2612
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T22:31:23.000Z",
+        "description": "不存在的人。\n简体 / 繁體 均可",
+        "id": "1960470132070764544",
+        "location": "Hausabendrot",
+        "name": "梅司嵐 / Messelein",
+        "pinned_tweet_id": "1960481968082063838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960473904259964928/6SkKTG7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "messelein",
+        "verified": false
+      }
+    ]
+  }
+}

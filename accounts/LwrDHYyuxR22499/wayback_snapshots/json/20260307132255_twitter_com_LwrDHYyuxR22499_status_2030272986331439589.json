@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030272969780674560",
+        "3_2030272969738715136",
+        "3_2030272970200162304"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030272986331439589",
+    "created_at": "2026-03-07T13:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030272986331439589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 95,
+          "id": "2029492895712227328",
+          "start": 84,
+          "username": "NaiYou9347"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGSMNDMoeX",
+          "end": 151,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030272986331439589/photo/1",
+          "media_key": "3_2030272969780674560",
+          "start": 128,
+          "url": "https://t.co/hGSMNDMoeX"
+        },
+        {
+          "display_url": "pic.x.com/hGSMNDMoeX",
+          "end": 151,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030272986331439589/photo/1",
+          "media_key": "3_2030272969738715136",
+          "start": 128,
+          "url": "https://t.co/hGSMNDMoeX"
+        },
+        {
+          "display_url": "pic.x.com/hGSMNDMoeX",
+          "end": 151,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030272986331439589/photo/1",
+          "media_key": "3_2030272970200162304",
+          "start": 128,
+          "url": "https://t.co/hGSMNDMoeX"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2030268322630320364",
+          "start": 152,
+          "url": "https://t.co/0XHhrquI78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030272986331439589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030268322630320364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续，受害者被该校教官送往家中，试图再次将其扭送至其他扭转机构或精卫\n组员及时干预，受害者今日已脱离家庭。为躲避12306等追查信息我们中途换乘了三辆车一路跑路\n最终，@NaiYou9347受害者安全抵达上海，我为其准备了1000元现金，用于支撑线下生活 https://t.co/hGSMNDMoeX https://t.co/0XHhrquI78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030272969780674560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz6gljawAALfQJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030272969738715136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz6glZagAAwLs5.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030272970200162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz6gnHboAAjoLI.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268306343813121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2RI5bYAELJ3o.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268306834550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2RKubcAA8K18.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268307736342528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2ROFbsAAZg68.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268314791137280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2RoXbUAA2I6g.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030272969780674560",
+            "3_2030272969738715136",
+            "3_2030272970200162304"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030272986331439589",
+        "created_at": "2026-03-07T13:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030272986331439589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "2029492895712227328",
+              "start": 84,
+              "username": "NaiYou9347"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGSMNDMoeX",
+              "end": 151,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030272986331439589/photo/1",
+              "media_key": "3_2030272969780674560",
+              "start": 128,
+              "url": "https://t.co/hGSMNDMoeX"
+            },
+            {
+              "display_url": "pic.x.com/hGSMNDMoeX",
+              "end": 151,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030272986331439589/photo/1",
+              "media_key": "3_2030272969738715136",
+              "start": 128,
+              "url": "https://t.co/hGSMNDMoeX"
+            },
+            {
+              "display_url": "pic.x.com/hGSMNDMoeX",
+              "end": 151,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030272986331439589/photo/1",
+              "media_key": "3_2030272970200162304",
+              "start": 128,
+              "url": "https://t.co/hGSMNDMoeX"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2030268322630320364",
+              "start": 152,
+              "url": "https://t.co/0XHhrquI78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030272986331439589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030268322630320364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续，受害者被该校教官送往家中，试图再次将其扭送至其他扭转机构或精卫\n组员及时干预，受害者今日已脱离家庭。为躲避12306等追查信息我们中途换乘了三辆车一路跑路\n最终，@NaiYou9347受害者安全抵达上海，我为其准备了1000元现金，用于支撑线下生活 https://t.co/hGSMNDMoeX https://t.co/0XHhrquI78"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030268306343813121",
+            "3_2030268306834550784",
+            "3_2030268307736342528",
+            "3_2030268314791137280"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030268322630320364",
+        "created_at": "2026-03-07T13:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030268322630320364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268306343813121",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            },
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268306834550784",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            },
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268307736342528",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            },
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268314791137280",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030268322630320364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026/2/27\n我收到一位即将被送入扭转机构的跨性别者求助。\n  凭借长期接触积这类学校的地址\n导致本能性的接锁定机构，展开救援\n\n有趣的是，该机构校长此前曾因非法囚禁跨性别被我组织多人抗议至校区关停损失惨重\n\n招致对方对方如今对我们极其恐惧\n所以本次从接到求助到将人安全接出仅用了两个小时… https://t.co/M8lK64oQSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 1975,
+          "like_count": 1907,
+          "listed_count": 11,
+          "media_count": 350,
+          "tweet_count": 2280
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T09:43:20.000Z",
+        "description": "",
+        "id": "2029492895712227328",
+        "name": "由乃",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "NaiYou9347",
+        "verified": false
+      }
+    ]
+  }
+}

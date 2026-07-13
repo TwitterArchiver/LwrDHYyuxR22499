@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038833285686845623",
+    "created_at": "2026-03-31T04:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038833285686845623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sauricat/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/sauricat/status/2038826475005120559",
+          "start": 3,
+          "url": "https://t.co/5NIMOToYJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038833285686845623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038826475005120559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/5NIMOToYJ7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038833285686845623",
+        "created_at": "2026-03-31T04:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038833285686845623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/sauricat/status/2038826475005120559",
+              "start": 3,
+              "url": "https://t.co/5NIMOToYJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038833285686845623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038826475005120559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/5NIMOToYJ7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "2038826475005120559",
+        "created_at": "2026-03-31T03:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:51:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038826409250992175",
+          "2038826475005120559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038826475005120559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "牧鸢不参加跨性别救助，我们也不用觉得怎么样了。现在也是个机会。我还有点积蓄，欢迎能从我这里安全地拿到一些补助的、承诺和牧鸢等人指导的救援队没关系的人，来找我聊聊，看看我们能不能做得更好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3999,
+          "following_count": 2306,
+          "like_count": 2254,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 2468
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Beiyan-Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11101,
+          "following_count": 981,
+          "like_count": 34056,
+          "listed_count": 36,
+          "media_count": 610,
+          "tweet_count": 12020
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

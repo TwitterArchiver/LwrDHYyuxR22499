@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068576747201937448",
+    "created_at": "2026-06-22T15:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069087943860629688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1686284307319738368",
+          "start": 0,
+          "username": "Liearmer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069087943860629688",
+    "in_reply_to_user_id": "1686284307319738368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069087572845048034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liearmer 哪位?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068576747201937448",
+        "created_at": "2026-06-22T15:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069087943860629688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1686284307319738368",
+              "start": 0,
+              "username": "Liearmer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069087943860629688",
+        "in_reply_to_user_id": "1686284307319738368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069087572845048034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liearmer 哪位?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686284307319738368",
+        "conversation_id": "2068576747201937448",
+        "created_at": "2026-06-22T15:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069087572845048034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069087572845048034",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068576747201937448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 已经快成为群魔乱舞了，真的是。\n我就看你帖子下面有个人一直让你闭嘴，合着我就在想，甭管是中国的法律还是美国的法律，都没禁止人的言论自由啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5950,
+          "following_count": 3218,
+          "like_count": 3451,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T07:54:48.000Z",
+        "description": "温和地有立场，克制地有坚持。\nGentle yet principled, restrained yet resolute.\nA blogger, own https://t.co/ti9Uphi5tp. \nhttps://t.co/IWdfUZzEi6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "101application.com",
+                "end": 101,
+                "expanded_url": "http://101application.com",
+                "start": 78,
+                "url": "https://t.co/ti9Uphi5tp"
+              },
+              {
+                "display_url": "ngl.link/earmercarey",
+                "end": 127,
+                "expanded_url": "https://ngl.link/earmercarey",
+                "start": 104,
+                "url": "https://t.co/IWdfUZzEi6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "earmer.top",
+                "end": 23,
+                "expanded_url": "https://www.earmer.top",
+                "start": 0,
+                "url": "https://t.co/gs0Bzr7tkK"
+              }
+            ]
+          }
+        },
+        "id": "1686284307319738368",
+        "location": "须弥·须弥城·净善宫",
+        "name": "Earmer Carey",
+        "pinned_tweet_id": "1897208525027467704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686284402165469184/OUsqEhxO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 75,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/gs0Bzr7tkK",
+        "username": "Liearmer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966101999205888001",
+        "3_1966102001915408384",
+        "3_1966102001085022208",
+        "3_1966102000992677888"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1966102006000722106",
+    "created_at": "2025-09-11T11:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T12:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966102006000722106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wE8bf44l7U",
+          "end": 34,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+          "media_key": "3_1966101999205888001",
+          "start": 11,
+          "url": "https://t.co/wE8bf44l7U"
+        },
+        {
+          "display_url": "pic.x.com/wE8bf44l7U",
+          "end": 34,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+          "media_key": "3_1966102001915408384",
+          "start": 11,
+          "url": "https://t.co/wE8bf44l7U"
+        },
+        {
+          "display_url": "pic.x.com/wE8bf44l7U",
+          "end": 34,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+          "media_key": "3_1966102001085022208",
+          "start": 11,
+          "url": "https://t.co/wE8bf44l7U"
+        },
+        {
+          "display_url": "pic.x.com/wE8bf44l7U",
+          "end": 34,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+          "media_key": "3_1966102000992677888",
+          "start": 11,
+          "url": "https://t.co/wE8bf44l7U"
+        },
+        {
+          "display_url": "x.com/ZaindORp/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ZaindORp/status/1966096926744686926",
+          "start": 35,
+          "url": "https://t.co/QqSSiAAn1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966102006000722106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966096926744686926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "放弃幻想…准备战斗吧 https://t.co/wE8bf44l7U https://t.co/QqSSiAAn1a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966101999205888001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0j_WfbaMAEZna1.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966102001915408384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0j_WphaMAAI0yf.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966102001085022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0j_WmbbgAA4vdK.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966102000992677888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0j_WmFacAAi0dr.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966101999205888001",
+            "3_1966102001915408384",
+            "3_1966102001085022208",
+            "3_1966102000992677888"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966102006000722106",
+        "created_at": "2025-09-11T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966102006000722106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wE8bf44l7U",
+              "end": 34,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+              "media_key": "3_1966101999205888001",
+              "start": 11,
+              "url": "https://t.co/wE8bf44l7U"
+            },
+            {
+              "display_url": "pic.x.com/wE8bf44l7U",
+              "end": 34,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+              "media_key": "3_1966102001915408384",
+              "start": 11,
+              "url": "https://t.co/wE8bf44l7U"
+            },
+            {
+              "display_url": "pic.x.com/wE8bf44l7U",
+              "end": 34,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+              "media_key": "3_1966102001085022208",
+              "start": 11,
+              "url": "https://t.co/wE8bf44l7U"
+            },
+            {
+              "display_url": "pic.x.com/wE8bf44l7U",
+              "end": 34,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966102006000722106/photo/1",
+              "media_key": "3_1966102000992677888",
+              "start": 11,
+              "url": "https://t.co/wE8bf44l7U"
+            },
+            {
+              "display_url": "x.com/ZaindORp/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ZaindORp/status/1966096926744686926",
+              "start": 35,
+              "url": "https://t.co/QqSSiAAn1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966102006000722106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966096926744686926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "放弃幻想…准备战斗吧 https://t.co/wE8bf44l7U https://t.co/QqSSiAAn1a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350462273458868227",
+        "conversation_id": "1966010793067167857",
+        "created_at": "2025-09-11T11:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966096926744686926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966096926744686926",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966010793067167857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 不过，有正规资质的话可能至少很难做的很过分吧…\n大概…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 651,
+          "like_count": 623,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 878
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-16T15:18:06.000Z",
+        "description": "清水生活推，或許有些偏負能…我會努力壓制的。\n是含糖MTF🏳‍⚧。\n願意與任何人成為朋友。\n是大貓貓@AnyNeko_ 的家養貓娘。\n想要成為溫柔的，可以幫助大家的人…\n姐姐是@BerryHotaruYuki\n哥哥是@VeraxLeeIsMe\n妹妹是@InfinRain\n還有好多好多的朋友，寫不下了呢…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "AnyNeko_"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "BerryHotaruYuki"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "VeraxLeeIsMe"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "InfinRain"
+              }
+            ]
+          }
+        },
+        "id": "1350462273458868227",
+        "location": "2.50km",
+        "name": "*۫۫۫۫۫۫۫۫۫۫雨۫۫۫۫۫۫۫۫۫樱۫۫۫۫۫۫۫۫۫۫落𝗭𝗮𝗶𝗻𝗱𝗢𝗥𝗽",
+        "pinned_tweet_id": "1650829946560864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886324430680535040/kEH7ya8r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5138,
+          "following_count": 151,
+          "like_count": 252015,
+          "listed_count": 30,
+          "media_count": 1074,
+          "tweet_count": 32598
+        },
+        "username": "ZaindORp",
+        "verified": false
+      }
+    ]
+  }
+}

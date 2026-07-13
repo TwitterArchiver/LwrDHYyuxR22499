@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980913778264039556",
+    "created_at": "2025-10-22T08:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980913778264039556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alina_Medverov…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/Alina_Medverova/status/1980900691045703738",
+          "start": 144,
+          "url": "https://t.co/bZt89tJS6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980913778264039556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980900691045703738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是挺惧怕中国的心理医生的\n因为他们的专业性\n当然这是题外话\n问题在于杨永信本人不直接参与进虐待的环节里\n真正参与进殴打虐待伤害的依旧\n是那些退伍军人\n并且这是绝大部分受害者的自述\n他们确实产生了这样心理\n无论他存在的目的是什么\n或是否之前用于维稳\n现在受害者给出的答案都很明显他失效了 https://t.co/bZt89tJS6l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980913778264039556",
+        "created_at": "2025-10-22T08:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980913778264039556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alina_Medverov…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Alina_Medverova/status/1980900691045703738",
+              "start": 144,
+              "url": "https://t.co/bZt89tJS6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980913778264039556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980900691045703738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是挺惧怕中国的心理医生的\n因为他们的专业性\n当然这是题外话\n问题在于杨永信本人不直接参与进虐待的环节里\n真正参与进殴打虐待伤害的依旧\n是那些退伍军人\n并且这是绝大部分受害者的自述\n他们确实产生了这样心理\n无论他存在的目的是什么\n或是否之前用于维稳\n现在受害者给出的答案都很明显他失效了 https://t.co/bZt89tJS6l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1980900691045703738",
+        "created_at": "2025-10-22T07:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980900691045703738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1980899357957472751",
+              "start": 142,
+              "url": "https://t.co/YDAK9eYMKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980900691045703738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980899357957472751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杨永信的例子还没从人们眼中消失吧，为什么人们不惧怕心理医生？因为在很多人眼中医生是个神圣的职业，因此杨永信会被自动开除出医生籍。人们总是会趋向于解释可能会让自己世界观崩塌的事情，因此那些教官到底是不是真军人真警察根本就无所谓，在大众眼中他们永远是“社会闲散人员”，哪怕是真军人也一样 https://t.co/YDAK9eYMKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 927,
+          "like_count": 722,
+          "listed_count": 5,
+          "media_count": 238,
+          "tweet_count": 1147
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1526,
+          "like_count": 74801,
+          "listed_count": 6,
+          "media_count": 985,
+          "tweet_count": 16360
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

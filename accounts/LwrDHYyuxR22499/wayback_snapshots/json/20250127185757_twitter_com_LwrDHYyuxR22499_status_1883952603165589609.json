@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883952603165589609",
+    "created_at": "2025-01-27T18:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T19:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883952603165589609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nuominiang7588…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/Nuominiang75884/status/1883948857140392001",
+          "start": 59,
+          "url": "https://t.co/JEbdN0QzZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883952603165589609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883948857140392001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这傻逼一撅屁股我都知道要拉什么屎的\n他跟别人威胁我说要找人杀我\n得录音明天让张恩旭放出来吧\n他大过年的还在外面救人呢 https://t.co/JEbdN0QzZB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883952603165589609",
+        "created_at": "2025-01-27T18:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T19:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883952603165589609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nuominiang7588…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Nuominiang75884/status/1883948857140392001",
+              "start": 59,
+              "url": "https://t.co/JEbdN0QzZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883952603165589609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883948857140392001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这傻逼一撅屁股我都知道要拉什么屎的\n他跟别人威胁我说要找人杀我\n得录音明天让张恩旭放出来吧\n他大过年的还在外面救人呢 https://t.co/JEbdN0QzZB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883948692866052096",
+            "3_1883948842724302848",
+            "3_1883948842883723264"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883948857140392001",
+        "created_at": "2025-01-27T18:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T19:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883948857140392001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1843201902550634496",
+              "start": 41,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcAmfdwOwY",
+              "end": 105,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1883948857140392001/video/1",
+              "media_key": "7_1883948692866052096",
+              "start": 82,
+              "url": "https://t.co/AcAmfdwOwY"
+            },
+            {
+              "display_url": "pic.x.com/AcAmfdwOwY",
+              "end": 105,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1883948857140392001/video/1",
+              "media_key": "3_1883948842724302848",
+              "start": 82,
+              "url": "https://t.co/AcAmfdwOwY"
+            },
+            {
+              "display_url": "pic.x.com/AcAmfdwOwY",
+              "end": 105,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1883948857140392001/video/1",
+              "media_key": "3_1883948842883723264",
+              "start": 82,
+              "url": "https://t.co/AcAmfdwOwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883948857140392001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "强奸15岁跨性别反戒网瘾学校志愿者的的强奸犯六加一找上我来了让我造谣线下案件主导人@LwrDHYyuxR22499\n让我说他强奸我并且教我如何讲述强奸细节抹黑造谣 https://t.co/AcAmfdwOwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 151,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 250
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "向光而行，直到燃尽自己\n🏳️‍⚧️/INFP-T /道教徒/摄影/      亲人@Kietter387803/妹妹@liychn30019070/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘QwQ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882109297418698810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883194309178167296/U_Gr-ghf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 796,
+          "like_count": 10985,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 1710
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

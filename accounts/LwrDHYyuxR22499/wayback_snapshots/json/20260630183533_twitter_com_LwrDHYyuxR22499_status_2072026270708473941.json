@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072026270708473941",
+    "created_at": "2026-06-30T18:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072026270708473941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sharkie_4005/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Sharkie_4005/status/2069149368855273575",
+          "start": 34,
+          "url": "https://t.co/NQtTgENk3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072026270708473941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069149368855273575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说的是谁\n我们不妨把话说明白一点\n谁做如此不正义之事\n我身先士卒 https://t.co/NQtTgENk3L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072026270708473941",
+        "created_at": "2026-06-30T18:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072026270708473941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sharkie_4005/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Sharkie_4005/status/2069149368855273575",
+              "start": 34,
+              "url": "https://t.co/NQtTgENk3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072026270708473941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069149368855273575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说的是谁\n我们不妨把话说明白一点\n谁做如此不正义之事\n我身先士卒 https://t.co/NQtTgENk3L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "2069149368855273575",
+        "created_at": "2026-06-22T20:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:03:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069149316636201076",
+          "2069149368855273575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sharkie_4005/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/sharkie_4005/status/2069122933084070229",
+              "start": 75,
+              "url": "https://t.co/Rn3JzIN6Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069149368855273575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069122933084070229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩弄權術，內鬥跨性別內行，救人真做事外行👍🏻\n\n其實就是可惜自己當不上共產黨吧，這些人玩弄橡皮章過家家都這樣了，等人家真正有權了和共產黨沒什麼兩樣。 https://t.co/Rn3JzIN6Bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6170,
+          "following_count": 3295,
+          "like_count": 3606,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "｜The maple leaf forever🍁｜♚｜被主流世界拋棄的人｜",
+        "id": "1434608964629639168",
+        "location": "Montréal, Québec",
+        "name": "Atlantic_Sea Shark 🍃",
+        "pinned_tweet_id": "1947749953738314234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 486,
+          "like_count": 35051,
+          "listed_count": 4,
+          "media_count": 779,
+          "tweet_count": 9901
+        },
+        "url": "",
+        "username": "Sharkie_4005",
+        "verified": true
+      }
+    ]
+  }
+}

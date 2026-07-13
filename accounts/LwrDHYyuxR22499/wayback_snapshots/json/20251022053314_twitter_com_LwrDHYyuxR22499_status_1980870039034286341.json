@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980870039034286341",
+    "created_at": "2025-10-22T05:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980870039034286341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1980864289545285903",
+          "start": 45,
+          "url": "https://t.co/4l66BjG6Ux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980870039034286341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980864289545285903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤧你活在中国给共产党缴税就是你这辈子最大的败笔🫵🏻你现在应该直接自杀重开才是最正确的选择 https://t.co/4l66BjG6Ux"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980870039034286341",
+        "created_at": "2025-10-22T05:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980870039034286341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1980864289545285903",
+              "start": 45,
+              "url": "https://t.co/4l66BjG6Ux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980870039034286341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980864289545285903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤧你活在中国给共产党缴税就是你这辈子最大的败笔🫵🏻你现在应该直接自杀重开才是最正确的选择 https://t.co/4l66BjG6Ux"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1980495361157554244",
+        "created_at": "2025-10-22T05:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980864289545285903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980864289545285903",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980715576768307210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 除了给你支共唱赞歌还干嘛了？被李老师点完还活得好好的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 927,
+          "like_count": 719,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1114
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 183,
+          "like_count": 8747,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1947
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004796533695545765",
+    "created_at": "2025-12-27T06:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004796533695545765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004796533695545765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🧐🧐🧐我算左派还是右派?\n很好奇\n因为既有人说我是建制派又有人说我是劳保右派分子\n有人说我是实践派也有人说我不思进取破坏社会稳定的境外势力\n😲😲\n有人评价我说我是非常坚定的为少数群体争取权益的人\n也有汤戈韬带着跨性别社群造谣我是清真小编是反跨人士"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004796533695545765",
+        "created_at": "2025-12-27T06:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004796533695545765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004796533695545765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🧐🧐🧐我算左派还是右派?\n很好奇\n因为既有人说我是建制派又有人说我是劳保右派分子\n有人说我是实践派也有人说我不思进取破坏社会稳定的境外势力\n😲😲\n有人评价我说我是非常坚定的为少数群体争取权益的人\n也有汤戈韬带着跨性别社群造谣我是清真小编是反跨人士"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079123917045760/3UkP7ItU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 1451,
+          "like_count": 1185,
+          "listed_count": 8,
+          "media_count": 294,
+          "tweet_count": 1720
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

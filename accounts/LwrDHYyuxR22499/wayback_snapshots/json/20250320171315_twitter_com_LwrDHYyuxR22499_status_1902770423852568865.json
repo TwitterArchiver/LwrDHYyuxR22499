@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1902523416344981761",
+    "created_at": "2025-03-20T17:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T18:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902770423852568865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239915471945838593",
+          "start": 0,
+          "username": "wtxycCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902770423852568865",
+    "in_reply_to_user_id": "1239915471945838593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902523416344981761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtxycCO 😋没收手机哎大概是轻症监护室吧住两天就出来了不过小心你家里人精神病院扭转一条龙哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1902523416344981761",
+        "created_at": "2025-03-20T17:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T18:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902770423852568865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902770423852568865",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902523416344981761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO 😋没收手机哎大概是轻症监护室吧住两天就出来了不过小心你家里人精神病院扭转一条龙哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239915471945838593",
+        "conversation_id": "1902523416344981761",
+        "created_at": "2025-03-20T00:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T01:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902523416344981761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902523416344981761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5866,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小C又住进精神病房了……太痛苦……(ᗒᗣᗕ)՞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 246,
+          "like_count": 185,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 324
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T14:04:30.000Z",
+        "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学在读 会记录很多生活小感受 就当是个人日记好啦 不聊黄色也不聊政治(●'◡'●) 不要发黄图˃ʍ˂  最好的Yuru酱～@yurufufufu （推特抱抱王(づ′▽`)づ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yurufufufu"
+              }
+            ]
+          }
+        },
+        "id": "1239915471945838593",
+        "location": "@yurufufufu",
+        "name": "☁️Cld🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 392,
+          "like_count": 2165,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 819
+        },
+        "username": "wtxycCO",
+        "verified": false
+      }
+    ]
+  }
+}

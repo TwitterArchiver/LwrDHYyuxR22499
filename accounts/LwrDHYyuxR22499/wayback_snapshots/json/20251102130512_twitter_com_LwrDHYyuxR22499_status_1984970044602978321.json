@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984900518867870170",
+    "created_at": "2025-11-02T13:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T14:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984970044602978321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        },
+        {
+          "end": 23,
+          "id": "1552918719440924672",
+          "start": 11,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984970044602978321",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984969341629317349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 @LumiCatRoll 😪依靠当年我看那群吃人血馒头的药商来看这可不难\n当然我从没实操过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T13:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984970044602978321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            },
+            {
+              "end": 23,
+              "id": "1552918719440924672",
+              "start": 11,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984970044602978321",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984969341629317349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 @LumiCatRoll 😪依靠当年我看那群吃人血馒头的药商来看这可不难\n当然我从没实操过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984969341629317349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 29,
+              "id": "1552918719440924672",
+              "start": 17,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984969341629317349",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984904023879905323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @LumiCatRoll 除非你能搞什么药商行会，不然涨价太明显我觉得除了降低销售量没任何效果吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 990,
+          "like_count": 811,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1442
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE6zaK\n\n|  广告栏  日雌370 @Cheese_Ghostfox 东北地区发货24h在线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "zihou1968025650"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "Cheese_Ghostfox"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 90,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 67,
+                "url": "https://t.co/yTt9lE6zaK"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️（守活寡版）",
+        "pinned_tweet_id": "1980245519722332410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 1250,
+          "like_count": 55102,
+          "listed_count": 3,
+          "media_count": 745,
+          "tweet_count": 14795
+        },
+        "username": "orisam123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "致敬传奇耐杀王猫卷 ’ @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "HobartR6"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🏙️",
+        "name": "𝙇𝙪𝙢𝙞.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984347223728275460/Wsdoz0EC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 844,
+          "like_count": 757,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2159
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

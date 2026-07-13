@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1905687761300193504",
+    "created_at": "2025-03-28T21:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T22:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905728617134575978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905728617134575978",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905687761300193504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 对了一半但其实还欠缺了一些东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1905687761300193504",
+        "created_at": "2025-03-28T21:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T22:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905728617134575978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905728617134575978",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905687761300193504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 对了一半但其实还欠缺了一些东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1905687761300193504",
+        "created_at": "2025-03-28T18:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T19:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905687761300193504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a_fake_menma/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/a_fake_menma/status/1905454620090265670",
+              "start": 106,
+              "url": "https://t.co/dp3dQ2FFTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905687761300193504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905454620090265670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为网瘾学校的生态位跟少管所和收容站是一样的，发挥的都是当地政府喜闻乐见的维稳功能（顺带还能创收），取缔的成本远高于效益。并且这种监禁机构本身就是因家长乃至学校的「需求」产生的，如果不解决「需求」那只会屡禁不止 https://t.co/dp3dQ2FFTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 261,
+          "like_count": 196,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 345
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ",
+        "id": "1424779836938022913",
+        "name": "amber",
+        "pinned_tweet_id": "1905273257168711695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9879,
+          "following_count": 2294,
+          "like_count": 30834,
+          "listed_count": 31,
+          "media_count": 436,
+          "tweet_count": 14288
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

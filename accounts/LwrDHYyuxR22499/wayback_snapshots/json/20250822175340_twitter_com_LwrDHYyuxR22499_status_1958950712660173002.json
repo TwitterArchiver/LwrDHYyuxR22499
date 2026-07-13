@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1958897043931635905",
+    "created_at": "2025-08-22T17:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T18:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958950712660173002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1457925329939361797",
+          "start": 0,
+          "username": "sutanghentian"
+        },
+        {
+          "end": 24,
+          "id": "1533106995750141952",
+          "start": 15,
+          "username": "dayly233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958950712660173002",
+    "in_reply_to_user_id": "1457925329939361797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958914434828837292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sutanghentian @dayly233 没记错的话是为了保护一个跨性别避免被带走而做的反击\n勇气可嘉能力也不错可惜仍然没防止教官把人带走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1958897043931635905",
+        "created_at": "2025-08-22T17:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T18:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958950712660173002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1457925329939361797",
+              "start": 0,
+              "username": "sutanghentian"
+            },
+            {
+              "end": 24,
+              "id": "1533106995750141952",
+              "start": 15,
+              "username": "dayly233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958950712660173002",
+        "in_reply_to_user_id": "1457925329939361797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958914434828837292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sutanghentian @dayly233 没记错的话是为了保护一个跨性别避免被带走而做的反击\n勇气可嘉能力也不错可惜仍然没防止教官把人带走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457925329939361797",
+        "conversation_id": "1958897043931635905",
+        "created_at": "2025-08-22T15:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958914434828837292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1533106995750141952",
+              "start": 0,
+              "username": "dayly233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958914434828837292",
+        "in_reply_to_user_id": "1533106995750141952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958910624337207693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dayly233 啊这，可是一群人按着你你真的没办法逃呀，还有门禁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 525,
+          "like_count": 508,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 724
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T04:17:53.000Z",
+        "description": "07年的女孩子，家暴党，超级负能（hrt：2023.6.24）老公@SarkazWisadel，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，@linyin1129",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "SarkazWisadel"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Fancy_Starry"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "eureka222323"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "plantie_uwu"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "bghtnya"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "linyin1129"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sutangtiantian",
+                "end": 23,
+                "expanded_url": "https://t.me/sutangtiantian",
+                "start": 0,
+                "url": "https://t.co/kPZmayouXK"
+              }
+            ]
+          }
+        },
+        "id": "1457925329939361797",
+        "location": "垃圾桶",
+        "name": "酥糖～🏳️‍⚧️🍥🍬",
+        "pinned_tweet_id": "1823031404789481494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4067,
+          "following_count": 1762,
+          "like_count": 30466,
+          "listed_count": 6,
+          "media_count": 545,
+          "tweet_count": 17626
+        },
+        "url": "https://t.co/kPZmayouXK",
+        "username": "sutanghentian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T15:23:04.000Z",
+        "description": "友跨顺男，喜欢和大家贴贴～希望大家都可以好好的活下去🙏偶尔会看一点涩涩(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+        "id": "1533106995750141952",
+        "location": "Japan",
+        "name": "依云悠观",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568504352029163520/2IVEdEao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 2921,
+          "like_count": 67573,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 8784
+        },
+        "username": "dayly233",
+        "verified": false
+      }
+    ]
+  }
+}

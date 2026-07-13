@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965993125945757696",
+        "7_1965993131951927297"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965361143708627377",
+    "created_at": "2025-09-11T04:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T05:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965993165187391549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "935788025300348929",
+          "start": 0,
+          "username": "bingling39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2igxPAkRQ",
+          "end": 47,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965993165187391549/video/1",
+          "media_key": "3_1965993125945757696",
+          "start": 24,
+          "url": "https://t.co/L2igxPAkRQ"
+        },
+        {
+          "display_url": "pic.x.com/L2igxPAkRQ",
+          "end": 47,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965993165187391549/video/1",
+          "media_key": "7_1965993131951927297",
+          "start": 24,
+          "url": "https://t.co/L2igxPAkRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965993165187391549",
+    "in_reply_to_user_id": "935788025300348929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965970333565071800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingling39 给你看看捞王年轻的时候 https://t.co/L2igxPAkRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965993125945757696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0icVO7bUAAzd0E.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 11006,
+        "height": 960,
+        "media_key": "7_1965993131951927297",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965993131951927297/pu/img/XVV3aITyooqr2NSj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965993131951927297/pu/vid/avc1/320x564/9wISe8ISe1hZvyRU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965993131951927297/pu/vid/avc1/480x846/41QC7JUY_Dme1Irv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965993131951927297/pu/vid/avc1/544x960/wF4q8A8s9lWjkHEL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965993131951927297/pu/pl/-C_HKcLaAigLUxFc.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965993125945757696",
+            "7_1965993131951927297"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965361143708627377",
+        "created_at": "2025-09-11T04:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965993165187391549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "935788025300348929",
+              "start": 0,
+              "username": "bingling39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2igxPAkRQ",
+              "end": 47,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965993165187391549/video/1",
+              "media_key": "3_1965993125945757696",
+              "start": 24,
+              "url": "https://t.co/L2igxPAkRQ"
+            },
+            {
+              "display_url": "pic.x.com/L2igxPAkRQ",
+              "end": 47,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965993165187391549/video/1",
+              "media_key": "7_1965993131951927297",
+              "start": 24,
+              "url": "https://t.co/L2igxPAkRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965993165187391549",
+        "in_reply_to_user_id": "935788025300348929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965970333565071800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingling39 给你看看捞王年轻的时候 https://t.co/L2igxPAkRQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935788025300348929",
+        "conversation_id": "1965361143708627377",
+        "created_at": "2025-09-11T02:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T03:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965970333565071800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965970333565071800",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965361143708627377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 ？你那时候比现在可清秀多了~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 648,
+          "like_count": 608,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 865
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:30:26.000Z",
+        "description": "mtf/持证含糖/不太熟悉玩推/手机维修工程师（修手机的)/武汉庇佑所管理/ TG频道: https://t.co/uHpEpvSrXC /🚪80支付宝口令 /但行好事，莫问前程",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 68,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 45,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 23,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 0,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          }
+        },
+        "id": "935788025300348929",
+        "location": "WuHan",
+        "name": "冰凌枫月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822820942843985920/JJaPljOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 223,
+          "like_count": 2308,
+          "listed_count": 8,
+          "media_count": 214,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/uHpEpvSrXC",
+        "username": "bingling39",
+        "verified": false
+      }
+    ]
+  }
+}

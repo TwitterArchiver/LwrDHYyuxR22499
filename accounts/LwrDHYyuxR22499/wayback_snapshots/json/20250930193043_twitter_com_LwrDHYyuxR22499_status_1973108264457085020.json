@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1972429976692760637",
+    "created_at": "2025-09-30T19:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T20:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973108264457085020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687479150620381184",
+          "start": 0,
+          "username": "devilmaycry810"
+        },
+        {
+          "end": 26,
+          "id": "1791699373975552000",
+          "start": 16,
+          "username": "VvFan2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973108264457085020",
+    "in_reply_to_user_id": "1687479150620381184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972825422242218344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@devilmaycry810 @VvFan2233 已经抓过蹲过班房了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1972429976692760637",
+        "created_at": "2025-09-30T19:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T20:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973108264457085020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687479150620381184",
+              "start": 0,
+              "username": "devilmaycry810"
+            },
+            {
+              "end": 26,
+              "id": "1791699373975552000",
+              "start": 16,
+              "username": "VvFan2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973108264457085020",
+        "in_reply_to_user_id": "1687479150620381184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972825422242218344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@devilmaycry810 @VvFan2233 已经抓过蹲过班房了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687479150620381184",
+        "conversation_id": "1972429976692760637",
+        "created_at": "2025-09-30T00:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972825422242218344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1791699373975552000",
+              "start": 17,
+              "username": "VvFan2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972825422242218344",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972437162789671323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @VvFan2233 哥们你会不会被警察以寻衅滋事抓了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 778,
+          "like_count": 646,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 937
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T15:02:54.000Z",
+        "description": "古手梨花",
+        "id": "1687479150620381184",
+        "name": "古手梨花",
+        "pinned_tweet_id": "1707046397512675456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962557130197868548/_v1qK1nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 131,
+          "like_count": 18930,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2314
+        },
+        "username": "devilmaycry810",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T05:16:47.000Z",
+        "description": "",
+        "id": "1791699373975552000",
+        "name": "vv fan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852993529502736384/W25FhJjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 24,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 751
+        },
+        "username": "VvFan2233",
+        "verified": false
+      }
+    ]
+  }
+}

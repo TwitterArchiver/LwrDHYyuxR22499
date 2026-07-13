@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1998363729696829891",
+    "created_at": "2025-12-09T13:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998385814447788414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686063963111374859",
+          "start": 0,
+          "username": "mo_chen6191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998385814447788414",
+    "in_reply_to_user_id": "1686063963111374859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998381083075973384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo_chen6191 因为我之前的房子不肯给我退押金然后如上所述做完了之后我还给他BYD洗衣机搬走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1998363729696829891",
+        "created_at": "2025-12-09T13:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998385814447788414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686063963111374859",
+              "start": 0,
+              "username": "mo_chen6191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998385814447788414",
+        "in_reply_to_user_id": "1686063963111374859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998381083075973384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_chen6191 因为我之前的房子不肯给我退押金然后如上所述做完了之后我还给他BYD洗衣机搬走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686063963111374859",
+        "conversation_id": "1998363729696829891",
+        "created_at": "2025-12-09T13:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998381083075973384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998381083075973384",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998363729696829891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 byd老王怎么这么多骚招啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1139,
+          "like_count": 935,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 1512
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T17:19:22.000Z",
+        "description": "路人。逃生舱@yedeng1919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yedeng1919"
+              }
+            ]
+          }
+        },
+        "id": "1686063963111374859",
+        "location": "Central Region, Singapore",
+        "name": "陈",
+        "pinned_tweet_id": "1916975337134821752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974141021534760967/dQhGKk6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 1003,
+          "like_count": 33863,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 7832
+        },
+        "username": "mo_chen6191",
+        "verified": false
+      }
+    ]
+  }
+}

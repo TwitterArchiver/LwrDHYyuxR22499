@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881927355868012545"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1881927307755196581",
+    "created_at": "2025-01-22T04:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T05:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881927368866181382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHQxmlAc3p",
+          "end": 23,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1881927368866181382/photo/1",
+          "media_key": "3_1881927355868012545",
+          "start": 0,
+          "url": "https://t.co/eHQxmlAc3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881927368866181382",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881927307755196581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/eHQxmlAc3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881927355868012545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh3y9ZOaYAEZlXS.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881927355868012545"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1881927307755196581",
+        "created_at": "2025-01-22T04:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881927368866181382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHQxmlAc3p",
+              "end": 23,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1881927368866181382/photo/1",
+              "media_key": "3_1881927355868012545",
+              "start": 0,
+              "url": "https://t.co/eHQxmlAc3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881927368866181382",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881927307755196581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/eHQxmlAc3p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881927293968502784",
+            "3_1881927294941536257",
+            "3_1881927294941609984",
+            "3_1881927295415504896"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881927307755196581",
+        "created_at": "2025-01-22T04:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881927307755196581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kXNwh0wNB",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1881927307755196581/photo/1",
+              "media_key": "3_1881927293968502784",
+              "start": 154,
+              "url": "https://t.co/5kXNwh0wNB"
+            },
+            {
+              "display_url": "pic.x.com/5kXNwh0wNB",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1881927307755196581/photo/1",
+              "media_key": "3_1881927294941536257",
+              "start": 154,
+              "url": "https://t.co/5kXNwh0wNB"
+            },
+            {
+              "display_url": "pic.x.com/5kXNwh0wNB",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1881927307755196581/photo/1",
+              "media_key": "3_1881927294941609984",
+              "start": 154,
+              "url": "https://t.co/5kXNwh0wNB"
+            },
+            {
+              "display_url": "pic.x.com/5kXNwh0wNB",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1881927307755196581/photo/1",
+              "media_key": "3_1881927295415504896",
+              "start": 154,
+              "url": "https://t.co/5kXNwh0wNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881927307755196581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "著名反戒网圈志愿者六加一，b站著名UP主六加一现b站名称@消失的六加一，qq号:3560058090\n遭到一位跨女的指控\n他被六加一以“参加卧底特训”\n的借口脱掉他的衣物\n对下体生殖器进行猥亵\n后续又以此为理由非法囚禁进行性侵\n性侵过又进行恐吓威胁殴打\n我目前以赶往线下与皮卡丘获得联系\n事后将放出采访录音 https://t.co/5kXNwh0wNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 136,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 171
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

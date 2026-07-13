@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984156338327531826",
+    "created_at": "2025-11-01T08:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T09:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984532346658570665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907215780552359936",
+          "start": 0,
+          "username": "FengJIn2781"
+        },
+        {
+          "end": 24,
+          "id": "1621552410048237569",
+          "start": 13,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984532346658570665",
+    "in_reply_to_user_id": "1907215780552359936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984528976719856033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengJIn2781 @amecandy_x 最近忙的事老多了你指哪个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984156338327531826",
+        "created_at": "2025-11-01T08:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984532346658570665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907215780552359936",
+              "start": 0,
+              "username": "FengJIn2781"
+            },
+            {
+              "end": 24,
+              "id": "1621552410048237569",
+              "start": 13,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984532346658570665",
+        "in_reply_to_user_id": "1907215780552359936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984528976719856033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengJIn2781 @amecandy_x 最近忙的事老多了你指哪个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907215780552359936",
+        "conversation_id": "1984156338327531826",
+        "created_at": "2025-11-01T07:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984528976719856033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 28,
+              "id": "1621552410048237569",
+              "start": 17,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984528976719856033",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984260682242744330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @amecandy_x 老王在搞什么呢😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 988,
+          "like_count": 792,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1410
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T23:37:43.000Z",
+        "description": "落在一个人一生中的雪，我们不能全部看见/INFP-T/道教/MTF🏳️‍⚧️/政治立场左上/💗好闺蜜～@mmbb111222333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "mmbb111222333"
+              }
+            ]
+          }
+        },
+        "id": "1907215780552359936",
+        "name": "风锦🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909877782370533710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924291917489049600/dfz7HIqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 123,
+          "like_count": 434,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 492
+        },
+        "username": "FengJIn2781",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧。🌧Transfem·HRT since2022🍥CS→Fullstack/LLM🌐双相情感障碍💔blogger✒️旅游✈历史📚政治🕴️暴论📢 #odtwt #お薬もぐもぐ #藥物濫用 #shtwt #drugtwt #メンヘラ #病み垢さんと繋がりたい ❤️‍🔥@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "odtwt"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "お薬もぐもぐ"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "藥物濫用"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "shtwt"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南⛲️",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "1981300758495842461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 1529,
+          "like_count": 21613,
+          "listed_count": 12,
+          "media_count": 796,
+          "tweet_count": 7168
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

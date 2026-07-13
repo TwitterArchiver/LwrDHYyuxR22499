@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038237972387250545",
+    "created_at": "2026-03-29T13:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038246211774464141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038246211774464141",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038245936150048869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka 你讲的有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038237972387250545",
+        "created_at": "2026-03-29T13:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038246211774464141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038246211774464141",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038245936150048869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 你讲的有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2038237972387250545",
+        "created_at": "2026-03-29T13:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038245936150048869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038245936150048869",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038242070952128529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 抱歉，我真的不知道把“一个男孩”改成“一个孩子”会有什么底层阻力。\n我只知道这样做，能让更少的人受到伤害。而且这样淡化详细身份信息，也会减少视频观众对争议问题的关注，能更好地凝聚力量。\n一开始考虑不周是情有可原的，但后来的争论本身，就已经成为了“底层原因”的一部分。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001,
+          "following_count": 2297,
+          "like_count": 2199,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2418
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界\n（黑化进度75%）",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "pinned_tweet_id": "2036007608755372410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 201,
+          "like_count": 13769,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 397
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

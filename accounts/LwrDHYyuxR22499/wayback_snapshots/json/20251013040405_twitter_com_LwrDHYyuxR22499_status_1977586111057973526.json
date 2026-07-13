@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977586108969189376"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977572550143275418",
+    "created_at": "2025-10-13T04:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977586111057973526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853293374889136128",
+          "start": 0,
+          "username": "gimanother"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SbILa20Siu",
+          "end": 35,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977586111057973526/photo/1",
+          "media_key": "3_1977586108969189376",
+          "start": 12,
+          "url": "https://t.co/SbILa20Siu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977586111057973526",
+    "in_reply_to_user_id": "1853293374889136128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977572550143275418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimanother https://t.co/SbILa20Siu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_1977586108969189376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HMFqHbAAAj1lD.jpg",
+        "width": 433
+      },
+      {
+        "height": 482,
+        "media_key": "3_1977572445675827200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3G_qWYbsAA71xW.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977586108969189376"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977572550143275418",
+        "created_at": "2025-10-13T04:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977586111057973526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853293374889136128",
+              "start": 0,
+              "username": "gimanother"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbILa20Siu",
+              "end": 35,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977586111057973526/photo/1",
+              "media_key": "3_1977586108969189376",
+              "start": 12,
+              "url": "https://t.co/SbILa20Siu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977586111057973526",
+        "in_reply_to_user_id": "1853293374889136128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977572550143275418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimanother https://t.co/SbILa20Siu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977572445675827200"
+          ]
+        },
+        "author_id": "1853293374889136128",
+        "conversation_id": "1977572550143275418",
+        "created_at": "2025-10-13T03:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977572550143275418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0LZwAEWYt",
+              "end": 39,
+              "expanded_url": "https://x.com/gimanother/status/1977572550143275418/photo/1",
+              "media_key": "3_1977572445675827200",
+              "start": 16,
+              "url": "https://t.co/Q0LZwAEWYt"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+              "start": 40,
+              "url": "https://t.co/8DywrbCfZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977572550143275418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976162098297352517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不懂就问这就是老资历梗的来历吗 https://t.co/Q0LZwAEWYt https://t.co/8DywrbCfZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 882,
+          "like_count": 701,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1039
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 256,
+          "like_count": 21239,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2653
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

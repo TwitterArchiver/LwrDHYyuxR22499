@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1904750540254568723",
+    "created_at": "2025-03-26T16:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T17:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904933243474063733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "700699352889581572",
+          "start": 0,
+          "username": "ChuuniC"
+        },
+        {
+          "end": 18,
+          "id": "4824319510",
+          "start": 9,
+          "username": "D2Dummia"
+        },
+        {
+          "end": 29,
+          "id": "1446068140287332354",
+          "start": 19,
+          "username": "chaoyun12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904933243474063733",
+    "in_reply_to_user_id": "700699352889581572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904904851194339559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuuniC @D2Dummia @chaoyun12 你今天干活了吗🐒🐒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904904840553340928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-U3CAaoAANsei.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1206,
+        "media_key": "3_1904904840561778689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm-U3CCbYAE-3cT.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1904750540254568723",
+        "created_at": "2025-03-26T16:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904933243474063733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "700699352889581572",
+              "start": 0,
+              "username": "ChuuniC"
+            },
+            {
+              "end": 18,
+              "id": "4824319510",
+              "start": 9,
+              "username": "D2Dummia"
+            },
+            {
+              "end": 29,
+              "id": "1446068140287332354",
+              "start": 19,
+              "username": "chaoyun12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904933243474063733",
+        "in_reply_to_user_id": "700699352889581572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904904851194339559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuuniC @D2Dummia @chaoyun12 你今天干活了吗🐒🐒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904904840553340928",
+            "3_1904904840561778689"
+          ]
+        },
+        "author_id": "700699352889581572",
+        "conversation_id": "1904750540254568723",
+        "created_at": "2025-03-26T14:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904904851194339559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4824319510",
+              "start": 0,
+              "username": "D2Dummia"
+            },
+            {
+              "end": 20,
+              "id": "1446068140287332354",
+              "start": 10,
+              "username": "chaoyun12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2NJofpzWcv",
+              "end": 66,
+              "expanded_url": "https://x.com/ChuuniC/status/1904904851194339559/photo/1",
+              "media_key": "3_1904904840553340928",
+              "start": 43,
+              "url": "https://t.co/2NJofpzWcv"
+            },
+            {
+              "display_url": "pic.x.com/2NJofpzWcv",
+              "end": 66,
+              "expanded_url": "https://x.com/ChuuniC/status/1904904851194339559/photo/1",
+              "media_key": "3_1904904840561778689",
+              "start": 43,
+              "url": "https://t.co/2NJofpzWcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904904851194339559",
+        "in_reply_to_user_id": "4824319510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904838944141042005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D2Dummia @chaoyun12 单纯靠管理人员决定不需要系统的都有这种操作 https://t.co/2NJofpzWcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 254,
+          "like_count": 189,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 329
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-19T15:11:58.000Z",
+        "description": "有時很懊惱 \n有時也感到驕傲 \n有時不後悔 曾這樣表達憤怒",
+        "id": "700699352889581572",
+        "location": "康平路165号, 上海, 中华人民共和国",
+        "name": "chuuni_#C 🐬 🍥",
+        "pinned_tweet_id": "1705909425503093118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638852585196240897/yvg99ggZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 2316,
+          "like_count": 25980,
+          "listed_count": 6,
+          "media_count": 2276,
+          "tweet_count": 25869
+        },
+        "username": "ChuuniC",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-18T14:56:48.000Z",
+        "description": "ロボットとマンガマニア、緻密な世界観と物語作りが好む、そのために雑学系狂犬になった/雑多、悪口多ので、フォローする前に特にご注意ください。FFXIVゼロ鯖。",
+        "id": "4824319510",
+        "name": "D2DM0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/689100271608270848/EiW09V3D_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 499,
+          "like_count": 35513,
+          "listed_count": 7,
+          "media_count": 241,
+          "tweet_count": 20196
+        },
+        "username": "D2Dummia",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T11:01:41.000Z",
+        "description": "被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chaoyun.bsky.social",
+                "end": 23,
+                "expanded_url": "http://chaoyun.bsky.social",
+                "start": 0,
+                "url": "https://t.co/p80F0PYETs"
+              }
+            ]
+          }
+        },
+        "id": "1446068140287332354",
+        "name": "朝云",
+        "pinned_tweet_id": "1871903249940599027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892426197188878337/c6o4lr8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 327,
+          "like_count": 54628,
+          "listed_count": 10,
+          "media_count": 1790,
+          "tweet_count": 35805
+        },
+        "url": "https://t.co/p80F0PYETs",
+        "username": "chaoyun12",
+        "verified": false
+      }
+    ]
+  }
+}

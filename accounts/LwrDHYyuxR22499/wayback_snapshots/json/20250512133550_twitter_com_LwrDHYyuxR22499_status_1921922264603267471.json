@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921922260777959424"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1921922264603267471",
+    "created_at": "2025-05-12T13:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T14:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921922264603267471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MP7RlUQriD",
+          "end": 31,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1921922264603267471/photo/1",
+          "media_key": "3_1921922260777959424",
+          "start": 8,
+          "url": "https://t.co/MP7RlUQriD"
+        },
+        {
+          "display_url": "x.com/woshiami/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/woshiami/status/1921231651809448182",
+          "start": 32,
+          "url": "https://t.co/f6K491Uk0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921922264603267471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921231651809448182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真得控制你们了 https://t.co/MP7RlUQriD https://t.co/f6K491Uk0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_1921922260777959424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwKHQeWAAAIDaY.jpg",
+        "width": 720
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1921231648458260480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmWAVGXwAAh-uM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921922260777959424"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1921922264603267471",
+        "created_at": "2025-05-12T13:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T14:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921922264603267471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MP7RlUQriD",
+              "end": 31,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1921922264603267471/photo/1",
+              "media_key": "3_1921922260777959424",
+              "start": 8,
+              "url": "https://t.co/MP7RlUQriD"
+            },
+            {
+              "display_url": "x.com/woshiami/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/woshiami/status/1921231651809448182",
+              "start": 32,
+              "url": "https://t.co/f6K491Uk0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921922264603267471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921231651809448182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真得控制你们了 https://t.co/MP7RlUQriD https://t.co/f6K491Uk0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921231648458260480"
+          ]
+        },
+        "author_id": "1567505290026958848",
+        "conversation_id": "1921231651809448182",
+        "created_at": "2025-05-10T15:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T16:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921231651809448182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pV6DB37hV6",
+              "end": 26,
+              "expanded_url": "https://x.com/woshiami/status/1921231651809448182/photo/1",
+              "media_key": "3_1921231648458260480",
+              "start": 3,
+              "url": "https://t.co/pV6DB37hV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921231651809448182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 524951,
+          "like_count": 3102,
+          "quote_count": 7,
+          "reply_count": 86,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "逆天 https://t.co/pV6DB37hV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 313,
+          "like_count": 279,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 440
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshiami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshiami",
+                "start": 0,
+                "url": "https://t.co/5BLeIu7ql7"
+              }
+            ]
+          }
+        },
+        "id": "1567505290026958848",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "1876099002103746722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 2106,
+          "like_count": 71364,
+          "listed_count": 3,
+          "media_count": 968,
+          "tweet_count": 5462
+        },
+        "url": "https://t.co/5BLeIu7ql7",
+        "username": "woshiami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1939887451637784675",
+    "created_at": "2025-07-01T03:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T04:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939887451637784675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MiaokaK/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/MiaokaK/status/1937574918075699212",
+          "start": 14,
+          "url": "https://t.co/LaW3nZYIui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939887451637784675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937574918075699212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓我对此案负责这单子我接了 https://t.co/LaW3nZYIui"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1939887451637784675",
+        "created_at": "2025-07-01T03:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939887451637784675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MiaokaK/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/MiaokaK/status/1937574918075699212",
+              "start": 14,
+              "url": "https://t.co/LaW3nZYIui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939887451637784675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937574918075699212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓我对此案负责这单子我接了 https://t.co/LaW3nZYIui"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877583559709569027",
+        "conversation_id": "1937574918075699212",
+        "created_at": "2025-06-24T18:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T19:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937574918075699212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937574918075699212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3353,
+          "like_count": 42,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "求求大家帮帮忙，我的一个很好很好的朋友被父母送进一个类似戒网瘾的学校里了，早上两个自称网监局的人上门把她直接带走了，现在已经进了那个机构了，真的求求大家帮帮忙，她才16岁，有比较严重的心理疾病，我看到她到那个机构被问询的视频心疼地说不出话，真的求求大家，有偿也可以，之后会慢慢还上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 399,
+          "like_count": 391,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 560
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T05:09:49.000Z",
+        "description": "",
+        "id": "1877583559709569027",
+        "name": "Miao Ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877584062996721664/21znRrJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "MiaokaK",
+        "verified": false
+      }
+    ]
+  }
+}

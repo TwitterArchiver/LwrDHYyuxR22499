@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981511608519246056",
+    "created_at": "2025-10-24T00:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T01:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981516194730692919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981516194730692919",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981515118811955709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter 别笑😡有什么好笑的\n我正在验证老大的理论对不对\n我反正是挨过电棍手铐白炽灯了\n他要是一点事没有他可有大问题了😡事坏分子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981515118811955709].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981515118811955709",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981515118811955709"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981511608519246056",
+        "created_at": "2025-10-24T00:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T01:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981516194730692919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981516194730692919",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981515118811955709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter 别笑😡有什么好笑的\n我正在验证老大的理论对不对\n我反正是挨过电棍手铐白炽灯了\n他要是一点事没有他可有大问题了😡事坏分子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 946,
+          "like_count": 756,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 1304
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "",
+        "id": "1523537773143236608",
+        "name": "胡桃老师不是狐老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 275,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2125
+        },
+        "username": "Homulilly_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

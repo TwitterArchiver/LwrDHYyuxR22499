@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013637284273574062",
+    "created_at": "2026-01-21T11:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T12:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013942033166266780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013942033166266780",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013941340254732596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd 民警跟武警是两个概念😁分清楚\n一星通缉来民警\n二星来刑警\n三星来特警\n四星来武警\n五星军事打击你可以依次顺序排列"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013637284273574062",
+        "created_at": "2026-01-21T11:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013942033166266780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013942033166266780",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013941340254732596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd 民警跟武警是两个概念😁分清楚\n一星通缉来民警\n二星来刑警\n三星来特警\n四星来武警\n五星军事打击你可以依次顺序排列"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "2013637284273574062",
+        "created_at": "2026-01-21T11:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013941340254732596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013941340254732596",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013637284273574062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 可是前段时间看到有mtf可以正面对抗打断警察肋骨，手撕门锁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 1633,
+          "like_count": 1383,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 1935
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998618563142447104/xdsmEU8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 116,
+          "like_count": 3681,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 5519
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      }
+    ]
+  }
+}

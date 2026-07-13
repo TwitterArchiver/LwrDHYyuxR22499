@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2041785650022883787",
+    "created_at": "2026-04-08T07:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041785650022883787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyobewild/sta…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/yoyobewild/status/2041371579121324125",
+          "start": 32,
+          "url": "https://t.co/3yQ2bOLJgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041785650022883787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041371579121324125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是个迟钝的人\n但这个梗是为数不多第一次听到\n就生理性恶心的梗 https://t.co/3yQ2bOLJgG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2041785650022883787",
+        "created_at": "2026-04-08T07:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041785650022883787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyobewild/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yoyobewild/status/2041371579121324125",
+              "start": 32,
+              "url": "https://t.co/3yQ2bOLJgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041785650022883787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041371579121324125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是个迟钝的人\n但这个梗是为数不多第一次听到\n就生理性恶心的梗 https://t.co/3yQ2bOLJgG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2041371579121324125",
+        "created_at": "2026-04-07T04:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041371579121324125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041371579121324125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 119107,
+          "like_count": 2698,
+          "quote_count": 11,
+          "reply_count": 47,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚在公园，坐在湖边。\n两个稚嫩的声音在后面打闹，我听到他们喊：“跑得慢的是gay！”\n清脆的，稚嫩的声音，幼儿园的样子……还没有学会怎么和世界相处，就先学会这些满含恶意的网络口号了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 2358,
+          "like_count": 2450,
+          "listed_count": 14,
+          "media_count": 390,
+          "tweet_count": 2593
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747,
+          "following_count": 188,
+          "like_count": 36771,
+          "listed_count": 17,
+          "media_count": 382,
+          "tweet_count": 7966
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

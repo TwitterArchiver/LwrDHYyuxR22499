@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2054479561585549683",
+    "created_at": "2026-05-13T08:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054480853217214692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935221058489171971",
+          "start": 0,
+          "username": "mngxiaohan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054480853217214692",
+    "in_reply_to_user_id": "1935221058489171971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054480486236561450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngxiaohan 我去老鲁来了\n明天直接来我办公室工作好把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2054479561585549683",
+        "created_at": "2026-05-13T08:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054480853217214692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935221058489171971",
+              "start": 0,
+              "username": "mngxiaohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054480853217214692",
+        "in_reply_to_user_id": "1935221058489171971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054480486236561450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngxiaohan 我去老鲁来了\n明天直接来我办公室工作好把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935221058489171971",
+        "conversation_id": "2054479561585549683",
+        "created_at": "2026-05-13T08:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054480486236561450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054480486236561450",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479561585549683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5030,
+          "following_count": 2754,
+          "like_count": 2726,
+          "listed_count": 18,
+          "media_count": 409,
+          "tweet_count": 2718
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T06:20:36.000Z",
+        "description": "可爱的小猫很乖的，快来领养喵，可投喂喵，生于2008/165 105g/无证含糖🍥MTF友跨，互fo/中度抑郁/",
+        "id": "1935221058489171971",
+        "name": "萌小涵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051659548260446208/z8hEgdq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 86,
+          "like_count": 25,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 37
+        },
+        "username": "mngxiaohan",
+        "verified": false
+      }
+    ]
+  }
+}

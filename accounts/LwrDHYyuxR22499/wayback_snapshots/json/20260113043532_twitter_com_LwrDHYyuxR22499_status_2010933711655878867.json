@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2010933711655878867",
+    "created_at": "2026-01-13T04:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T05:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010933711655878867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nikandad/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/nikandad/status/2010363623110303937",
+          "start": 13,
+          "url": "https://t.co/lVHe48I1KV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010933711655878867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010363623110303937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人其实也跟头像差不多… https://t.co/lVHe48I1KV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2010933711655878867",
+        "created_at": "2026-01-13T04:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010933711655878867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikandad/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nikandad/status/2010363623110303937",
+              "start": 13,
+              "url": "https://t.co/lVHe48I1KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010933711655878867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010363623110303937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人其实也跟头像差不多… https://t.co/lVHe48I1KV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956385333853167616",
+        "conversation_id": "2010229889681764642",
+        "created_at": "2026-01-11T14:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010363623110303937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771160028852195328",
+              "start": 0,
+              "username": "Spring_741r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010363623110303937",
+        "in_reply_to_user_id": "1771160028852195328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 62974,
+          "like_count": 15,
+          "quote_count": 76,
+          "reply_count": 80,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010363278866944069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spring_741r 本人基本和头像一致。\n跟你们支那逼长得完全相反"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009440425611034624/hB-hwvS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 1549,
+          "like_count": 1302,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 1848
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T15:59:59.000Z",
+        "description": "农逼支那人的欧亚草原大爹 Y染-N1a 不会说本族语言但不影响本人是支那逼代代跪拜的阿尔泰满洲种",
+        "id": "1956385333853167616",
+        "name": "黑骑士の三代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001009177972629512/FOvP0np__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 86,
+          "like_count": 220,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 1503
+        },
+        "username": "nikandad",
+        "verified": false
+      }
+    ]
+  }
+}

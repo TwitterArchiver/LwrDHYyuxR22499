@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989783111576817971",
+    "created_at": "2025-11-16T06:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T07:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989948358954553512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874540836375162880",
+          "start": 0,
+          "username": "ParabolicSeal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989948358954553512",
+    "in_reply_to_user_id": "1874540836375162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989947744077947008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParabolicSeal 那可太蛆了算了\n开这种学校的全都是人大代表\n不混个人大代表再开学校都不好意思说自己有背景的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T06:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989948358954553512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1874540836375162880",
+              "start": 0,
+              "username": "ParabolicSeal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989948358954553512",
+        "in_reply_to_user_id": "1874540836375162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989947744077947008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParabolicSeal 那可太蛆了算了\n开这种学校的全都是人大代表\n不混个人大代表再开学校都不好意思说自己有背景的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874540836375162880",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T06:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989947744077947008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989947744077947008",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989783111576817971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 建议你去你所在选区的人大代表提出抗议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1065,
+          "like_count": 848,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1406
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T19:39:52.000Z",
+        "description": "Software Developer | Data Analyst",
+        "id": "1874540836375162880",
+        "location": "Auckland, New Zealand",
+        "name": "抛物线Seal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874541067993034752/55QcX3Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 163,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 2625
+        },
+        "username": "ParabolicSeal",
+        "verified": false
+      }
+    ]
+  }
+}

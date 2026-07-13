@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038988975092949239",
+    "created_at": "2026-03-31T14:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038992144330047754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676952775337603073",
+          "start": 0,
+          "username": "WHENTHE88837811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038992144330047754",
+    "in_reply_to_user_id": "1676952775337603073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038991801730928790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WHENTHE88837811 你再怎么回避也要跟警察讲他的指派性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038988975092949239",
+        "created_at": "2026-03-31T14:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038992144330047754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676952775337603073",
+              "start": 0,
+              "username": "WHENTHE88837811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038992144330047754",
+        "in_reply_to_user_id": "1676952775337603073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038991801730928790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WHENTHE88837811 你再怎么回避也要跟警察讲他的指派性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676952775337603073",
+        "conversation_id": "2038988975092949239",
+        "created_at": "2026-03-31T14:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038991801730928790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038991801730928790",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038988975092949239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 如果完全迴避性別問題呢？\n譬如只稱為“一位受害者”，不去深究個人歷史與資訊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3992,
+          "following_count": 2322,
+          "like_count": 2331,
+          "listed_count": 15,
+          "media_count": 383,
+          "tweet_count": 2519
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T13:54:39.000Z",
+        "description": "A Femboi Hoi4 TNO mod player from Taiwan Taoyuan\n🏳️‍🌈🏳️‍⚧️and non-binary friendly\n友跨男娘，來自台灣桃園，事TNO壬\n07年12月生\n確診ADHD和亞斯伯格\n受，想被攻（？\n被學業折磨的高中牲\n\n會回fo（除了看上去很可疑的以外）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.pronouns.page/@Cary_Otokonok…",
+                "end": 23,
+                "expanded_url": "https://en.pronouns.page/@Cary_OtokonokOwO",
+                "start": 0,
+                "url": "https://t.co/HDGoz7YNpZ"
+              }
+            ]
+          }
+        },
+        "id": "1676952775337603073",
+        "location": "台灣桃園（現居其他地方）",
+        "name": "Cary_OtokonokOwO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846183293634727937/9lwDDaOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 162,
+          "like_count": 2675,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/HDGoz7YNpZ",
+        "username": "WHENTHE88837811",
+        "verified": false
+      }
+    ]
+  }
+}

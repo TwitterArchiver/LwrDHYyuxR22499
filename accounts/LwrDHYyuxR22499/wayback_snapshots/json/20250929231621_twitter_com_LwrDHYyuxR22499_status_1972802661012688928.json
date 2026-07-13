@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1972429976692760637",
+    "created_at": "2025-09-29T23:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T00:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972802661012688928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910265162856366080",
+          "start": 0,
+          "username": "yiwa76862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972802661012688928",
+    "in_reply_to_user_id": "1910265162856366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972593934359839072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiwa76862 我是一个向绝望于虚无冲锋\n企图打破第四面墙的人\n我是一个灵魂在旷野上狂奔为了践行自身以生命证道的人\n残酷的是死亡也是逃避\n我认为人至少该死在反抗或者践行自己的路上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1972429976692760637",
+        "created_at": "2025-09-29T23:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972802661012688928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910265162856366080",
+              "start": 0,
+              "username": "yiwa76862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972802661012688928",
+        "in_reply_to_user_id": "1910265162856366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972593934359839072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiwa76862 我是一个向绝望于虚无冲锋\n企图打破第四面墙的人\n我是一个灵魂在旷野上狂奔为了践行自身以生命证道的人\n残酷的是死亡也是逃避\n我认为人至少该死在反抗或者践行自己的路上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910265162856366080",
+        "conversation_id": "1972429976692760637",
+        "created_at": "2025-09-29T09:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972593934359839072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972593934359839072",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972429976692760637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你是英雄吗🥰\n那么我是邪恶的坏人，可以杀掉我吗😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 770,
+          "like_count": 642,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 933
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:35:02.000Z",
+        "description": "fgo望月千代女单推人，来源图片皆为约稿",
+        "id": "1910265162856366080",
+        "location": "镜花学院",
+        "name": "佩佩龙的西哈诺----诅咒之神",
+        "pinned_tweet_id": "1957672918348923321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966078100606791680/e8JSCzcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 159,
+          "like_count": 2862,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 929
+        },
+        "username": "yiwa76862",
+        "verified": false
+      }
+    ]
+  }
+}

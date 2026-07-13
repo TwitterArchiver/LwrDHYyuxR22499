@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018964139834753025"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018964142041039324",
+    "created_at": "2026-02-04T08:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T09:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018964142041039324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3de12CJxMD",
+          "end": 169,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018964142041039324/photo/1",
+          "media_key": "3_2018964139834753025",
+          "start": 146,
+          "url": "https://t.co/3de12CJxMD"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 193,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018962720155160994",
+          "start": 170,
+          "url": "https://t.co/635RJbiEbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018964142041039324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018962720155160994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "附：该校校长迎接执法人员现场图\n \n一张“校长笑脸相迎、执法人员到场”的照片，背后是无数被囚禁、被虐待的青少年不敢求救的绝望。\n \n是谁在消耗国家公信力\n在包庇贪污腐败、纵容未成年人被长期虐待？\n是什么样的执法环境让被人身囚禁绑架至此的孩子宁可发起暴动也不敢向执法人员求助\n我再此不多做赘述 https://t.co/3de12CJxMD https://t.co/635RJbiEbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 401,
+        "media_key": "3_2018964139834753025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATNMDEaQAEHBo8.jpg",
+        "width": 658
+      },
+      {
+        "height": 454,
+        "media_key": "3_2018962703470243840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4cMbMAAdLYz.jpg",
+        "width": 657
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018962700584579073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4RcbcAEO99M.jpg",
+        "width": 917
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2018962700580319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4RbacAAw05_.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2018962702425870337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4YTbUAEBb6b.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018964139834753025"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018964142041039324",
+        "created_at": "2026-02-04T08:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018964142041039324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3de12CJxMD",
+              "end": 169,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018964142041039324/photo/1",
+              "media_key": "3_2018964139834753025",
+              "start": 146,
+              "url": "https://t.co/3de12CJxMD"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018962720155160994",
+              "start": 170,
+              "url": "https://t.co/635RJbiEbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018964142041039324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018962720155160994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附：该校校长迎接执法人员现场图\n \n一张“校长笑脸相迎、执法人员到场”的照片，背后是无数被囚禁、被虐待的青少年不敢求救的绝望。\n \n是谁在消耗国家公信力\n在包庇贪污腐败、纵容未成年人被长期虐待？\n是什么样的执法环境让被人身囚禁绑架至此的孩子宁可发起暴动也不敢向执法人员求助\n我再此不多做赘述 https://t.co/3de12CJxMD https://t.co/635RJbiEbF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018962703470243840",
+            "3_2018962700584579073",
+            "3_2018962700580319232",
+            "3_2018962702425870337"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018962720155160994",
+        "created_at": "2026-02-04T08:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018962720155160994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962703470243840",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962700584579073",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962700580319232",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962702425870337",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018955721636020621",
+              "start": 162,
+              "url": "https://t.co/WIiDwcvx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018962720155160994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018955721636020621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该机构在过去十余年的运营中，性侵、虐待、殴打等指控从未间断，却始终屹立不倒，甚至从重庆扩张至贵州山东等地。\n \n我们决定公开调查收集到的该机构档案。其背后牵扯的利益链条之深贪污腐败令人咋舌\n市公安局，妇联教育局政法委皆为该校背书\n你以为警察会来解救这些孩子？\n哈哈…恰恰相反 https://t.co/kxOTIwiwEt https://t.co/WIiDwcvx17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1720,
+          "like_count": 1442,
+          "listed_count": 10,
+          "media_count": 323,
+          "tweet_count": 2011
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

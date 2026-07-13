@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980553821890965891",
+    "created_at": "2025-10-21T22:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T23:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980767189880959495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375730868241670146",
+          "start": 0,
+          "username": "MoMo2007_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980767189880959495",
+    "in_reply_to_user_id": "1375730868241670146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980594480865739132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoMo2007_ 蛆他不发我救人也这速度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980553821890965891",
+        "created_at": "2025-10-21T22:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T23:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980767189880959495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375730868241670146",
+              "start": 0,
+              "username": "MoMo2007_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980767189880959495",
+        "in_reply_to_user_id": "1375730868241670146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980594480865739132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoMo2007_ 蛆他不发我救人也这速度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375730868241670146",
+        "conversation_id": "1980553821890965891",
+        "created_at": "2025-10-21T11:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980594480865739132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980594480865739132",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980553821890965891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 李老师发力了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 922,
+          "like_count": 717,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1107
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-27T08:46:23.000Z",
+        "description": "183cm😭 焦虑症 ADHD 高中 hrt2024.7.1 泛性恋? 25年3月3日大证 不od不割手 🚪38 家长不管党？欢迎贴贴 爱好:mc/模拟飞行/无人机/无线电/计算机/战雷 备用@sQingHeya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "sQingHeya"
+              }
+            ]
+          }
+        },
+        "id": "1375730868241670146",
+        "location": "河北",
+        "name": "墨瑾🍥",
+        "pinned_tweet_id": "1837053443946504370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881546176563957760/l7joKrCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 358,
+          "like_count": 8904,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 2552
+        },
+        "username": "MoMo2007_",
+        "verified": false
+      }
+    ]
+  }
+}

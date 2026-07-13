@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2052590965257646112",
+    "created_at": "2026-05-08T03:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052591561280774158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795719520939905024",
+          "start": 0,
+          "username": "pyridine_lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052591561280774158",
+    "in_reply_to_user_id": "1795719520939905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052591337703403814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyridine_lemon 你在地狱笑话这方面已经超过我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052590965257646112",
+        "created_at": "2026-05-08T03:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052591561280774158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052591561280774158",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052591337703403814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon 你在地狱笑话这方面已经超过我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795719520939905024",
+        "conversation_id": "2052590965257646112",
+        "created_at": "2026-05-08T03:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052591337703403814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052591337703403814",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052590965257646112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 AAA尸体批发牧鸢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4952,
+          "following_count": 2719,
+          "like_count": 2683,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2701
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "love every person who appreciates me\n\nmtf/mathematics-phile/Cuset's fan/\n\nwith Cuset: we are lovers and friends\n\nlove @VoidAldehyde forever...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "VoidAldehyde"
+              }
+            ]
+          }
+        },
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2046559190425231627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796043264979812353/whgd2biH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 38,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1808
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

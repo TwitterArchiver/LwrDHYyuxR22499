@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984985806864597422",
+    "created_at": "2025-11-02T14:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984985806864597422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984985806864597422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋新项目启动辣\n哪位感觉自己有被送扭转风险的孩子\n可以来捞王这里报名\n只要符合规定的牢王会用尽手段确保你现有的人身安全\n如果被抓紧扭转机构里\n牢王将在一个月内将恁救出来\n😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984985806864597422",
+        "created_at": "2025-11-02T14:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984985806864597422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984985806864597422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋新项目启动辣\n哪位感觉自己有被送扭转风险的孩子\n可以来捞王这里报名\n只要符合规定的牢王会用尽手段确保你现有的人身安全\n如果被抓紧扭转机构里\n牢王将在一个月内将恁救出来\n😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 990,
+          "like_count": 817,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1445
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

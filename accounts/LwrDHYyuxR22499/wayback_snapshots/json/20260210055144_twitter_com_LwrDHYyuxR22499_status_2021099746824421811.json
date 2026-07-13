@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2020907511214375129",
+    "created_at": "2026-02-10T05:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021099746824421811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969691175574769664",
+          "start": 0,
+          "username": "Nostraman6000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021099746824421811",
+    "in_reply_to_user_id": "1969691175574769664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021099624145223798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nostraman6000 我想是了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2020907511214375129",
+        "created_at": "2026-02-10T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021099746824421811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969691175574769664",
+              "start": 0,
+              "username": "Nostraman6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021099746824421811",
+        "in_reply_to_user_id": "1969691175574769664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021099624145223798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nostraman6000 我想是了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969691175574769664",
+        "conversation_id": "2020907511214375129",
+        "created_at": "2026-02-10T05:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021099624145223798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021099624145223798",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020907511214375129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 资本主义之下，没有人是不病理化的，资产阶级如此，无产阶级亦是如此，性多数如此，性少数亦是如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 1758,
+          "like_count": 1490,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 2066
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:12:35.000Z",
+        "description": "大号：@LXL1165188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "LXL1165188"
+              }
+            ]
+          }
+        },
+        "id": "1969691175574769664",
+        "location": "SC",
+        "name": "MALVER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974877727288377345/062SeFOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 251,
+          "like_count": 391,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2094
+        },
+        "username": "Nostraman6000",
+        "verified": false
+      }
+    ]
+  }
+}

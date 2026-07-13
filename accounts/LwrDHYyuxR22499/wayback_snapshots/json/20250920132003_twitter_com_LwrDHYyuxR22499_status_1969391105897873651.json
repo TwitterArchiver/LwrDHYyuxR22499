@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1969372172692177271",
+    "created_at": "2025-09-20T13:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969391105897873651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896175390005342208",
+          "start": 0,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969391105897873651",
+    "in_reply_to_user_id": "1896175390005342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969372172692177271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinya 哦看来我只为你换来了短暂的和平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1969372172692177271",
+        "created_at": "2025-09-20T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969391105897873651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969391105897873651",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969372172692177271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya 哦看来我只为你换来了短暂的和平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "1969372172692177271",
+        "created_at": "2025-09-20T12:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969372172692177271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969372172692177271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重蹈覆辙了，我娘突然又明令禁止我进行任何形式的HRT（她的原话：「我就把话说死了，以后你就不准打那个针吃那个药了，我看你你就是被网上误导了，你说吃不饱饭的时候还有没有人想着变性」），近期她还重新限制了我的各项起居自由，我不顺从她就会使用各种方式折磨我，看来我该逃离这里了😁😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 711,
+          "like_count": 631,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 901
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉｜❤️恋人：@Haruhi_LAP，🍧闺蜜：@CuteKittenO3O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Haruhi_LAP"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "青岛地铁13号线",
+        "name": "初菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1492,
+          "like_count": 14476,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 800
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

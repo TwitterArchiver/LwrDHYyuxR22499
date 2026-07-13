@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984900518867870170",
+    "created_at": "2025-11-02T09:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984915237636829485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984915237636829485",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984910115125022845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 🤮🤮🤮算了我现在每日的噩梦就是我的那两位好同志一个死了一个进精神病院现在退圈了\n我虽然依旧很想但是我再也不敢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T09:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984915237636829485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984915237636829485",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984910115125022845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 🤮🤮🤮算了我现在每日的噩梦就是我的那两位好同志一个死了一个进精神病院现在退圈了\n我虽然依旧很想但是我再也不敢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T09:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984910115125022845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984910115125022845",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984908469175263678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 没什么，有问题我都可以正面回应，除非涉及到敏感问题（比如如何过海关，走物流，如何绕过KYC，如何处理Compliance）。\nPS. 不过如果你想好人当到底的话，可以像几年前一样，召集跨性别者凑资金，拿代理权，然后合法申请进口，报关缴税海运，绕过我们这些吃人的资本主义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 990,
+          "like_count": 803,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 1429
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "致敬传奇耐杀王猫卷 ’ @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "HobartR6"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🏙️",
+        "name": "𝙇𝙪𝙢𝙞.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984347223728275460/Wsdoz0EC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 843,
+          "like_count": 752,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2162
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1918988364042080274",
+    "created_at": "2025-05-04T11:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T12:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918988364042080274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1918986267930288251",
+          "start": 143,
+          "url": "https://t.co/pCAqmfy0dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918988364042080274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918986267930288251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种人并不真正的在乎女性权益\n他们不在乎再机构里面被强奸到阴道口长出小蘑菇的女性不在乎\n只暑假在家躺着父母觉得你摆烂就把你送进机构里强奸你导致你下体糜烂的出来就在男朋友面前跳楼摔成一坨肉酱的女孩子\n他们只在乎自己是否看起来足够进步足够关注跨性别权益\n还有女性权益而对真正的苦难视若罔闻 https://t.co/pCAqmfy0dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918986263904047104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGb1vza0AAyFjB.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918986262637326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGb1rFaMAApSc4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1918988364042080274",
+        "created_at": "2025-05-04T11:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918988364042080274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1918986267930288251",
+              "start": 143,
+              "url": "https://t.co/pCAqmfy0dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918988364042080274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918986267930288251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种人并不真正的在乎女性权益\n他们不在乎再机构里面被强奸到阴道口长出小蘑菇的女性不在乎\n只暑假在家躺着父母觉得你摆烂就把你送进机构里强奸你导致你下体糜烂的出来就在男朋友面前跳楼摔成一坨肉酱的女孩子\n他们只在乎自己是否看起来足够进步足够关注跨性别权益\n还有女性权益而对真正的苦难视若罔闻 https://t.co/pCAqmfy0dm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918986263904047104",
+            "3_1918986262637326336"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1918986267930288251",
+        "created_at": "2025-05-04T11:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T12:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918986267930288251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aboCBdL1yg",
+              "end": 163,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1918986267930288251/photo/1",
+              "media_key": "3_1918986263904047104",
+              "start": 140,
+              "url": "https://t.co/aboCBdL1yg"
+            },
+            {
+              "display_url": "pic.x.com/aboCBdL1yg",
+              "end": 163,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1918986267930288251/photo/1",
+              "media_key": "3_1918986262637326336",
+              "start": 140,
+              "url": "https://t.co/aboCBdL1yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918986267930288251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天难得有时间我讲一下\n我当时辱骂汤戈韬是因为他为了对线造谣别人神经病导致其被迫害\n自己只会搞政治斗争却要妨碍其他人救人我对只有政治形态却没有人权观念的啥逼是尤为厌恶的而一群所谓的杂种女权跨只注意到了我用女字旁辱骂他\n却看不到我生气是因为汤戈韬在干涉我们拯救其他女性还有性少数 https://t.co/aboCBdL1yg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 286,
+          "like_count": 231,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 390
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

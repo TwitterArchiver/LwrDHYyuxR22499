@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021975224963772899",
+    "created_at": "2026-02-12T15:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021975224963772899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2021973618629161338",
+          "start": 105,
+          "url": "https://t.co/01GSVgGk26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021975224963772899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021973618629161338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果有时间真想好好讲一下这种扭转机构立面底层互害的手法跟逻辑\n被教官虐待的方式\n还有出来之后又是如何一直活在随时有可能再被抓进去的生活当中\n官僚之间有事如何合作\n默许甚至帮助这些机构的\n但感觉尺度有点大🤐🤐🤐 https://t.co/01GSVgGk26"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021975224963772899",
+        "created_at": "2026-02-12T15:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021975224963772899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2021973618629161338",
+              "start": 105,
+              "url": "https://t.co/01GSVgGk26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021975224963772899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021973618629161338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有时间真想好好讲一下这种扭转机构立面底层互害的手法跟逻辑\n被教官虐待的方式\n还有出来之后又是如何一直活在随时有可能再被抓进去的生活当中\n官僚之间有事如何合作\n默许甚至帮助这些机构的\n但感觉尺度有点大🤐🤐🤐 https://t.co/01GSVgGk26"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021973618629161338",
+        "created_at": "2026-02-12T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021973618629161338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021973618629161338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这次受害者长得真的很漂亮\n这导致她在这种底层互害的环境里面非常遭人嫉妒\n有人曾经威胁过他\n因为你长得太好看了\n所以我要把花露水瓶塞到你的“逼”里面😬😬😬\n有些女学生会把内裤脱下来赛到另外一个女生嘴里让他跪在地上跪一晚上不许吐出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 1809,
+          "like_count": 1573,
+          "listed_count": 12,
+          "media_count": 332,
+          "tweet_count": 2128
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

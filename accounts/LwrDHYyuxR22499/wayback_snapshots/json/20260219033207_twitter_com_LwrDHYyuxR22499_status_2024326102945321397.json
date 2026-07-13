@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023776840608084441",
+    "created_at": "2026-02-19T03:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024326102945321397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        },
+        {
+          "end": 27,
+          "id": "1093065619577147392",
+          "start": 11,
+          "username": "AkQfpdUknVp0O4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024326102945321397",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024307190933446835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg @AkQfpdUknVp0O4n 还有独轮车?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023776840608084441",
+        "created_at": "2026-02-19T03:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024326102945321397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            },
+            {
+              "end": 27,
+              "id": "1093065619577147392",
+              "start": 11,
+              "username": "AkQfpdUknVp0O4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024326102945321397",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024307190933446835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg @AkQfpdUknVp0O4n 还有独轮车?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "2023776840608084441",
+        "created_at": "2026-02-19T02:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024307190933446835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1093065619577147392",
+              "start": 17,
+              "username": "AkQfpdUknVp0O4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024307190933446835",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024073719317225488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @AkQfpdUknVp0O4n 没事，有人骂王哥的话我们可以在他旁边放一个倒下的车轮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092,
+          "following_count": 1872,
+          "like_count": 1681,
+          "listed_count": 12,
+          "media_count": 340,
+          "tweet_count": 2193
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004213219150454784/M5m2uykH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 718,
+          "like_count": 7946,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 4311
+        },
+        "username": "banzaixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-06T08:35:26.000Z",
+        "description": "",
+        "id": "1093065619577147392",
+        "location": "Germany",
+        "name": "天蝎座",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587364303568502786/ENuT3ZrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 2041,
+          "like_count": 10093,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 536
+        },
+        "username": "AkQfpdUknVp0O4n",
+        "verified": false
+      }
+    ]
+  }
+}

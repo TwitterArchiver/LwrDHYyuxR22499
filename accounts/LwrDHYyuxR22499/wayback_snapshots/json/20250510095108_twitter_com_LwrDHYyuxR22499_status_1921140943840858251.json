@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1921140920298434560"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1920790544889926017",
+    "created_at": "2025-05-10T09:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T10:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921140943840858251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        },
+        {
+          "end": 24,
+          "id": "1790831068729229312",
+          "start": 10,
+          "username": "Fkmaomaochong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCEHEanS29",
+          "end": 60,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1921140943840858251/video/1",
+          "media_key": "7_1921140920298434560",
+          "start": 37,
+          "url": "https://t.co/KCEHEanS29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921140943840858251",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920790544889926017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb @Fkmaomaochong 评论区为什么没人放原版 https://t.co/KCEHEanS29"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 842,
+        "media_key": "7_1921140920298434560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1921140920298434560/pu/img/rlPcZb8l1oYoUh9g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921140920298434560/pu/vid/avc1/320x422/8nfnpcAriUCnbsed.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921140920298434560/pu/vid/avc1/480x632/EUUplo9Vc3MD5kEd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921140920298434560/pu/vid/avc1/638x842/OHqJ4MFb9mYiYqEA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1921140920298434560/pu/pl/QMtQ-hlmDMGLe3pn.m3u8?tag=12"
+          }
+        ],
+        "width": 638
+      },
+      {
+        "duration_ms": 39833,
+        "height": 480,
+        "media_key": "13_1920790469581434882",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920790469581434882/img/BD-8Pm9b-dWJL279.jpg",
+        "public_metrics": {
+          "view_count": 69305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920790469581434882/vid/avc1/462x270/2mjjb3UaqfV92OYy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920790469581434882/vid/avc1/616x360/fo2DzldaQr9fjWCQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920790469581434882/vid/avc1/822x480/FHNSwtvRIFo99kjK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920790469581434882/pl/cv9AMZXDp_3GyYha.m3u8?v=fcd"
+          }
+        ],
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1921140920298434560"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1920790544889926017",
+        "created_at": "2025-05-10T09:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921140943840858251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            },
+            {
+              "end": 24,
+              "id": "1790831068729229312",
+              "start": 10,
+              "username": "Fkmaomaochong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCEHEanS29",
+              "end": 60,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1921140943840858251/video/1",
+              "media_key": "7_1921140920298434560",
+              "start": 37,
+              "url": "https://t.co/KCEHEanS29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921140943840858251",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920790544889926017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb @Fkmaomaochong 评论区为什么没人放原版 https://t.co/KCEHEanS29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920790469581434882"
+          ]
+        },
+        "author_id": "1867601056429223936",
+        "conversation_id": "1920790544889926017",
+        "created_at": "2025-05-09T10:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920790544889926017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男喘"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "科普读物"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "猎奇"
+            },
+            {
+              "end": 50,
+              "start": 39,
+              "tag": "重生之我在大清当皇帝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1790831068729229312",
+              "start": 9,
+              "username": "Fkmaomaochong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8sVxAXdzGi",
+              "end": 74,
+              "expanded_url": "https://x.com/ccxxhmbb/status/1920790544889926017/video/1",
+              "media_key": "13_1920790469581434882",
+              "start": 51,
+              "url": "https://t.co/8sVxAXdzGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920790544889926017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 145781,
+          "like_count": 1127,
+          "quote_count": 27,
+          "reply_count": 202,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "🫅\n感谢文案老师：@Fkmaomaochong \n#男喘 #科普读物 #猎奇 #重生之我在大清当皇帝 https://t.co/8sVxAXdzGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 300,
+          "like_count": 263,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 426
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "匿名箱：https://t.co/GiNEYJ8Jbq 🚪52+VX可以聊天、定制等等看到就会回复（私信口令红包或者赞赏码）基本日更女性向（每周二更新男粉福利）弟弟：@ttbbxxhm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "ttbbxxhm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ccxxhmbb",
+                "end": 27,
+                "expanded_url": "https://ngl.link/ccxxhmbb",
+                "start": 4,
+                "url": "https://t.co/GiNEYJ8Jbq"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "香港",
+        "name": "睦依",
+        "pinned_tweet_id": "1920396652910686654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916067175665963012/uGwkZE0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13284,
+          "following_count": 16,
+          "like_count": 558,
+          "listed_count": 14,
+          "media_count": 165,
+          "tweet_count": 665
+        },
+        "username": "ccxxhmbb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "逻辑小猫没暹罗 ➡️ @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "qing2202"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒松松· ﾟ ₊",
+        "pinned_tweet_id": "1883918685175464242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903870962488987648/xXMjf-aw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34714,
+          "following_count": 73,
+          "like_count": 19511,
+          "listed_count": 36,
+          "media_count": 162,
+          "tweet_count": 4942
+        },
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

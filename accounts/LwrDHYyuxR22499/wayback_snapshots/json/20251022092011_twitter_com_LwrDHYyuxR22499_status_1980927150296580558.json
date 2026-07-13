@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980905948832231781",
+    "created_at": "2025-10-22T09:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T10:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980927150296580558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620367275273633792",
+          "start": 0,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980927150296580558",
+    "in_reply_to_user_id": "1620367275273633792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980926241810333778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alina_Medverova 那扭转机构选择迫害人的筛查性显然不太好\n因为几乎半数以上都得是基本盘这正是我要说的\n就算以维稳机器来衡量的话\n他也是极其不合格且无效左脚踩右脚的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T09:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980927150296580558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980927150296580558",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980926241810333778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 那扭转机构选择迫害人的筛查性显然不太好\n因为几乎半数以上都得是基本盘这正是我要说的\n就算以维稳机器来衡量的话\n他也是极其不合格且无效左脚踩右脚的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T09:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980926241810333778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980926241810333778",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980925885646823683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 实际上共产党根本不在乎你们这群屁民，人家是给基本盘服务的，不是给你们，所以你觉得这不利于维稳很正常，因为你根本就没站在共产党的角度来看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 927,
+          "like_count": 723,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1163
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1526,
+          "like_count": 74825,
+          "listed_count": 6,
+          "media_count": 987,
+          "tweet_count": 16381
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

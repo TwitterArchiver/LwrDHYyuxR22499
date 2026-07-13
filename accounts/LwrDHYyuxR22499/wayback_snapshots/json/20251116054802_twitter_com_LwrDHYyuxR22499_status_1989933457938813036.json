@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989908422868033869",
+    "created_at": "2025-11-16T05:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T06:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989933457938813036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969030119181455360",
+          "start": 0,
+          "username": "YouXi57930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989933457938813036",
+    "in_reply_to_user_id": "1969030119181455360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989932236133880018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouXi57930 哔哩哔哩或者抖音微博吧😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989908422868033869",
+        "created_at": "2025-11-16T05:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989933457938813036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969030119181455360",
+              "start": 0,
+              "username": "YouXi57930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989933457938813036",
+        "in_reply_to_user_id": "1969030119181455360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989932236133880018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouXi57930 哔哩哔哩或者抖音微博吧😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969030119181455360",
+        "conversation_id": "1989908422868033869",
+        "created_at": "2025-11-16T05:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989932236133880018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989932236133880018",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989908422868033869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你都是用什麼平台發呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1045,
+          "like_count": 847,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1404
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T13:26:26.000Z",
+        "description": "UNEDUCATED;moody-lullaby;survivor;non-binary-like;sub culture;inland refuge;informal-guardian;neuro-typical;lonely;年上+;含糖;理性、克制但活得撕心裂肺驚心動魄的動物",
+        "id": "1969030119181455360",
+        "location": "Pripyat",
+        "name": "Luduswalker🩶🤍💜",
+        "pinned_tweet_id": "1987215877553455243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981053434452131840/sCI8mYRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 218,
+          "like_count": 3478,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 726
+        },
+        "username": "YouXi57930",
+        "verified": false
+      }
+    ]
+  }
+}

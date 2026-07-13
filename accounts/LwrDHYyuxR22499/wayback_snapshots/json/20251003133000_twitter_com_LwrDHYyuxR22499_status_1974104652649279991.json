@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1973706448791339411",
+    "created_at": "2025-10-03T13:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T14:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974104652649279991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "935788025300348929",
+          "start": 0,
+          "username": "bingling39"
+        },
+        {
+          "end": 20,
+          "id": "1938210111992074240",
+          "start": 12,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974104652649279991",
+    "in_reply_to_user_id": "935788025300348929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974103038932750489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingling39 @FJUNNNN 你不觉得很屌吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1973706448791339411",
+        "created_at": "2025-10-03T13:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974104652649279991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "935788025300348929",
+              "start": 0,
+              "username": "bingling39"
+            },
+            {
+              "end": 20,
+              "id": "1938210111992074240",
+              "start": 12,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974104652649279991",
+        "in_reply_to_user_id": "935788025300348929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974103038932750489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingling39 @FJUNNNN 你不觉得很屌吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935788025300348929",
+        "conversation_id": "1973706448791339411",
+        "created_at": "2025-10-03T13:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974103038932750489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            },
+            {
+              "end": 25,
+              "id": "1843201902550634496",
+              "start": 9,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974103038932750489",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974082946295607554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN @LwrDHYyuxR22499 我擦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 829,
+          "like_count": 669,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 957
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:30:26.000Z",
+        "description": "mtf/持证含糖/不太熟悉玩推/手机维修工程师（修手机的)/武汉庇佑所管理/ TG频道: https://t.co/uHpEpvSrXC /🚪80支付宝口令 /但行好事，莫问前程",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 68,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 45,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 23,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 0,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          }
+        },
+        "id": "935788025300348929",
+        "location": "WuHan",
+        "name": "冰凌枫月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822820942843985920/JJaPljOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 223,
+          "like_count": 2387,
+          "listed_count": 8,
+          "media_count": 216,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/uHpEpvSrXC",
+        "username": "bingling39",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 432,
+          "like_count": 634,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 266
+        },
+        "username": "FJUNNNN",
+        "verified": false
+      }
+    ]
+  }
+}

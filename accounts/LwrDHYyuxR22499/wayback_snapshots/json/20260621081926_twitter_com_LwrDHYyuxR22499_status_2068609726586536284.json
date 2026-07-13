@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068609723000410112",
+        "3_2068609723138707456",
+        "3_2068609722970972160"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2068609726586536284",
+    "created_at": "2026-06-21T08:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068609726586536284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fDzXdBbuMK",
+          "end": 159,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068609726586536284/photo/1",
+          "media_key": "3_2068609723000410112",
+          "start": 136,
+          "url": "https://t.co/fDzXdBbuMK"
+        },
+        {
+          "display_url": "pic.x.com/fDzXdBbuMK",
+          "end": 159,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068609726586536284/photo/1",
+          "media_key": "3_2068609723138707456",
+          "start": 136,
+          "url": "https://t.co/fDzXdBbuMK"
+        },
+        {
+          "display_url": "pic.x.com/fDzXdBbuMK",
+          "end": 159,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068609726586536284/photo/1",
+          "media_key": "3_2068609722970972160",
+          "start": 136,
+          "url": "https://t.co/fDzXdBbuMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068609726586536284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😼😼\n河南南阳跨出第二步！为全面落实公安部、中央网信办、教育部、民政部、国家卫生健康委、\n市场监管总局关于清理整治教育矫治类机构工作的部署要求，\n凡以私人名义开设的相关机构，均可提供线索举报，合力捣毁窝点\n接下来全国会开始效仿\n看着吧我们马上就要把大结局打出来\n了😼😼😼 https://t.co/fDzXdBbuMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068609723000410112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUtlUZb0AA-C7r.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068609723138707456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUtlU6aEAAwROv.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068609722970972160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUtlUSaoAAcCTt.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068609723000410112",
+            "3_2068609723138707456",
+            "3_2068609722970972160"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2068609726586536284",
+        "created_at": "2026-06-21T08:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068609726586536284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDzXdBbuMK",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068609726586536284/photo/1",
+              "media_key": "3_2068609723000410112",
+              "start": 136,
+              "url": "https://t.co/fDzXdBbuMK"
+            },
+            {
+              "display_url": "pic.x.com/fDzXdBbuMK",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068609726586536284/photo/1",
+              "media_key": "3_2068609723138707456",
+              "start": 136,
+              "url": "https://t.co/fDzXdBbuMK"
+            },
+            {
+              "display_url": "pic.x.com/fDzXdBbuMK",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068609726586536284/photo/1",
+              "media_key": "3_2068609722970972160",
+              "start": 136,
+              "url": "https://t.co/fDzXdBbuMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068609726586536284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😼😼\n河南南阳跨出第二步！为全面落实公安部、中央网信办、教育部、民政部、国家卫生健康委、\n市场监管总局关于清理整治教育矫治类机构工作的部署要求，\n凡以私人名义开设的相关机构，均可提供线索举报，合力捣毁窝点\n接下来全国会开始效仿\n看着吧我们马上就要把大结局打出来\n了😼😼😼 https://t.co/fDzXdBbuMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5897,
+          "following_count": 3196,
+          "like_count": 3353,
+          "listed_count": 18,
+          "media_count": 465,
+          "tweet_count": 3057
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

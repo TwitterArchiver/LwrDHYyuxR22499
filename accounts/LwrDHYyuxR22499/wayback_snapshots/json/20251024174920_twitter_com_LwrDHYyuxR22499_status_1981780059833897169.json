@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981780059833897169",
+    "created_at": "2025-10-24T17:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T18:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981780059833897169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981779008649146398",
+          "start": 40,
+          "url": "https://t.co/oaqDSnNY9T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981780059833897169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981779008649146398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你告诉了我ngo是啥🤓\n不然我还是蒙🥁人\n我琢么得有大半个月了也没寻思明白 https://t.co/oaqDSnNY9T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981780059833897169",
+        "created_at": "2025-10-24T17:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981780059833897169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981779008649146398",
+              "start": 40,
+              "url": "https://t.co/oaqDSnNY9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981780059833897169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981779008649146398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你告诉了我ngo是啥🤓\n不然我还是蒙🥁人\n我琢么得有大半个月了也没寻思明白 https://t.co/oaqDSnNY9T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1981779008649146398",
+        "created_at": "2025-10-24T17:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981779008649146398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981767692039442651",
+              "start": 149,
+              "url": "https://t.co/3cNwZR4GyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981779008649146398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981767692039442651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "…鉴于你的自白，你的行为可能真的是符合你的逻辑的😶\n\n但是我对你的一堆争议性行为提出了一些常识性问题（为什么如你这么做/为什么不试着如我说的做）\n你的回答只能说符合你的逻辑，超出我的认知\n\n截取片段\n「看来有时候办不好NGO或者NGO看起来过于荒唐还真不一定都是老共反串✋😭✋」\n「NGO是啥？」 https://t.co/3cNwZR4GyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 948,
+          "like_count": 766,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 1359
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 188,
+          "like_count": 9535,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2218
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

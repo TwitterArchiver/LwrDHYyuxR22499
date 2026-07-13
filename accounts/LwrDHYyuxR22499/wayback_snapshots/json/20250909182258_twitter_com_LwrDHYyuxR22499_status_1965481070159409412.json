@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965475783390150769",
+    "created_at": "2025-09-09T18:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T19:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965481070159409412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960467788608442368",
+          "start": 0,
+          "username": "2LjyuAV1iR47077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965481070159409412",
+    "in_reply_to_user_id": "1960467788608442368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965479778812838226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2LjyuAV1iR47077 解决了这个再说顺直把毕竟在这种学校性少数遭受到的迫害远高于顺直"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965475783390150769",
+        "created_at": "2025-09-09T18:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T19:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965481070159409412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960467788608442368",
+              "start": 0,
+              "username": "2LjyuAV1iR47077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965481070159409412",
+        "in_reply_to_user_id": "1960467788608442368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965479778812838226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2LjyuAV1iR47077 解决了这个再说顺直把毕竟在这种学校性少数遭受到的迫害远高于顺直"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960467788608442368",
+        "conversation_id": "1965475783390150769",
+        "created_at": "2025-09-09T18:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T19:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965479778812838226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965479778812838226",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965475783390150769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那顺直呢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 644,
+          "like_count": 599,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 857
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T22:22:14.000Z",
+        "description": "是一只小鸟，拥有残缺的肢体和不健康的大脑",
+        "id": "1960467788608442368",
+        "name": "吱吱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960470258411823105/_juIvMmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 13,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 35
+        },
+        "username": "2LjyuAV1iR47077",
+        "verified": false
+      }
+    ]
+  }
+}

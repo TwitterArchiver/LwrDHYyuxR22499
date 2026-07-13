@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977498541695373783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977498541695373783",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977498156964229545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine (●'◡'●)好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498541695373783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498541695373783",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977498156964229545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine (●'◡'●)好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498156964229545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498156964229545",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 879,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1038
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "",
+        "id": "1935176310663401472",
+        "name": "东莨菪碱……",
+        "pinned_tweet_id": "1976158568262008946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974719881120559104/jGN_c3mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 660,
+          "like_count": 18523,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 3624
+        },
+        "username": "S_Hyoscine",
+        "verified": false
+      }
+    ]
+  }
+}

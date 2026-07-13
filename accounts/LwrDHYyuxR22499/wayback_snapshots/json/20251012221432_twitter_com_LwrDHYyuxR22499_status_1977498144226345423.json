@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977498144226345423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787748911878156288",
+          "start": 0,
+          "username": "anyue_1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977498144226345423",
+    "in_reply_to_user_id": "1787748911878156288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977461836057342070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyue_1207 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498144226345423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787748911878156288",
+              "start": 0,
+              "username": "anyue_1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498144226345423",
+        "in_reply_to_user_id": "1787748911878156288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977461836057342070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyue_1207 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787748911878156288",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T19:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977461836057342070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977461836057342070",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 878,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1032
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "MtF | hrt 2014.10.8 | INFJ | AuDHD",
+        "id": "1787748911878156288",
+        "name": "玥音止梦🏳‍⚧️",
+        "pinned_tweet_id": "1975744800734273961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918896469349928960/_xcW6Sl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 1559,
+          "like_count": 2509,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 202
+        },
+        "username": "anyue_1207",
+        "verified": false
+      }
+    ]
+  }
+}

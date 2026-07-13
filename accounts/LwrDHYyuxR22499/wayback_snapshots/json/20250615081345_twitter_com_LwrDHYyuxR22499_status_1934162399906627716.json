@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1934159547956105511",
+    "created_at": "2025-06-15T08:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T09:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934162399906627716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934162399906627716",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934161973073310204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 他们把这个叫魔法我把这个叫拳头🤣\n拳法何尝不是法\n弹道何尝不是道\n我这个人向来知行合一道法自然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1934159547956105511",
+        "created_at": "2025-06-15T08:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934162399906627716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934162399906627716",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934161973073310204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 他们把这个叫魔法我把这个叫拳头🤣\n拳法何尝不是法\n弹道何尝不是道\n我这个人向来知行合一道法自然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1934159547956105511",
+        "created_at": "2025-06-15T08:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934161973073310204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934161973073310204",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934161648027357495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 某种意义上确实是吧，就像你们做救援或者做自杀干预是真的在把人从各种形式的死亡边缘拉回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 371,
+          "like_count": 360,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 519
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Chicago, IL",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1839456976008593788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10467,
+          "following_count": 2309,
+          "like_count": 32025,
+          "listed_count": 34,
+          "media_count": 479,
+          "tweet_count": 15061
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

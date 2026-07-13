@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018966470869561344",
+        "7_2018966470705950720"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018966491107070288",
+    "created_at": "2026-02-04T08:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T09:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018966491107070288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVYEiohS62",
+          "end": 143,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018966491107070288/video/1",
+          "media_key": "3_2018966470869561344",
+          "start": 120,
+          "url": "https://t.co/dVYEiohS62"
+        },
+        {
+          "display_url": "pic.x.com/dVYEiohS62",
+          "end": 143,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018966491107070288/video/1",
+          "media_key": "7_2018966470705950720",
+          "start": 120,
+          "url": "https://t.co/dVYEiohS62"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018964142041039324",
+          "start": 144,
+          "url": "https://t.co/lmX5MgoeUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018966491107070288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018964142041039324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另提一句昨日组员潜入该校进行实时现场记录时，遭到当地警察阻拦，并被暴力抢夺手机、强行查看隐私，\n \n在这一过程中组员亲眼证实该校所谓“空校”“已整改”完全是假象一百多名学员被集体藏匿在一间狭小的屋子里，专门用来应付上级检查\n可惜数据被删除 https://t.co/dVYEiohS62 https://t.co/lmX5MgoeUz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018966470869561344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATPTu2asAAH9_F.jpg",
+        "width": 448
+      },
+      {
+        "duration_ms": 4607,
+        "height": 960,
+        "media_key": "7_2018966470705950720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018966470705950720/pu/img/Yv9u6oBfsFcj--HS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018966470705950720/pu/vid/avc1/320x568/uN2ngmjTbdq_dxzb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018966470705950720/pu/vid/avc1/480x852/1jgojEXUyY32M0Nr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018966470705950720/pu/vid/avc1/540x960/vUXo6cVvluT67_i4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018966470705950720/pu/pl/UrJnM7DLsrtpf0rO.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "height": 401,
+        "media_key": "3_2018964139834753025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATNMDEaQAEHBo8.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018966470869561344",
+            "7_2018966470705950720"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018966491107070288",
+        "created_at": "2026-02-04T08:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018966491107070288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVYEiohS62",
+              "end": 143,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018966491107070288/video/1",
+              "media_key": "3_2018966470869561344",
+              "start": 120,
+              "url": "https://t.co/dVYEiohS62"
+            },
+            {
+              "display_url": "pic.x.com/dVYEiohS62",
+              "end": 143,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018966491107070288/video/1",
+              "media_key": "7_2018966470705950720",
+              "start": 120,
+              "url": "https://t.co/dVYEiohS62"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018964142041039324",
+              "start": 144,
+              "url": "https://t.co/lmX5MgoeUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018966491107070288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018964142041039324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另提一句昨日组员潜入该校进行实时现场记录时，遭到当地警察阻拦，并被暴力抢夺手机、强行查看隐私，\n \n在这一过程中组员亲眼证实该校所谓“空校”“已整改”完全是假象一百多名学员被集体藏匿在一间狭小的屋子里，专门用来应付上级检查\n可惜数据被删除 https://t.co/dVYEiohS62 https://t.co/lmX5MgoeUz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018964139834753025"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018964142041039324",
+        "created_at": "2026-02-04T08:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018964142041039324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3de12CJxMD",
+              "end": 169,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018964142041039324/photo/1",
+              "media_key": "3_2018964139834753025",
+              "start": 146,
+              "url": "https://t.co/3de12CJxMD"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018962720155160994",
+              "start": 170,
+              "url": "https://t.co/635RJbiEbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018964142041039324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018962720155160994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附：该校校长迎接执法人员现场图\n \n一张“校长笑脸相迎、执法人员到场”的照片，背后是无数被囚禁、被虐待的青少年不敢求救的绝望。\n \n是谁在消耗国家公信力\n在包庇贪污腐败、纵容未成年人被长期虐待？\n是什么样的执法环境让被人身囚禁绑架至此的孩子宁可发起暴动也不敢向执法人员求助\n我再此不多做赘述 https://t.co/3de12CJxMD https://t.co/635RJbiEbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1720,
+          "like_count": 1443,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 2012
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

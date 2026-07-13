@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988604104592027648",
+        "3_1988604095872061440"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1988604160745541670",
+    "created_at": "2025-11-12T13:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988604160745541670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5PFth2r1Z",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1988604160745541670/video/1",
+          "media_key": "7_1988604104592027648",
+          "start": 144,
+          "url": "https://t.co/A5PFth2r1Z"
+        },
+        {
+          "display_url": "pic.x.com/A5PFth2r1Z",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1988604160745541670/video/1",
+          "media_key": "3_1988604095872061440",
+          "start": 144,
+          "url": "https://t.co/A5PFth2r1Z"
+        },
+        {
+          "display_url": "x.com/qqqqqf5/status…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/qqqqqf5/status/1988136340450615396",
+          "start": 168,
+          "url": "https://t.co/MfoyZEfKzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988604160745541670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988136340450615396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "几年前\n一位名叫段鑫的自闭症孩子\n不仅没有得到治疗反而被送入了扭转机构\n在宿舍拿着窗帘就把自己吊死了\n父母没有选择曝光反而拿着媒体做要挟换取了八十万了事\n如今每天依旧有无数弱势群体\n被送往这样的机构终日活在恐惧与暴力制造出来的所谓“听话”\n他们是这样保证的\n不听话就送回来免学费不服就打 https://t.co/A5PFth2r1Z https://t.co/MfoyZEfKzX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29998,
+        "height": 1280,
+        "media_key": "7_1988604104592027648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988604104592027648/pu/img/THkYVsPL6y1gei_B.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988604104592027648/pu/vid/avc1/320x568/dk66rDS1N7j3UoNw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988604104592027648/pu/vid/avc1/480x852/dsdaIDyThL5rafZn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988604104592027648/pu/vid/avc1/720x1280/mGGVr2ChogWYDHAW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988604104592027648/pu/pl/ABDgPqiPw6-RUrRh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988604095872061440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jw451XUAAVrK3.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988136337661452288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dHdytbYAAUB-f.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988604104592027648",
+            "3_1988604095872061440"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1988604160745541670",
+        "created_at": "2025-11-12T13:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988604160745541670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5PFth2r1Z",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1988604160745541670/video/1",
+              "media_key": "7_1988604104592027648",
+              "start": 144,
+              "url": "https://t.co/A5PFth2r1Z"
+            },
+            {
+              "display_url": "pic.x.com/A5PFth2r1Z",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1988604160745541670/video/1",
+              "media_key": "3_1988604095872061440",
+              "start": 144,
+              "url": "https://t.co/A5PFth2r1Z"
+            },
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/1988136340450615396",
+              "start": 168,
+              "url": "https://t.co/MfoyZEfKzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988604160745541670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988136340450615396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几年前\n一位名叫段鑫的自闭症孩子\n不仅没有得到治疗反而被送入了扭转机构\n在宿舍拿着窗帘就把自己吊死了\n父母没有选择曝光反而拿着媒体做要挟换取了八十万了事\n如今每天依旧有无数弱势群体\n被送往这样的机构终日活在恐惧与暴力制造出来的所谓“听话”\n他们是这样保证的\n不听话就送回来免学费不服就打 https://t.co/A5PFth2r1Z https://t.co/MfoyZEfKzX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988136337661452288"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "1988136340450615396",
+        "created_at": "2025-11-11T06:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988136340450615396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euJakDfzMA",
+              "end": 38,
+              "expanded_url": "https://x.com/qqqqqf5/status/1988136340450615396/photo/1",
+              "media_key": "3_1988136337661452288",
+              "start": 15,
+              "url": "https://t.co/euJakDfzMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988136340450615396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 59226,
+          "like_count": 411,
+          "quote_count": 9,
+          "reply_count": 53,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症送叛逆学校，死的快👍🏻 https://t.co/euJakDfzMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1015,
+          "like_count": 824,
+          "listed_count": 6,
+          "media_count": 258,
+          "tweet_count": 1386
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "15岁MTF\n拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1984726981779603959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 1945,
+          "like_count": 7591,
+          "listed_count": 9,
+          "media_count": 910,
+          "tweet_count": 2505
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

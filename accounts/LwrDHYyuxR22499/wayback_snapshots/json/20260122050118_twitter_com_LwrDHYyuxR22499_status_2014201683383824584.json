@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013635176920744045",
+    "created_at": "2026-01-22T05:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T06:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014201683383824584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807127113444859904",
+          "start": 0,
+          "username": "3782315694Xiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014201683383824584",
+    "in_reply_to_user_id": "1807127113444859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014197613135086072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3782315694Xiang 后厨也还行要是混到助教就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-22T05:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014201683383824584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807127113444859904",
+              "start": 0,
+              "username": "3782315694Xiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014201683383824584",
+        "in_reply_to_user_id": "1807127113444859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014197613135086072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3782315694Xiang 后厨也还行要是混到助教就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807127113444859904",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-22T04:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014197613135086072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014197613135086072",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014193877176246400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 没，不过混到后厨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 1639,
+          "like_count": 1398,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1948
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:01:04.000Z",
+        "description": "联系方式qq3997247387，聊天群897084565",
+        "id": "1807127113444859904",
+        "name": "怀愚痴卖五倍雌二醇凝胶🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007043403515936768/FIQsBpfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 88,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 66
+        },
+        "username": "3782315694Xiang",
+        "verified": false
+      }
+    ]
+  }
+}

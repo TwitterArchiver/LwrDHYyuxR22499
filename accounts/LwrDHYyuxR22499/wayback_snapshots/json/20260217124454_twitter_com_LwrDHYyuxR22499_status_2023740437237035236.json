@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023740426910654464",
+        "3_2023740426898075648"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023740437237035236",
+    "created_at": "2026-02-17T12:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023740437237035236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/omIW6XzVHm",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2023740437237035236/photo/1",
+          "media_key": "3_2023740426910654464",
+          "start": 144,
+          "url": "https://t.co/omIW6XzVHm"
+        },
+        {
+          "display_url": "pic.x.com/omIW6XzVHm",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2023740437237035236/photo/1",
+          "media_key": "3_2023740426898075648",
+          "start": 144,
+          "url": "https://t.co/omIW6XzVHm"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2023735437676986572",
+          "start": 168,
+          "url": "https://t.co/ios3RwxZqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023740437237035236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023735437676986572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寒孝子跟汤戈韬，可以说是完全没人性了。\n为了造谣、铲除提出问题的人，\n摆在台面上的事实\n我被迫害还是组员线下去抢人，视力被打出问题、被行政处罚，\n都可以装作看不见😁\n意淫我没受到过任何迫害、任何惩罚用来引导阴谋论恶意中伤别人\n\n却对自己那一套逻辑里最可疑的认跪地叫爹俯首称臣\n什么嘴脸🤮 https://t.co/omIW6XzVHm https://t.co/ios3RwxZqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2023740426910654464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXFMi-bYAAWcLw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023740426898075648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXFMi7bcAAVi_N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1694,
+        "media_key": "3_2023735423542194176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXApT-bcAAc8AA.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023740426910654464",
+            "3_2023740426898075648"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023740437237035236",
+        "created_at": "2026-02-17T12:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023740437237035236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omIW6XzVHm",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2023740437237035236/photo/1",
+              "media_key": "3_2023740426910654464",
+              "start": 144,
+              "url": "https://t.co/omIW6XzVHm"
+            },
+            {
+              "display_url": "pic.x.com/omIW6XzVHm",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2023740437237035236/photo/1",
+              "media_key": "3_2023740426898075648",
+              "start": 144,
+              "url": "https://t.co/omIW6XzVHm"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2023735437676986572",
+              "start": 168,
+              "url": "https://t.co/ios3RwxZqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023740437237035236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023735437676986572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寒孝子跟汤戈韬，可以说是完全没人性了。\n为了造谣、铲除提出问题的人，\n摆在台面上的事实\n我被迫害还是组员线下去抢人，视力被打出问题、被行政处罚，\n都可以装作看不见😁\n意淫我没受到过任何迫害、任何惩罚用来引导阴谋论恶意中伤别人\n\n却对自己那一套逻辑里最可疑的认跪地叫爹俯首称臣\n什么嘴脸🤮 https://t.co/omIW6XzVHm https://t.co/ios3RwxZqo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023735423542194176"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023735437676986572",
+        "created_at": "2026-02-17T12:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023735437676986572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1300828282061877249",
+              "start": 44,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhVsmpRTOC",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2023735437676986572/photo/1",
+              "media_key": "3_2023735423542194176",
+              "start": 147,
+              "url": "https://t.co/dhVsmpRTOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023735437676986572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己干不成的事就怪别人能干成了喽\n寒孝子的狗没拴好跑出来了\n🤣🤣\n照着你这个逻辑\n你潘爹@HANLIANYI331\n能再你们嘴里极端压迫性少数的中共统治下竟然能安然无恙的把庇护所开到大疆南北还能拿到毕业证\n在比较比较我…\n有家不能回时不时还得蹲几次牢\n谁真是中共的走狗…\n那可真是细思极恐…… https://t.co/dhVsmpRTOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 1835,
+          "like_count": 1641,
+          "listed_count": 12,
+          "media_count": 339,
+          "tweet_count": 2176
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1972594761468133815",
+    "created_at": "2025-09-29T23:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T00:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972813174673154361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764866850847080448",
+          "start": 0,
+          "username": "Takemet0theMo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972813174673154361",
+    "in_reply_to_user_id": "1764866850847080448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972594761468133815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takemet0theMo0n 记得你前段时间被抓进武汉纽特了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1972594700885590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AQbeAagAAtYAx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1972594761468133815",
+        "created_at": "2025-09-29T23:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972813174673154361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764866850847080448",
+              "start": 0,
+              "username": "Takemet0theMo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972813174673154361",
+        "in_reply_to_user_id": "1764866850847080448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972594761468133815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takemet0theMo0n 记得你前段时间被抓进武汉纽特了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972594700885590016"
+          ]
+        },
+        "author_id": "1764866850847080448",
+        "conversation_id": "1972594761468133815",
+        "created_at": "2025-09-29T09:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972594761468133815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWcksfZwU7",
+              "end": 29,
+              "expanded_url": "https://x.com/Takemet0theMo0n/status/1972594761468133815/photo/1",
+              "media_key": "3_1972594700885590016",
+              "start": 6,
+              "url": "https://t.co/sWcksfZwU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972594761468133815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23487,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得我 https://t.co/sWcksfZwU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 771,
+          "like_count": 642,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 935
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T04:14:15.000Z",
+        "description": "冷也好热也好活着就好@yongchuyuyu @bieshijian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "yongchuyuyu"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "bieshijian"
+              }
+            ]
+          }
+        },
+        "id": "1764866850847080448",
+        "name": "食色性也",
+        "pinned_tweet_id": "1790807497978298649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972793810255290368/R4aXRx3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7790,
+          "following_count": 118,
+          "like_count": 4270,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 57
+        },
+        "username": "Takemet0theMo0n",
+        "verified": false
+      }
+    ]
+  }
+}

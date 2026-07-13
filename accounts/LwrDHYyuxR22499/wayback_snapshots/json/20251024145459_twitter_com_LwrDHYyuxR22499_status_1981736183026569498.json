@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981736183026569498",
+    "created_at": "2025-10-24T14:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981736183026569498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981730615587475456",
+          "start": 99,
+          "url": "https://t.co/Ltqim2UUea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981736183026569498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981730615587475456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你为了赢\n连你那些在推特上发表政治意见被约谈的反贼老前辈都不认了\n你也配当反贼?\n无非就是反这玩玩\n按你的逻辑\n信不信\n我找几个因为推特鉴证被抓的人给他们看看你的言论\n看👀他们会不会赖骂你是走狗😁 https://t.co/Ltqim2UUea"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981736183026569498",
+        "created_at": "2025-10-24T14:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981736183026569498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981730615587475456",
+              "start": 99,
+              "url": "https://t.co/Ltqim2UUea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981736183026569498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981730615587475456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你为了赢\n连你那些在推特上发表政治意见被约谈的反贼老前辈都不认了\n你也配当反贼?\n无非就是反这玩玩\n按你的逻辑\n信不信\n我找几个因为推特鉴证被抓的人给他们看看你的言论\n看👀他们会不会赖骂你是走狗😁 https://t.co/Ltqim2UUea"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981730615587475456",
+        "created_at": "2025-10-24T14:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981730615587475456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981728849608991029",
+              "start": 68,
+              "url": "https://t.co/AW30e6Ki8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981730615587475456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981728849608991029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支吹演都不演了\n在言论不被支共可查可溯源的地方散播恐惧\n难道你不是在破坏自由世界的言论自由环境，恐吓反贼噤声吗？\n还需要我解释什么吗？ https://t.co/AW30e6Ki8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 949,
+          "like_count": 766,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 1346
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 188,
+          "like_count": 9526,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2200
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

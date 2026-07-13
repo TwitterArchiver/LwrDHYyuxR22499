@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038237972387250545",
+    "created_at": "2026-03-29T13:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038242070952128529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038242070952128529",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038240722017759682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka 谁都知道最底层的原因到底是什么\n那么为什么没人去做呢?\n当然是因为说几句空话简单\n真去争取权益到线下拉横幅的时候一个个先怂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038237972387250545",
+        "created_at": "2026-03-29T13:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038242070952128529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038242070952128529",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038240722017759682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 谁都知道最底层的原因到底是什么\n那么为什么没人去做呢?\n当然是因为说几句空话简单\n真去争取权益到线下拉横幅的时候一个个先怂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2038237972387250545",
+        "created_at": "2026-03-29T13:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038240722017759682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038240722017759682",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038237972387250545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 其实一开始就淡化性别，就没什么事了……处理得的确不妥当，本来也只是一个小问题，但拒绝承认这是一问题，才引发了一系列争议。就算真的有连中性代词都无法使用的不可抗因素，也应该回应必须这么做的理由，不是吗?\n（PS.这件事情的存在本身，就会就会刺激到很多人的伤痕，所以社群自然会情绪激烈）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 2298,
+          "like_count": 2196,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2413
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界\n（黑化进度75%）",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "pinned_tweet_id": "2036007608755372410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 201,
+          "like_count": 13768,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 395
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965035115995619328"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965035119611359486",
+    "created_at": "2025-09-08T12:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T13:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965035119611359486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0khw35GAyD",
+          "end": 39,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965035119611359486/photo/1",
+          "media_key": "3_1965035115995619328",
+          "start": 16,
+          "url": "https://t.co/0khw35GAyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965035119611359486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面对扭转机构几乎无解局面的捞王 https://t.co/0khw35GAyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1965035115995619328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0U1BtwWYAApqyO.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965035115995619328"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965035119611359486",
+        "created_at": "2025-09-08T12:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965035119611359486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0khw35GAyD",
+              "end": 39,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965035119611359486/photo/1",
+              "media_key": "3_1965035115995619328",
+              "start": 16,
+              "url": "https://t.co/0khw35GAyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965035119611359486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面对扭转机构几乎无解局面的捞王 https://t.co/0khw35GAyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 592,
+          "like_count": 581,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 822
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

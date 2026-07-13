@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2073116886175453480",
+    "created_at": "2026-07-04T13:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073403794663387341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1677338607147978752",
+          "start": 0,
+          "username": "cfjhees"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073403794663387341",
+    "in_reply_to_user_id": "1677338607147978752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073387899899589063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cfjhees 这不是冷知识不用你告诉我\n这种事情很常见\n一部分会跟随学校关停回去一部分应硬性要求回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2073116886175453480",
+        "created_at": "2026-07-04T13:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073403794663387341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1677338607147978752",
+              "start": 0,
+              "username": "cfjhees"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073403794663387341",
+        "in_reply_to_user_id": "1677338607147978752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073387899899589063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cfjhees 这不是冷知识不用你告诉我\n这种事情很常见\n一部分会跟随学校关停回去一部分应硬性要求回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677338607147978752",
+        "conversation_id": "2073116886175453480",
+        "created_at": "2026-07-04T12:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073387899899589063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1843201902550634496",
+              "start": 17,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073387899899589063",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073116886175453480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @LwrDHYyuxR22499 告诉你个冷知识，那些所谓的学校在关闭之后，里面被抓的人并没有放回去，而是被转移去了其他地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 3319,
+          "like_count": 3725,
+          "listed_count": 19,
+          "media_count": 485,
+          "tweet_count": 3347
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T15:28:05.000Z",
+        "description": "",
+        "id": "1677338607147978752",
+        "name": "cfjh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974150653657427972/2-WPDTzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 207,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "cfjhees",
+        "verified": false
+      }
+    ]
+  }
+}

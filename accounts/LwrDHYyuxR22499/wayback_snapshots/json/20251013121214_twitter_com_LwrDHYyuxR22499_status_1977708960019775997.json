@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977693279744577829",
+    "created_at": "2025-10-13T12:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T13:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977708960019775997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977708960019775997",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977707464553300060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 😁哎呀这么急干什么我的人生阅历比你精彩得多不像你骂人还得拾人牙慧\n你应该多放一点东西在你的现实生活中\n我比你资历老还伤害到你了?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977693279744577829",
+        "created_at": "2025-10-13T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977708960019775997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977708960019775997",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977707464553300060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 😁哎呀这么急干什么我的人生阅历比你精彩得多不像你骂人还得拾人牙慧\n你应该多放一点东西在你的现实生活中\n我比你资历老还伤害到你了?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1977693279744577829",
+        "created_at": "2025-10-13T12:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977707464553300060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977707464553300060",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977693279744577829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我现在把你劈成两半，让你亲妈拥有一个双子家庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 884,
+          "like_count": 703,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1056
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977704829515407415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 2483
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

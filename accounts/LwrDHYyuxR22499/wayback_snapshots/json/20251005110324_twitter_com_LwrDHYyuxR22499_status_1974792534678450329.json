@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974792528353509376"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1974792534678450329",
+    "created_at": "2025-10-05T11:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T12:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974792534678450329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGdBORvamv",
+          "end": 28,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974792534678450329/photo/1",
+          "media_key": "3_1974792528353509376",
+          "start": 5,
+          "url": "https://t.co/MGdBORvamv"
+        },
+        {
+          "display_url": "x.com/EleanorAnatida…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/EleanorAnatidae/status/1974619572474089627",
+          "start": 29,
+          "url": "https://t.co/Kgp92WGiCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974792534678450329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974619572474089627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "观望一下 https://t.co/MGdBORvamv https://t.co/Kgp92WGiCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1974792528353509376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ffV3WbQAAOqLc.jpg",
+        "width": 827
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974619562273558530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dCB6faUAIlSmo.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974619562248376320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dCB6ZaEAAcWFD.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974792528353509376"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1974792534678450329",
+        "created_at": "2025-10-05T11:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974792534678450329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGdBORvamv",
+              "end": 28,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1974792534678450329/photo/1",
+              "media_key": "3_1974792528353509376",
+              "start": 5,
+              "url": "https://t.co/MGdBORvamv"
+            },
+            {
+              "display_url": "x.com/EleanorAnatida…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/EleanorAnatidae/status/1974619572474089627",
+              "start": 29,
+              "url": "https://t.co/Kgp92WGiCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974792534678450329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974619572474089627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "观望一下 https://t.co/MGdBORvamv https://t.co/Kgp92WGiCT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974619562273558530",
+            "3_1974619562248376320"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1974619572474089627",
+        "created_at": "2025-10-04T23:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T00:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974619572474089627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1526938197951131648",
+              "start": 12,
+              "username": "xinxia_mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcOPrNlrLG",
+              "end": 127,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1974619572474089627/photo/1",
+              "media_key": "3_1974619562273558530",
+              "start": 104,
+              "url": "https://t.co/FcOPrNlrLG"
+            },
+            {
+              "display_url": "pic.x.com/FcOPrNlrLG",
+              "end": 127,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1974619572474089627/photo/1",
+              "media_key": "3_1974619562248376320",
+              "start": 104,
+              "url": "https://t.co/FcOPrNlrLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974619572474089627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13885,
+          "like_count": 99,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "❗️❗️求助帖❗️❗️\n@xinxia_mtf 其父亲是家暴党，曾在两年前被送进扭转机构。现在她正在被绑架前往葫芦岛建昌，车牌号豫ATE081，具体内容看图片。\n麻烦大家关注一下，可以的话帮帮忙，万分感谢！ https://t.co/FcOPrNlrLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 837,
+          "like_count": 671,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 963
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 1709,
+          "like_count": 20015,
+          "listed_count": 9,
+          "media_count": 118,
+          "tweet_count": 5217
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

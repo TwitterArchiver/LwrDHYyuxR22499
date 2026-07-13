@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965475783390150769",
+    "created_at": "2025-09-10T07:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T08:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965675334046793975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965675334046793975",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965637117729821049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 别这样😎虽然傻逼确实很多这个社群也烂得要死\n但这不代表没好人啊就算没好人\n也不该在这种地方收到不公正的审判"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965475783390150769",
+        "created_at": "2025-09-10T07:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965675334046793975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965675334046793975",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965637117729821049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 别这样😎虽然傻逼确实很多这个社群也烂得要死\n但这不代表没好人啊就算没好人\n也不该在这种地方收到不公正的审判"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1965475783390150769",
+        "created_at": "2025-09-10T04:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965637117729821049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965637117729821049",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965475783390150769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 给中国底层人民道歉，跨性别就应该被抓成为别人家族上升的政绩。你要明白这种生物多么危险。吸毒率是只高不低的，基本重合的。年轻的时候说去攒钱，就算有些人活下来，这辈子也不会去做手术，全都给自己吃喝玩乐用掉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 645,
+          "like_count": 600,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 858
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1963471902980157641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 246,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1631
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

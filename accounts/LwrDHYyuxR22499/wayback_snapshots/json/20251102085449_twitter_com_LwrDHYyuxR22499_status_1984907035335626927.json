@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984907023746793472"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984900518867870170",
+    "created_at": "2025-11-02T08:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984907035335626927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hjBwUIXUBv",
+          "end": 116,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1984907035335626927/photo/1",
+          "media_key": "3_1984907023746793472",
+          "start": 93,
+          "url": "https://t.co/hjBwUIXUBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984907035335626927",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984905976320041316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 感谢您的答疑解惑\n不过如果您抱着做好事的想法来\n是不是该限制这些人的购买数量以此来避免他们做二道贩子去转其他处在信息茧房的跨性别?\n不然似乎您的好心就被利用了 https://t.co/hjBwUIXUBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_1984907023746793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vOa-6bAAAoZAP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984907023746793472"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T08:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984907035335626927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjBwUIXUBv",
+              "end": 116,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1984907035335626927/photo/1",
+              "media_key": "3_1984907023746793472",
+              "start": 93,
+              "url": "https://t.co/hjBwUIXUBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984907035335626927",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984905976320041316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 感谢您的答疑解惑\n不过如果您抱着做好事的想法来\n是不是该限制这些人的购买数量以此来避免他们做二道贩子去转其他处在信息茧房的跨性别?\n不然似乎您的好心就被利用了 https://t.co/hjBwUIXUBv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T08:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984905976320041316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984905976320041316",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": ">> 对人物这一块我的消息依旧很闭塞🧐那是谁\n:: 我不是药神里面的呀，张长林从陆勇手里抢到代理权。陆勇2000进5000卖，张长林抢到代理权卖两万\n\n>> 买从你或者其他人那直购过来的药物加一百人民币卖\n:: 哦我知道我肯定中间贩子，确实有人从我这便宜买十几盒的，至于拿到哪里卖我就不知道了，不过猜得到是qq群"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984904794490999030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 &gt;&gt; 对人物这一块我的消息依旧很闭塞🧐那是谁\n:: 我不是药神里面的呀，张长林从陆勇手里抢到代理权。陆勇2000进5000卖，张长林抢到代理权卖两万\n\n&gt;&gt; 买从你或者其他人那直购过来的药物加一百人民币卖\n::"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 990,
+          "like_count": 800,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 1426
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "致敬传奇耐杀王猫卷 ’ @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "HobartR6"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🏙️",
+        "name": "𝙇𝙪𝙢𝙞.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984347223728275460/Wsdoz0EC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 841,
+          "like_count": 743,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2157
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

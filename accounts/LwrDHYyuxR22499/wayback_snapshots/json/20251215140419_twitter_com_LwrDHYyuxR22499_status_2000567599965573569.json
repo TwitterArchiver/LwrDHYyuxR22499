@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000567284180688968",
+    "created_at": "2025-12-15T14:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000567599965573569"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000567599965573569",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000567284180688968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真不好意思玩老资历那一套你还上小学呢\n我就开始干救助了\n现在又开始死不承认自己曾经做过什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000567268439429120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NxVMibEAArXGB.jpg",
+        "width": 922
+      },
+      {
+        "height": 608,
+        "media_key": "3_2000567268443586561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NxVMjagAEqCsr.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000567269005664256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NxVOpbIAAVaNU.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000567269693550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NxVRNbcAAPOJI.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000567284180688968",
+        "created_at": "2025-12-15T14:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000567599965573569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000567599965573569",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000567284180688968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真不好意思玩老资历那一套你还上小学呢\n我就开始干救助了\n现在又开始死不承认自己曾经做过什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000567268439429120",
+            "3_2000567268443586561",
+            "3_2000567269005664256",
+            "3_2000567269693550592"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000567284180688968",
+        "created_at": "2025-12-15T14:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000567284180688968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1313383273079345152",
+              "start": 5,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1rJk2U9kJ",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2000567284180688968/photo/1",
+              "media_key": "3_2000567268439429120",
+              "start": 123,
+              "url": "https://t.co/z1rJk2U9kJ"
+            },
+            {
+              "display_url": "pic.x.com/z1rJk2U9kJ",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2000567284180688968/photo/1",
+              "media_key": "3_2000567268443586561",
+              "start": 123,
+              "url": "https://t.co/z1rJk2U9kJ"
+            },
+            {
+              "display_url": "pic.x.com/z1rJk2U9kJ",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2000567284180688968/photo/1",
+              "media_key": "3_2000567269005664256",
+              "start": 123,
+              "url": "https://t.co/z1rJk2U9kJ"
+            },
+            {
+              "display_url": "pic.x.com/z1rJk2U9kJ",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2000567284180688968/photo/1",
+              "media_key": "3_2000567269693550592",
+              "start": 123,
+              "url": "https://t.co/z1rJk2U9kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000567284180688968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汤戈韬女士@ValeriaEulabeia\n您是不是觉得互联网没有记忆?\n什么叫挂寒涟漪纯粹是因为勒索后没给你们打钱?\n然后隔着玩老资历那一套?🤣\n嘲讽别人是拿关注度套现骗钱来的?\n然后就因为我推荐了做救助该找谁\n就在这意淫跨性别权益只此一家? https://t.co/z1rJk2U9kJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 1245,
+          "like_count": 1051,
+          "listed_count": 7,
+          "media_count": 284,
+          "tweet_count": 1634
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

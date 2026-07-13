@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018187651321598130",
+    "created_at": "2026-02-02T19:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T20:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018404685011652966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531264368914190337",
+          "start": 0,
+          "username": "114514jknm"
+        },
+        {
+          "end": 20,
+          "id": "1130781616274468864",
+          "start": 12,
+          "username": "SGR_nya"
+        },
+        {
+          "end": 36,
+          "id": "1647815138450505730",
+          "start": 21,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018404685011652966",
+    "in_reply_to_user_id": "1531264368914190337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018400974361256101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514jknm @SGR_nya @yaming00742313 那是?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018187651321598130",
+        "created_at": "2026-02-02T19:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018404685011652966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531264368914190337",
+              "start": 0,
+              "username": "114514jknm"
+            },
+            {
+              "end": 20,
+              "id": "1130781616274468864",
+              "start": 12,
+              "username": "SGR_nya"
+            },
+            {
+              "end": 36,
+              "id": "1647815138450505730",
+              "start": 21,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018404685011652966",
+        "in_reply_to_user_id": "1531264368914190337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018400974361256101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514jknm @SGR_nya @yaming00742313 那是?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531264368914190337",
+        "conversation_id": "2018187651321598130",
+        "created_at": "2026-02-02T19:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018400974361256101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 25,
+              "id": "1130781616274468864",
+              "start": 17,
+              "username": "SGR_nya"
+            },
+            {
+              "end": 41,
+              "id": "1647815138450505730",
+              "start": 26,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018400974361256101",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018386983480123487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @SGR_nya @yaming00742313 我倒没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 1716,
+          "like_count": 1437,
+          "listed_count": 10,
+          "media_count": 319,
+          "tweet_count": 2003
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T13:21:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emoji.supply/kitchen/?%F0%9…",
+                "end": 23,
+                "expanded_url": "https://emoji.supply/kitchen/?%F0%9F%98%98+%F0%9F%98%96=rt",
+                "start": 0,
+                "url": "https://t.co/ayNcXCV4gQ"
+              }
+            ]
+          }
+        },
+        "id": "1531264368914190337",
+        "location": "京都宇治",
+        "name": "我还是一只小猪",
+        "pinned_tweet_id": "1919776115201032646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000422540754452480/GGfbljKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 1660,
+          "like_count": 34775,
+          "listed_count": 11,
+          "media_count": 57,
+          "tweet_count": 9710
+        },
+        "url": "https://t.co/ayNcXCV4gQ",
+        "username": "114514jknm",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62125,
+          "following_count": 2096,
+          "like_count": 50990,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12206,
+          "following_count": 1552,
+          "like_count": 6774,
+          "listed_count": 30,
+          "media_count": 357,
+          "tweet_count": 2572
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

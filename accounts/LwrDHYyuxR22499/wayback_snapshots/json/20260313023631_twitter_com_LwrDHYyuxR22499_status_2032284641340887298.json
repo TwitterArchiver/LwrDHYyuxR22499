@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2032284641340887298",
+    "created_at": "2026-03-13T02:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032284641340887298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1872130736872144897",
+          "start": 3,
+          "username": "yanzhenzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032284641340887298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032252235049046277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanzhenzhen21: 他们威胁我强行剪去了我的头发，他们在里面为了展示扭转机构的成果停用我的精神药品以此证明我的疾病已经好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2032284641340887298",
+        "created_at": "2026-03-13T02:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032284641340887298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1872130736872144897",
+              "start": 3,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032284641340887298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032252235049046277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanzhenzhen21: 他们威胁我强行剪去了我的头发，他们在里面为了展示扭转机构的成果停用我的精神药品以此证明我的疾病已经好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872130736872144897",
+        "conversation_id": "2032252235049046277",
+        "created_at": "2026-03-13T00:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032252235049046277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032252235049046277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 645,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他们威胁我强行剪去了我的头发，他们在里面为了展示扭转机构的成果停用我的精神药品以此证明我的疾病已经好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 2072,
+          "like_count": 2008,
+          "listed_count": 13,
+          "media_count": 354,
+          "tweet_count": 2296
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "世界好温柔我爱这个世界，世界支离破碎抱抱我     姐姐@SnowFoxSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 854,
+          "like_count": 26348,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1166
+        },
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

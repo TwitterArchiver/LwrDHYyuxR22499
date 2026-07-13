@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980870898359103769",
+    "created_at": "2025-10-22T05:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980870898359103769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1980864491295535416",
+          "start": 71,
+          "url": "https://t.co/lh2sWT1rXG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980870898359103769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980864491295535416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟你只愿意接受你脑子里设想好的答案跟小粉红没任何区别\n你疑似把自己想的太重要了😁\n能给你阐释完全是因为寻思你还没那么脑残这么一看你确实没救了 https://t.co/lh2sWT1rXG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980870898359103769",
+        "created_at": "2025-10-22T05:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980870898359103769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1980864491295535416",
+              "start": 71,
+              "url": "https://t.co/lh2sWT1rXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980870898359103769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980864491295535416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟你只愿意接受你脑子里设想好的答案跟小粉红没任何区别\n你疑似把自己想的太重要了😁\n能给你阐释完全是因为寻思你还没那么脑残这么一看你确实没救了 https://t.co/lh2sWT1rXG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1980495361157554244",
+        "created_at": "2025-10-22T05:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980864491295535416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980864491295535416",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980711675067265415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我听你给支共洗地我是闲的吗？还不好意思搬上台面说，是怕人让人看到你嘴脸？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 927,
+          "like_count": 719,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1116
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 183,
+          "like_count": 8760,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1947
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

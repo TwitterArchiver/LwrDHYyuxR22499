@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1961412689265045948",
+    "created_at": "2025-08-29T12:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961412689265045948"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961412689265045948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的一生都在向“正义”的大多数冲锋\n与绝大多数人背道而驰\n我庆幸我从不缺乏道德勇气\n谁都没法让我低头\n我要做这样的人\n那是一个看穿了世界一切荒诞虚无遭受到迫害\n却依旧可以向大多数站起来发起冲锋的人那是一个看穿了世界一切荒诞虚无遭受到迫害\n是一个对绝望蔑视对死亡傲视对世界戏谑又抱有怜悯的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1961412689265045948",
+        "created_at": "2025-08-29T12:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961412689265045948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961412689265045948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的一生都在向“正义”的大多数冲锋\n与绝大多数人背道而驰\n我庆幸我从不缺乏道德勇气\n谁都没法让我低头\n我要做这样的人\n那是一个看穿了世界一切荒诞虚无遭受到迫害\n却依旧可以向大多数站起来发起冲锋的人那是一个看穿了世界一切荒诞虚无遭受到迫害\n是一个对绝望蔑视对死亡傲视对世界戏谑又抱有怜悯的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 540,
+          "like_count": 514,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 731
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

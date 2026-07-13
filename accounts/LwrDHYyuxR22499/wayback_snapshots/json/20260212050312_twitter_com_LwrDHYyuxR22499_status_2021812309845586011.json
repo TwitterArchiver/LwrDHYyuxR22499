@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021094122925457674",
+    "created_at": "2026-02-12T05:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021812309845586011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1517813953761628163",
+          "start": 0,
+          "username": "MissAnarchy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021812309845586011",
+    "in_reply_to_user_id": "1517813953761628163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021812010284089845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MissAnarchy3 😤太对了\n正打算改\n然后就是感觉做公众人物好麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-12T05:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021812309845586011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517813953761628163",
+              "start": 0,
+              "username": "MissAnarchy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021812309845586011",
+        "in_reply_to_user_id": "1517813953761628163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021812010284089845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MissAnarchy3 😤太对了\n正打算改\n然后就是感觉做公众人物好麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517813953761628163",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-12T05:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021812010284089845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021812010284089845",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021094122925457674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 别掰扯这些了，这本质上是一个观感和形象的问题。你被救出来的人背刺心里难受是正当的，但你把叙事的脉络停在了“女同厌男”这个点上就很难看。你多说两句把这个中心落在之前教官和家人虐待她们造成的心理伤害上，那一点问题都不会有。你做出的实绩自然是最重要的，但作为公众人物说话非得如履薄冰不可。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 1800,
+          "like_count": 1544,
+          "listed_count": 12,
+          "media_count": 329,
+          "tweet_count": 2110
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T10:34:14.000Z",
+        "description": "25 | she/her | 汉语/English/日本語 | 后结构安那其主义者 | The limit of my language is the limit of my world.",
+        "id": "1517813953761628163",
+        "location": "Beijing",
+        "name": "Ana \"Anarchy\" 焚熙 🇨🇳🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983441704326729728/HmzcGBrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 32,
+          "like_count": 15675,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 338
+        },
+        "username": "MissAnarchy3",
+        "verified": false
+      }
+    ]
+  }
+}

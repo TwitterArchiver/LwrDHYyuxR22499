@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000310119306056136",
+    "created_at": "2025-12-14T21:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T22:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000310119306056136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2000307397743837544",
+          "start": 107,
+          "url": "https://t.co/zqPyZIBZwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000310119306056136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000307397743837544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣指认一件你的错事让我在跨性别社群收获到了相当多的霸凌跟指控\n清真小编\n国安特务\n反跨势力诈骗寒涟漪二百万\n嫖娼不给钱\n要问我这一年半来最大的阻力是什么\n我觉得跨性别社群这些热衷搞造神还有霸凌的贱畜才是最大的阻碍 https://t.co/zqPyZIBZwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2000305470566014976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8KDOjdboAAuWUz.png",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000310119306056136",
+        "created_at": "2025-12-14T21:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T22:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000310119306056136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2000307397743837544",
+              "start": 107,
+              "url": "https://t.co/zqPyZIBZwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000310119306056136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000307397743837544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣指认一件你的错事让我在跨性别社群收获到了相当多的霸凌跟指控\n清真小编\n国安特务\n反跨势力诈骗寒涟漪二百万\n嫖娼不给钱\n要问我这一年半来最大的阻力是什么\n我觉得跨性别社群这些热衷搞造神还有霸凌的贱畜才是最大的阻碍 https://t.co/zqPyZIBZwK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000305470566014976"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2000296715874869410",
+        "created_at": "2025-12-14T20:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T21:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000307397743837544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 28,
+              "id": "1586252938120466434",
+              "start": 17,
+              "username": "Si1entW4ve"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luqTimspmk",
+              "end": 157,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2000307397743837544/photo/1",
+              "media_key": "3_2000305470566014976",
+              "start": 134,
+              "url": "https://t.co/luqTimspmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000307397743837544",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/HANLIANYI331/s…",
+                "end": 527,
+                "expanded_url": "https://x.com/HANLIANYI331/status/1798706855885287702?s=20",
+                "start": 504,
+                "url": "https://t.co/i6aPE1A86S"
+              }
+            ]
+          },
+          "text": "你这话问题很大，我原推文说的是：\n\n我只和我的亲密关系在庇护所（甚至严格来说都不一定算是庇护所，只是收容了其他房子塞不下的人，属于我自己的常住地）发生过性关系，以及我唯一一次和受助者发生性关系是在2020年。\n\n结果到你把“寒涟漪和受助者发生过性关系”和“寒涟漪在庇护所和人发生过性关系”这两个“事实”拼在了一起，最终在别人看来就会被解读为“你在指认寒涟漪在庇护所和受助者发生过性关系”。\n\n我上次电话都和你强调过三件事情：\n1.我只在2020年和某危机干预对象（且当时我刚成年，对方还比我大几岁，而且是在该受助者的自杀胁迫下）发生性关系，并且，这个受助者从未入住过我开的庇护所。\n2.我只和我的亲密关系在庇护所发生过性关系，而且仅限于我自己常住的房间\n3.我的所有亲密关系都不是通过庇护所认识的。\n\n我再给你举个例子：假如说我要和别人介绍牧鸳\n1.牧鸳被警察行政处罚过\n2.牧鸳经常抢人打人\n3.牧鸳经常喜欢拿别人的悲剧开玩笑\n4牧鸳沟通境外势力\n这里我说的每一点都可以是事实，但是我完全不提发生这些事情的背景，而是一味的把这些所谓“事实”拼在一起，那别人就会建构出一个和实际情况偏差极大的牧鸳的形象。\n\nhttps://t.co/i6aPE1A86S"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000296715874869410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @Si1entW4ve 你这话问题很大，我原推文说的是：\n\n我只和我的亲密关系在庇护所（甚至严格来说都不一定算是庇护所，只是收容了其他房子塞不下的人，属于我自己的常住地）发生过性关系，以及我唯一一次和受助者发生性关系是在2020年。 https://t.co/luqTimspmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 1148,
+          "like_count": 998,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 1589
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40404,
+          "following_count": 3667,
+          "like_count": 1320,
+          "listed_count": 68,
+          "media_count": 369,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

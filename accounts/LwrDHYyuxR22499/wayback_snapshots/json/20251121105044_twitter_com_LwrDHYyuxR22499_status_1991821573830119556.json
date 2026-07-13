@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1991540678372028634",
+    "created_at": "2025-11-21T10:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T11:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991821573830119556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821091656332144640",
+          "start": 0,
+          "username": "Allwwgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991821573830119556",
+    "in_reply_to_user_id": "1821091656332144640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991819505421746555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allwwgz 对的至少我在践行自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1991540678372028634",
+        "created_at": "2025-11-21T10:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991821573830119556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821091656332144640",
+              "start": 0,
+              "username": "Allwwgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991821573830119556",
+        "in_reply_to_user_id": "1821091656332144640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991819505421746555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allwwgz 对的至少我在践行自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821091656332144640",
+        "conversation_id": "1991540678372028634",
+        "created_at": "2025-11-21T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991819505421746555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991819505421746555",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991540678372028634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我们没有任何一个人的能力是够的，也掀不翻所谓的官僚主义，但是我们都在尽力对吧？咱们都是自我的践行者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1111,
+          "like_count": 887,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 1451
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:51:10.000Z",
+        "description": "我的心是一团火，路过的人只能看到烟",
+        "id": "1821091656332144640",
+        "location": "你家",
+        "name": "A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935866233519312896/s1QsZE24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "username": "Allwwgz",
+        "verified": false
+      }
+    ]
+  }
+}

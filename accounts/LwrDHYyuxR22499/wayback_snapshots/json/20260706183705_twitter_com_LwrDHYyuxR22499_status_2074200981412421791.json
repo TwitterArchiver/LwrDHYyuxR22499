@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2074176182233489787",
+    "created_at": "2026-07-06T18:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074200981412421791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        },
+        {
+          "end": 25,
+          "id": "2074131584093970433",
+          "start": 9,
+          "username": "fuckingshit0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074200981412421791",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074200324014022729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 @fuckingshit0721 🤔🤔那也没办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074176182233489787",
+        "created_at": "2026-07-06T18:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074200981412421791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            },
+            {
+              "end": 25,
+              "id": "2074131584093970433",
+              "start": 9,
+              "username": "fuckingshit0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074200981412421791",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074200324014022729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 @fuckingshit0721 🤔🤔那也没办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2074176182233489787",
+        "created_at": "2026-07-06T18:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074200324014022729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "2074131584093970433",
+              "start": 17,
+              "username": "fuckingshit0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074200324014022729",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074176182233489787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @fuckingshit0721 这个小心秋后算账，德区免费赠礼（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6227,
+          "following_count": 3322,
+          "like_count": 3737,
+          "listed_count": 19,
+          "media_count": 488,
+          "tweet_count": 3359
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 另一个我 @她 | @loveksyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2060661685862736139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 519,
+          "like_count": 1122,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵🏳️‍🌈\n茫茫冻土身相随，有心炽如火喵🏳️‍⚧️",
+        "id": "2074131584093970433",
+        "name": "sin🍥",
+        "pinned_tweet_id": "2074196052324827330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 0,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": true
+      }
+    ]
+  }
+}

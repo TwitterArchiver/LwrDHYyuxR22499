@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000296715874869410",
+    "created_at": "2025-12-14T20:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T21:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000298716528558515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "1chbineine1inke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000298716528558515",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000298588291887454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1chbineine1inke 什么事?"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000298588291887454].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000298588291887454",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000298588291887454"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000296715874869410",
+        "created_at": "2025-12-14T20:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T21:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000298716528558515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "1chbineine1inke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000298716528558515",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000298588291887454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1chbineine1inke 什么事?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 1148,
+          "like_count": 998,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 1586
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "广告位招商",
+        "id": "1540698144429596673",
+        "name": ".",
+        "pinned_tweet_id": "2000232069776236777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999238242239963138/bdk3snsu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 317,
+          "like_count": 1967,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 2529
+        },
+        "username": "1chbineine1inke",
+        "verified": false
+      }
+    ]
+  }
+}

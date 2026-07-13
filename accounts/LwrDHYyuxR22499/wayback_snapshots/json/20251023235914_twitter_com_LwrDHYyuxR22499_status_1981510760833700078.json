@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1981510760833700078",
+    "created_at": "2025-10-23T23:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T00:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981510760833700078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980937175798591718",
+          "start": 67,
+          "url": "https://t.co/Fw3VEPuYRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981510760833700078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980937175798591718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人已经出来了安全回家但似乎因为教官以及父母的胁迫精神状态极差\n可能需要一段时间休息\n不过仍旧感谢@OverSpeedWiki2的投稿 https://t.co/Fw3VEPuYRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1980764746644123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30XCuNW8AAeTG1.jpg",
+        "width": 3302
+      },
+      {
+        "height": 1800,
+        "media_key": "3_1980764756349734914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30XDSXW0AIQVn2.jpg",
+        "width": 2545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1981510760833700078",
+        "created_at": "2025-10-23T23:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T00:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981510760833700078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980937175798591718",
+              "start": 67,
+              "url": "https://t.co/Fw3VEPuYRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981510760833700078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980937175798591718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人已经出来了安全回家但似乎因为教官以及父母的胁迫精神状态极差\n可能需要一段时间休息\n不过仍旧感谢@OverSpeedWiki2的投稿 https://t.co/Fw3VEPuYRr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980764746644123648",
+            "3_1980764756349734914"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980937175798591718",
+        "created_at": "2025-10-22T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980937175798591718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZE8BENSc9",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1980937175798591718/photo/1",
+              "media_key": "3_1980764746644123648",
+              "start": 90,
+              "url": "https://t.co/TZE8BENSc9"
+            },
+            {
+              "display_url": "pic.x.com/TZE8BENSc9",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1980937175798591718/photo/1",
+              "media_key": "3_1980764756349734914",
+              "start": 90,
+              "url": "https://t.co/TZE8BENSc9"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980280346353746400",
+              "start": 114,
+              "url": "https://t.co/wNchBZ96X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980937175798591718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有网友梳理出“鱼术”事件的时间线：\n10月10日，一名网名“鱼术”的女画师被家人送入广西皓翔励志教育学校。\n10月12日，B站博主“温柔JUNZ”在微博发文，表示愿意帮助杨雯雅。\n10月21日，杨雯雅的姐姐称成功将其接出，并在小红书发帖称“妹妹已接回”，但两人精神状态均不稳定，言语含糊。此时，小红书上的原求助帖已被删除。\n截图显示，救援者与姐姐曾通过微信沟通，询问杨雯雅的具体情况，但无法与本人直接联系，疑似两人当时在警察局。\n目前，B站博主“温柔JUNZ”发布视频称，杨雯雅确已离开戒网瘾学校，但其是否真正脱离控制、处于安全状态，仍无法确认。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 575703,
+          "like_count": 741,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980280346353746400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有网友梳理出“鱼术”事件的时间线：\n10月10日，一名网名“鱼术”的女画师被家人送入广西皓翔励志教育学校。\n10月12日，B站博主“温柔JUNZ”在微博发文，表示愿意帮助杨雯雅。 https://t.co/TZE8BENSc9 https://t.co/wNchBZ96X2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 946,
+          "like_count": 752,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1300
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126757,
+          "following_count": 983,
+          "like_count": 8281,
+          "listed_count": 8375,
+          "media_count": 36462,
+          "tweet_count": 43299
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

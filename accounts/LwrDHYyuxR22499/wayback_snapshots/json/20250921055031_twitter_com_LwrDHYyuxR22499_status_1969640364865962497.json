@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1969427169358332251",
+    "created_at": "2025-09-21T05:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969640364865962497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1648122510121271296",
+          "start": 0,
+          "username": "Zeriy_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969640364865962497",
+    "in_reply_to_user_id": "1648122510121271296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969427169358332251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zeriy_1 兄啊你这也太拉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1969427169358332251",
+        "created_at": "2025-09-21T05:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969640364865962497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1648122510121271296",
+              "start": 0,
+              "username": "Zeriy_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969640364865962497",
+        "in_reply_to_user_id": "1648122510121271296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969427169358332251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zeriy_1 兄啊你这也太拉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648122510121271296",
+        "conversation_id": "1969427169358332251",
+        "created_at": "2025-09-20T15:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969427169358332251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969427169358332251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救小忧的进展停滞了暂时\n\n若水扭转学校的徐校长带着俩人穿便装过来我家家访了\n\n主要是小忧的事情\n他们知道我干的）\n叫我删视频\n我只能先如此了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 712,
+          "like_count": 632,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 902
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T00:33:43.000Z",
+        "description": "一个永不疲倦的幻想者。〈Zeriy(列伊)读作/ˈzɪəˈiː/  B站：吟游诗人Zeriy〉梦幻派艺术家，写诗、散文，画插画和风景画等，前电子音乐人，只做自己喜欢做的事。很希望认识一些有相同灵魂的朋友。〈mtf🍥｜理想主义和安那其主义者〉Be Drinkful Flamboyant Bard.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeriy.art",
+                "end": 23,
+                "expanded_url": "https://zeriy.art",
+                "start": 0,
+                "url": "https://t.co/5jyo9b27zM"
+              }
+            ]
+          }
+        },
+        "id": "1648122510121271296",
+        "location": "Deutschland",
+        "name": "Zeriy🍥",
+        "pinned_tweet_id": "1883175315503247410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969550423116955650/Adpo6Nle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 49,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/5jyo9b27zM",
+        "username": "Zeriy_1",
+        "verified": false
+      }
+    ]
+  }
+}

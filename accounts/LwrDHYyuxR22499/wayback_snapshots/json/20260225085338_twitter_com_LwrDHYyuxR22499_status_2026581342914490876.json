@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2026550301348737112",
+    "created_at": "2026-02-25T08:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026581342914490876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1616626365062873090",
+          "start": 0,
+          "username": "SnakeHeaven1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026581342914490876",
+    "in_reply_to_user_id": "1616626365062873090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026580744311812582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnakeHeaven1 那当然了他又没争取案主的同意也没争取参与人的同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2026550301348737112",
+        "created_at": "2026-02-25T08:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026581342914490876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1616626365062873090",
+              "start": 0,
+              "username": "SnakeHeaven1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026581342914490876",
+        "in_reply_to_user_id": "1616626365062873090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026580744311812582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnakeHeaven1 那当然了他又没争取案主的同意也没争取参与人的同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616626365062873090",
+        "conversation_id": "2026550301348737112",
+        "created_at": "2026-02-25T08:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026580744311812582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026580744311812582",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026550301348737112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你的意思是要事先征求你的同意吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 1905,
+          "like_count": 1779,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2225
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T02:39:25.000Z",
+        "description": "",
+        "id": "1616626365062873090",
+        "name": "Strangelove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616626490803912707/RoeaU2C6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 61,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "username": "SnakeHeaven1",
+        "verified": false
+      }
+    ]
+  }
+}

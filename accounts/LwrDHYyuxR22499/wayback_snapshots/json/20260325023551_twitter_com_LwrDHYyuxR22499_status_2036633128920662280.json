@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2036633128920662280",
+    "created_at": "2026-03-25T02:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T03:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036633128920662280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2036250222775726207",
+          "start": 87,
+          "url": "https://t.co/rYoT9tUOzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036633128920662280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036250222775726207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该说不说\n人家护航体系还算专业相对人性化一点的了\n之前我处理西安护航的时候\n有的教官还会给跨性别开第三卫生间\n单独供他洗澡上厕所\n虽然那个教官最后因为冒充警察还是我被干掉了 https://t.co/rYoT9tUOzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2036250215297196032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEI2yESaIAAyEee.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2036633128920662280",
+        "created_at": "2026-03-25T02:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036633128920662280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2036250222775726207",
+              "start": 87,
+              "url": "https://t.co/rYoT9tUOzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036633128920662280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036250222775726207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该说不说\n人家护航体系还算专业相对人性化一点的了\n之前我处理西安护航的时候\n有的教官还会给跨性别开第三卫生间\n单独供他洗澡上厕所\n虽然那个教官最后因为冒充警察还是我被干掉了 https://t.co/rYoT9tUOzd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036250215297196032"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2036250222775726207",
+        "created_at": "2026-03-24T01:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036250222775726207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SldxLDlSrW",
+              "end": 54,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2036250222775726207/photo/1",
+              "media_key": "3_2036250215297196032",
+              "start": 31,
+              "url": "https://t.co/SldxLDlSrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036250222775726207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14067,
+          "like_count": 204,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "什么是扭转机构？\n不是把坏人扭转成好人\n而是把弱者扭转成死者 https://t.co/SldxLDlSrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3982,
+          "following_count": 2285,
+          "like_count": 2172,
+          "listed_count": 15,
+          "media_count": 372,
+          "tweet_count": 2391
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 285,
+          "like_count": 7329,
+          "listed_count": 3,
+          "media_count": 628,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

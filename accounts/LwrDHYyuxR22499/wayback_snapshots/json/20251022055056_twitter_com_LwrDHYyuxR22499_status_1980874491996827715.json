@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980874491996827715",
+    "created_at": "2025-10-22T05:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980874491996827715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1980873280639889770",
+          "start": 57,
+          "url": "https://t.co/wYnpruLsCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980874491996827715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980873280639889770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤧没看出来你这畜有什么辩经的成分除了意淫就是扣帽子\n我现在怀疑你妈把你生下来给共产党缴税也是阴谋\n你现在应该自证 https://t.co/wYnpruLsCP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980874491996827715",
+        "created_at": "2025-10-22T05:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980874491996827715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1980873280639889770",
+              "start": 57,
+              "url": "https://t.co/wYnpruLsCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980874491996827715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980873280639889770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤧没看出来你这畜有什么辩经的成分除了意淫就是扣帽子\n我现在怀疑你妈把你生下来给共产党缴税也是阴谋\n你现在应该自证 https://t.co/wYnpruLsCP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1980873280639889770",
+        "created_at": "2025-10-22T05:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980873280639889770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1980870898359103769",
+              "start": 53,
+              "url": "https://t.co/eWbZK9FAJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980873280639889770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980870898359103769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一切不辨经，最终必是转破防和无能狂怒人身攻击的\n这点寒➗还聪明一点，能人格毁灭的人格毁灭，不行就装傻到底 https://t.co/eWbZK9FAJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 927,
+          "like_count": 719,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1121
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 183,
+          "like_count": 8762,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1954
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

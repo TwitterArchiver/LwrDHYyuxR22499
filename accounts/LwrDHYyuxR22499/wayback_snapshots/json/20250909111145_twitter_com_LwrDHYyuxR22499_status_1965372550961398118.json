@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965361143708627377",
+    "created_at": "2025-09-09T11:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T12:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965372550961398118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631490280997412864",
+          "start": 0,
+          "username": "meho37371461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965372550961398118",
+    "in_reply_to_user_id": "1631490280997412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965370061872668762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meho37371461 我的命可比你的值钱多了🤭至少我是我思想的践行者\n可以为自己说的话负责\n不向您我至少可以拿着自己的命发起冲锋为了其他弱势群体\n而你只能在阴暗的角落意淫别人是如何如何的卑劣\n正如你自己一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965361143708627377",
+        "created_at": "2025-09-09T11:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965372550961398118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631490280997412864",
+              "start": 0,
+              "username": "meho37371461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965372550961398118",
+        "in_reply_to_user_id": "1631490280997412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965370061872668762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meho37371461 我的命可比你的值钱多了🤭至少我是我思想的践行者\n可以为自己说的话负责\n不向您我至少可以拿着自己的命发起冲锋为了其他弱势群体\n而你只能在阴暗的角落意淫别人是如何如何的卑劣\n正如你自己一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631490280997412864",
+        "conversation_id": "1965361143708627377",
+        "created_at": "2025-09-09T11:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965370061872668762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965370061872668762",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965368462349623418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 既然你的命这么不值钱，可以随意拿出来决斗只要有对你这种思想反对的声音，那你就该拿出你的命自己独自冲锋告诉别人怎么反抗，用你的生命说话。而不是教别人怎么在自杀前帮你做事👎🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 601,
+          "like_count": 600,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 851
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T03:03:24.000Z",
+        "description": "",
+        "id": "1631490280997412864",
+        "name": "清空",
+        "pinned_tweet_id": "1963994591792681255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964636540589502464/ITwjvJap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 323,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 153
+        },
+        "username": "meho37371461",
+        "verified": false
+      }
+    ]
+  }
+}

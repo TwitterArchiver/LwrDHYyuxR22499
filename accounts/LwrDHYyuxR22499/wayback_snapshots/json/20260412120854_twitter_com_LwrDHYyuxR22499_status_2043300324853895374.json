@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2043276542089060456",
+    "created_at": "2026-04-12T12:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043300324853895374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1152599208106455040",
+          "start": 0,
+          "username": "zhongqucoda823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043300324853895374",
+    "in_reply_to_user_id": "1152599208106455040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043298679977902554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongqucoda823 好的😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2043276542089060456",
+        "created_at": "2026-04-12T12:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043300324853895374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1152599208106455040",
+              "start": 0,
+              "username": "zhongqucoda823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043300324853895374",
+        "in_reply_to_user_id": "1152599208106455040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043298679977902554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongqucoda823 好的😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152599208106455040",
+        "conversation_id": "2043276542089060456",
+        "created_at": "2026-04-12T12:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043298679977902554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043298679977902554",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043276542089060456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那你别关注我了好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 2427,
+          "like_count": 2500,
+          "listed_count": 14,
+          "media_count": 397,
+          "tweet_count": 2617
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-20T15:20:40.000Z",
+        "description": "常驻长三角 只玩X和电报其他平台均为假冒！电报老头群：https://t.co/3HLd2UuxMq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/codacoda521",
+                "end": 50,
+                "expanded_url": "https://t.me/codacoda521",
+                "start": 27,
+                "url": "https://t.co/3HLd2UuxMq"
+              }
+            ]
+          }
+        },
+        "id": "1152599208106455040",
+        "location": "🚪50",
+        "name": "Codaaaaa",
+        "pinned_tweet_id": "2043291705466925536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865571792951394304/DLwnGhVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102380,
+          "following_count": 147,
+          "like_count": 292,
+          "listed_count": 446,
+          "media_count": 78,
+          "tweet_count": 811
+        },
+        "username": "zhongqucoda823",
+        "verified": true
+      }
+    ]
+  }
+}

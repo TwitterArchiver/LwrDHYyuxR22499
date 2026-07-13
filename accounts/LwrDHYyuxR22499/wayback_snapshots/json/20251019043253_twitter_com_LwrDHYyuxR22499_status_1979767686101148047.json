@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979767676009422848"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1979767686101148047",
+    "created_at": "2025-10-19T04:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979767686101148047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxdMnhrMam",
+          "end": 23,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1979767686101148047/photo/1",
+          "media_key": "3_1979767676009422848",
+          "start": 0,
+          "url": "https://t.co/FxdMnhrMam"
+        },
+        {
+          "display_url": "x.com/RunHiyori/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/RunHiyori/status/1979424760200335727",
+          "start": 24,
+          "url": "https://t.co/91LkGpvpR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979767686101148047",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979424760200335727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/FxdMnhrMam https://t.co/91LkGpvpR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_1979767676009422848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mMNkpXoAALUU8.jpg",
+        "width": 855
+      },
+      {
+        "height": 1696,
+        "media_key": "3_1979424754198089728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hUU5WXkAA9VuF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979767676009422848"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979767686101148047",
+        "created_at": "2025-10-19T04:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979767686101148047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxdMnhrMam",
+              "end": 23,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1979767686101148047/photo/1",
+              "media_key": "3_1979767676009422848",
+              "start": 0,
+              "url": "https://t.co/FxdMnhrMam"
+            },
+            {
+              "display_url": "x.com/RunHiyori/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/RunHiyori/status/1979424760200335727",
+              "start": 24,
+              "url": "https://t.co/91LkGpvpR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767686101148047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979424760200335727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/FxdMnhrMam https://t.co/91LkGpvpR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979424754198089728"
+          ]
+        },
+        "author_id": "851454232318296064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979424760200335727",
+        "created_at": "2025-10-18T05:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T06:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979424760200335727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtfWyNsPdU",
+              "end": 48,
+              "expanded_url": "https://x.com/RunHiyori/status/1979424760200335727/photo/1",
+              "media_key": "3_1979424754198089728",
+              "start": 25,
+              "url": "https://t.co/GtfWyNsPdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979424760200335727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12775,
+          "like_count": 108,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么现在日本的抓娃娃机什么都有，连松茸都有了？！ https://t.co/GtfWyNsPdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 900,
+          "like_count": 719,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1087
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-10T15:18:03.000Z",
+        "description": "分享在日本的见闻和读书心得📖/ 一边学习一边成长/热爱美食和生活/ 偶尔高强度键政/ Liberal/ 支持女权/ 粉蛆只ban不回/ 2016年🇯🇵日本留学➡️日本工作/ 永住者/ 对日语、留学、日本的生活和工作学习方面有任何问题欢迎咨询",
+        "id": "851454232318296064",
+        "location": "東京都港区元麻布3丁目4−33習近平タワー",
+        "name": "日和🇯🇵🇹🇼润学爱好者",
+        "pinned_tweet_id": "1752181010392084781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601036998554583040/iauVe1oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 275,
+          "like_count": 3844,
+          "listed_count": 8,
+          "media_count": 197,
+          "tweet_count": 1554
+        },
+        "username": "RunHiyori",
+        "verified": false
+      }
+    ]
+  }
+}

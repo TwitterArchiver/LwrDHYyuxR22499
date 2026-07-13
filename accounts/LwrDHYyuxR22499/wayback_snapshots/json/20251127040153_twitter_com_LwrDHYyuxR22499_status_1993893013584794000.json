@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1993362050958192909",
+    "created_at": "2025-11-27T04:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993893013584794000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1952096601222320128",
+          "start": 0,
+          "username": "guazQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993893013584794000",
+    "in_reply_to_user_id": "1952096601222320128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993761274044531050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guazQAQ 🤓🤓🤓做这个的现在就我一个人啊\n你进去的时候也没人找我啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1993362050958192909",
+        "created_at": "2025-11-27T04:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993893013584794000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1952096601222320128",
+              "start": 0,
+              "username": "guazQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993893013584794000",
+        "in_reply_to_user_id": "1952096601222320128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993761274044531050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guazQAQ 🤓🤓🤓做这个的现在就我一个人啊\n你进去的时候也没人找我啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952096601222320128",
+        "conversation_id": "1993362050958192909",
+        "created_at": "2025-11-26T19:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993761274044531050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993761274044531050",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993362050958192909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我到现在都没od割手为什么当初没人救我（我是哪边一条犬谁在意）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1119,
+          "like_count": 909,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1475
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T19:58:04.000Z",
+        "description": "MTF，ISFP，173cm，59kg。上一世@guaz686，可能是brat，可能有点sub属性，仅靠游玩cs2就可以支撑精神状态正常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "guaz686"
+              }
+            ]
+          }
+        },
+        "id": "1952096601222320128",
+        "location": "dust2",
+        "name": "guazQAQ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985332980483751937/QKJ9zsG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 280,
+          "like_count": 607,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 397
+        },
+        "username": "guazQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

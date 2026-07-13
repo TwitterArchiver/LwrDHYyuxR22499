@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921461055601205248"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1921461058717282700",
+    "created_at": "2025-05-11T07:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T08:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921461058717282700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFSDWdUZAu",
+          "end": 159,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1921461058717282700/photo/1",
+          "media_key": "3_1921461055601205248",
+          "start": 136,
+          "url": "https://t.co/MFSDWdUZAu"
+        },
+        {
+          "display_url": "x.com/feimiaonya/sta…",
+          "end": 183,
+          "expanded_url": "https://twitter.com/feimiaonya/status/1921388817686106456",
+          "start": 160,
+          "url": "https://t.co/AyR4NAUzFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921461058717282700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921388817686106456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用您母亲听得懂的方式打了个电话沟通了一下说了一下该尊重你的个人原\n还有个人的个性\n该补偿你立马就给了你一百\n并且保证以后再也不干涉你的头发了\n我还顺带把卢梭的论教育推过去了\n你妈妈说一定会认真学习的\n看来你的父母已经开始学会跟你沟通并且尊重你了\n很高兴能改善你的家庭问题 https://t.co/MFSDWdUZAu https://t.co/AyR4NAUzFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921461055601205248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpmplTbYAAvCqD.jpg",
+        "width": 922
+      },
+      {
+        "height": 355,
+        "media_key": "3_1921388603650797568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqokwUwW8AA9QNF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921461055601205248"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1921461058717282700",
+        "created_at": "2025-05-11T07:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921461058717282700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFSDWdUZAu",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1921461058717282700/photo/1",
+              "media_key": "3_1921461055601205248",
+              "start": 136,
+              "url": "https://t.co/MFSDWdUZAu"
+            },
+            {
+              "display_url": "x.com/feimiaonya/sta…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/feimiaonya/status/1921388817686106456",
+              "start": 160,
+              "url": "https://t.co/AyR4NAUzFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921461058717282700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921388817686106456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用您母亲听得懂的方式打了个电话沟通了一下说了一下该尊重你的个人原\n还有个人的个性\n该补偿你立马就给了你一百\n并且保证以后再也不干涉你的头发了\n我还顺带把卢梭的论教育推过去了\n你妈妈说一定会认真学习的\n看来你的父母已经开始学会跟你沟通并且尊重你了\n很高兴能改善你的家庭问题 https://t.co/MFSDWdUZAu https://t.co/AyR4NAUzFL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921388603650797568"
+          ]
+        },
+        "author_id": "1896175390005342208",
+        "conversation_id": "1921388817686106456",
+        "created_at": "2025-05-11T02:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T03:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921388817686106456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzJuQdOgdT",
+              "end": 58,
+              "expanded_url": "https://x.com/feimiaonya/status/1921388817686106456/photo/1",
+              "media_key": "3_1921388603650797568",
+              "start": 35,
+              "url": "https://t.co/MzJuQdOgdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921388817686106456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1024,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们竟然给了我被剃成寸头的精神损失费😋好耶，又能买一个月的糖果啦！~ https://t.co/MzJuQdOgdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 300,
+          "like_count": 270,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 433
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "#防虐待自救指南 #关注家暴受害者 #关注救助者健康 我会努力哒~｜🍥HRT:2025.4.21",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "防虐待自救指南"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "关注家暴受害者"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "关注救助者健康"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "菲喵酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919326371047944499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906278656726777856/-3MdD1iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 702,
+          "like_count": 5341,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 199
+        },
+        "username": "feimiaonya",
+        "verified": false
+      }
+    ]
+  }
+}

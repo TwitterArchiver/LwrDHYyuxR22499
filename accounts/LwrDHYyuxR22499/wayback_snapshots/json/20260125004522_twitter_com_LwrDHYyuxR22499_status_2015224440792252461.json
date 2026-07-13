@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015224440792252461",
+    "created_at": "2026-01-25T00:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015224440792252461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2015221021574672681",
+          "start": 138,
+          "url": "https://t.co/lWKHGfR1qd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015224440792252461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015221021574672681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结果排挤来排挤去🤣\n这群蛆跟过家家似的斗来斗去，\n除了霸凌，什么都没学会\n无德无能，在这玩虚拟国\n遇事全凭屁股决定脑袋\n跟跨卫兵不相上下\n拿着一张图就造谣我是清真小编，\n自己跟条蛆一样\n见我做成点事，又污蔑我这份拿命拼来的功劳是捡来的\n除了叫洋大人啥也不会\n这嘴脸可真丑陋🤣 https://t.co/lWKHGfR1qd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015224440792252461",
+        "created_at": "2026-01-25T00:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015224440792252461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2015221021574672681",
+              "start": 138,
+              "url": "https://t.co/lWKHGfR1qd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015224440792252461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015221021574672681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果排挤来排挤去🤣\n这群蛆跟过家家似的斗来斗去，\n除了霸凌，什么都没学会\n无德无能，在这玩虚拟国\n遇事全凭屁股决定脑袋\n跟跨卫兵不相上下\n拿着一张图就造谣我是清真小编，\n自己跟条蛆一样\n见我做成点事，又污蔑我这份拿命拼来的功劳是捡来的\n除了叫洋大人啥也不会\n这嘴脸可真丑陋🤣 https://t.co/lWKHGfR1qd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015221021574672681",
+        "created_at": "2026-01-25T00:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015221021574672681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1chbineine1ink…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/1chbineine1inke/status/2013482945206448142",
+              "start": 29,
+              "url": "https://t.co/6EWJkTRtot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015221021574672681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013482945206448142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁哪位跨皇组建的文革文化小圈子故步自封霸凌排挤我都不好说 https://t.co/6EWJkTRtot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1649,
+          "like_count": 1411,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1969
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

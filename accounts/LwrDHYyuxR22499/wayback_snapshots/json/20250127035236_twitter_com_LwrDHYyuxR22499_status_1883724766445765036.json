@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883398360515911741",
+    "created_at": "2025-01-27T03:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T04:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883724766445765036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1710913480633864192",
+          "start": 0,
+          "username": "Xuyiofficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883724766445765036",
+    "in_reply_to_user_id": "1710913480633864192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883719102868639984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuyiofficial 哇哦🤣我可没想谋取任何利益你可能没看全我跟他的吵架过程\n他认为我们就是半路冒出来圈钱耍流氓的杂种而已\n并且公开发表反人类言论\n我总不能就让他骂不证明自己吧\n寒涟漪被说圈钱还要自己做解释呢\n我没这个权利吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883398360515911741",
+        "created_at": "2025-01-27T03:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T04:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883724766445765036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1710913480633864192",
+              "start": 0,
+              "username": "Xuyiofficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883724766445765036",
+        "in_reply_to_user_id": "1710913480633864192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883719102868639984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuyiofficial 哇哦🤣我可没想谋取任何利益你可能没看全我跟他的吵架过程\n他认为我们就是半路冒出来圈钱耍流氓的杂种而已\n并且公开发表反人类言论\n我总不能就让他骂不证明自己吧\n寒涟漪被说圈钱还要自己做解释呢\n我没这个权利吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710913480633864192",
+        "conversation_id": "1883398360515911741",
+        "created_at": "2025-01-27T03:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T04:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883719102868639984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883719102868639984",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883398360515911741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你义愤填膺，这很好。\n但你真的没有想利用援助经历为自己谋求非直接利益的心态？\n小二那个人经过他与北雁书的波折，已经可以说充分暴露这个老民运，想利用跨性别服务于自己政治利益的马脚了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 150,
+          "like_count": 93,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 235
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T07:02:46.000Z",
+        "description": "Bambi喵～",
+        "id": "1710913480633864192",
+        "location": "比奇堡",
+        "name": "茶花（mtx;hrting（暂停））🌟",
+        "pinned_tweet_id": "1863964811413073981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880667393531465728/RV8y95Q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 1095,
+          "like_count": 17960,
+          "listed_count": 0,
+          "media_count": 430,
+          "tweet_count": 8540
+        },
+        "username": "Xuyiofficial",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018955721636020621",
+    "created_at": "2026-02-04T09:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018981095929479676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678530197153521665",
+          "start": 0,
+          "username": "SkrMiryth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018981095929479676",
+    "in_reply_to_user_id": "1678530197153521665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018980686234096082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkrMiryth 依照我看是的所谓的抗争没有具体目标更像是纯粹因怒而起发泄而已\n怒气过了没有统一口号统一诉求\n也不团结结果就是被分而食之\n一个一个解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018955721636020621",
+        "created_at": "2026-02-04T09:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018981095929479676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678530197153521665",
+              "start": 0,
+              "username": "SkrMiryth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018981095929479676",
+        "in_reply_to_user_id": "1678530197153521665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018980686234096082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkrMiryth 依照我看是的所谓的抗争没有具体目标更像是纯粹因怒而起发泄而已\n怒气过了没有统一口号统一诉求\n也不团结结果就是被分而食之\n一个一个解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678530197153521665",
+        "conversation_id": "2018955721636020621",
+        "created_at": "2026-02-04T09:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018980686234096082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018980686234096082",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018955721636020621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这...没成功？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 1723,
+          "like_count": 1446,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 2015
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T22:22:44.000Z",
+        "description": "ENFP/男的！/稀有的光遇玩家/永远喜欢风神大人巴巴托斯！/喜欢可可爱爱的大家~/大学自动化在读/背叛抛弃褪尽 努力让自己相信才有光明",
+        "id": "1678530197153521665",
+        "name": "Miryth",
+        "pinned_tweet_id": "2005448628870234242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997997371410800640/6kaS6Odj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 104,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 158
+        },
+        "username": "SkrMiryth",
+        "verified": false
+      }
+    ]
+  }
+}

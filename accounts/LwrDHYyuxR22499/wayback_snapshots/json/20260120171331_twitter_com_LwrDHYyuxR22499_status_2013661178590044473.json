@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013637284273574062",
+    "created_at": "2026-01-20T17:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T18:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013661178590044473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791406928855199744",
+          "start": 0,
+          "username": "JonAbc1037955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013661178590044473",
+    "in_reply_to_user_id": "1791406928855199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013660290177470696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JonAbc1037955 别拿这玩意比划了警察见我们是掏枪的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2013660267456925697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_H1WCwWkAEJoJf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013637284273574062",
+        "created_at": "2026-01-20T17:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013661178590044473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791406928855199744",
+              "start": 0,
+              "username": "JonAbc1037955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013661178590044473",
+        "in_reply_to_user_id": "1791406928855199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013660290177470696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JonAbc1037955 别拿这玩意比划了警察见我们是掏枪的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013660267456925697"
+          ]
+        },
+        "author_id": "1791406928855199744",
+        "conversation_id": "2013637284273574062",
+        "created_at": "2026-01-20T17:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013660290177470696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qf6nmbqaJg",
+              "end": 88,
+              "expanded_url": "https://x.com/JonAbc1037955/status/2013660290177470696/photo/1",
+              "media_key": "3_2013660267456925697",
+              "start": 65,
+              "url": "https://t.co/Qf6nmbqaJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013660290177470696",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013644541476163754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 跟我的快反队说去吧\n“警察，别动，放下武器，否则使用警械，趴下！”\n不服？三棍打碎你的英雄梦😆 https://t.co/Qf6nmbqaJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 1629,
+          "like_count": 1377,
+          "listed_count": 9,
+          "media_count": 315,
+          "tweet_count": 1924
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T09:55:01.000Z",
+        "description": "大型猫科动物一枚~\n看什么看？你个杂碎！\n自由与你同在\n自由万岁！",
+        "id": "1791406928855199744",
+        "location": "共产国际",
+        "name": "少室山下的壮士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791408094708203521/TsGac6IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 233
+        },
+        "username": "JonAbc1037955",
+        "verified": false
+      }
+    ]
+  }
+}

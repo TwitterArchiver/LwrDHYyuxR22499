@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966009039160303616",
+        "3_1966009040246587393",
+        "3_1966009027814621184"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1966009043522326907",
+    "created_at": "2025-09-11T05:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T06:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966009043522326907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqG7QZnGjT",
+          "end": 129,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966009043522326907/photo/1",
+          "media_key": "3_1966009039160303616",
+          "start": 106,
+          "url": "https://t.co/cqG7QZnGjT"
+        },
+        {
+          "display_url": "pic.x.com/cqG7QZnGjT",
+          "end": 129,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966009043522326907/photo/1",
+          "media_key": "3_1966009040246587393",
+          "start": 106,
+          "url": "https://t.co/cqG7QZnGjT"
+        },
+        {
+          "display_url": "pic.x.com/cqG7QZnGjT",
+          "end": 129,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966009043522326907/photo/1",
+          "media_key": "3_1966009027814621184",
+          "start": 106,
+          "url": "https://t.co/cqG7QZnGjT"
+        },
+        {
+          "display_url": "x.com/FIREFLY040132/…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/FIREFLY040132/status/1965840349127127381",
+          "start": 130,
+          "url": "https://t.co/hHI3qJVvOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966009043522326907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965840349127127381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😫完蛋辣已经被送进去了而且进去的地方是一家有正规教育资质上文化课得河南登封武校\n虽然有正规资质但是也会虐待人殴打他人可是搞起来就有很麻烦不能以对付无自制进行打击\n怎么不是给我找有保护伞的\n就是这种资质齐全的学校 https://t.co/cqG7QZnGjT https://t.co/hHI3qJVvOm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966009039160303616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iqzgRbYAACp_u.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966009040246587393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iqzkUawAEgbk_.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966009027814621184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iqy2AaAAAE2E0.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966009039160303616",
+            "3_1966009040246587393",
+            "3_1966009027814621184"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1966009043522326907",
+        "created_at": "2025-09-11T05:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966009043522326907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqG7QZnGjT",
+              "end": 129,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966009043522326907/photo/1",
+              "media_key": "3_1966009039160303616",
+              "start": 106,
+              "url": "https://t.co/cqG7QZnGjT"
+            },
+            {
+              "display_url": "pic.x.com/cqG7QZnGjT",
+              "end": 129,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966009043522326907/photo/1",
+              "media_key": "3_1966009040246587393",
+              "start": 106,
+              "url": "https://t.co/cqG7QZnGjT"
+            },
+            {
+              "display_url": "pic.x.com/cqG7QZnGjT",
+              "end": 129,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966009043522326907/photo/1",
+              "media_key": "3_1966009027814621184",
+              "start": 106,
+              "url": "https://t.co/cqG7QZnGjT"
+            },
+            {
+              "display_url": "x.com/FIREFLY040132/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/FIREFLY040132/status/1965840349127127381",
+              "start": 130,
+              "url": "https://t.co/hHI3qJVvOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966009043522326907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965840349127127381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😫完蛋辣已经被送进去了而且进去的地方是一家有正规教育资质上文化课得河南登封武校\n虽然有正规资质但是也会虐待人殴打他人可是搞起来就有很麻烦不能以对付无自制进行打击\n怎么不是给我找有保护伞的\n就是这种资质齐全的学校 https://t.co/cqG7QZnGjT https://t.co/hHI3qJVvOm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918920268296359936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1965840349127127381",
+        "created_at": "2025-09-10T18:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T19:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965840349127127381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965840349127127381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11384,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是冯占峰\n我的身份证号是140427201004010032\n我因我家里吃药原因离家出走\n被我家里人现在以看管，绑手方式限制了我的人身自由\n并且要强行帮我绑架到河南的学校扭转机构里（不知道名字就先不写知道必须写）\n我本人冯占峰郑重声明不愿再这种无医疗条件教育资质限制我人身自由的扭转机构接受培训"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 648,
+          "like_count": 608,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 868
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁，身高168，断糖，没钱，很能吃，暂无固定住所，爱玩点休闲小游戏",
+        "id": "1918920268296359936",
+        "location": "床上",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963726016771498288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948999350333624320/e-2Mljmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 456,
+          "like_count": 605,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 441
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

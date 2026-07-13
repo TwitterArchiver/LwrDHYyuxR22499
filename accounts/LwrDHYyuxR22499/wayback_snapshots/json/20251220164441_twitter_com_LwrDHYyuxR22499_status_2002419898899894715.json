@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2002418249150136471",
+    "created_at": "2025-12-20T16:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002419898899894715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002419898899894715",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002418249150136471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 我去🫵🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2002418240853835776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oEx-HbAAAadab.jpg",
+        "width": 2028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2002418249150136471",
+        "created_at": "2025-12-20T16:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002419898899894715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002419898899894715",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002418249150136471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 我去🫵🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002418240853835776"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2002418249150136471",
+        "created_at": "2025-12-20T16:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002418249150136471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XllpET4RJj",
+              "end": 100,
+              "expanded_url": "https://x.com/ServalCandle/status/2002418249150136471/photo/1",
+              "media_key": "3_2002418240853835776",
+              "start": 77,
+              "url": "https://t.co/XllpET4RJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002418249150136471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨猫的日常YouTube影片时间看到了这个BBC纪录片\n\n居然出现了中国变性人（（（\n\n看到这里我就觉得这次纪录片打开是值了\n\n快速吃瓜吃瓜(＞人＜;) https://t.co/XllpET4RJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1377,
+          "like_count": 1117,
+          "listed_count": 7,
+          "media_count": 289,
+          "tweet_count": 1681
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "❄️别回頭，披好圍巾，我們一起穿越這個冬夜。☃️",
+        "name": "🍥超絕小母貓𝕮𝖆𝖓𝖉𝖑𝖊☃️🎄",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999100978705100800/ghaZ2zWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33233,
+          "following_count": 345,
+          "like_count": 227020,
+          "listed_count": 105,
+          "media_count": 8550,
+          "tweet_count": 55810
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

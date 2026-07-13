@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2052342142106997117",
+    "created_at": "2026-05-07T10:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052342142106997117"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052342142106997117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🫪🫪谁懂我今天一天能接三个案子轮班转\n不是这个案子就是那个案子\n要么就是突然莫名其妙冲出来一个你压根就不认识你的人委托你救救她\n歇了还要继续思考下一场抗议事宜\n以及家庭暴力解决方案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052342142106997117",
+        "created_at": "2026-05-07T10:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052342142106997117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052342142106997117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫪🫪谁懂我今天一天能接三个案子轮班转\n不是这个案子就是那个案子\n要么就是突然莫名其妙冲出来一个你压根就不认识你的人委托你救救她\n歇了还要继续思考下一场抗议事宜\n以及家庭暴力解决方案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4935,
+          "following_count": 2713,
+          "like_count": 2674,
+          "listed_count": 18,
+          "media_count": 406,
+          "tweet_count": 2692
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

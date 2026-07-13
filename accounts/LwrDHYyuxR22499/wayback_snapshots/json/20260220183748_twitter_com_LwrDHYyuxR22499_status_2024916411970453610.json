@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2024716964011344055",
+    "created_at": "2026-02-20T18:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T19:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024916411970453610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1265955473796161537",
+          "start": 0,
+          "username": "LTSDU7000"
+        },
+        {
+          "end": 21,
+          "id": "1410527284994273285",
+          "start": 11,
+          "username": "X99546668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024916411970453610",
+    "in_reply_to_user_id": "1265955473796161537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024913930875974072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LTSDU7000 @X99546668 “开棍”是吧?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2024716964011344055",
+        "created_at": "2026-02-20T18:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024916411970453610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1265955473796161537",
+              "start": 0,
+              "username": "LTSDU7000"
+            },
+            {
+              "end": 21,
+              "id": "1410527284994273285",
+              "start": 11,
+              "username": "X99546668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024916411970453610",
+        "in_reply_to_user_id": "1265955473796161537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024913930875974072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LTSDU7000 @X99546668 “开棍”是吧?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265955473796161537",
+        "conversation_id": "2024716964011344055",
+        "created_at": "2026-02-20T18:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024913930875974072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1410527284994273285",
+              "start": 17,
+              "username": "X99546668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024913930875974072",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024763308012875932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @X99546668 我进过河南这种类型的武校，这种棍抽人是最典型的体罚，体罚时还会“开大会”，就是让所谓的学生集合到一起，然后部长在最前面让学生拳卧撑趴着再用棍子抽。这种长棍比看上去的伤害大很多，我没见过但听其他人说被抽30棍的人整块皮肤都会流血甚至溃烂掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 1880,
+          "like_count": 1689,
+          "listed_count": 12,
+          "media_count": 343,
+          "tweet_count": 2199
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T10:38:05.000Z",
+        "description": "中专辍学&亿万富翁&真正的王者&现代英雄",
+        "id": "1265955473796161537",
+        "name": "KAI⁷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955201710735101955/4SSWLkTz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 132,
+          "like_count": 9014,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1258
+        },
+        "username": "LTSDU7000",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T09:14:57.000Z",
+        "description": "2023/8/18\n中推圈两个凡是：凡是中国取得的成就，都是不实用的花架子；凡是中共的宣传，我们都矢志不渝地反对！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pornhub.com",
+                "end": 23,
+                "expanded_url": "http://pornhub.com",
+                "start": 0,
+                "url": "https://t.co/CoSm8gvUUa"
+              }
+            ]
+          }
+        },
+        "id": "1410527284994273285",
+        "name": "LXAG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556107045295751172/peuNXKxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 479,
+          "like_count": 8830,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/CoSm8gvUUa",
+        "username": "X99546668",
+        "verified": false
+      }
+    ]
+  }
+}

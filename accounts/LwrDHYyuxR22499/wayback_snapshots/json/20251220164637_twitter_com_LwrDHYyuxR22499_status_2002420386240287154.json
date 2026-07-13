@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2002395185473613926",
+    "created_at": "2025-12-20T16:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002420386240287154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1812433811067858944",
+          "start": 0,
+          "username": "79_554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002420386240287154",
+    "in_reply_to_user_id": "1812433811067858944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002420053355213259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@79_554 目前不接受捐款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2002395185473613926",
+        "created_at": "2025-12-20T16:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002420386240287154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1812433811067858944",
+              "start": 0,
+              "username": "79_554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002420386240287154",
+        "in_reply_to_user_id": "1812433811067858944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002420053355213259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@79_554 目前不接受捐款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812433811067858944",
+        "conversation_id": "2002395185473613926",
+        "created_at": "2025-12-20T16:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002420053355213259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002420053355213259",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002419774463291622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 本人也做不到什么行动上的支持，有捐钱的途径吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 1377,
+          "like_count": 1118,
+          "listed_count": 7,
+          "media_count": 289,
+          "tweet_count": 1683
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T10:27:55.000Z",
+        "description": "",
+        "id": "1812433811067858944",
+        "name": "seven✧classic*💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858185589948108800/KOphdTuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 844,
+          "like_count": 4266,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 196
+        },
+        "username": "79_554",
+        "verified": false
+      }
+    ]
+  }
+}

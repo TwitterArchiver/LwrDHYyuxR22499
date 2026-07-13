@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072372963987566769",
+    "created_at": "2026-07-02T03:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072520126575046982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1849095716536463360",
+          "start": 0,
+          "username": "op0timi0sm"
+        },
+        {
+          "end": 19,
+          "id": "1878828387369926656",
+          "start": 12,
+          "username": "hmj404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072520126575046982",
+    "in_reply_to_user_id": "1849095716536463360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072518924567228777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@op0timi0sm @hmj404 我立马取关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072372963987566769",
+        "created_at": "2026-07-02T03:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072520126575046982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1849095716536463360",
+              "start": 0,
+              "username": "op0timi0sm"
+            },
+            {
+              "end": 19,
+              "id": "1878828387369926656",
+              "start": 12,
+              "username": "hmj404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520126575046982",
+        "in_reply_to_user_id": "1849095716536463360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072518924567228777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@op0timi0sm @hmj404 我立马取关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849095716536463360",
+        "conversation_id": "2072372963987566769",
+        "created_at": "2026-07-02T03:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072518924567228777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 24,
+              "id": "1878828387369926656",
+              "start": 17,
+              "username": "hmj404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072518924567228777",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072373363188899919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @hmj404 我来x纯看颜色也能被关注😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 3308,
+          "like_count": 3663,
+          "listed_count": 19,
+          "media_count": 482,
+          "tweet_count": 3307
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T14:29:15.000Z",
+        "description": "给我点颜色看看，最好是黄色，谢谢。",
+        "id": "1849095716536463360",
+        "name": "小白",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 175,
+          "like_count": 4493,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "op0timi0sm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T15:36:29.000Z",
+        "description": "我自己的试卷 乱写也是满分/ https://t.co/dj3lGEzAi7 / ⬇️提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hmj404",
+                "end": 38,
+                "expanded_url": "http://t.me/hmj404",
+                "start": 15,
+                "url": "https://t.co/dj3lGEzAi7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmj404",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmj404",
+                "start": 0,
+                "url": "https://t.co/mdOBMXZ5La"
+              }
+            ]
+          }
+        },
+        "id": "1878828387369926656",
+        "location": "火星",
+        "name": "烬欢Ashley",
+        "pinned_tweet_id": "2070172337341960441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066008787765624834/6pa3K0At_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 73,
+          "like_count": 1737,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/mdOBMXZ5La",
+        "username": "hmj404",
+        "verified": false
+      }
+    ]
+  }
+}

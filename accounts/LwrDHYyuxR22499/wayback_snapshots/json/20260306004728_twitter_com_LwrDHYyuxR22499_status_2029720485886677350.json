@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2029704202004668732",
+    "created_at": "2026-03-06T00:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T01:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029720485886677350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851465295636152325",
+          "start": 0,
+          "username": "libraclone_SFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029720485886677350",
+    "in_reply_to_user_id": "1851465295636152325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029720258819543463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libraclone_SFB 无法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2029704202004668732",
+        "created_at": "2026-03-06T00:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029720485886677350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851465295636152325",
+              "start": 0,
+              "username": "libraclone_SFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029720485886677350",
+        "in_reply_to_user_id": "1851465295636152325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029720258819543463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libraclone_SFB 无法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851465295636152325",
+        "conversation_id": "2029704202004668732",
+        "created_at": "2026-03-06T00:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029720258819543463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029720258819543463",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029704202004668732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 依照什麼法律抓人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 1966,
+          "like_count": 1826,
+          "listed_count": 11,
+          "media_count": 348,
+          "tweet_count": 2272
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T03:25:22.000Z",
+        "description": "*這幾天被黃推騷擾,暫時鎖一陣...*\n喜歡打電動/歷史迷/偶爾做採訪/次時代の創作者/漫畫欣賞者/自信噪音歌王/超嚴重失眠患者/一般不聊時政（除訪談）/迷因瘾君子/銳評愛好者/迫真ASMR鑑賞家/四處旅行者/崇尚自由與開放思想/非人類之藝術家/轉發不一定認同 RT≠endorsement",
+        "id": "1851465295636152325",
+        "location": "幻想鄉的一處不起眼的神社",
+        "name": "リブラクローンです🌻☂️",
+        "pinned_tweet_id": "1977548058117456031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020315344037117952/DUuXpcMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 606,
+          "like_count": 4201,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 3781
+        },
+        "username": "libraclone_SFB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2074040972208685554",
+    "created_at": "2026-07-06T08:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074040972208685554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daanawa/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/daanawa/status/2073990612907671950",
+          "start": 29,
+          "url": "https://t.co/4M7P8xqbXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074040972208685554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073990612907671950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恁广西皓翔会把你跨脑袋按到水盆里\n拿牙刷捅你肛门的知道吧 https://t.co/4M7P8xqbXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073990606104469504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhLd8BaoAAJZS5.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074040972208685554",
+        "created_at": "2026-07-06T08:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074040972208685554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daanawa/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/daanawa/status/2073990612907671950",
+              "start": 29,
+              "url": "https://t.co/4M7P8xqbXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074040972208685554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073990612907671950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恁广西皓翔会把你跨脑袋按到水盆里\n拿牙刷捅你肛门的知道吧 https://t.co/4M7P8xqbXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073990606104469504"
+          ]
+        },
+        "author_id": "1471837590768603136",
+        "conversation_id": "2073990612907671950",
+        "created_at": "2026-07-06T04:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073990612907671950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b32xLJMwjw",
+              "end": 39,
+              "expanded_url": "https://x.com/daanawa/status/2073990612907671950/photo/1",
+              "media_key": "3_2073990606104469504",
+              "start": 16,
+              "url": "https://t.co/b32xLJMwjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073990612907671950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1196,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒网瘾学校的Queer教务主任 https://t.co/b32xLJMwjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6223,
+          "following_count": 3321,
+          "like_count": 3730,
+          "listed_count": 19,
+          "media_count": 486,
+          "tweet_count": 3352
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T13:40:08.000Z",
+        "description": "没有特定中文名，可以叫我大安，或者是答案 :D\n📍 坐标北京 | 08年 高三 (G12)\n🏳️‍⚧️ MtF | 阻断 23.2.6 / HRT 24.8.28\n📏 163cm / 48kg | 🍬 持证含糖\n📝 拿着医嘱还不听的家伙\n🗣️ 交流: CN + EN",
+        "id": "1471837590768603136",
+        "location": "Beijing",
+        "name": "大安/daan🏳️‍⚧️",
+        "pinned_tweet_id": "2062834503782195693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588568706505838592/oXU-iaRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 428,
+          "like_count": 1196,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "daanawa",
+        "verified": true
+      }
+    ]
+  }
+}

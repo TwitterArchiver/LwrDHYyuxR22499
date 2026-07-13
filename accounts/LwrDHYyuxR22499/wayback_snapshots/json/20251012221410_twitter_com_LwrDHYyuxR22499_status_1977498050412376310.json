@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977498050412376310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871070422273564672",
+          "start": 0,
+          "username": "kewuu3149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977498050412376310",
+    "in_reply_to_user_id": "1871070422273564672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977494625532473734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kewuu3149 好的你也快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498050412376310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871070422273564672",
+              "start": 0,
+              "username": "kewuu3149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498050412376310",
+        "in_reply_to_user_id": "1871070422273564672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977494625532473734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kewuu3149 好的你也快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871070422273564672",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977494625532473734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977494625532473734",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐🎂🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 877,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1031
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T05:49:17.000Z",
+        "description": "👋我是可呜，你可以叫我可呜。🔝置顶有自介 🛩️TG👉 https://t.co/IvXOOkwEJj  📧Email👉 mailto:kewuu3149@gmail.com  🈲里推👉 https://t.co/cmHfSc1VI3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kewuubot",
+                "end": 50,
+                "expanded_url": "http://t.me/kewuubot",
+                "start": 27,
+                "url": "https://t.co/IvXOOkwEJj"
+              },
+              {
+                "display_url": "x.com/kewuuhub",
+                "end": 116,
+                "expanded_url": "http://x.com/kewuuhub",
+                "start": 93,
+                "url": "https://t.co/cmHfSc1VI3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kewuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kewuu",
+                "start": 0,
+                "url": "https://t.co/kAvAPtcmsX"
+              }
+            ]
+          }
+        },
+        "id": "1871070422273564672",
+        "location": "匿名找我：",
+        "name": "可呜kewuu",
+        "pinned_tweet_id": "1977022649126858933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949247401006403584/Mi1eRt0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 622,
+          "like_count": 2965,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/kAvAPtcmsX",
+        "username": "kewuu3149",
+        "verified": false
+      }
+    ]
+  }
+}

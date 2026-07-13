@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905439925446881280"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1905439928504455193",
+    "created_at": "2025-03-28T02:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T03:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905439928504455193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 80,
+          "id": "1710391034302337024",
+          "start": 66,
+          "username": "AypashaYomoda"
+        },
+        {
+          "end": 124,
+          "id": "1300828282061877249",
+          "start": 111,
+          "username": "HANLIANYI331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZbNq72eD8",
+          "end": 181,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1905439928504455193/photo/1",
+          "media_key": "3_1905439925446881280",
+          "start": 158,
+          "url": "https://t.co/gZbNq72eD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905439928504455193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汤戈韬的爸爸妈妈在中国当官拿着纳税人的钱送她出国\n就是为了让他当谣狗还有社达的\n随便翻翻他的言论社达内容不在少数\n🤣\n据我所知这位跟@AypashaYomoda现在还在私底下鼓弄这一大堆人跟我还有张恩旭切割\n说我流氓诈骗@@HANLIANYI331的钱是我搞得寒涟漪做不下去救助\n🤣甚至还有我跟国安民运清真三方合作 https://t.co/gZbNq72eD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905439925446881280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnF7hEkbsAAMo0C.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905439925446881280"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1905439928504455193",
+        "created_at": "2025-03-28T02:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T03:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905439928504455193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1710391034302337024",
+              "start": 66,
+              "username": "AypashaYomoda"
+            },
+            {
+              "end": 124,
+              "id": "1300828282061877249",
+              "start": 111,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZbNq72eD8",
+              "end": 181,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1905439928504455193/photo/1",
+              "media_key": "3_1905439925446881280",
+              "start": 158,
+              "url": "https://t.co/gZbNq72eD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905439928504455193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汤戈韬的爸爸妈妈在中国当官拿着纳税人的钱送她出国\n就是为了让他当谣狗还有社达的\n随便翻翻他的言论社达内容不在少数\n🤣\n据我所知这位跟@AypashaYomoda现在还在私底下鼓弄这一大堆人跟我还有张恩旭切割\n说我流氓诈骗@@HANLIANYI331的钱是我搞得寒涟漪做不下去救助\n🤣甚至还有我跟国安民运清真三方合作 https://t.co/gZbNq72eD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 256,
+          "like_count": 190,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 333
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T20:26:30.000Z",
+        "description": "珠江酷儿联谊 Chinese Queer Canton\n佛狸祠主、the Vixenkami、人的Aypasha\n降生并成长为现在的样子、永远期待着与大家的重逢。只知道侍奉的佛狸祠主，究竟能给大家什么程度的新的祝福呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_1aam6lCGB80M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_1aam6lCGB80M2I1",
+                "start": 0,
+                "url": "https://t.co/DHnFSbuVlw"
+              }
+            ]
+          }
+        },
+        "id": "1710391034302337024",
+        "location": "？？？",
+        "name": "Aypasha bint Dan 阿依帕夏 “帕夏肯定早死了”",
+        "pinned_tweet_id": "1887788136849449151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862505837076480/sfkp9-oT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 452,
+          "like_count": 303,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2573
+        },
+        "url": "https://t.co/DHnFSbuVlw",
+        "username": "AypashaYomoda",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1904488778196283819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37018,
+          "following_count": 3633,
+          "like_count": 653,
+          "listed_count": 60,
+          "media_count": 316,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

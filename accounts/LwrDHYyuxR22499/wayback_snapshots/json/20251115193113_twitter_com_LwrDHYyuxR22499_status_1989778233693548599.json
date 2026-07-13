@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989778220108156928"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989778233693548599",
+    "created_at": "2025-11-15T19:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T20:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989778233693548599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xbfa8LTNla",
+          "end": 32,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1989778233693548599/photo/1",
+          "media_key": "3_1989778220108156928",
+          "start": 9,
+          "url": "https://t.co/Xbfa8LTNla"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989685712510230650",
+          "start": 33,
+          "url": "https://t.co/tJX5UgEXeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989778233693548599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989685712510230650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈也太迅速了 https://t.co/Xbfa8LTNla https://t.co/tJX5UgEXeI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989778220108156928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50cv7dbEAA89la.jpg",
+        "width": 2020
+      },
+      {
+        "duration_ms": 205031,
+        "height": 720,
+        "media_key": "13_1989679899880075264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989679899880075264/img/jECBmJMQJqS0y44v.jpg",
+        "public_metrics": {
+          "view_count": 69809
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989679899880075264/vid/avc1/476x270/FI-UHLuDf-fHytsd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989679899880075264/vid/avc1/634x360/OhKVWah_Y3bUG21B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989679899880075264/vid/avc1/1270x720/YOeQ7zu-ePnTYfYm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989679899880075264/pl/Sorehm5Z88v_9Q1D.m3u8"
+          }
+        ],
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989778220108156928"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989778233693548599",
+        "created_at": "2025-11-15T19:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T20:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989778233693548599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xbfa8LTNla",
+              "end": 32,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1989778233693548599/photo/1",
+              "media_key": "3_1989778220108156928",
+              "start": 9,
+              "url": "https://t.co/Xbfa8LTNla"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989685712510230650",
+              "start": 33,
+              "url": "https://t.co/tJX5UgEXeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989778233693548599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989685712510230650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈也太迅速了 https://t.co/Xbfa8LTNla https://t.co/tJX5UgEXeI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989679899880075264"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989685712510230650",
+        "created_at": "2025-11-15T13:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:01:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989680078574219554",
+          "1989685712510230650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/esTZIpPvpM",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1989685712510230650/video/1",
+              "media_key": "13_1989679899880075264",
+              "start": 78,
+              "url": "https://t.co/esTZIpPvpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989685712510230650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "戒网瘾机构假警抓人\n近日，B站博主 温柔JUNZ 再曝“戒网瘾机构假警抓人”。视频内容记录的是 戒网瘾机构教官冒充警察，在大白天直接抓人、殴打、控制自由。\n\n画面中，数名黑衣男子亮出“警官证”，以“涉嫌诈骗”为由强行将人拖进车辆。当事人质疑证件造假后，随即遭到暴力围殴，画面里不断传出“别打了”“求你了”等呼救声。博主指出，这些黑衣人并非警察，而是名为“护航”的戒网瘾机构教官。\n\n这类机构多年以“治网瘾”为名，在全国范围内冒充执法、夜间抓人、精神控制、体罚虐待甚至是强制侵犯，每年都有学生在这类机构遭受虐打致死或自杀。\n\n他回忆自己在8年前曝光“豫章书院”时，无数受害者笔录都提到被“假警察”深夜带走，并展示了戒网瘾机构伪造的“警官证”。他表示：“这样的「假警抓人」犯罪在中国各地发生了十几年，却几乎从未有人因冒充警察被追究责任。这些机构甚至能在各大平台公开投放广告、正规招生，却长期未被追责。”\n\n针对“家长把孩子送进机构就是亲子问题”这种论调，他强调，民间组织假借执法名义拘禁、殴打甚至造成严重伤害，性质已超出家庭问题范畴，应被视为明确的违法行为。\n如果这样的行为继续得不到追究，不仅受害者无处申诉，连真实执法体系的公信力也将被消耗殆尽。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 99722,
+          "like_count": 771,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "戒网瘾机构假警抓人\n近日，B站博主 温柔JUNZ 再曝“戒网瘾机构假警抓人”。视频内容记录的是 戒网瘾机构教官冒充警察，在大白天直接抓人、殴打、控制自由。 https://t.co/esTZIpPvpM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1029,
+          "like_count": 830,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1391
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141046,
+          "following_count": 979,
+          "like_count": 8328,
+          "listed_count": 8402,
+          "media_count": 37309,
+          "tweet_count": 44168
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

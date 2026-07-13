@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957380809524121600"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1957360685803069836",
+    "created_at": "2025-08-18T09:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T10:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957380815811379362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1227606381227692037",
+          "start": 0,
+          "username": "SHUIxixixi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xSQlMzzs1i",
+          "end": 38,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957380815811379362/photo/1",
+          "media_key": "3_1957380809524121600",
+          "start": 15,
+          "url": "https://t.co/xSQlMzzs1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957380815811379362",
+    "in_reply_to_user_id": "1227606381227692037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957360685803069836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUIxixixi 挺好 https://t.co/xSQlMzzs1i"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957360685803069836].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1957360685803069836",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1957360685803069836"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_1957380809524121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoDecHaEAATq3Y.jpg",
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957380809524121600"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1957360685803069836",
+        "created_at": "2025-08-18T09:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957380815811379362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1227606381227692037",
+              "start": 0,
+              "username": "SHUIxixixi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSQlMzzs1i",
+              "end": 38,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957380815811379362/photo/1",
+              "media_key": "3_1957380809524121600",
+              "start": 15,
+              "url": "https://t.co/xSQlMzzs1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957380815811379362",
+        "in_reply_to_user_id": "1227606381227692037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957360685803069836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUIxixixi 挺好 https://t.co/xSQlMzzs1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 506,
+          "like_count": 467,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 674
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:53:42.000Z",
+        "description": "这里是汐汐喵！是烧烧药娘！坐标南京！身高178 生产日期2006.12.26 求多多点赞评论喵～",
+        "id": "1227606381227692037",
+        "name": "汐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784546576918044672/5Uv048cS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9745,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 66,
+          "media_count": 160,
+          "tweet_count": 282
+        },
+        "username": "SHUIxixixi",
+        "verified": false
+      }
+    ]
+  }
+}

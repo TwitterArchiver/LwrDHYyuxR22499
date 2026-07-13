@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2019686974261739750",
+    "created_at": "2026-02-06T08:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019686974261739750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/bghtnya/status/2019634761426432465",
+          "start": 144,
+          "url": "https://t.co/fuNFdpcVCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019686974261739750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019634761426432465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "遇困便退遇威则屈，从来与善、与好人无关\n善良与爱的本质，恰恰是保持锐度\n心有菩提手有雷霆——敢挥刀向强者，勇对不公奋起反抗，\n甚至为看似毫不相干的人们争取权益\n肝脑涂地\n你口中的所谓“好人”，不过是无德无能之在规训与暴力面前，连捍卫自身权益都不敢的奴才\n这般怯懦之徒，并非“好”不过是烂 https://t.co/fuNFdpcVCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019634750231863296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcvGtea4AAfy1l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2019686974261739750",
+        "created_at": "2026-02-06T08:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019686974261739750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/bghtnya/status/2019634761426432465",
+              "start": 144,
+              "url": "https://t.co/fuNFdpcVCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019686974261739750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019634761426432465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇困便退遇威则屈，从来与善、与好人无关\n善良与爱的本质，恰恰是保持锐度\n心有菩提手有雷霆——敢挥刀向强者，勇对不公奋起反抗，\n甚至为看似毫不相干的人们争取权益\n肝脑涂地\n你口中的所谓“好人”，不过是无德无能之在规训与暴力面前，连捍卫自身权益都不敢的奴才\n这般怯懦之徒，并非“好”不过是烂 https://t.co/fuNFdpcVCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019634750231863296"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019634761426432465",
+        "created_at": "2026-02-06T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019634761426432465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBtMmsngf8",
+              "end": 149,
+              "expanded_url": "https://x.com/bghtnya/status/2019634761426432465/photo/1",
+              "media_key": "3_2019634750231863296",
+              "start": 126,
+              "url": "https://t.co/XBtMmsngf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019634761426432465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "必须批评现在的跨圈具有软弱性，（冰主席作出重要指示），换句话说 现在的木桶饭对人太好了 总是作为好人 遇到困难就让步 遇到威胁就妥协。但是这样的性格换来的危害却是巨大的 比如互联网上对跨圈 也就一味的批判 ，不做任何反驳的情况下 这种批判只会越来越重 可以横向对比一下国外，相对来说中国的木桶饭还是太保守了，离武装起义这么遥远 连游行示威都没有过\n\n但事实上确是，好人不长命 王八活千年\n这个好人有必要一直当下去吗？正确的做法应该是哪里有压迫 哪里就该反抗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "必须批评现在的跨圈具有软弱性，（冰主席作出重要指示），换句话说 现在的木桶饭对人太好了 总是作为好人 遇到困难就让步 遇到威胁就妥协。但是这样的性格换来的危害却是巨大的 比如互联网上对跨圈 也就一味的批判 ，不做任何反驳的情况下 这种批判只会越来越重 https://t.co/XBtMmsngf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 1731,
+          "like_count": 1453,
+          "listed_count": 10,
+          "media_count": 325,
+          "tweet_count": 2038
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844,
+          "following_count": 2064,
+          "like_count": 172022,
+          "listed_count": 18,
+          "media_count": 3708,
+          "tweet_count": 45143
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

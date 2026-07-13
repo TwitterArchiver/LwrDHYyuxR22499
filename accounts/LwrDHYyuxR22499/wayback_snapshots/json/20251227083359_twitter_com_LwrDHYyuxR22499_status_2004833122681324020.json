@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004830103046672438",
+    "created_at": "2025-12-27T08:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T09:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004833122681324020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004833122681324020",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004830103046672438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😎我实名杀你们所有教官亲妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2004830100550766592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KWWrpW0AAJ9tS.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004830103046672438",
+        "created_at": "2025-12-27T08:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004833122681324020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004833122681324020",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004830103046672438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😎我实名杀你们所有教官亲妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004830100550766592"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004830103046672438",
+        "created_at": "2025-12-27T08:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004830103046672438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQMBpGPIQo",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2004830103046672438/photo/1",
+              "media_key": "3_2004830100550766592",
+              "start": 84,
+              "url": "https://t.co/PQMBpGPIQo"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2004676358698594453",
+              "start": 108,
+              "url": "https://t.co/dGlpIYC36q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004830103046672438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004676358698594453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这二百来位教官心理老师生活老师\n你们好啊\n你们亲爹亲妈的联系方式还有身份信息全在我手里\n你们当兵警校毕业\n就是为了来这里拿开水烫小孩\n拿火机烧憋人胳膊拿电棍电人玩的吗 https://t.co/PQMBpGPIQo https://t.co/dGlpIYC36q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079123917045760/3UkP7ItU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 1454,
+          "like_count": 1198,
+          "listed_count": 8,
+          "media_count": 296,
+          "tweet_count": 1734
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

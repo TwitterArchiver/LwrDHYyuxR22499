@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1897322860798173316",
+    "created_at": "2025-03-05T16:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897324446916206883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791406928855199744",
+          "start": 0,
+          "username": "JonAbc1037955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897324446916206883",
+    "in_reply_to_user_id": "1791406928855199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897324164211737085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JonAbc1037955 最近在加班出差有很多事情要干还有人要救"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1897322860798173316",
+        "created_at": "2025-03-05T16:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897324446916206883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791406928855199744",
+              "start": 0,
+              "username": "JonAbc1037955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897324446916206883",
+        "in_reply_to_user_id": "1791406928855199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897324164211737085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JonAbc1037955 最近在加班出差有很多事情要干还有人要救"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791406928855199744",
+        "conversation_id": "1897322860798173316",
+        "created_at": "2025-03-05T16:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897324164211737085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897324164211737085",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897322860798173316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这么晚了还没睡呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 216,
+          "like_count": 169,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 307
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T09:55:01.000Z",
+        "description": "最爱五香炸油条^_^\n\n大型猫科动物一枚~\n\n生活繁忙不常在线",
+        "id": "1791406928855199744",
+        "location": "普吉岛老虎拳馆",
+        "name": "五香炸油条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791408094708203521/TsGac6IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 18,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 125
+        },
+        "username": "JonAbc1037955",
+        "verified": false
+      }
+    ]
+  }
+}

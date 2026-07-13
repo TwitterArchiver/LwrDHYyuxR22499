@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1964778579809677313"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1964778581286121961",
+    "created_at": "2025-09-07T19:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T20:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964778581286121961"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964778581286121961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有四个人排着队等着我救\n我很清楚他们每在里面多待一天就多一分死亡或者被强奸的风险\n但是我因为长期熬夜思考事情已经出现了一些流鼻血头晕血压高的毛病\n我是该继续熬夜加班还是休息一段时间"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-09-08T19:51:31.000Z",
+        "id": "1964778579809677313",
+        "options": [
+          {
+            "label": "休息",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不休息",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "不休息但不熬夜",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "不救了去你妈的什么时候救到头",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1964778579809677313"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1964778581286121961",
+        "created_at": "2025-09-07T19:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T20:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964778581286121961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964778581286121961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有四个人排着队等着我救\n我很清楚他们每在里面多待一天就多一分死亡或者被强奸的风险\n但是我因为长期熬夜思考事情已经出现了一些流鼻血头晕血压高的毛病\n我是该继续熬夜加班还是休息一段时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 591,
+          "like_count": 571,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 816
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

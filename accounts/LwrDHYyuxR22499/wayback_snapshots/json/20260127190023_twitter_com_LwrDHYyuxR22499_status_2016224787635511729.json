@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015818892992761882",
+    "created_at": "2026-01-27T19:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T20:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016224787635511729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "qngfng15108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016224787635511729",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015818892992761882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngfng15108 可橙教官如是说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015818892992761882",
+        "created_at": "2026-01-27T19:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016224787635511729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "qngfng15108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016224787635511729",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015818892992761882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngfng15108 可橙教官如是说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011073315763601416",
+        "conversation_id": "2015818892992761882",
+        "created_at": "2026-01-26T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015818892992761882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015818892992761882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学习信息技术会导致性别认知障碍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 1682,
+          "like_count": 1426,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1989
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | intp | https://t.co/ZHBAoZQdfs | 最喜欢的人 @qqqqqf5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "qqqqqf5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 39,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 16,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "china",
+        "name": "kilock🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 399,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "qngfng15108",
+        "verified": false
+      }
+    ]
+  }
+}

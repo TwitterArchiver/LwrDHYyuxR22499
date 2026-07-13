@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1923926983358153085",
+    "created_at": "2025-05-20T04:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924680736860410090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874120221151420420",
+          "start": 0,
+          "username": "In0w0nI"
+        },
+        {
+          "end": 24,
+          "id": "1647815138450505730",
+          "start": 9,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924680736860410090",
+    "in_reply_to_user_id": "1874120221151420420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924678689108984139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@In0w0nI @yaming00742313 🤣搞帆船被你爹骂了还冤枉了?你好像以为这是理所应当的一样\n希望我在你面前吃你妈骨灰拌饭的时候你也可以这么理所应当"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1923926983358153085",
+        "created_at": "2025-05-20T04:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924680736860410090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874120221151420420",
+              "start": 0,
+              "username": "In0w0nI"
+            },
+            {
+              "end": 24,
+              "id": "1647815138450505730",
+              "start": 9,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924680736860410090",
+        "in_reply_to_user_id": "1874120221151420420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924678689108984139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In0w0nI @yaming00742313 🤣搞帆船被你爹骂了还冤枉了?你好像以为这是理所应当的一样\n希望我在你面前吃你妈骨灰拌饭的时候你也可以这么理所应当"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874120221151420420",
+        "conversation_id": "1923926983358153085",
+        "created_at": "2025-05-20T04:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924678689108984139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 32,
+              "id": "1647815138450505730",
+              "start": 17,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924678689108984139",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924623871438967128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @yaming00742313 不是我就搞反串怎么还有真傻逼情绪上头开始急了啊，我是真没想到世上竟然还有你这种智力如此低下的人类，我是真心希望到时候这位低能儿你可别给你爹妈骨灰烧糊了🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 324,
+          "like_count": 300,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 455
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:47:42.000Z",
+        "description": "这个世界啊！我在何方？",
+        "id": "1874120221151420420",
+        "name": "炼之青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905992977392304128/piAKC3yK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 56,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2829
+        },
+        "username": "In0w0nI",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12480,
+          "following_count": 1565,
+          "like_count": 6349,
+          "listed_count": 28,
+          "media_count": 332,
+          "tweet_count": 2403
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

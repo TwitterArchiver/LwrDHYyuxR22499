@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984156338327531826",
+    "created_at": "2025-10-31T16:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984294054721732812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977354624337403904",
+          "start": 0,
+          "username": "yingyao8964"
+        },
+        {
+          "end": 24,
+          "id": "1621552410048237569",
+          "start": 13,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984294054721732812",
+    "in_reply_to_user_id": "1977354624337403904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984288776252981562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyao8964 @amecandy_x 那当然了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984156338327531826",
+        "created_at": "2025-10-31T16:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984294054721732812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977354624337403904",
+              "start": 0,
+              "username": "yingyao8964"
+            },
+            {
+              "end": 24,
+              "id": "1621552410048237569",
+              "start": 13,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984294054721732812",
+        "in_reply_to_user_id": "1977354624337403904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984288776252981562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyao8964 @amecandy_x 那当然了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977354624337403904",
+        "conversation_id": "1984156338327531826",
+        "created_at": "2025-10-31T15:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984288776252981562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 28,
+              "id": "1621552410048237569",
+              "start": 17,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984288776252981562",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984260682242744330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @amecandy_x 哦？咱还能预约。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 979,
+          "like_count": 782,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1395
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:44:26.000Z",
+        "description": "所以你要逃避年轻人的欲望；要与那些以洁净的心求告主的人一同追求公义、信仰、爱心、和平。\n——提摩太后书 2:22 CSBS",
+        "id": "1977354624337403904",
+        "location": "梵蒂冈广场",
+        "name": "螢✝️❤️‍🔥🇻🇦",
+        "pinned_tweet_id": "1977362883626385861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356770369843200/e-zHjbiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 507,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "username": "yingyao8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧。🌧Transfem·HRT since2022🍥CS→Fullstack/LLM🌐双相情感障碍💔blogger✒️旅游✈历史📚政治🕴️暴论📢 #odtwt #お薬もぐもぐ #藥物濫用 #shtwt #drugtwt #メンヘラ #病み垢さんと繋がりたい ❤️‍🔥@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "odtwt"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "お薬もぐもぐ"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "藥物濫用"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "shtwt"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南⛲️",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "1981300758495842461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 1536,
+          "like_count": 21565,
+          "listed_count": 12,
+          "media_count": 790,
+          "tweet_count": 7156
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

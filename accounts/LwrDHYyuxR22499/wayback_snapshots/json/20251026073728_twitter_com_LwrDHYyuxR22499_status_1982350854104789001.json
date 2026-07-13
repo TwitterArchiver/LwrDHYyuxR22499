@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981918927170289793",
+    "created_at": "2025-10-26T07:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T08:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982350854104789001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982350854104789001",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982350574806004191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 🤓🤓🤓我得联系一下汉语啊\n老实讲中文的主谓宾咋用我还没太研究懂呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981918927170289793",
+        "created_at": "2025-10-26T07:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982350854104789001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982350854104789001",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982350574806004191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 🤓🤓🤓我得联系一下汉语啊\n老实讲中文的主谓宾咋用我还没太研究懂呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981918927170289793",
+        "created_at": "2025-10-26T07:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982350574806004191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982350574806004191",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982350121422688623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 说真的，你发蒙语给我们翻译好了，没必要苛求自己说国语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 948,
+          "like_count": 773,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 1369
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 190,
+          "like_count": 10065,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2299
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882026403467796480"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1882026420232483181",
+    "created_at": "2025-01-22T11:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T12:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882026420232483181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 149,
+          "id": "1313383273079345152",
+          "start": 133,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AE2jzTQyI9",
+          "end": 173,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1882026420232483181/photo/1",
+          "media_key": "3_1882026403467796480",
+          "start": 150,
+          "url": "https://t.co/AE2jzTQyI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882026420232483181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤭你去问寒涟漪去我要是威胁过他一句话跟他要一分钱赔偿或直接指控他强奸\n我妈都死\n要是帮助他破除某些谣言捐资帮着寒涟漪赚了一笔钱\n你全家死绝了亲妈逼被护栏扎烂\n你的两张嘴唇一张一合跟你婊子妈的阴唇一样被人大力抽插随意闭合一样造谣\n你到时候验证了挨骂要立正别怪我骂的脏\n@ValeriaEulabeia https://t.co/AE2jzTQyI9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1882026403467796480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh5NCuSaoAA-0Y8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882026403467796480"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1882026420232483181",
+        "created_at": "2025-01-22T11:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882026420232483181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1313383273079345152",
+              "start": 133,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AE2jzTQyI9",
+              "end": 173,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1882026420232483181/photo/1",
+              "media_key": "3_1882026403467796480",
+              "start": 150,
+              "url": "https://t.co/AE2jzTQyI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882026420232483181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤭你去问寒涟漪去我要是威胁过他一句话跟他要一分钱赔偿或直接指控他强奸\n我妈都死\n要是帮助他破除某些谣言捐资帮着寒涟漪赚了一笔钱\n你全家死绝了亲妈逼被护栏扎烂\n你的两张嘴唇一张一合跟你婊子妈的阴唇一样被人大力抽插随意闭合一样造谣\n你到时候验证了挨骂要立正别怪我骂的脏\n@ValeriaEulabeia https://t.co/AE2jzTQyI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 141,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 180
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h08.nyc01.xyz/register?code=…",
+                "end": 23,
+                "expanded_url": "https://h08.nyc01.xyz/register?code=zhmt40ur",
+                "start": 0,
+                "url": "https://t.co/PiOdmK3mEs"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1874103313274462335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6146,
+          "following_count": 3049,
+          "like_count": 118030,
+          "listed_count": 14,
+          "media_count": 1903,
+          "tweet_count": 17958
+        },
+        "url": "https://t.co/PiOdmK3mEs",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

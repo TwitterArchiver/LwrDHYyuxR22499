@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T17:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977426093599850599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1695649420539219968",
+          "start": 0,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977426093599850599",
+    "in_reply_to_user_id": "1695649420539219968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977425751067832502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiciiQAQ 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T17:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977426093599850599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977426093599850599",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977425751067832502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T17:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977425751067832502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977425751067832502",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 876,
+          "like_count": 698,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 1004
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 2009,
+          "like_count": 74571,
+          "listed_count": 4,
+          "media_count": 350,
+          "tweet_count": 7279
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

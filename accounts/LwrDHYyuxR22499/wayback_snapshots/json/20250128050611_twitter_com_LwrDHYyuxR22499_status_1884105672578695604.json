@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884105663221317632"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1884105672578695604",
+    "created_at": "2025-01-28T05:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T06:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884105672578695604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 106,
+          "id": "1313383273079345152",
+          "start": 90,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tKRJQP1hpB",
+          "end": 130,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1884105672578695604/photo/1",
+          "media_key": "3_1884105663221317632",
+          "start": 107,
+          "url": "https://t.co/tKRJQP1hpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884105672578695604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤣我们的跨性别皇帝真是不择手段\n为了骂我连强健犯都能共情了\n为了骂人造谣不择手段的\n就跟你当初造谣张恩旭精神一直崩溃给他带来了很大麻烦一样\n这么像红卫兵很难不怀疑你是共产共妻的产物@ValeriaEulabeia https://t.co/tKRJQP1hpB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884105663221317632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiWwHkebwAACADT.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884105663221317632"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1884105672578695604",
+        "created_at": "2025-01-28T05:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884105672578695604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1313383273079345152",
+              "start": 90,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKRJQP1hpB",
+              "end": 130,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1884105672578695604/photo/1",
+              "media_key": "3_1884105663221317632",
+              "start": 107,
+              "url": "https://t.co/tKRJQP1hpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884105672578695604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤣我们的跨性别皇帝真是不择手段\n为了骂我连强健犯都能共情了\n为了骂人造谣不择手段的\n就跟你当初造谣张恩旭精神一直崩溃给他带来了很大麻烦一样\n这么像红卫兵很难不怀疑你是共产共妻的产物@ValeriaEulabeia https://t.co/tKRJQP1hpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 151,
+          "like_count": 109,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 253
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h08.nyc01.xyz/register?code=…",
+                "end": 23,
+                "expanded_url": "https://h08.nyc01.xyz/register?code=zhmt40ur",
+                "start": 0,
+                "url": "https://t.co/PiOdmK3mEs"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1874103313274462335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6192,
+          "following_count": 3055,
+          "like_count": 118804,
+          "listed_count": 15,
+          "media_count": 1924,
+          "tweet_count": 18121
+        },
+        "url": "https://t.co/PiOdmK3mEs",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

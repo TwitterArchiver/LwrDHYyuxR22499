@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989783111576817971",
+    "created_at": "2025-11-16T18:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T19:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990123467820105953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "841268414605754368",
+          "start": 0,
+          "username": "itnxnridisx"
+        },
+        {
+          "end": 28,
+          "id": "1724989707052867585",
+          "start": 13,
+          "username": "PeterSimmonsUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990123467820105953",
+    "in_reply_to_user_id": "841268414605754368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990122131112235057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itnxnridisx @PeterSimmonsUK 户籍全网公开的哥们抖音号头像是我身份证证件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T18:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990123467820105953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "841268414605754368",
+              "start": 0,
+              "username": "itnxnridisx"
+            },
+            {
+              "end": 28,
+              "id": "1724989707052867585",
+              "start": 13,
+              "username": "PeterSimmonsUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990123467820105953",
+        "in_reply_to_user_id": "841268414605754368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990122131112235057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itnxnridisx @PeterSimmonsUK 户籍全网公开的哥们抖音号头像是我身份证证件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841268414605754368",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T18:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990122131112235057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724989707052867585",
+              "start": 0,
+              "username": "PeterSimmonsUK"
+            },
+            {
+              "end": 32,
+              "id": "1843201902550634496",
+              "start": 16,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990122131112235057",
+        "in_reply_to_user_id": "1724989707052867585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989922503477604760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeterSimmonsUK @LwrDHYyuxR22499 你们可以把自己户籍公开给李逼，实名注册反共义士，不仅增加影响力，万一被蒸发了大家还能顺着身份捞你，捞不出来也能在纽约集会举你的黑白照片缅怀你，多好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1069,
+          "like_count": 861,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1424
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-13T12:43:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fine.site",
+                "end": 23,
+                "expanded_url": "http://fine.site",
+                "start": 0,
+                "url": "https://t.co/2vot2vqEpy"
+              }
+            ]
+          }
+        },
+        "id": "841268414605754368",
+        "name": "🩷🩵🤍🖤💛💛💛💛49년국군입대cp주",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571145164244000768/eJDPLUy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 71,
+          "like_count": 2057,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/2vot2vqEpy",
+        "username": "itnxnridisx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T03:16:32.000Z",
+        "description": "Freedom of speech is everything 中左自由主义｜科学与理性｜暴力厌恶者｜只有建立在言论出版集会结社的自由与民主选举政府的基础上面，才是有力的政治。",
+        "id": "1724989707052867585",
+        "location": "Vancouver, British Columbia",
+        "name": "席彼德 🇺🇦🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945255010834481152/9AFA7xee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 232,
+          "like_count": 6073,
+          "listed_count": 10,
+          "media_count": 596,
+          "tweet_count": 12017
+        },
+        "username": "PeterSimmonsUK",
+        "verified": false
+      }
+    ]
+  }
+}

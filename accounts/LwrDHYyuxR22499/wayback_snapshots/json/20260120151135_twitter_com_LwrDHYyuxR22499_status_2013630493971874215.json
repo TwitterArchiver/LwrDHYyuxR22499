@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013630493971874215",
+    "created_at": "2026-01-20T15:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013630493971874215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2013132880046932387",
+          "start": 14,
+          "url": "https://t.co/5RwQ2VQIms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013630493971874215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013132880046932387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真跟退伍武警交上手就老实了 https://t.co/5RwQ2VQIms"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013630493971874215",
+        "created_at": "2026-01-20T15:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013630493971874215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2013132880046932387",
+              "start": 14,
+              "url": "https://t.co/5RwQ2VQIms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013630493971874215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013132880046932387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真跟退伍武警交上手就老实了 https://t.co/5RwQ2VQIms"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013132880046932387",
+        "created_at": "2026-01-19T06:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013132880046932387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013132880046932387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16878,
+          "like_count": 150,
+          "quote_count": 11,
+          "reply_count": 36,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果跨圈人人都是\nN55唐毓文也不一定是坏事啊\n那tm谁还敢随便抓mtf进扭转\n谁还敢霸凌辱骂跨性别\n就像不让被开窗的时候你“拿个炸药要把房间炸了”\n那不立刻就开窗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 1628,
+          "like_count": 1366,
+          "listed_count": 9,
+          "media_count": 314,
+          "tweet_count": 1912
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2013295023412941092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3428,
+          "following_count": 1015,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2741,
+          "tweet_count": 12661
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

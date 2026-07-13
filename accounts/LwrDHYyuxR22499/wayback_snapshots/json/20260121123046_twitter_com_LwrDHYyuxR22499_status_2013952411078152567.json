@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999891590119395763",
+    "created_at": "2026-01-21T12:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013952411078152567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1434608964629639168",
+          "start": 0,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013952411078152567",
+    "in_reply_to_user_id": "1434608964629639168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999891590119395763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sharkie_4005 🤔下面这些\n国内做的可不比国外少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999891590119395763",
+        "created_at": "2026-01-21T12:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013952411078152567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1434608964629639168",
+              "start": 0,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013952411078152567",
+        "in_reply_to_user_id": "1434608964629639168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999891590119395763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharkie_4005 🤔下面这些\n国内做的可不比国外少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1999891590119395763",
+        "created_at": "2025-12-13T17:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999891590119395763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999891590119395763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2283,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正一對比就能發現很大差別了\n\n中國的跨性別組織：救人，被打出血，進監獄，不知疲倦奮鬥在前線\n\n海外華人跨性別社群：沾名釣譽，當皇帝，霸凌，抹黑，Cancel（歡迎補充）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 1633,
+          "like_count": 1383,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 1936
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "19｜海豹姊姊@Siyan_Xiao｜永遠的楓葉🍁｜♚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Siyan_Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Montréal, Québec",
+        "name": "Atlantic_Sea Shark 🍂",
+        "pinned_tweet_id": "1947749953738314234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 483,
+          "like_count": 34854,
+          "listed_count": 4,
+          "media_count": 689,
+          "tweet_count": 9588
+        },
+        "username": "Sharkie_4005",
+        "verified": true
+      }
+    ]
+  }
+}

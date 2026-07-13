@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2009008120144777495",
+    "created_at": "2026-01-07T21:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T22:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009008120144777495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h2o2333/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/h2o2333/status/2008763650195288516",
+          "start": 24,
+          "url": "https://t.co/x9z7Vw1E6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009008120144777495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008763650195288516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你不该死\n你应该让让你产生这种念头的人死🧐🧐🧐 https://t.co/x9z7Vw1E6S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2009008120144777495",
+        "created_at": "2026-01-07T21:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T22:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009008120144777495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h2o2333/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/h2o2333/status/2008763650195288516",
+              "start": 24,
+              "url": "https://t.co/x9z7Vw1E6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009008120144777495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008763650195288516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不该死\n你应该让让你产生这种念头的人死🧐🧐🧐 https://t.co/x9z7Vw1E6S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2008763650195288516",
+        "created_at": "2026-01-07T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008763650195288516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008763650195288516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2136,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是跨畜，我该死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 1519,
+          "like_count": 1278,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 1828
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o2333",
+                "start": 0,
+                "url": "https://t.co/jdGmbf9qDI"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008843030477115392/eBLaWnmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 562,
+          "like_count": 1240,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2677
+        },
+        "url": "https://t.co/jdGmbf9qDI",
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

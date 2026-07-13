@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1963641453001019848",
+    "created_at": "2025-09-06T07:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T08:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964231695164420338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956338692802707456",
+          "start": 0,
+          "username": "idonotlikeddv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964231695164420338",
+    "in_reply_to_user_id": "1956338692802707456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964230231738503174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idonotlikeddv 听着就很屌但是我不搞恐怖袭击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1963641453001019848",
+        "created_at": "2025-09-06T07:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964231695164420338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956338692802707456",
+              "start": 0,
+              "username": "idonotlikeddv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964231695164420338",
+        "in_reply_to_user_id": "1956338692802707456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964230231738503174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idonotlikeddv 听着就很屌但是我不搞恐怖袭击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956338692802707456",
+        "conversation_id": "1963641453001019848",
+        "created_at": "2025-09-06T07:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964230231738503174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964230231738503174",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963641453001019848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我搞得了恐怖袭击，快排气枪什么的我也会组装.有渠道买到丙酮过氧化氢硫酸盐酸硝酸来制造tatp.各种麻醉剂什么的我有很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 577,
+          "like_count": 550,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 789
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T12:54:42.000Z",
+        "description": "",
+        "id": "1956338692802707456",
+        "name": "云梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956338763006976000/rC-5emQq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 52,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "idonotlikeddv",
+        "verified": false
+      }
+    ]
+  }
+}

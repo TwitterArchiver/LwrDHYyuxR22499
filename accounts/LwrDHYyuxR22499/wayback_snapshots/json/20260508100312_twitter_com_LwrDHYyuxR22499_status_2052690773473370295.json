@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2052680029721842056",
+    "created_at": "2026-05-08T10:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052690773473370295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023762324038004736",
+          "start": 0,
+          "username": "salmon__sukiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690773473370295",
+    "in_reply_to_user_id": "2023762324038004736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052680029721842056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salmon__sukiii 我在高铁很卡是只能听没关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052680029721842056",
+        "created_at": "2026-05-08T10:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052690773473370295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023762324038004736",
+              "start": 0,
+              "username": "salmon__sukiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052690773473370295",
+        "in_reply_to_user_id": "2023762324038004736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052680029721842056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salmon__sukiii 我在高铁很卡是只能听没关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023762324038004736",
+        "conversation_id": "2052680029721842056",
+        "created_at": "2026-05-08T09:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052680029721842056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小苏’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vJpP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vJpPrOzXVwJE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2052680072272990208/FPidMYRh?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052680072272990208/FPidMYRh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 偷偷做家务",
+              "unwound_url": "https://twitter.com/i/spaces/1vJpPrOzXVwJE/peek",
+              "url": "https://t.co/7U58JIwej5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052680029721842056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7U58JIwej5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4972,
+          "following_count": 2724,
+          "like_count": 2686,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2703
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:12:00.000Z",
+        "description": "转推内容可能有血腥画面请注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/7qPJkRQkeL"
+              }
+            ]
+          }
+        },
+        "id": "2023762324038004736",
+        "name": "小苏",
+        "pinned_tweet_id": "2052262697874641095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048996480149819392/2UIAbTWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 171,
+          "like_count": 3269,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/7qPJkRQkeL",
+        "username": "salmon__sukiii",
+        "verified": false
+      }
+    ]
+  }
+}

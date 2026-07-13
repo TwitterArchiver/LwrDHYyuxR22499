@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1987916886848508059",
+    "created_at": "2025-11-10T16:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987916886848508059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lanszhang/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Lanszhang/status/1987805714178572395",
+          "start": 49,
+          "url": "https://t.co/PUtk2GF8kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987916886848508059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987805714178572395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那当然了有人当众羞辱我污蔑我我既打得过也骂的过我不自豪我干嘛😁\n难道要我回去od自残黑化割手手吗 https://t.co/PUtk2GF8kg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1987916886848508059",
+        "created_at": "2025-11-10T16:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987916886848508059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lanszhang/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Lanszhang/status/1987805714178572395",
+              "start": 49,
+              "url": "https://t.co/PUtk2GF8kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987916886848508059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987805714178572395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那当然了有人当众羞辱我污蔑我我既打得过也骂的过我不自豪我干嘛😁\n难道要我回去od自残黑化割手手吗 https://t.co/PUtk2GF8kg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233804919",
+        "conversation_id": "1987727854801698989",
+        "created_at": "2025-11-10T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987805714178572395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987805714178572395",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987727854801698989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 所以你用了肢體暴力而不是其他方式你很自豪嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1016,
+          "like_count": 820,
+          "listed_count": 6,
+          "media_count": 256,
+          "tweet_count": 1380
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-04T04:20:45.000Z",
+        "description": "🇨🇳🇯🇵🇺🇸🇩🇪。@L78783869。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "L78783869"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smoggy-trade-1af.notion.site/From-A-Railway…",
+                "end": 23,
+                "expanded_url": "https://smoggy-trade-1af.notion.site/From-A-Railway-Carriage-739dab4bd0d146d996a8d28ee87b0039?pvs=74",
+                "start": 0,
+                "url": "https://t.co/Qsnbz0pF72"
+              }
+            ]
+          }
+        },
+        "id": "233804919",
+        "name": "lans",
+        "pinned_tweet_id": "1732897003904889212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979661529785253888/BXvAciTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7790,
+          "following_count": 1205,
+          "like_count": 64618,
+          "listed_count": 85,
+          "media_count": 4830,
+          "tweet_count": 67646
+        },
+        "url": "https://t.co/Qsnbz0pF72",
+        "username": "Lanszhang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013104625180926345",
+    "created_at": "2026-01-20T03:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013458742222676215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1940803395088273411",
+          "start": 0,
+          "username": "wenya87232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013458742222676215",
+    "in_reply_to_user_id": "1940803395088273411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013288728240730281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenya87232 重庆这地方多的是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013104625180926345",
+        "created_at": "2026-01-20T03:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013458742222676215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1940803395088273411",
+              "start": 0,
+              "username": "wenya87232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013458742222676215",
+        "in_reply_to_user_id": "1940803395088273411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013288728240730281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenya87232 重庆这地方多的是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940803395088273411",
+        "conversation_id": "2013104625180926345",
+        "created_at": "2026-01-19T16:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013288728240730281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013288728240730281",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013104625180926345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 居然是在重庆吗 完蛋了这下危险到家门口了\n赶紧先吃几片雌二醇压压惊喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2557,
+          "following_count": 1628,
+          "like_count": 1366,
+          "listed_count": 9,
+          "media_count": 314,
+          "tweet_count": 1910
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T16:02:51.000Z",
+        "description": "cn温雅 常驻重庆偶尔闪现上海\n08/♒/ISFJ/MtF含糖中/lesbian\n反共 厌男 激进女性主义 LBTwithoutG\n墙内高中文科就读中 coser\n单亲家庭 重度抑郁重度焦虑\n中文/English/日本語 🆗",
+        "id": "1940803395088273411",
+        "name": "Artemis🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991917107089641472/kiJvUAT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 233,
+          "like_count": 1778,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 926
+        },
+        "username": "wenya87232",
+        "verified": false
+      }
+    ]
+  }
+}

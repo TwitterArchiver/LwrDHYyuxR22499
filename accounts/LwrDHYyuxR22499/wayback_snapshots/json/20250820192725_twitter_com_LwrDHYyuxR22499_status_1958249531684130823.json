@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1958249531684130823",
+    "created_at": "2025-08-20T19:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T20:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958249531684130823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/keyemail/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/keyemail/status/1958248069130309786",
+          "start": 33,
+          "url": "https://t.co/FMElAkFbAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958249531684130823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958248069130309786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说的这两位我都不认识啊……\n我不记得他给我俩申请过政治庇护…… https://t.co/FMElAkFbAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1958246166858223616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy0Wg3Za0AApXsj.jpg",
+        "width": 1220
+      },
+      {
+        "height": 924,
+        "media_key": "3_1958247722462617600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy0X7aeaIAAqj4e.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1958249531684130823",
+        "created_at": "2025-08-20T19:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T20:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958249531684130823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keyemail/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/keyemail/status/1958248069130309786",
+              "start": 33,
+              "url": "https://t.co/FMElAkFbAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958249531684130823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958248069130309786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说的这两位我都不认识啊……\n我不记得他给我俩申请过政治庇护…… https://t.co/FMElAkFbAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958246166858223616",
+            "3_1958247722462617600"
+          ]
+        },
+        "author_id": "60042536",
+        "conversation_id": "1958248069130309786",
+        "created_at": "2025-08-20T19:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T20:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958248069130309786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277822903808032770",
+              "start": 0,
+              "username": "Anthony20211117"
+            },
+            {
+              "end": 33,
+              "id": "1714100357582770176",
+              "start": 17,
+              "username": "YesterdayBigcat"
+            },
+            {
+              "end": 77,
+              "id": "1647815138450505730",
+              "start": 62,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 123,
+              "id": "1843201902550634496",
+              "start": 107,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzPwTHExLE",
+              "end": 197,
+              "expanded_url": "https://x.com/keyemail/status/1958248069130309786/photo/1",
+              "media_key": "3_1958246166858223616",
+              "start": 174,
+              "url": "https://t.co/lzPwTHExLE"
+            },
+            {
+              "display_url": "pic.x.com/lzPwTHExLE",
+              "end": 197,
+              "expanded_url": "https://x.com/keyemail/status/1958248069130309786/photo/1",
+              "media_key": "3_1958247722462617600",
+              "start": 174,
+              "url": "https://t.co/lzPwTHExLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958248069130309786",
+        "in_reply_to_user_id": "1277822903808032770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 16,
+                "id": "1277822903808032770",
+                "start": 0,
+                "username": "Anthony20211117"
+              },
+              {
+                "end": 33,
+                "id": "1714100357582770176",
+                "start": 17,
+                "username": "YesterdayBigcat"
+              },
+              {
+                "end": 77,
+                "id": "1647815138450505730",
+                "start": 62,
+                "username": "yaming00742313"
+              },
+              {
+                "end": 123,
+                "id": "1843201902550634496",
+                "start": 107,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          },
+          "text": "@Anthony20211117 @YesterdayBigcat 你说我是坏人。 \n但是你们这个小团体，回头就在就开始劝诱@yaming00742313\n来加拿大申请政治庇护。 并且最他妈的恶心的是，抛弃他男朋友@LwrDHYyuxR22499。 拿来给你们做提现木偶。 就为了给你们这个团体证明，所谓中华人民共和国政府逼着中国跨性别卖淫求生。\n\n然后你们还持续掩盖你们制造未成年人性侵受害者的事实。\n\n今天人家提出一个问题，你就拿大号来进行网暴？你以为你“反共”，你就能垄断所有的事实，我们所有海外华人就得跪在你身下天天舔你们。 \n\n你最看不过李老师，现在看起来，你和李老师不过一丘之貉罢了。\n\n老子真名穆舟，行不更名，坐不改姓，打的就是你们吃这些国内人血馒头的畜牲。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Anthony20211117 @YesterdayBigcat 你说我是坏人。 \n但是你们这个小团体，回头就在就开始劝诱@yaming00742313\n来加拿大申请政治庇护。 并且最他妈的恶心的是，抛弃他男朋友@LwrDHYyuxR22499。 拿来给你们做提现木偶。 就为了给你们这个团体证明，所谓中华人民共和国政府逼着中国跨性别卖淫求生。 https://t.co/lzPwTHExLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 519,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 692
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "人权工作者。  专注于儿少权益，身心障碍人士与精神健康",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/xFQJAqXeSx"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1930796444086411627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3992,
+          "following_count": 510,
+          "like_count": 613,
+          "listed_count": 23,
+          "media_count": 425,
+          "tweet_count": 6205
+        },
+        "url": "https://t.co/xFQJAqXeSx",
+        "username": "keyemail",
+        "verified": true
+      }
+    ]
+  }
+}

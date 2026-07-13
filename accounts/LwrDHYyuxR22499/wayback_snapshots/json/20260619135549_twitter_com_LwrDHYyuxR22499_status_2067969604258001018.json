@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2067969604258001018",
+    "created_at": "2026-06-19T13:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067969604258001018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1526965927748571136",
+          "start": 3,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067969604258001018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067959426838098211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Natsumejuri: 我只是说我个人的感受，我刚“破壳”宣布出柜那会就有跨女试图社工出道我取乐，后面来自其他LGBT人士的对于我容貌、“天赋”、社会地位、观念的羞辱踩头更是不断。反而我遇到的顺直人对我个人的恶意都没那么大。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2067969604258001018",
+        "created_at": "2026-06-19T13:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067969604258001018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1526965927748571136",
+              "start": 3,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067969604258001018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067959426838098211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Natsumejuri: 我只是说我个人的感受，我刚“破壳”宣布出柜那会就有跨女试图社工出道我取乐，后面来自其他LGBT人士的对于我容貌、“天赋”、社会地位、观念的羞辱踩头更是不断。反而我遇到的顺直人对我个人的恶意都没那么大。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526965927748571136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2067959426838098211",
+        "created_at": "2026-06-19T13:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067959426838098211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Natsumejuri/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/Natsumejuri/status/2067537790926213453",
+              "start": 101,
+              "url": "https://t.co/kEVH8wUNiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067959426838098211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我只是说我个人的感受，我刚“破壳”宣布出柜那会就有跨女试图社工出道我取乐，后面来自其他LGBT人士的对于我容貌、“天赋”、社会地位、观念的羞辱踩头更是不断。反而我遇到的顺直人对我个人的恶意都没那么大。\n\n我现在能以我gender的方式生活，靠的是我个人努力和朋友帮助，中国/日本LGBT圈子对我一点直接支持都没有。\n\n在中国/日本范围生活的性少数跟我有同样感受的不只有我一个，如果讲述自己真实感受是一种颠倒黑白，Pride拉大旗的集体叙事盖过个人自由表达的权利，这种行为跟*点点点*干的事有什么区别呢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 347,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067537790926213453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我只是说我个人的感受，我刚“破壳”宣布出柜那会就有跨女试图社工出道我取乐，后面来自其他LGBT人士的对于我容貌、“天赋”、社会地位、观念的羞辱踩头更是不断。反而我遇到的顺直人对我个人的恶意都没那么大。 https://t.co/kEVH8wUNiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5683,
+          "following_count": 3173,
+          "like_count": 3295,
+          "listed_count": 18,
+          "media_count": 463,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 552,
+          "like_count": 26936,
+          "listed_count": 7,
+          "media_count": 645,
+          "tweet_count": 4218
+        },
+        "url": "",
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

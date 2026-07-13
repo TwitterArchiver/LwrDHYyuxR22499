@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023721773192409106",
+    "created_at": "2026-02-17T17:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T18:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023809105878728923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        },
+        {
+          "end": 29,
+          "id": "1853777198018404352",
+          "start": 15,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023809105878728923",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023797050962477431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger @huthawar17115 恰个群?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023721773192409106",
+        "created_at": "2026-02-17T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023809105878728923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            },
+            {
+              "end": 29,
+              "id": "1853777198018404352",
+              "start": 15,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023809105878728923",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023797050962477431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger @huthawar17115 恰个群?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2023721773192409106",
+        "created_at": "2026-02-17T16:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023797050962477431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023797050962477431",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023721773192409106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 来我们反网学校群，这里随便黑屁，别把群弄封了就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 1854,
+          "like_count": 1654,
+          "listed_count": 12,
+          "media_count": 340,
+          "tweet_count": 2185
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 718,
+          "like_count": 21853,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 10130
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠坂下葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1660,
+          "like_count": 39251,
+          "listed_count": 7,
+          "media_count": 973,
+          "tweet_count": 12469
+        },
+        "username": "huthawar17115",
+        "verified": false
+      }
+    ]
+  }
+}

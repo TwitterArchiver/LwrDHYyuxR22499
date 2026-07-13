@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038314743568732275",
+    "created_at": "2026-03-29T18:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038322630995087775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1805343817966440448",
+          "start": 0,
+          "username": "HuatoF42103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038322630995087775",
+    "in_reply_to_user_id": "1805343817966440448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038321529503863160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuatoF42103 我认同你说的\n我不偷换概念\n他们确实可以改为更加中性化的词汇\n但\n但这也会带来一些麻烦\n所以我们这么做至少是情有可原的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038314743568732275",
+        "created_at": "2026-03-29T18:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038322630995087775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1805343817966440448",
+              "start": 0,
+              "username": "HuatoF42103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038322630995087775",
+        "in_reply_to_user_id": "1805343817966440448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038321529503863160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuatoF42103 我认同你说的\n我不偷换概念\n他们确实可以改为更加中性化的词汇\n但\n但这也会带来一些麻烦\n所以我们这么做至少是情有可原的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805343817966440448",
+        "conversation_id": "2038314743568732275",
+        "created_at": "2026-03-29T18:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038321529503863160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038321529503863160",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038314743568732275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 整件事件的起因就是你们使用了不当的人称代词。\n所有人的观点都是强迫你们使用女性代词标注跨性别身份，而是使用中性化，模糊化的代词。\n哪怕你们使用“他”呢？毕竟“他”这个词也可以不包含性别指示，是一个通性代词。\n但事实上是你们一直在偷换概念，拒不承认错误。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4007,
+          "following_count": 2305,
+          "like_count": 2216,
+          "listed_count": 15,
+          "media_count": 377,
+          "tweet_count": 2442
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T20:54:53.000Z",
+        "description": "混合型系统，有创伤和创造行为，侧面。主要成员只有夏诺儿和夏诺语，包括一个幻想伙伴转意识体的存在，老副（小时候开始就这么叫的这可不赖我）。系统名《花海》\n主要爱好，写作，骑行，音游，diy数码，以及一些常见的数码产品。",
+        "id": "1805343817966440448",
+        "location": "浙江 宁波 慈溪",
+        "name": "花と風",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805344123525709824/8PQieLkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 50,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2500
+        },
+        "username": "HuatoF42103",
+        "verified": false
+      }
+    ]
+  }
+}

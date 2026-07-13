@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072352155709882761",
+    "created_at": "2026-07-01T16:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072362368579842162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368145803424899075",
+          "start": 0,
+          "username": "General_5339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072362368579842162",
+    "in_reply_to_user_id": "1368145803424899075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072360957054189839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@General_5339 他跟他的跟班都是小丑级别的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072352155709882761",
+        "created_at": "2026-07-01T16:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072362368579842162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368145803424899075",
+              "start": 0,
+              "username": "General_5339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072362368579842162",
+        "in_reply_to_user_id": "1368145803424899075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072360957054189839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@General_5339 他跟他的跟班都是小丑级别的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368145803424899075",
+        "conversation_id": "2072352155709882761",
+        "created_at": "2026-07-01T16:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072360957054189839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360957054189839",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072352155709882761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这不纯小丑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 3301,
+          "like_count": 3644,
+          "listed_count": 19,
+          "media_count": 482,
+          "tweet_count": 3292
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T10:26:01.000Z",
+        "description": "100111100111110110001101",
+        "id": "1368145803424899075",
+        "location": "涅菲里姆星区 阈值研磨机主控室",
+        "name": "火星机械神教大贤者 贝利撒留.考尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823613629410787328/wnQ23awz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 3,
+          "like_count": 177,
+          "listed_count": 7,
+          "media_count": 431,
+          "tweet_count": 4502
+        },
+        "url": "",
+        "username": "General_5339",
+        "verified": false
+      }
+    ]
+  }
+}

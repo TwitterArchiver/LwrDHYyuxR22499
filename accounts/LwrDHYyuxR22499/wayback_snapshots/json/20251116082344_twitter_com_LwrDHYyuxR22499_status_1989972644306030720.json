@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989783111576817971",
+    "created_at": "2025-11-16T08:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T09:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989972644306030720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1050657707697401857",
+          "start": 0,
+          "username": "baobaobaobao173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989972644306030720",
+    "in_reply_to_user_id": "1050657707697401857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989972024744387046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobaobaobao173 😋我决定有时间亲自执行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T08:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T09:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989972644306030720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1050657707697401857",
+              "start": 0,
+              "username": "baobaobaobao173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989972644306030720",
+        "in_reply_to_user_id": "1050657707697401857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989972024744387046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobaobaobao173 😋我决定有时间亲自执行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1050657707697401857",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989972024744387046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989972024744387046",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989783111576817971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 可以资助我去米兰揍他一顿 怎么样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1069,
+          "like_count": 857,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1414
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-12T08:01:32.000Z",
+        "description": "",
+        "id": "1050657707697401857",
+        "name": "抱抱豹豹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509111452430667778/DNXIaDQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 241,
+          "like_count": 137,
+          "listed_count": 5,
+          "media_count": 0,
+          "tweet_count": 574
+        },
+        "username": "baobaobaobao173",
+        "verified": false
+      }
+    ]
+  }
+}

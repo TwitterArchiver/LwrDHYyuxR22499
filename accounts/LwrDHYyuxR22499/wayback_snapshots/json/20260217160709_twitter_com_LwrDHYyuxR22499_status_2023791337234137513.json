@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023746209291399547",
+    "created_at": "2026-02-17T16:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023791337234137513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 26,
+          "id": "1985722042126303232",
+          "start": 13,
+          "username": "pstf11458964"
+        },
+        {
+          "end": 40,
+          "id": "1300828282061877249",
+          "start": 27,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023791337234137513",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023791149815566443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @pstf11458964 @HANLIANYI331 😤😤😤😤\n我是神秘蒙古人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023746209291399547",
+        "created_at": "2026-02-17T16:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023791337234137513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 26,
+              "id": "1985722042126303232",
+              "start": 13,
+              "username": "pstf11458964"
+            },
+            {
+              "end": 40,
+              "id": "1300828282061877249",
+              "start": 27,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023791337234137513",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023791149815566443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @pstf11458964 @HANLIANYI331 😤😤😤😤\n我是神秘蒙古人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2023746209291399547",
+        "created_at": "2026-02-17T16:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023791149815566443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 30,
+              "id": "1985722042126303232",
+              "start": 17,
+              "username": "pstf11458964"
+            },
+            {
+              "end": 44,
+              "id": "1300828282061877249",
+              "start": 31,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023791149815566443",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023751626625085745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @pstf11458964 @HANLIANYI331 你们顺直/非二元又在内斗了（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3080,
+          "following_count": 1843,
+          "like_count": 1654,
+          "listed_count": 12,
+          "media_count": 340,
+          "tweet_count": 2184
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你就是那种10句话里有11个表情包看似回复了实际上完全没回复并且是完全不想回复只是在敷衍让对方以为你回复了的人吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2022396120601698464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 2224,
+          "like_count": 22641,
+          "listed_count": 7,
+          "media_count": 1953,
+          "tweet_count": 19158
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T14:53:38.000Z",
+        "description": "一个潜伏在新加坡的纯正的大西洋主义者，馬蹄鐵大一統理論支持者/You block=I win/I had no malicious intent; all malice is subjective.:)/Asian lib/Bi",
+        "id": "1985722042126303232",
+        "name": "Ⅳ帕斯塔夫🇪🇺🇨🇦🇮🇱🇸🇬🇺🇦/Jones",
+        "pinned_tweet_id": "2012446597326717089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057224661090304/-0Thr8Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 570,
+          "like_count": 46100,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 5294
+        },
+        "username": "pstf11458964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41018,
+          "following_count": 3678,
+          "like_count": 1426,
+          "listed_count": 67,
+          "media_count": 383,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

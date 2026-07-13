@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1879863375230075043",
+    "created_at": "2025-01-17T08:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T09:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880167769054036446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1084688171302961152",
+          "start": 0,
+          "username": "mongol_mason"
+        },
+        {
+          "end": 24,
+          "id": "1419403960696385546",
+          "start": 14,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880167769054036446",
+    "in_reply_to_user_id": "1084688171302961152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880166529066750137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mongol_mason @WaiFu8964 文中这位\n网名枕木\n其次我是蒙人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1879863375230075043",
+        "created_at": "2025-01-17T08:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880167769054036446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1084688171302961152",
+              "start": 0,
+              "username": "mongol_mason"
+            },
+            {
+              "end": 24,
+              "id": "1419403960696385546",
+              "start": 14,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880167769054036446",
+        "in_reply_to_user_id": "1084688171302961152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880166529066750137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mongol_mason @WaiFu8964 文中这位\n网名枕木\n其次我是蒙人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1084688171302961152",
+        "conversation_id": "1879863375230075043",
+        "created_at": "2025-01-17T08:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880166529066750137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1419403960696385546",
+              "start": 17,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880166529066750137",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879999826437501399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@LwrDHYyuxR22499 @WaiFu8964 你说的他是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 106,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 131
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-14T05:46:27.000Z",
+        "description": "蒙古海军上将,百分百黄金家族🧬，周朝王室后代，弘揚蒙古文化，解讀蒙古歷史！點播漢人朋友！可汗祝福你們！我不是威廉马！威廉🐎不是我客户！All Photos used are collected from the Internet",
+        "id": "1084688171302961152",
+        "location": "Mongolia",
+        "name": "石匠",
+        "pinned_tweet_id": "1755895553010057239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631650044914057216/EUf4Kb6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10238,
+          "following_count": 1905,
+          "like_count": 27335,
+          "listed_count": 34,
+          "media_count": 1891,
+          "tweet_count": 54379
+        },
+        "username": "mongol_mason",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1754504973918900509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 1939,
+          "like_count": 4919,
+          "listed_count": 17,
+          "media_count": 627,
+          "tweet_count": 5000
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

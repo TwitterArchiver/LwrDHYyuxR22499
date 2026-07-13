@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1992106379629490526",
+    "created_at": "2025-11-23T05:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992464312561267188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837794522249809921",
+          "start": 0,
+          "username": "WiseChord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992464312561267188",
+    "in_reply_to_user_id": "1837794522249809921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992462965120090519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiseChord 好的😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1992106379629490526",
+        "created_at": "2025-11-23T05:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992464312561267188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837794522249809921",
+              "start": 0,
+              "username": "WiseChord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992464312561267188",
+        "in_reply_to_user_id": "1837794522249809921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992462965120090519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiseChord 好的😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837794522249809921",
+        "conversation_id": "1992106379629490526",
+        "created_at": "2025-11-23T05:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992462965120090519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992462965120090519",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992106379629490526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 別尬黑，孔子推崇的是周公時代，那時候還沒封建什麼事呢（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1116,
+          "like_count": 892,
+          "listed_count": 6,
+          "media_count": 263,
+          "tweet_count": 1455
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T10:02:23.000Z",
+        "description": "Being dying is alive.\n\nMatrix: @wisechord:https://t.co/IpCtmwO0sJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "wisechord"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 65,
+                "expanded_url": "http://matrix.org",
+                "start": 42,
+                "url": "https://t.co/IpCtmwO0sJ"
+              }
+            ]
+          }
+        },
+        "id": "1837794522249809921",
+        "name": "Wise Chord",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837794565409198083/rL6F2iHM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 709,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 193
+        },
+        "username": "WiseChord",
+        "verified": false
+      }
+    ]
+  }
+}

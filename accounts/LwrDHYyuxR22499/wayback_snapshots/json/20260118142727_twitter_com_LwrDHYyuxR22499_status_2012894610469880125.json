@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2012843615689859452",
+    "created_at": "2026-01-18T14:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012894610469880125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1875960927746691072",
+          "start": 0,
+          "username": "ZemingLiu51015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012894610469880125",
+    "in_reply_to_user_id": "1875960927746691072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012893871563227297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZemingLiu51015 这地方蛮恶劣的听说会被教官摁在地上打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2012843615689859452",
+        "created_at": "2026-01-18T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012894610469880125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1875960927746691072",
+              "start": 0,
+              "username": "ZemingLiu51015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012894610469880125",
+        "in_reply_to_user_id": "1875960927746691072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012893871563227297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZemingLiu51015 这地方蛮恶劣的听说会被教官摁在地上打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875960927746691072",
+        "conversation_id": "2012843615689859452",
+        "created_at": "2026-01-18T14:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012893871563227297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012893871563227297",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012886756270694807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 安徽省长丰县新目标教育和山东省天桥区育人素质拓展中心😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 1603,
+          "like_count": 1333,
+          "listed_count": 9,
+          "media_count": 310,
+          "tweet_count": 1878
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T17:42:04.000Z",
+        "description": "🏳️‍⚧️mtf/无证含糖/阴暗苦逼高三牲（已高考完，准备复读）/喜欢打音游/ba二档摆烂人/爱听HARDCORE/想学弹钢琴和编曲/曲师pikasonic铁粉/好想减肥（呜呜）/挚爱@Sandw1cheese",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Sandw1cheese"
+              }
+            ]
+          }
+        },
+        "id": "1875960927746691072",
+        "name": "爱吃三明治的笨笨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889115918586023936/oYAatzKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 40,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "ZemingLiu51015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2055226743875842324",
+    "created_at": "2026-05-15T10:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055226743875842324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiyaoshiwo/st…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/shiyaoshiwo/status/2055175292470386885",
+          "start": 58,
+          "url": "https://t.co/FKQifv6z84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055226743875842324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055175292470386885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "流水线化操作\n把人物信息扔模型里转一圈\n就从能扭转机构捞跟玩游戏一样\n太简单了\n我就不汇报工作了\n各位看个乐就行了 https://t.co/FKQifv6z84"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055226743875842324",
+        "created_at": "2026-05-15T10:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055226743875842324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiyaoshiwo/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/shiyaoshiwo/status/2055175292470386885",
+              "start": 58,
+              "url": "https://t.co/FKQifv6z84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055226743875842324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055175292470386885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流水线化操作\n把人物信息扔模型里转一圈\n就从能扭转机构捞跟玩游戏一样\n太简单了\n我就不汇报工作了\n各位看个乐就行了 https://t.co/FKQifv6z84"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822200301345980416",
+        "conversation_id": "2055175292470386885",
+        "created_at": "2026-05-15T06:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055175292470386885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1843201902550634496",
+              "start": 81,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055175292470386885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "emmmm....这里是诗瑶…过去的一个月吗…好吧进戒网银学校力…但是感谢在外面帮我的所有好朋友们…没有大家我的确可能还在里面…在里面我没有受伤😊……同时非常感谢@LwrDHYyuxR22499 和救援小组的各位…谢谢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5074,
+          "following_count": 2791,
+          "like_count": 2776,
+          "listed_count": 18,
+          "media_count": 415,
+          "tweet_count": 2745
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……大大一只小女孩但是很无力…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞X﹏X为什么不放假/我想要安安全全的（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 261,
+          "like_count": 126,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1434
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

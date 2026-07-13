@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2059724318070956510",
+    "created_at": "2026-05-27T19:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059724318070956510"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059724318070956510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黑暗是世界未曾展露的底色\n一墙之隔，地狱人间\n饥寒、惶怖、消亡还有被碾碎的自由，荒诞的戏码终日上演\n \n世人安于眼前浮光，罔顾血泪\n或辗转迟疑，隔岸观望\n或冷语相讥，嗤笑不休\n皆宵小尔\n我将登上舞台，以身做饵，揭开帷幕\n此刻…大美将至\n\nNothing stays hidden forever.\n万物隐匿，终有昭然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2059724318070956510",
+        "created_at": "2026-05-27T19:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059724318070956510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059724318070956510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑暗是世界未曾展露的底色\n一墙之隔，地狱人间\n饥寒、惶怖、消亡还有被碾碎的自由，荒诞的戏码终日上演\n \n世人安于眼前浮光，罔顾血泪\n或辗转迟疑，隔岸观望\n或冷语相讥，嗤笑不休\n皆宵小尔\n我将登上舞台，以身做饵，揭开帷幕\n此刻…大美将至\n\nNothing stays hidden forever.\n万物隐匿，终有昭然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5378,
+          "following_count": 2998,
+          "like_count": 2988,
+          "listed_count": 19,
+          "media_count": 429,
+          "tweet_count": 2872
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

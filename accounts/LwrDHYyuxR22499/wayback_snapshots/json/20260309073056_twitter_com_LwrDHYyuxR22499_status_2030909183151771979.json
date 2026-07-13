@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2030909183151771979",
+    "created_at": "2026-03-09T07:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030909183151771979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1313383273079345152",
+          "start": 6,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Icequn0/status…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Icequn0/status/2030513051590381668",
+          "start": 56,
+          "url": "https://t.co/0hHtjgXEaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030909183151771979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030513051590381668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们药娘皇帝@ValeriaEulabeia汤戈韬先生不是带着一群恶俗跨畜钦点过我的钱都是诈骗寒涟漪诈骗来的? https://t.co/0hHtjgXEaX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2030909183151771979",
+        "created_at": "2026-03-09T07:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030909183151771979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1313383273079345152",
+              "start": 6,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Icequn0/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Icequn0/status/2030513051590381668",
+              "start": 56,
+              "url": "https://t.co/0hHtjgXEaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030909183151771979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030513051590381668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们药娘皇帝@ValeriaEulabeia汤戈韬先生不是带着一群恶俗跨畜钦点过我的钱都是诈骗寒涟漪诈骗来的? https://t.co/0hHtjgXEaX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990077365968572417",
+        "conversation_id": "2030507703060365570",
+        "created_at": "2026-03-08T05:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030513051590381668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030513051590381668",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030507703060365570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 主播经济来源是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 1994,
+          "like_count": 1926,
+          "listed_count": 12,
+          "media_count": 353,
+          "tweet_count": 2296
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Col pugnale nella mano,\ncon la fede dentro il cuore,\nessa avanza, va lontano,\ncon la gloria e di valor!",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6866,
+          "following_count": 3693,
+          "like_count": 149509,
+          "listed_count": 18,
+          "media_count": 2544,
+          "tweet_count": 23153
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T15:20:11.000Z",
+        "description": "小众国家留学交流https://t.co/WDZeaqtcr0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UbNHrBI4Xe0zZ…",
+                "end": 31,
+                "expanded_url": "https://t.me/+UbNHrBI4Xe0zZThl",
+                "start": 8,
+                "url": "https://t.co/WDZeaqtcr0"
+              }
+            ]
+          }
+        },
+        "id": "1990077365968572417",
+        "name": "哪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999417800629379072/f-mVmQ45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 116,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "Icequn0",
+        "verified": false
+      }
+    ]
+  }
+}

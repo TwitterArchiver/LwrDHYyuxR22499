@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2069487117726777604",
+    "created_at": "2026-06-23T18:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069487117726777604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/L8n9poqq/statu…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/L8n9poqq/status/2069348844870217732",
+          "start": 76,
+          "url": "https://t.co/yK7Assvyxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069487117726777604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069348844870217732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很早之前就发现这个问题了\n扭转机构的本质其实与邪教没差到哪里去\n无非都是用暴力或者迷信暴力操控他人囚禁他人\n思考了一下于是把反邪教加入了我们工作的模块 https://t.co/yK7Assvyxr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1989,
+        "media_key": "3_2069348836217360384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfNzXsakAAVmtn.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1844,
+        "media_key": "3_2069348836229992448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfNzXvbUAAbgX6.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1860,
+        "media_key": "3_2069348836238331904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfNzXxakAAQgNU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069348836238409728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfNzXxbwAA1HvF.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2069487117726777604",
+        "created_at": "2026-06-23T18:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069487117726777604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/L8n9poqq/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/L8n9poqq/status/2069348844870217732",
+              "start": 76,
+              "url": "https://t.co/yK7Assvyxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069487117726777604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069348844870217732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很早之前就发现这个问题了\n扭转机构的本质其实与邪教没差到哪里去\n无非都是用暴力或者迷信暴力操控他人囚禁他人\n思考了一下于是把反邪教加入了我们工作的模块 https://t.co/yK7Assvyxr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069348836217360384",
+            "3_2069348836229992448",
+            "3_2069348836238331904",
+            "3_2069348836238409728"
+          ]
+        },
+        "author_id": "1655914995409113088",
+        "conversation_id": "2069348844870217732",
+        "created_at": "2026-06-23T09:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069348844870217732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqjBlMze7o",
+              "end": 171,
+              "expanded_url": "https://x.com/L8n9poqq/status/2069348844870217732/photo/1",
+              "media_key": "3_2069348836217360384",
+              "start": 148,
+              "url": "https://t.co/sqjBlMze7o"
+            },
+            {
+              "display_url": "pic.x.com/sqjBlMze7o",
+              "end": 171,
+              "expanded_url": "https://x.com/L8n9poqq/status/2069348844870217732/photo/1",
+              "media_key": "3_2069348836229992448",
+              "start": 148,
+              "url": "https://t.co/sqjBlMze7o"
+            },
+            {
+              "display_url": "pic.x.com/sqjBlMze7o",
+              "end": 171,
+              "expanded_url": "https://x.com/L8n9poqq/status/2069348844870217732/photo/1",
+              "media_key": "3_2069348836238331904",
+              "start": 148,
+              "url": "https://t.co/sqjBlMze7o"
+            },
+            {
+              "display_url": "pic.x.com/sqjBlMze7o",
+              "end": 171,
+              "expanded_url": "https://x.com/L8n9poqq/status/2069348844870217732/photo/1",
+              "media_key": "3_2069348836238409728",
+              "start": 148,
+              "url": "https://t.co/sqjBlMze7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069348844870217732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "采访浙江绍兴如是书院受害者了解到，该机构创始人“如平”，真实身份为2002年广西北海特大传销案头目赖泽平。\n\n2018年，东南早报记者暗访泉州“教练技术”培训机构时发现，该机构邀请的主讲导师“如平”，本名赖泽平，有传销犯罪前科，转型后仍以沿用传销模式招收学员，以“国学”名义开展封闭式洗脑授课。 https://t.co/sqjBlMze7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5972,
+          "following_count": 3236,
+          "like_count": 3470,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3131
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T12:38:25.000Z",
+        "description": "社会志愿工作者，反“特训机构”、反邪教、反家暴\n战绩：\n作为报案人向警方提供重大线索协助侦破邪教组织，救出四十余人，头目尽数缉拿\n作为核心成员参与对特训机构“安康沁元博素质教育基地”的搜证、曝光、举报工作，使其关停并遣返三百余名学员\n作为核心成员参与七起“特训机构”个案营救，全部救出",
+        "id": "1655914995409113088",
+        "name": "精英白给分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022175928974299136/twMmrNFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 15,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "L8n9poqq",
+        "verified": false
+      }
+    ]
+  }
+}

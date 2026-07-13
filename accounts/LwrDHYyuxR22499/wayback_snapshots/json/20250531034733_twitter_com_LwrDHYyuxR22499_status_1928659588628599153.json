@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1928659588628599153",
+    "created_at": "2025-05-31T03:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928659588628599153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UNESCO_chinese…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/UNESCO_chinese/status/1907285864075473395",
+          "start": 4,
+          "url": "https://t.co/J13JqhClUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928659588628599153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907285864075473395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持 https://t.co/J13JqhClUG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1928659588628599153",
+        "created_at": "2025-05-31T03:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928659588628599153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UNESCO_chinese…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1907285864075473395",
+              "start": 4,
+              "url": "https://t.co/J13JqhClUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928659588628599153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907285864075473395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持 https://t.co/J13JqhClUG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "303806284",
+        "conversation_id": "1907285864075473395",
+        "created_at": "2025-04-02T04:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T05:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907285864075473395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "反对种族主义"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "种族歧视"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907285864075473395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 172266,
+          "like_count": 2551,
+          "quote_count": 82,
+          "reply_count": 237,
+          "retweet_count": 415
+        },
+        "reply_settings": "everyone",
+        "text": "┳┻|\n┳┻|\n┻┳|\n┳┻|\n┻┳|\n┳┻| _\n┻┳| •.•)\n┳┻|⊂ﾉ   我跟你讲哦，多样性是优势，而不是威胁呢。\n\n#反对种族主义 ​#种族歧视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 346,
+          "like_count": 334,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 493
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0jJu"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36393,
+          "following_count": 41,
+          "like_count": 480,
+          "listed_count": 123,
+          "media_count": 9808,
+          "tweet_count": 10343
+        },
+        "url": "https://t.co/udyfiQ0jJu",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

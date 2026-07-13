@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2028865780746781074",
+    "created_at": "2026-03-04T02:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029026484694990870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "918593759121690625",
+          "start": 0,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029026484694990870",
+    "in_reply_to_user_id": "918593759121690625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029025339595473324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu_qin_ 😾人是出来了但转手被他家里人送去精神病院了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2028865780746781074",
+        "created_at": "2026-03-04T02:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029026484694990870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029026484694990870",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029025339595473324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ 😾人是出来了但转手被他家里人送去精神病院了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2028865780746781074",
+        "created_at": "2026-03-04T02:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029025339595473324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029025339595473324",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028865780746781074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这次的事件怎么样啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 1943,
+          "like_count": 1816,
+          "listed_count": 12,
+          "media_count": 345,
+          "tweet_count": 2263
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem",
+        "name": "胡琴",
+        "pinned_tweet_id": "1778422281485885497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1786,
+          "like_count": 19107,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 5112
+        },
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

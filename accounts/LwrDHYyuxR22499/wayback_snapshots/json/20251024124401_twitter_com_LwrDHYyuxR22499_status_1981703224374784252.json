@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981703224374784252",
+    "created_at": "2025-10-24T12:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T13:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981703224374784252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981702432242667845",
+          "start": 66,
+          "url": "https://t.co/hkGz1Ccg6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981703224374784252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981702432242667845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣🤣🤣🤣按照你的理论\n我实名真并不怕李颖所以我才是国安\n那请问你又为什么造谣我身份证是假的呢\n两个东西只能成立一个左右脑互搏这一块 https://t.co/hkGz1Ccg6e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981703224374784252",
+        "created_at": "2025-10-24T12:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981703224374784252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981702432242667845",
+              "start": 66,
+              "url": "https://t.co/hkGz1Ccg6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981703224374784252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981702432242667845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣🤣按照你的理论\n我实名真并不怕李颖所以我才是国安\n那请问你又为什么造谣我身份证是假的呢\n两个东西只能成立一个左右脑互搏这一块 https://t.co/hkGz1Ccg6e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981702432242667845",
+        "created_at": "2025-10-24T12:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981702432242667845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981702204793970713",
+              "start": 28,
+              "url": "https://t.co/lthWPxSuY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981702432242667845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981702204793970713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真有人意识不到自己实名又不怕李颖神之一指会曝露身份吗🤣 https://t.co/lthWPxSuY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 949,
+          "like_count": 764,
+          "listed_count": 5,
+          "media_count": 247,
+          "tweet_count": 1314
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 186,
+          "like_count": 9513,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2166
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

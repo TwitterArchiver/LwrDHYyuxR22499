@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963617626397306880"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1963617632726483191",
+    "created_at": "2025-09-04T14:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963617632726483191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCewhSns3J",
+          "end": 94,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1963617632726483191/photo/1",
+          "media_key": "3_1963617626397306880",
+          "start": 71,
+          "url": "https://t.co/KCewhSns3J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963617632726483191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好的牛逼的\n当事人手机已经被教官控制了\n迫于威胁开始反向辟谣了老手段了能不能整点新活\n😁我还没想好到底接这单子呢\n看来不得不几拳把你们干死了 https://t.co/KCewhSns3J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1963617626397306880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Ar09gbcAA3Nki.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963617626397306880"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1963617632726483191",
+        "created_at": "2025-09-04T14:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963617632726483191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCewhSns3J",
+              "end": 94,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1963617632726483191/photo/1",
+              "media_key": "3_1963617626397306880",
+              "start": 71,
+              "url": "https://t.co/KCewhSns3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963617632726483191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的牛逼的\n当事人手机已经被教官控制了\n迫于威胁开始反向辟谣了老手段了能不能整点新活\n😁我还没想好到底接这单子呢\n看来不得不几拳把你们干死了 https://t.co/KCewhSns3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 562,
+          "like_count": 533,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 763
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

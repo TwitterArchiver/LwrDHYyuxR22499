@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1977156459525029888",
+        "7_1977156511869865984",
+        "3_1977156464520445955",
+        "3_1977156466277859329"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977156540135305243",
+    "created_at": "2025-10-11T23:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T00:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977156540135305243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GQtX9IqdRO",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+          "media_key": "7_1977156459525029888",
+          "start": 143,
+          "url": "https://t.co/GQtX9IqdRO"
+        },
+        {
+          "display_url": "pic.x.com/GQtX9IqdRO",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+          "media_key": "7_1977156511869865984",
+          "start": 143,
+          "url": "https://t.co/GQtX9IqdRO"
+        },
+        {
+          "display_url": "pic.x.com/GQtX9IqdRO",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+          "media_key": "3_1977156464520445955",
+          "start": 143,
+          "url": "https://t.co/GQtX9IqdRO"
+        },
+        {
+          "display_url": "pic.x.com/GQtX9IqdRO",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+          "media_key": "3_1977156466277859329",
+          "start": 143,
+          "url": "https://t.co/GQtX9IqdRO"
+        },
+        {
+          "display_url": "x.com/JanexieL/statu…",
+          "end": 190,
+          "expanded_url": "https://twitter.com/JanexieL/status/1977140208195060070",
+          "start": 167,
+          "url": "https://t.co/khhft9gG2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977156540135305243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977140208195060070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我处理过的一家名叫湘阴六中\n扭转机构上述是他们虐待殴打致人死亡得证据及视频\n该机构体系至今仍在福建残余\n改用饥饿体罚来代替殴打\n导致许多六七岁的孩子长期营养不良\n这些东西都是我花了不知多少钱\n人力物力取得的证据\n现在你只有两个选择要么承认这些是真的\n要么怀疑他跟你母亲一样都不存在 https://t.co/GQtX9IqdRO https://t.co/khhft9gG2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29998,
+        "height": 1280,
+        "media_key": "7_1977156459525029888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977156459525029888/pu/img/qqboYyLZF7UPcOud.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977156459525029888/pu/vid/avc1/320x568/zNr8RvQeLCf2VuQH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977156459525029888/pu/vid/avc1/480x852/E6AZiV9_sbK7xj-o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977156459525029888/pu/vid/avc1/720x1280/voOlIcKLIlqlbgKM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977156459525029888/pu/pl/InXyilSqfWFRn6eR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10782,
+        "height": 1280,
+        "media_key": "7_1977156511869865984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977156511869865984/pu/img/S3RqQ8dgNdeIWanU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977156511869865984/pu/vid/avc1/320x568/YKi0Px7QTlP-F8ej.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977156511869865984/pu/vid/avc1/480x852/L_nVqMgkX74ulT1D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977156511869865984/pu/vid/avc1/720x1280/w8kOmZg_JpqVkInh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977156511869865984/pu/pl/r_XR2GlnV9oes367.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1977156464520445955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BFVD0bwAMg9l1.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1977156466277859329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BFVKXbwAEXsce.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1977156459525029888",
+            "7_1977156511869865984",
+            "3_1977156464520445955",
+            "3_1977156466277859329"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977156540135305243",
+        "created_at": "2025-10-11T23:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T00:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977156540135305243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQtX9IqdRO",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+              "media_key": "7_1977156459525029888",
+              "start": 143,
+              "url": "https://t.co/GQtX9IqdRO"
+            },
+            {
+              "display_url": "pic.x.com/GQtX9IqdRO",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+              "media_key": "7_1977156511869865984",
+              "start": 143,
+              "url": "https://t.co/GQtX9IqdRO"
+            },
+            {
+              "display_url": "pic.x.com/GQtX9IqdRO",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+              "media_key": "3_1977156464520445955",
+              "start": 143,
+              "url": "https://t.co/GQtX9IqdRO"
+            },
+            {
+              "display_url": "pic.x.com/GQtX9IqdRO",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977156540135305243/video/1",
+              "media_key": "3_1977156466277859329",
+              "start": 143,
+              "url": "https://t.co/GQtX9IqdRO"
+            },
+            {
+              "display_url": "x.com/JanexieL/statu…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/JanexieL/status/1977140208195060070",
+              "start": 167,
+              "url": "https://t.co/khhft9gG2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977156540135305243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977140208195060070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我处理过的一家名叫湘阴六中\n扭转机构上述是他们虐待殴打致人死亡得证据及视频\n该机构体系至今仍在福建残余\n改用饥饿体罚来代替殴打\n导致许多六七岁的孩子长期营养不良\n这些东西都是我花了不知多少钱\n人力物力取得的证据\n现在你只有两个选择要么承认这些是真的\n要么怀疑他跟你母亲一样都不存在 https://t.co/GQtX9IqdRO https://t.co/khhft9gG2g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2305516323",
+        "conversation_id": "1977031862444027915",
+        "created_at": "2025-10-11T22:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T23:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977140208195060070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977140208195060070",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977031862444027915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 噗嗤，还能再假点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 869,
+          "like_count": 694,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 988
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-26T11:44:28.000Z",
+        "description": "₍˄·͈༝·͈˄₎ʃ \n私人\n不要关注",
+        "id": "2305516323",
+        "name": "JaneX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/584383649837031424/Z3wyr3vG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 167,
+          "like_count": 27473,
+          "listed_count": 3,
+          "media_count": 1653,
+          "tweet_count": 6889
+        },
+        "username": "JanexieL",
+        "verified": false
+      }
+    ]
+  }
+}

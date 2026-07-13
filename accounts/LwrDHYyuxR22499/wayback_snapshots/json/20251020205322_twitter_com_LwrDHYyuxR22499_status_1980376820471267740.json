@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1980376820471267740",
+    "created_at": "2025-10-20T20:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T21:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980376820471267740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980280346353746400",
+          "start": 16,
+          "url": "https://t.co/Of39E2Pfdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980376820471267740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980280346353746400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁寄吧了\n我办的案子又被李上了 https://t.co/Of39E2Pfdw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 152170,
+        "height": 1080,
+        "media_key": "13_1980200787021058048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980200787021058048/img/j5SWMS0NO49iQPD4.jpg",
+        "public_metrics": {
+          "view_count": 65561
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980200787021058048/vid/avc1/634x360/m8krRwxa6xAI_PgW.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980200787021058048/vid/avc1/476x270/lEf8VAWZwZt3Nhxc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980200787021058048/pl/Fc3t7QPmlvKamjWt.m3u8?v=988"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980200787021058048/vid/avc1/1906x1080/VcoqgsTTYX13c47g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980200787021058048/vid/avc1/1270x720/EvPg8HtJxZO82Ffb.mp4"
+          }
+        ],
+        "width": 1906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1980376820471267740",
+        "created_at": "2025-10-20T20:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T21:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980376820471267740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1980280346353746400",
+              "start": 16,
+              "url": "https://t.co/Of39E2Pfdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980376820471267740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980280346353746400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁寄吧了\n我办的案子又被李上了 https://t.co/Of39E2Pfdw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980200787021058048"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980280346353746400",
+        "created_at": "2025-10-20T14:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980280346353746400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4PgH3Nx0W",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1980280346353746400/video/1",
+              "media_key": "13_1980200787021058048",
+              "start": 106,
+              "url": "https://t.co/y4PgH3Nx0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980280346353746400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 108183,
+          "like_count": 734,
+          "quote_count": 4,
+          "reply_count": 59,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：近日，B站17岁女画师（网名“鱼术”）被家人以“戒网瘾”为由，强制送往广西南宁市皓翔励志教育学校。该校涉嫌虐待学员，UP主在入校后通过隐秘方式录制求救视频上传B站，曝光学校环境恶劣、学员遭殴打等情况. https://t.co/y4PgH3Nx0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 906,
+          "like_count": 712,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1090
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125441,
+          "following_count": 983,
+          "like_count": 8270,
+          "listed_count": 8379,
+          "media_count": 36360,
+          "tweet_count": 43192
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

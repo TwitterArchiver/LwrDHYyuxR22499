@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1961840967180509204",
+    "created_at": "2025-08-31T06:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962034821737455978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931339434248839168",
+          "start": 0,
+          "username": "PixelGhost21314"
+        },
+        {
+          "end": 32,
+          "id": "1546075741430751232",
+          "start": 17,
+          "username": "sovietpunk2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962034821737455978",
+    "in_reply_to_user_id": "1931339434248839168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962006642524090818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PixelGhost21314 @sovietpunk2077 为什么说没举报啊?1234512389市局电话都打烂了我常年混迹于戒网瘾学校的线下救援中往往第一个要面对的就是地方警察还有警察\n我打市局110电话举报人家上来第一句都是你知道人家xx教育是干什么的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1961840967180509204",
+        "created_at": "2025-08-31T06:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962034821737455978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931339434248839168",
+              "start": 0,
+              "username": "PixelGhost21314"
+            },
+            {
+              "end": 32,
+              "id": "1546075741430751232",
+              "start": 17,
+              "username": "sovietpunk2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962034821737455978",
+        "in_reply_to_user_id": "1931339434248839168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962006642524090818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PixelGhost21314 @sovietpunk2077 为什么说没举报啊?1234512389市局电话都打烂了我常年混迹于戒网瘾学校的线下救援中往往第一个要面对的就是地方警察还有警察\n我打市局110电话举报人家上来第一句都是你知道人家xx教育是干什么的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931339434248839168",
+        "conversation_id": "1961840967180509204",
+        "created_at": "2025-08-31T04:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962006642524090818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546075741430751232",
+              "start": 0,
+              "username": "sovietpunk2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962006642524090818",
+        "in_reply_to_user_id": "1546075741430751232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962005763150229646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sovietpunk2077 那你知道这么多去举报了吗？为什么不去反映呢？中国需要社会舆论监督的勇士！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 544,
+          "like_count": 518,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 735
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T13:16:26.000Z",
+        "description": "這是全民民主的偉大勝利！全體公民一人一票通過決議：誠邀三體文明擔任地球執政官，並授予『二向箔使用許可證』以促進太陽系房產去庫存。智子實時計票系統溫馨提示：您投的每個票都正加速成為紙片人——畢竟在黑暗森林裡，扁平化才是宇宙級潮流！",
+        "id": "1931339434248839168",
+        "name": "雪莉雪梨雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953821323031195652/GnI56SKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 229,
+          "like_count": 8581,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 3439
+        },
+        "username": "PixelGhost21314",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "Liberté, égalité, fraternité /社會主義與普世價值之結合（人文社会主义）/中派馬克思主義/（甚至可能是国家）工團主義/狮子山精神爱好者（廣東國！）/LGBT运动/泛性恋/共青团员/远离键政享受生活（虽然会忍不住）/孩子是男的别再说我是跨了/泛亞主義/❤💛💜",
+        "id": "1546075741430751232",
+        "location": "秋葉原革命根據地",
+        "name": "ZHGR-sovietpunk2077🏳️‍⚧️🏳️‍🌈🇵🇸❀（中国劳工通讯治丧委员会）",
+        "pinned_tweet_id": "1937182432257593669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944061582629101568/xfHyp-fZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1618,
+          "like_count": 16971,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 9766
+        },
+        "username": "sovietpunk2077",
+        "verified": false
+      }
+    ]
+  }
+}

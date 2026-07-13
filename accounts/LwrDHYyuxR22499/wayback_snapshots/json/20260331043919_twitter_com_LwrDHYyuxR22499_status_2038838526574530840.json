@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038838526574530840",
+    "created_at": "2026-03-31T04:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038838526574530840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038815863823016057",
+          "start": 59,
+          "url": "https://t.co/2EyWfj4SUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038838526574530840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038815863823016057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同样还得重申一个问题\n本人只是遵循其社群意愿\n以及对其身份认同的尊重而停止救助\n其他弱势群体的救助活动依旧保持🐱❤️ https://t.co/2EyWfj4SUN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038838526574530840",
+        "created_at": "2026-03-31T04:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038838526574530840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038815863823016057",
+              "start": 59,
+              "url": "https://t.co/2EyWfj4SUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038838526574530840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038815863823016057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同样还得重申一个问题\n本人只是遵循其社群意愿\n以及对其身份认同的尊重而停止救助\n其他弱势群体的救助活动依旧保持🐱❤️ https://t.co/2EyWfj4SUN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038815863823016057",
+        "created_at": "2026-03-31T03:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038815863823016057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurabaEma_IT…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2038450135659856324",
+              "start": 83,
+              "url": "https://t.co/7ifyPvlwQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038815863823016057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2761,
+          "like_count": 38,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450135659856324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据本次投票结果，本人无法在当前环境下对身处扭转机构的跨性别者开展救援工作。\n本着对生命与权益最基本的尊重，本人及团队成员即日起退出跨性别者在扭转机构的相关救援行动 https://t.co/7ifyPvlwQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 2304,
+          "like_count": 2262,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 2471
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

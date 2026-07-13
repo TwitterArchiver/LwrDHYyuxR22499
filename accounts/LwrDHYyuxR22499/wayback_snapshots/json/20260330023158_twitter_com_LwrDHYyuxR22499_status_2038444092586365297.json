@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038444092586365297",
+    "created_at": "2026-03-30T02:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038444092586365297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038438843876303333",
+          "start": 72,
+          "url": "https://t.co/7S0wbLAblo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038444092586365297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038438843876303333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了投票可信的严谨性\n投票会进行三次计算总和\n本人及其组员国内社群\n会严格尊重投票结果\n改变日后救助方式\n请各位跨性别者尽量多且谨慎的进行投票 https://t.co/7S0wbLAblo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038444092586365297",
+        "created_at": "2026-03-30T02:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038444092586365297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038438843876303333",
+              "start": 72,
+              "url": "https://t.co/7S0wbLAblo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038444092586365297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038438843876303333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了投票可信的严谨性\n投票会进行三次计算总和\n本人及其组员国内社群\n会严格尊重投票结果\n改变日后救助方式\n请各位跨性别者尽量多且谨慎的进行投票 https://t.co/7S0wbLAblo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038438842383126528"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038438843876303333",
+        "created_at": "2026-03-30T02:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038438843876303333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038438843876303333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本次投票将决定以后对跨性别人士\n得救助活动会如何进行\n如基于尊重身份认同or模糊身份那么请承担相应的代价\n如基于现实利益意味着以上需求不能被满足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4013,
+          "following_count": 2303,
+          "like_count": 2224,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 2455
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

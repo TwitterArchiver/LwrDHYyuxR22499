@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989778352388149249"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989717127817834677",
+    "created_at": "2025-11-15T19:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T20:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989778366145466582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "YJGAME0189"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XWkQJA0wDz",
+          "end": 35,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1989778366145466582/photo/1",
+          "media_key": "3_1989778352388149249",
+          "start": 12,
+          "url": "https://t.co/XWkQJA0wDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989778366145466582",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989717127817834677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJGAME0189 https://t.co/XWkQJA0wDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989778352388149249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50c3oPbkAEuDKC.jpg",
+        "width": 2020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989778352388149249"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989717127817834677",
+        "created_at": "2025-11-15T19:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T20:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989778366145466582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "YJGAME0189"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWkQJA0wDz",
+              "end": 35,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1989778366145466582/photo/1",
+              "media_key": "3_1989778352388149249",
+              "start": 12,
+              "url": "https://t.co/XWkQJA0wDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989778366145466582",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989717127817834677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJGAME0189 https://t.co/XWkQJA0wDz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761739613436321792",
+        "conversation_id": "1989717127817834677",
+        "created_at": "2025-11-15T15:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989717127817834677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989685712510230650",
+              "start": 23,
+              "url": "https://t.co/ppn2ep4giR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989717127817834677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989685712510230650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太傻逼了\n此条算入政治条目·鉴证随意 我也来 https://t.co/ppn2ep4giR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1029,
+          "like_count": 830,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 1392
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "Drive you to the RHYTHM FLOW.\n「EZ2AC Techythm」「Project CroXoveR」Main Developer & Sound Director\nDAOLITUNE UI Design\nCN⭕️EN⭕️JP❌\n音游人,画师,或任何寻求合作的人会回关\n合作请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101638040",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/101638040",
+                "start": 0,
+                "url": "https://t.co/PmgsVH7Csi"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "STAR.RAIL 2.5次元/音游空间站",
+        "name": "YJGAME/DJ TO3RO 公式",
+        "pinned_tweet_id": "1943320906400776455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942915559550853120/UGwtS9v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 963,
+          "like_count": 32918,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 9100
+        },
+        "url": "https://t.co/PmgsVH7Csi",
+        "username": "YJGAME0189",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887749322135220224",
+        "3_1887749322407833600"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1887749326207918183",
+    "created_at": "2025-02-07T06:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887749326207918183"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 152,
+          "start": 120,
+          "tag": "ValeriaEulabeia收了反跨人五十万实行闭关鉴跨政策"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 76,
+          "id": "1313383273079345152",
+          "start": 60,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbJLzx4Nqq",
+          "end": 176,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1887749326207918183/photo/1",
+          "media_key": "3_1887749322135220224",
+          "start": 153,
+          "url": "https://t.co/NbJLzx4Nqq"
+        },
+        {
+          "display_url": "pic.x.com/NbJLzx4Nqq",
+          "end": 176,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1887749326207918183/photo/1",
+          "media_key": "3_1887749322407833600",
+          "start": 153,
+          "url": "https://t.co/NbJLzx4Nqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887749326207918183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你可以先把你跟你姘头的命革一下\n要是莫名其妙被拉进去退了两年多的人是小编\n那你帕夏大爹主动要求进去恐怕已经是清真管理员了@ValeriaEulabeia\n难怪你这么反对救援者🤣\n原来你才是反跨大手子\n人脑子打成狗脑子最后发现自己才是小丑🤣\n#ValeriaEulabeia收了反跨人五十万实行闭关鉴跨政策 https://t.co/NbJLzx4Nqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_1887749322135220224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKiAbrasAAw1WQ.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1887749322407833600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKiAcsacAAdXor.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887749322135220224",
+            "3_1887749322407833600"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1887749326207918183",
+        "created_at": "2025-02-07T06:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887749326207918183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 120,
+              "tag": "ValeriaEulabeia收了反跨人五十万实行闭关鉴跨政策"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 76,
+              "id": "1313383273079345152",
+              "start": 60,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbJLzx4Nqq",
+              "end": 176,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1887749326207918183/photo/1",
+              "media_key": "3_1887749322135220224",
+              "start": 153,
+              "url": "https://t.co/NbJLzx4Nqq"
+            },
+            {
+              "display_url": "pic.x.com/NbJLzx4Nqq",
+              "end": 176,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1887749326207918183/photo/1",
+              "media_key": "3_1887749322407833600",
+              "start": 153,
+              "url": "https://t.co/NbJLzx4Nqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887749326207918183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以先把你跟你姘头的命革一下\n要是莫名其妙被拉进去退了两年多的人是小编\n那你帕夏大爹主动要求进去恐怕已经是清真管理员了@ValeriaEulabeia\n难怪你这么反对救援者🤣\n原来你才是反跨大手子\n人脑子打成狗脑子最后发现自己才是小丑🤣\n#ValeriaEulabeia收了反跨人五十万实行闭关鉴跨政策 https://t.co/NbJLzx4Nqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 161,
+          "like_count": 123,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 270
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h08.nyc01.xyz/register?code=…",
+                "end": 23,
+                "expanded_url": "https://h08.nyc01.xyz/register?code=zhmt40ur",
+                "start": 0,
+                "url": "https://t.co/PiOdmK3mEs"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1874103313274462335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6213,
+          "following_count": 3067,
+          "like_count": 119819,
+          "listed_count": 15,
+          "media_count": 1942,
+          "tweet_count": 18272
+        },
+        "url": "https://t.co/PiOdmK3mEs",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

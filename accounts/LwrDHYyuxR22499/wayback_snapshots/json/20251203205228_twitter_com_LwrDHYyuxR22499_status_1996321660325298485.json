@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1996321660325298485",
+    "created_at": "2025-12-03T20:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T21:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996321660325298485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996321660325298485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于捞王的冷知识\n（饮食篇）\n条件允许的话我一天至少会吃三斤肉以及一斤水果\n甚至可以不加调料水煮肉蘸酱油就可以一直吃\n如果有牛奶的话我不会选择喝水\n我会把牛奶当水喝\n如果想要请我吃饭的话请准备好足量的肉与水果与牛奶\n不喜欢任何形式的零食\n奶豆腐与牛肉干除外\n我喝酒很少醉\n但喝碳酸饮料会…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1996321660325298485",
+        "created_at": "2025-12-03T20:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996321660325298485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996321660325298485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于捞王的冷知识\n（饮食篇）\n条件允许的话我一天至少会吃三斤肉以及一斤水果\n甚至可以不加调料水煮肉蘸酱油就可以一直吃\n如果有牛奶的话我不会选择喝水\n我会把牛奶当水喝\n如果想要请我吃饭的话请准备好足量的肉与水果与牛奶\n不喜欢任何形式的零食\n奶豆腐与牛肉干除外\n我喝酒很少醉\n但喝碳酸饮料会…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 1133,
+          "like_count": 927,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 1495
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

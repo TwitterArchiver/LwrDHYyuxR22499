@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015220500512006489",
+    "created_at": "2026-01-25T00:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015220500512006489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1chbineine1ink…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/1chbineine1inke/status/2013482945206448142",
+          "start": 27,
+          "url": "https://t.co/6EWJkTRtot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015220500512006489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013482945206448142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓哪位跨皇组建的文革小圈子故步自封霸凌排挤我都不好说 https://t.co/6EWJkTRtot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015220500512006489",
+        "created_at": "2026-01-25T00:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015220500512006489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1chbineine1ink…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/1chbineine1inke/status/2013482945206448142",
+              "start": 27,
+              "url": "https://t.co/6EWJkTRtot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015220500512006489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013482945206448142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓哪位跨皇组建的文革小圈子故步自封霸凌排挤我都不好说 https://t.co/6EWJkTRtot"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2013482945206448142",
+        "created_at": "2026-01-20T05:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013482945206448142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1chbineine1ink…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/1chbineine1inke/status/2012791791209111696",
+              "start": 118,
+              "url": "https://t.co/f2G9Tjqy6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013482945206448142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1554,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012791791209111696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚来德国有人让我给他们做事时就说：“你想想国内还有好多人没逃出来，你能岀来已经很幸运了，所以你有义务帮助大众”\n这个大众的范围暂且不谈，直接定死了我有原罪，那你们这些一直拿着家里钱吃饱了没事撑的从小到大过得都特别好的是不是更有原罪啊😅 https://t.co/f2G9Tjqy6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1649,
+          "like_count": 1408,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1967
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Die Hohenzollernbrücke ist eine Brücke über den Rhein in Köln in Höhe von Stromkilometer 688,5, die Hauptbahnhof und Deutzer Bahnhof verbindet.",
+        "id": "1540698144429596673",
+        "name": "Hohenzollernbrücke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009372240891019264/_Es0_6UF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 458,
+          "like_count": 2665,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 3323
+        },
+        "username": "1chbineine1inke",
+        "verified": false
+      }
+    ]
+  }
+}

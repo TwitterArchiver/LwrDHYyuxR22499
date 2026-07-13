@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1982617830337233087",
+    "created_at": "2025-10-27T07:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982718633009946875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1675877118667034624",
+          "start": 0,
+          "username": "nine9ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982718633009946875",
+    "in_reply_to_user_id": "1675877118667034624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982708308147585218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine9ph 😁确实挺辛苦的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1982617830337233087",
+        "created_at": "2025-10-27T07:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982718633009946875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1675877118667034624",
+              "start": 0,
+              "username": "nine9ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982718633009946875",
+        "in_reply_to_user_id": "1675877118667034624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982708308147585218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine9ph 😁确实挺辛苦的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675877118667034624",
+        "conversation_id": "1982617830337233087",
+        "created_at": "2025-10-27T07:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982708308147585218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982708308147585218",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982706206558068936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 一年多了啊，辛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1982717483980374122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 951,
+          "like_count": 773,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1378
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:40:42.000Z",
+        "description": "不知道写什么，暂时没梦到",
+        "id": "1675877118667034624",
+        "name": "Narration",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969761352337203200/y3PRH44c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 141
+        },
+        "username": "nine9ph",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2018997108402229372",
+    "created_at": "2026-02-04T10:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018997108402229372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayBigca…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/YesterdayBigcat/status/2018947852580405758",
+          "start": 147,
+          "url": "https://t.co/JEmh4pglqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018997108402229372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018947852580405758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😴信息不够准确\n三部一百人\n一二部分别是四十人跟六十人\n因暴动只有三部固释放只有三部\n且并未全部释放\n其余一二部照旧\n学校目前已被封锁\n学校内部目前由警察跟部分教官代为看管\n也就是说学校现在至少还有一半认\n出校学生也正在遭受系统性的捂嘴\n以及威胁恐吓\n他们怎么样只有天知道\n不过我目前正在跟进 https://t.co/JEmh4pglqh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 297166,
+        "height": 1440,
+        "media_key": "13_2018947366192345088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018947366192345088/img/AHd8IBTCKuFullPk.jpg",
+        "public_metrics": {
+          "view_count": 3160
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018947366192345088/vid/avc1/640x360/GMsu2xiHDchvHD_1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018947366192345088/vid/avc1/2560x1440/s5UnWbszIEV67FHE.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018947366192345088/vid/avc1/480x270/UodKZm5-H9c2EdEx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018947366192345088/vid/avc1/1280x720/YSnqS8AewU6F0oBr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018947366192345088/pl/b45JRdE6c8v4V9V3.m3u8"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2018997108402229372",
+        "created_at": "2026-02-04T10:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018997108402229372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayBigca…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/YesterdayBigcat/status/2018947852580405758",
+              "start": 147,
+              "url": "https://t.co/JEmh4pglqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018997108402229372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018947852580405758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😴信息不够准确\n三部一百人\n一二部分别是四十人跟六十人\n因暴动只有三部固释放只有三部\n且并未全部释放\n其余一二部照旧\n学校目前已被封锁\n学校内部目前由警察跟部分教官代为看管\n也就是说学校现在至少还有一半认\n出校学生也正在遭受系统性的捂嘴\n以及威胁恐吓\n他们怎么样只有天知道\n不过我目前正在跟进 https://t.co/JEmh4pglqh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018947366192345088"
+          ]
+        },
+        "author_id": "1714100357582770176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2018947852580405758",
+        "created_at": "2026-02-04T07:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018947852580405758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQpXasv5l2",
+              "end": 172,
+              "expanded_url": "https://x.com/YesterdayBigcat/status/2018947852580405758/video/1",
+              "media_key": "13_2018947366192345088",
+              "start": 149,
+              "url": "https://t.co/HQpXasv5l2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018947852580405758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「山东德州爆发学生“起义”：怒砸校舍，教官溃逃（2026.02.01）」2月1日晚，山东省德州市，一场震惊全网的学生“起义”在暗夜中爆发。当晚，德州环帝祥龙素质教育基地内，长期维系的高压秩序被打破。没有整齐划一的口号，取而代之的是玻璃破碎的脆响与少年们积压已久的怒火。长期饱受压迫的学生们突破了封锁，砸毁了象征囚禁的宿舍门窗。而平日里手持棍棒、对学生颐指气使的教官们，在真正的反抗面前，竟集体溃散，落荒而逃。\n\n公开资料显示，涉事机构“环帝祥龙素质教育基地”隶属于山东环帝锦辉教育管理有限公司。 该机构对外标榜为聚焦青少年成长问题的正规化培训基地，实则是一家典型的“戒网瘾”及行为矫正学校。这类机构在中国长期存在，普遍以军事化、封闭式、惩罚性管理著称。据悉，该校规模约二三百人，分为一到三部。此次爆发抗议的正是管理最为严苛的“三部”。据知情者透露，校内教官多为两年义务兵退役人员，管理手段极度严酷，甚至心理扭曲，体罚已成常态。学生犯错后被棍棒殴打，关禁闭已屡见不鲜，且校内住宿简陋，饮食条件极为恶劣。\n\n反抗的种子早已埋下，而导火索是教官再一次对学生实施了殴打。 据悉，行动由一名“学生助教”发起。愤怒的学生们砸毁了门窗及大量宿舍设施，并一度与教官发生激烈肢体冲突，有学生在冲突中受伤。事态失控后，教官群体集体逃离了学校，一些学生也离开了营地。之后，警察介入并封锁了学校。\n\n长期以来，此类学校始终游走在教育、培训与心理干预的监管灰色地带。 它们以“为孩子好”为名，利用封闭、恐惧和绝对服从来建立秩序，却极少能真正解决青少年的心理问题。将孩子送进此类机构，往往是部分家庭在教育失败后的甩锅式选择：父母不愿面对亲子关系的裂痕，不愿处理陪伴缺失与深层心理需求，便企图将问题交付给一套简单粗暴的“改造系统”来解决。\n\n在这类高墙之内，悲剧层出不穷，德州少年的怒火，实则由无数历史悲剧的血泪铺就。 从2009年的邓森山，到2014年的玲玲，再到2017年的李傲；从臭名昭著的豫章书院，到河南雅圣思、安徽正能……德州环帝学校的这场暴动，不是一群暴徒的狂欢，而是无数个“李傲”和“玲玲”在绝境中发出的求生嘶吼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8430,
+          "like_count": 110,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "「山东德州爆发学生“起义”：怒砸校舍，教官溃逃（2026.02.01）」2月1日晚，山东省德州市，一场震惊全网的学生“起义”在暗夜中爆发。当晚，德州环帝祥龙素质教育基地内，长期维系的高压秩序被打破。没有整齐划一的口号，取而代之的是玻璃破碎的脆响与少年们积压已久的怒火。长期饱受压迫的学生们突破了封 https://t.co/HQpXasv5l2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1726,
+          "like_count": 1446,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 2016
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135830,
+          "following_count": 478,
+          "like_count": 1045,
+          "listed_count": 615,
+          "media_count": 3053,
+          "tweet_count": 4170
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883526495899209729"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883526499384660398",
+    "created_at": "2025-01-26T14:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T15:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883526499384660398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/08VdoU9Jk5",
+          "end": 161,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883526499384660398/photo/1",
+          "media_key": "3_1883526495899209729",
+          "start": 138,
+          "url": "https://t.co/08VdoU9Jk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883526499384660398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们的弱智ve公开表示过像张恩旭这样的就该在送回去\n你要知道被扭转的跨性别可不在少数\n他们在里面遭受了虐待殴打甚至强奸\n这样的话无异于让受害者陷入到深度的创伤之中\n这一切就是因为我们是他的假想敌\n他造谣辱骂甚至刺痛无数受害者\n却怪我骂的脏?\n非人道话语带来非人道辱骂\n这公平 https://t.co/08VdoU9Jk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883526495899209729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiOhXmEb0AEa8tr.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883526495899209729"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883526499384660398",
+        "created_at": "2025-01-26T14:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T15:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883526499384660398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08VdoU9Jk5",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883526499384660398/photo/1",
+              "media_key": "3_1883526495899209729",
+              "start": 138,
+              "url": "https://t.co/08VdoU9Jk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883526499384660398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们的弱智ve公开表示过像张恩旭这样的就该在送回去\n你要知道被扭转的跨性别可不在少数\n他们在里面遭受了虐待殴打甚至强奸\n这样的话无异于让受害者陷入到深度的创伤之中\n这一切就是因为我们是他的假想敌\n他造谣辱骂甚至刺痛无数受害者\n却怪我骂的脏?\n非人道话语带来非人道辱骂\n这公平 https://t.co/08VdoU9Jk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 148,
+          "like_count": 89,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 218
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

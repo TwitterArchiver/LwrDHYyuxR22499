@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1964637982314598733",
+    "created_at": "2025-09-07T16:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T17:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964731234741108987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1595854676502749187",
+          "start": 0,
+          "username": "xavierzero9"
+        },
+        {
+          "end": 21,
+          "id": "1648122510121271296",
+          "start": 13,
+          "username": "Zeriy_1"
+        },
+        {
+          "end": 37,
+          "id": "1647815138450505730",
+          "start": 22,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964731234741108987",
+    "in_reply_to_user_id": "1595854676502749187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964693771045515727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xavierzero9 @Zeriy_1 @yaming00742313 😎他爸妈给他接回去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1964637982314598733",
+        "created_at": "2025-09-07T16:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964731234741108987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1595854676502749187",
+              "start": 0,
+              "username": "xavierzero9"
+            },
+            {
+              "end": 21,
+              "id": "1648122510121271296",
+              "start": 13,
+              "username": "Zeriy_1"
+            },
+            {
+              "end": 37,
+              "id": "1647815138450505730",
+              "start": 22,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964731234741108987",
+        "in_reply_to_user_id": "1595854676502749187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964693771045515727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xavierzero9 @Zeriy_1 @yaming00742313 😎他爸妈给他接回去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595854676502749187",
+        "conversation_id": "1964637982314598733",
+        "created_at": "2025-09-07T14:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964693771045515727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1648122510121271296",
+              "start": 0,
+              "username": "Zeriy_1"
+            },
+            {
+              "end": 24,
+              "id": "1647815138450505730",
+              "start": 9,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964693771045515727",
+        "in_reply_to_user_id": "1648122510121271296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964637982314598733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zeriy_1 @yaming00742313 好厉害，怎么回来的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 588,
+          "like_count": 569,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 807
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T18:59:53.000Z",
+        "description": "",
+        "id": "1595854676502749187",
+        "location": "Zurich, Switzerland",
+        "name": "煞笔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805272928520388608/T7B-5AXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 103,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 149
+        },
+        "username": "xavierzero9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T00:33:43.000Z",
+        "description": "一个永不疲倦的幻想者。\n梦幻派艺术家，写诗、散文和小说，画插画和风景画等，只做自己喜欢做的事。很希望认识一些有相同灵魂的朋友。           \n〈mtx~f🍥｜理想主义｜不怎么玩推｜▙精神▚状▒态▐〉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeriy.art",
+                "end": 23,
+                "expanded_url": "https://zeriy.art",
+                "start": 0,
+                "url": "https://t.co/5jyo9b27zM"
+              }
+            ]
+          }
+        },
+        "id": "1648122510121271296",
+        "location": "Deutschland",
+        "name": "Zeriy🍥",
+        "pinned_tweet_id": "1883175315503247410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945998387871977472/poPedM5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 46,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/5jyo9b27zM",
+        "username": "Zeriy_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12274,
+          "following_count": 1553,
+          "like_count": 6495,
+          "listed_count": 28,
+          "media_count": 344,
+          "tweet_count": 2466
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984986060926161107",
+    "created_at": "2025-11-03T02:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T03:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985176976597098601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "Makinotouruko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985176976597098601",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985078248020246781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makinotouruko 🤨鸡毛隐含代价不过可能会采访一下救出来的人就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984986060926161107",
+        "created_at": "2025-11-03T02:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T03:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985176976597098601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "Makinotouruko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985176976597098601",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985078248020246781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makinotouruko 🤨鸡毛隐含代价不过可能会采访一下救出来的人就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "1984986060926161107",
+        "created_at": "2025-11-02T20:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T21:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985078248020246781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985078248020246781",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984986060926161107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 确实得收藏，只是不知道你这个不收取费用是不是有其他隐含代价的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 996,
+          "like_count": 836,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1462
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "橘猫硬件实验室主创 曾经自认是ISFP但是测出了INTJ 5w4/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Makinotooruko",
+                "end": 23,
+                "expanded_url": "http://t.me/Makinotooruko",
+                "start": 0,
+                "url": "https://t.co/OG6fIDbGzo"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "牧野トオル子@橘猫硬件实验室",
+        "pinned_tweet_id": "1974499087216173209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888197682927374336/kqtpp-C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 596,
+          "like_count": 21958,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 4689
+        },
+        "url": "https://t.co/OG6fIDbGzo",
+        "username": "Makinotouruko",
+        "verified": false
+      }
+    ]
+  }
+}

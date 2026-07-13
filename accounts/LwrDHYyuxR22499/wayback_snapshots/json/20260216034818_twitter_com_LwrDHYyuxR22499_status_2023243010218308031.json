@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023070492719247701",
+    "created_at": "2026-02-16T03:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023243010218308031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586332050528915457",
+          "start": 0,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023243010218308031",
+    "in_reply_to_user_id": "1586332050528915457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023221424991723936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilaoshizuikeai 嗯?他还给你投过稿?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023070492719247701",
+        "created_at": "2026-02-16T03:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023243010218308031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586332050528915457",
+              "start": 0,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023243010218308031",
+        "in_reply_to_user_id": "1586332050528915457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023221424991723936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilaoshizuikeai 嗯?他还给你投过稿?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "2023070492719247701",
+        "created_at": "2026-02-16T02:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023221424991723936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023221424991723936",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1391,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023070492719247701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 是吗？原来如此\n之前他就给我投稿了好几个，说是他做的案子\n后来我才知道这些案子其实都是你做的\n抱歉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3059,
+          "following_count": 1829,
+          "like_count": 1606,
+          "listed_count": 12,
+          "media_count": 336,
+          "tweet_count": 2166
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252543,
+          "following_count": 745,
+          "like_count": 5797,
+          "listed_count": 1345,
+          "media_count": 1406,
+          "tweet_count": 7240
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

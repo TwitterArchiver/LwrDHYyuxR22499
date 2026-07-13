@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1948297374301884862",
+    "created_at": "2025-07-24T08:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T09:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948297374301884862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yantanzhang/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/yantanzhang/status/1947921073733046704",
+          "start": 33,
+          "url": "https://t.co/n4pATEURct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948297374301884862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947921073733046704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她真了不起一位优秀的女生\n人生本不该因外界的需求而强加给自己什么 https://t.co/n4pATEURct"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3415,
+        "media_key": "3_1947921058092486660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwhn4b4bEAQgHrd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1948297374301884862",
+        "created_at": "2025-07-24T08:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948297374301884862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yantanzhang/status/1947921073733046704",
+              "start": 33,
+              "url": "https://t.co/n4pATEURct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948297374301884862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947921073733046704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她真了不起一位优秀的女生\n人生本不该因外界的需求而强加给自己什么 https://t.co/n4pATEURct"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947921058092486660"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "1947921073733046704",
+        "created_at": "2025-07-23T07:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947921073733046704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAniiBHraT",
+              "end": 39,
+              "expanded_url": "https://x.com/yantanzhang/status/1947921073733046704/photo/1",
+              "media_key": "3_1947921058092486660",
+              "start": 16,
+              "url": "https://t.co/yAniiBHraT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947921073733046704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 80741,
+          "like_count": 857,
+          "quote_count": 10,
+          "reply_count": 130,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现自己是一个很优秀的女性 https://t.co/yAniiBHraT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 450,
+          "like_count": 438,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 607
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "从事反女权反舔狗运动多年，舔狗经济学作者，文章均为原创，已无偿帮助近千位国男",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28742,
+          "following_count": 28,
+          "like_count": 606,
+          "listed_count": 84,
+          "media_count": 2266,
+          "tweet_count": 2392
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

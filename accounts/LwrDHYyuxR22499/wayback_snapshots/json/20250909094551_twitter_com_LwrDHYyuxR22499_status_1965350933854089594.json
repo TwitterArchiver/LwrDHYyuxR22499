@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965134398032081381",
+    "created_at": "2025-09-09T09:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T10:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965350933854089594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631490280997412864",
+          "start": 0,
+          "username": "meho37371461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965350933854089594",
+    "in_reply_to_user_id": "1631490280997412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965326931274183160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meho37371461 ☺️你除了输出情绪还有给我扣帽子\n给我挂个标签开始意淫\n还能干点什么☺️\n按照你这套傻逼意淫说法\n我现在完全可以怀疑你是缝合伪人\n因为你用着英国人发明的WiFi\n美国人发明的手机在这用汉字跟我说话完全不是人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965134398032081381",
+        "created_at": "2025-09-09T09:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965350933854089594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631490280997412864",
+              "start": 0,
+              "username": "meho37371461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965350933854089594",
+        "in_reply_to_user_id": "1631490280997412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965326931274183160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meho37371461 ☺️你除了输出情绪还有给我扣帽子\n给我挂个标签开始意淫\n还能干点什么☺️\n按照你这套傻逼意淫说法\n我现在完全可以怀疑你是缝合伪人\n因为你用着英国人发明的WiFi\n美国人发明的手机在这用汉字跟我说话完全不是人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631490280997412864",
+        "conversation_id": "1965134398032081381",
+        "created_at": "2025-09-09T08:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T09:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965326931274183160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965326931274183160",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965134398032081381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你的意思总结成一句话不过就是希望自杀的做点什么再走，所以别人自杀死了还骂别人是失败者而非解脱通往幸福之路，暗示就是再刀几个拉几个垫背或者做点什么政治类的别人不敢做的事，但是你是不是忘记了一件重要的事，那就是我们就算自杀也不是为了成为你的工具让你过的更好，这个救世主你自己去当!!!懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 600,
+          "like_count": 589,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 833
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T03:03:24.000Z",
+        "description": "",
+        "id": "1631490280997412864",
+        "name": "清空",
+        "pinned_tweet_id": "1963994591792681255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964636540589502464/ITwjvJap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 323,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 145
+        },
+        "username": "meho37371461",
+        "verified": false
+      }
+    ]
+  }
+}

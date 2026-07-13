@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004229118859280442",
+    "created_at": "2025-12-26T04:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004413692730077616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927618351733657600",
+          "start": 0,
+          "username": "BaiChuan202505"
+        },
+        {
+          "end": 26,
+          "id": "1996563547007176704",
+          "start": 16,
+          "username": "gu_niu666"
+        },
+        {
+          "end": 37,
+          "id": "1811690667720212480",
+          "start": 27,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004413692730077616",
+    "in_reply_to_user_id": "1927618351733657600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004386019232366885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiChuan202505 @gu_niu666 @y0zarashi 给一份他的地址给我?如果你方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004229118859280442",
+        "created_at": "2025-12-26T04:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004413692730077616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927618351733657600",
+              "start": 0,
+              "username": "BaiChuan202505"
+            },
+            {
+              "end": 26,
+              "id": "1996563547007176704",
+              "start": 16,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 37,
+              "id": "1811690667720212480",
+              "start": 27,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004413692730077616",
+        "in_reply_to_user_id": "1927618351733657600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004386019232366885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiChuan202505 @gu_niu666 @y0zarashi 给一份他的地址给我?如果你方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927618351733657600",
+        "conversation_id": "2004229118859280442",
+        "created_at": "2025-12-26T02:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004386019232366885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996563547007176704",
+              "start": 0,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 21,
+              "id": "1811690667720212480",
+              "start": 11,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004386019232366885",
+        "in_reply_to_user_id": "1996563547007176704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004383786516254877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu666 @y0zarashi 我在附近，昨天上午同他吃东西，下午被带走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079123917045760/3UkP7ItU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 1443,
+          "like_count": 1173,
+          "listed_count": 7,
+          "media_count": 293,
+          "tweet_count": 1712
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "1996209973081375189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 2607,
+          "like_count": 224,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 542
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n反lgbt/跨人乐子/重开药桶饭\n1.理想是世界没有跨\n2.拆除跨旗子和鱼板标识，屏蔽大数据跨性别人物和社区\n3.当跨也不要进圈子，这会提前结束你青春的生命，这圈子已经烂完，看圈子如喝慢性毒药4.天救自救者\n5.安卓跨人 安卓救人 安卓共情力",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866911071981569/6YDLw6Ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 115,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 815
+        },
+        "username": "gu_niu666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 ftm 不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。不知道为什么吴思嫣把我当做仇人看待了。",
+        "id": "1811690667720212480",
+        "location": "何以思嫣",
+        "name": "yozarashi🏳️‍⚧️",
+        "pinned_tweet_id": "2002364655977836760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173282617323535/gFc0LSIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 167,
+          "like_count": 35,
+          "listed_count": 5,
+          "media_count": 1242,
+          "tweet_count": 5651
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

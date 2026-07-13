@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056952024542199889",
+    "created_at": "2026-05-20T04:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056953890516685188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056953890516685188",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056952024542199889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋可能是因为在这些人看来，自己可以眼睁睁看着跟自己毫无关系的人受尽苦难无动于衷，或是压根不在乎自身以外的任何人\n理解不了人类可以做一些高尚的事情\n认定别人皆是如此所以意淫所谓的白骑士给我扣上诈骗犯的帽子\n真庆幸我天生就喜欢无视大众的评判"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056952024542199889",
+        "created_at": "2026-05-20T04:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056953890516685188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056953890516685188",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056952024542199889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋可能是因为在这些人看来，自己可以眼睁睁看着跟自己毫无关系的人受尽苦难无动于衷，或是压根不在乎自身以外的任何人\n理解不了人类可以做一些高尚的事情\n认定别人皆是如此所以意淫所谓的白骑士给我扣上诈骗犯的帽子\n真庆幸我天生就喜欢无视大众的评判"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056952024542199889",
+        "created_at": "2026-05-20T04:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056952024542199889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SGxxxxxxxxxxxx…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/SGxxxxxxxxxxxx/status/2056947209426661454",
+              "start": 145,
+              "url": "https://t.co/3hyuzmVBhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056952024542199889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056947209426661454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真要让我回答这个问题还真有点难。\n毕竟我从不跟任何一个受助者要报酬，\n即使自己花销再多\n总是在触碰一些敏感的东西为了曝光真相\n没有薪资收入也不是为了\n跟海外谋取政治庇护身份\n这甚至导致一群阴暗蛆\n意淫我是白骑士心理为了流量\n通过获取名声诈骗别人过活\n实话讲\n我只是看不得有人在我面前被虐死 https://t.co/3hyuzmVBhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 2874,
+          "like_count": 2833,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2797
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

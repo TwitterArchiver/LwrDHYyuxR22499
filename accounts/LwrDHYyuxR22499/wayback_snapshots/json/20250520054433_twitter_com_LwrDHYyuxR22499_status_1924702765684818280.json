@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1924702717756538881"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1924022424389157373",
+    "created_at": "2025-05-20T05:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T06:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924702765684818280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "kagurazakaSiri_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fP6EcxxL8o",
+          "end": 40,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1924702765684818280/video/1",
+          "media_key": "7_1924702717756538881",
+          "start": 17,
+          "url": "https://t.co/fP6EcxxL8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924702765684818280",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924701856275861536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakaSiri_ https://t.co/fP6EcxxL8o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21687,
+        "height": 720,
+        "media_key": "7_1924702717756538881",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1924702717756538881/pu/img/NNiPXRLgwSH9l0-u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924702717756538881/pu/vid/avc1/320x320/mSZ72GftZvecvby2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924702717756538881/pu/vid/avc1/540x540/uU9DhsvE_taSRf61.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924702717756538881/pu/vid/avc1/720x720/CHm41y8_L6qza_3d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1924702717756538881/pu/pl/fPwSmAnA43bM4tJ_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1924702717756538881"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1924022424389157373",
+        "created_at": "2025-05-20T05:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924702765684818280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "kagurazakaSiri_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fP6EcxxL8o",
+              "end": 40,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1924702765684818280/video/1",
+              "media_key": "7_1924702717756538881",
+              "start": 17,
+              "url": "https://t.co/fP6EcxxL8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924702765684818280",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924701856275861536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakaSiri_ https://t.co/fP6EcxxL8o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1924022424389157373",
+        "created_at": "2025-05-20T05:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924701856275861536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924701856275861536",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924701785727631688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 325,
+          "like_count": 317,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 473
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "喜多郁代同志 🏳️‍🌈MtX 2008年生 神奈川县横滨市人 2022年加入纽带乐队 担任主唱吉他手 maimaiでらっくす 2022年乐队登顶日本音乐榜 被授头衔归去来兮女士 曾列席特朗普马斯克对谈会 @overspeed_wiki2段子手 是后藤同志@minokakay 山田凉同志@juhao0721 的好伙伴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "overspeed_wiki2"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "minokakay"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "🏳️‍🌈🏳️‍⚧️点一下「查看更多」试试？",
+        "name": "翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6632,
+          "following_count": 922,
+          "like_count": 21910,
+          "listed_count": 7,
+          "media_count": 1363,
+          "tweet_count": 10353
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": true
+      }
+    ]
+  }
+}

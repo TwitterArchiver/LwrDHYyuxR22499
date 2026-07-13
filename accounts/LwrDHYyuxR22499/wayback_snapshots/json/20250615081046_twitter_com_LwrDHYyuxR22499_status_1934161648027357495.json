@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1934159547956105511",
+    "created_at": "2025-06-15T08:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T09:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934161648027357495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934161648027357495",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934159547956105511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 中国的跨性别社群的友谊就像魔法一样🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1934159547956105511",
+        "created_at": "2025-06-15T08:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934161648027357495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934161648027357495",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934159547956105511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 中国的跨性别社群的友谊就像魔法一样🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1934159547956105511",
+        "created_at": "2025-06-15T08:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934159547956105511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eqliberty404/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/eqliberty404/status/1933486378211553460",
+              "start": 15,
+              "url": "https://t.co/9KyTQbN7n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934159547956105511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933486378211553460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相信的心和友谊都是我们的魔法 https://t.co/9KyTQbN7n8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 371,
+          "like_count": 359,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 518
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Chicago, IL",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1839456976008593788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10467,
+          "following_count": 2309,
+          "like_count": 32025,
+          "listed_count": 34,
+          "media_count": 479,
+          "tweet_count": 15060
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2016434282101932039",
+    "created_at": "2026-01-28T08:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016434282101932039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2016224324768997468",
+          "start": 36,
+          "url": "https://t.co/7aW5JD61uZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016434282101932039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016224324768997468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓谢谢各位的担心只是一瞬间产生了一下这个想法而已\n我知道该死的另有其人 https://t.co/7aW5JD61uZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2016434282101932039",
+        "created_at": "2026-01-28T08:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016434282101932039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2016224324768997468",
+              "start": 36,
+              "url": "https://t.co/7aW5JD61uZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016434282101932039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016224324768997468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓谢谢各位的担心只是一瞬间产生了一下这个想法而已\n我知道该死的另有其人 https://t.co/7aW5JD61uZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2016224324768997468",
+        "created_at": "2026-01-27T18:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016224324768997468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016224324768997468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☹️我最近怎么了久违的有点想自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 1687,
+          "like_count": 1429,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1993
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1962091482938265949",
+    "created_at": "2025-08-31T09:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T10:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962091482938265949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nuominiang7588…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Nuominiang75884/status/1944698948972904844",
+          "start": 26,
+          "url": "https://t.co/bjvDhVExnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962091482938265949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944698948972904844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤨真的没法救吗直接六天速通的弱智东西不如李铮一根毛 https://t.co/bjvDhVExnU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1962091482938265949",
+        "created_at": "2025-08-31T09:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962091482938265949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nuominiang7588…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Nuominiang75884/status/1944698948972904844",
+              "start": 26,
+              "url": "https://t.co/bjvDhVExnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962091482938265949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944698948972904844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤨真的没法救吗直接六天速通的弱智东西不如李铮一根毛 https://t.co/bjvDhVExnU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "1944698948972904844",
+        "created_at": "2025-07-14T10:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944698948972904844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944698948972904844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 25868,
+          "like_count": 377,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "山东是我见过最魔幻的省份，受害者被送山东就无法救援，原因是山东对于机构的态度是支持的，而山东警方对于报警说有人自杀的态度是，他/她不是你亲人，你为什么要管，只有QQ号和微信号无法定位，所以现在对山东的反扭转以及危机干预极其困难，之前就有出现过山东心种子的校长曹永旺带人跨省抢人的情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 546,
+          "like_count": 522,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 748
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "我喜欢摄影，为了留住短暂的美好 /INFP-T /道教徒 摄影/姐姐@Kietter387803/ 主人@ggdxfulan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ggdxfulan"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1950668729882423658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 1379,
+          "like_count": 17201,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 2561
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1920539736541728768"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1920539761837543537",
+    "created_at": "2025-05-08T18:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T19:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920539761837543537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ci0FnKado",
+          "end": 35,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1920539761837543537/video/1",
+          "media_key": "7_1920539736541728768",
+          "start": 12,
+          "url": "https://t.co/4ci0FnKado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920539761837543537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半夜饿了来点老北京美食 https://t.co/4ci0FnKado"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 842,
+        "media_key": "7_1920539736541728768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920539736541728768/pu/img/QS_88DxMPDO3FEv5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920539736541728768/pu/vid/avc1/320x422/nQ-NJM7b6sv9N_Fv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920539736541728768/pu/vid/avc1/480x632/-SuIdf_IQbLFnRoJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920539736541728768/pu/vid/avc1/638x842/HtdOg49cNQl8_I47.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920539736541728768/pu/pl/ti11noT7lVI_ICw7.m3u8?tag=12"
+          }
+        ],
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920539736541728768"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1920539761837543537",
+        "created_at": "2025-05-08T18:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T19:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920539761837543537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ci0FnKado",
+              "end": 35,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1920539761837543537/video/1",
+              "media_key": "7_1920539736541728768",
+              "start": 12,
+              "url": "https://t.co/4ci0FnKado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920539761837543537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜饿了来点老北京美食 https://t.co/4ci0FnKado"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 297,
+          "like_count": 253,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 419
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

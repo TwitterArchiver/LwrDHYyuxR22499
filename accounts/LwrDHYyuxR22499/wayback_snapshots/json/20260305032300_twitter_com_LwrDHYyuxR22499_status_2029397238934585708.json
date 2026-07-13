@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2028865780746781074",
+    "created_at": "2026-03-05T03:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029397238934585708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        },
+        {
+          "end": 20,
+          "id": "918593759121690625",
+          "start": 12,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029397238934585708",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029261250954445030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine @hu_qin_ 没有我目前接手这个人从扭转出来就直接被教官护送回家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2028865780746781074",
+        "created_at": "2026-03-05T03:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029397238934585708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            },
+            {
+              "end": 20,
+              "id": "918593759121690625",
+              "start": 12,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029397238934585708",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029261250954445030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine @hu_qin_ 没有我目前接手这个人从扭转出来就直接被教官护送回家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "2028865780746781074",
+        "created_at": "2026-03-04T18:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029261250954445030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 25,
+              "id": "918593759121690625",
+              "start": 17,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029261250954445030",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029026484694990870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @hu_qin_ 啊，这种情况是没躲好嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 1955,
+          "like_count": 1820,
+          "listed_count": 11,
+          "media_count": 346,
+          "tweet_count": 2266
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//爱人@hood438371//陪聊门槛50喵，能给你提供情绪价值、暂时不线下//重度抖M，sub//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🍥",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 862,
+          "like_count": 22572,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 6272
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem",
+        "name": "胡琴",
+        "pinned_tweet_id": "1778422281485885497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1786,
+          "like_count": 19122,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 5113
+        },
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

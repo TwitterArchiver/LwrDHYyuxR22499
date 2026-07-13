@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000342831035265112",
+    "created_at": "2025-12-15T07:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000468287306846264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "AkonBritain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000468287306846264",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000467858170798509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkonBritain 实际上我们吵的都不是这些\n而是不该有一个皇帝\n不能因为我的指控就对一个人实行非人道的对待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000342831035265112",
+        "created_at": "2025-12-15T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468287306846264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "AkonBritain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468287306846264",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000467858170798509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkonBritain 实际上我们吵的都不是这些\n而是不该有一个皇帝\n不能因为我的指控就对一个人实行非人道的对待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2000342831035265112",
+        "created_at": "2025-12-15T07:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000467858170798509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000467858170798509",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000465969567969308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 不过我个人并不认可你指控寒和受助者发现性关系、因为这需要充足的证据而且寒的经历更像强奸…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1205,
+          "like_count": 1033,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 1623
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine.\nCan I steal your pain and shed it away?",
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurélia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919148943982592/yNkKa2ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 88,
+          "like_count": 118488,
+          "listed_count": 3,
+          "media_count": 4755,
+          "tweet_count": 66698
+        },
+        "username": "AkonBritain",
+        "verified": false
+      }
+    ]
+  }
+}

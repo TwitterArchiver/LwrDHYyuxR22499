@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018962703470243840",
+        "3_2018962700584579073",
+        "3_2018962700580319232",
+        "3_2018962702425870337"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018962720155160994",
+    "created_at": "2026-02-04T08:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T09:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018962720155160994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxOTIwiwEt",
+          "end": 161,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+          "media_key": "3_2018962703470243840",
+          "start": 138,
+          "url": "https://t.co/kxOTIwiwEt"
+        },
+        {
+          "display_url": "pic.x.com/kxOTIwiwEt",
+          "end": 161,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+          "media_key": "3_2018962700584579073",
+          "start": 138,
+          "url": "https://t.co/kxOTIwiwEt"
+        },
+        {
+          "display_url": "pic.x.com/kxOTIwiwEt",
+          "end": 161,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+          "media_key": "3_2018962700580319232",
+          "start": 138,
+          "url": "https://t.co/kxOTIwiwEt"
+        },
+        {
+          "display_url": "pic.x.com/kxOTIwiwEt",
+          "end": 161,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+          "media_key": "3_2018962702425870337",
+          "start": 138,
+          "url": "https://t.co/kxOTIwiwEt"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 185,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018955721636020621",
+          "start": 162,
+          "url": "https://t.co/WIiDwcvx17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018962720155160994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018955721636020621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该机构在过去十余年的运营中，性侵、虐待、殴打等指控从未间断，却始终屹立不倒，甚至从重庆扩张至贵州山东等地。\n \n我们决定公开调查收集到的该机构档案。其背后牵扯的利益链条之深贪污腐败令人咋舌\n市公安局，妇联教育局政法委皆为该校背书\n你以为警察会来解救这些孩子？\n哈哈…恰恰相反 https://t.co/kxOTIwiwEt https://t.co/WIiDwcvx17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2018962703470243840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4cMbMAAdLYz.jpg",
+        "width": 657
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018962700584579073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4RcbcAEO99M.jpg",
+        "width": 917
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2018962700580319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4RbacAAw05_.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2018962702425870337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATL4YTbUAEBb6b.jpg",
+        "width": 859
+      },
+      {
+        "duration_ms": 14357,
+        "height": 960,
+        "media_key": "7_2018955376855863297",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018955376855863297/pu/img/-Aac4ovGXp1gh1Ja.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955376855863297/pu/vid/avc1/320x568/Xz2kF3K7rXLNw53v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955376855863297/pu/vid/avc1/480x852/yamXqlbSXwx7zrT4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955376855863297/pu/vid/avc1/540x960/kfJcU9E34DTx3Rwu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018955376855863297/pu/pl/fYxH-K6txpW3Cn7S.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 16299,
+        "height": 960,
+        "media_key": "7_2018955410070454272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018955410070454272/pu/img/Ws_TKyrL7pswq6UG.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955410070454272/pu/vid/avc1/320x568/Ry_Dh1c4qeDMORB9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955410070454272/pu/vid/avc1/480x852/gMJcb4r0hhGXFnTh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955410070454272/pu/vid/avc1/540x960/Fnq61h1FdGf6hOwH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018955410070454272/pu/pl/W_RbLhvu-gpywUGP.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 5631,
+        "height": 960,
+        "media_key": "7_2018955687708221441",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018955687708221441/pu/img/xQ3MF5zhiPu4XXB3.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955687708221441/pu/vid/avc1/320x568/qisUqkaUr4CVuuMe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955687708221441/pu/vid/avc1/480x852/iam_jDLwn5wnC0G1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018955687708221441/pu/vid/avc1/540x960/AtbLdrRIPYzFWO5q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018955687708221441/pu/pl/TcnipI6ajSc9T99A.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018962703470243840",
+            "3_2018962700584579073",
+            "3_2018962700580319232",
+            "3_2018962702425870337"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018962720155160994",
+        "created_at": "2026-02-04T08:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018962720155160994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962703470243840",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962700584579073",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962700580319232",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "pic.x.com/kxOTIwiwEt",
+              "end": 161,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018962720155160994/photo/1",
+              "media_key": "3_2018962702425870337",
+              "start": 138,
+              "url": "https://t.co/kxOTIwiwEt"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2018955721636020621",
+              "start": 162,
+              "url": "https://t.co/WIiDwcvx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018962720155160994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018955721636020621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该机构在过去十余年的运营中，性侵、虐待、殴打等指控从未间断，却始终屹立不倒，甚至从重庆扩张至贵州山东等地。\n \n我们决定公开调查收集到的该机构档案。其背后牵扯的利益链条之深贪污腐败令人咋舌\n市公安局，妇联教育局政法委皆为该校背书\n你以为警察会来解救这些孩子？\n哈哈…恰恰相反 https://t.co/kxOTIwiwEt https://t.co/WIiDwcvx17"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018955376855863297",
+            "7_2018955410070454272",
+            "7_2018955687708221441"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018955721636020621",
+        "created_at": "2026-02-04T07:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018955721636020621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBlvt7eshk",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018955721636020621/video/1",
+              "media_key": "7_2018955376855863297",
+              "start": 151,
+              "url": "https://t.co/CBlvt7eshk"
+            },
+            {
+              "display_url": "pic.x.com/CBlvt7eshk",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018955721636020621/video/1",
+              "media_key": "7_2018955410070454272",
+              "start": 151,
+              "url": "https://t.co/CBlvt7eshk"
+            },
+            {
+              "display_url": "pic.x.com/CBlvt7eshk",
+              "end": 174,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018955721636020621/video/1",
+              "media_key": "7_2018955687708221441",
+              "start": 151,
+              "url": "https://t.co/CBlvt7eshk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018955721636020621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "山东德州环帝素质教育基地现场通报\n \n组员已渗透进基地内部实地探查，现场真实情况与网传“学员全部获得自由”不符\n \n1. 操场仍有多名学员被体罚人身自由与安全未得到保障\n2. 此前暴动砸坏的门板、床板等设施，正由教官带领学员清理修缮；\n3. 基地仍处于封闭管控状态\n现场至少有一个所的警力布控用于维稳 https://t.co/CBlvt7eshk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1720,
+          "like_count": 1441,
+          "listed_count": 10,
+          "media_count": 322,
+          "tweet_count": 2010
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

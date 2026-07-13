@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1986283877128937936",
+    "created_at": "2025-11-06T05:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986306250330788240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935328713396326400",
+          "start": 0,
+          "username": "aiyinmontana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986306250330788240",
+    "in_reply_to_user_id": "1935328713396326400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986283877128937936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyinmontana 高雅创作"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10158,
+        "height": 872,
+        "media_key": "7_1986283672581120006",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986283672581120006/pu/img/FfOgpYq6mDq6ZYGA.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283672581120006/pu/vid/avc1/320x580/iAQdsSZN7QmsJAqB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283672581120006/pu/vid/avc1/480x872/tfSr60N69U9GAO44.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986283672581120006/pu/pl/9iFb9Ht7tOeq6nWG.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "duration_ms": 15181,
+        "height": 480,
+        "media_key": "7_1986283720425545728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986283720425545728/pu/img/YP7Ww-JHaGvpxKiD.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283720425545728/pu/vid/avc1/490x270/r6I6x9d_UZ0j2s4B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283720425545728/pu/vid/avc1/654x360/wZLNEIEkI-RO8jGo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283720425545728/pu/vid/avc1/872x480/iU0vl--CMmgUdh_y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986283720425545728/pu/pl/EV4VpNYCNiiRxXjb.m3u8?tag=12"
+          }
+        ],
+        "width": 872
+      },
+      {
+        "duration_ms": 15181,
+        "height": 480,
+        "media_key": "7_1986283779477159936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986283779477159936/pu/img/R-mTLnB-74hSICM1.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283779477159936/pu/vid/avc1/490x270/6ZLTjApcDvRk4j4-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283779477159936/pu/vid/avc1/654x360/3l6EzOEI-qRk3bTx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283779477159936/pu/vid/avc1/872x480/SQEIwcpOHifV16vS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986283779477159936/pu/pl/Nto0Bx-xaTYCqdIP.m3u8?tag=12"
+          }
+        ],
+        "width": 872
+      },
+      {
+        "duration_ms": 15181,
+        "height": 480,
+        "media_key": "7_1986283840416165888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986283840416165888/pu/img/5tYXz-lWZ1t-HfCs.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283840416165888/pu/vid/avc1/490x270/jBJ5cvOQw7ne2__i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283840416165888/pu/vid/avc1/654x360/_Nhg-uJdrYyUQiBj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986283840416165888/pu/vid/avc1/872x480/q5lSIXwwk-Hv22uM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986283840416165888/pu/pl/6TZa59juhXXDh-8t.m3u8?tag=12"
+          }
+        ],
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1986283877128937936",
+        "created_at": "2025-11-06T05:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986306250330788240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935328713396326400",
+              "start": 0,
+              "username": "aiyinmontana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986306250330788240",
+        "in_reply_to_user_id": "1935328713396326400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986283877128937936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyinmontana 高雅创作"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986283672581120006",
+            "7_1986283720425545728",
+            "7_1986283779477159936",
+            "7_1986283840416165888"
+          ]
+        },
+        "author_id": "1935328713396326400",
+        "conversation_id": "1986283877128937936",
+        "created_at": "2025-11-06T04:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986283877128937936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "爱人TV"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "戒网瘾学校"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "爱教官TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCdif0k0Gi",
+              "end": 43,
+              "expanded_url": "https://x.com/aiyinmontana/status/1986283877128937936/video/1",
+              "media_key": "7_1986283672581120006",
+              "start": 20,
+              "url": "https://t.co/sCdif0k0Gi"
+            },
+            {
+              "display_url": "pic.x.com/sCdif0k0Gi",
+              "end": 43,
+              "expanded_url": "https://x.com/aiyinmontana/status/1986283877128937936/video/1",
+              "media_key": "7_1986283720425545728",
+              "start": 20,
+              "url": "https://t.co/sCdif0k0Gi"
+            },
+            {
+              "display_url": "pic.x.com/sCdif0k0Gi",
+              "end": 43,
+              "expanded_url": "https://x.com/aiyinmontana/status/1986283877128937936/video/1",
+              "media_key": "7_1986283779477159936",
+              "start": 20,
+              "url": "https://t.co/sCdif0k0Gi"
+            },
+            {
+              "display_url": "pic.x.com/sCdif0k0Gi",
+              "end": 43,
+              "expanded_url": "https://x.com/aiyinmontana/status/1986283877128937936/video/1",
+              "media_key": "7_1986283840416165888",
+              "start": 20,
+              "url": "https://t.co/sCdif0k0Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986283877128937936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#爱人TV\n#戒网瘾学校\n#爱教官TV https://t.co/sCdif0k0Gi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 1004,
+          "like_count": 840,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 1466
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T13:28:24.000Z",
+        "description": "",
+        "id": "1935328713396326400",
+        "name": "爱音•蒙大拿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976273748438437888/ZAehKFsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 41,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 63
+        },
+        "username": "aiyinmontana",
+        "verified": false
+      }
+    ]
+  }
+}

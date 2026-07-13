@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1973200474477306270",
+    "created_at": "2025-10-23T05:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981234655107190811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967482947671310336",
+          "start": 0,
+          "username": "xingran890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981234655107190811",
+    "in_reply_to_user_id": "1967482947671310336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981227959454216388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingran890 咱别造神😁您以后可以跟我干一样的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1973200474477306270",
+        "created_at": "2025-10-23T05:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981234655107190811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967482947671310336",
+              "start": 0,
+              "username": "xingran890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981234655107190811",
+        "in_reply_to_user_id": "1967482947671310336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981227959454216388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingran890 咱别造神😁您以后可以跟我干一样的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967482947671310336",
+        "conversation_id": "1973200474477306270",
+        "created_at": "2025-10-23T05:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981227959454216388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981227959454216388",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973200474477306270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 先生大义，王哥永远是我的偶像，祝王哥一切行动顺利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 929,
+          "like_count": 729,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1189
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T06:57:59.000Z",
+        "description": "ftm跨性别男性，算是半个家暴党。\n活着本身并无意义，我们要做的就是赋予活着本身意义。比如说为了对抗否定对多元群体的恶意，这就是意义。不想死了想活着，只能活着，因为不敢死。",
+        "id": "1967482947671310336",
+        "location": "加拿大溫哥華",
+        "name": "这里是随便君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967561173122904065/lPWbjH7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "xingran890",
+        "verified": false
+      }
+    ]
+  }
+}

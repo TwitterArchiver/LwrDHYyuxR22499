@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980905948832231781",
+    "created_at": "2025-10-22T08:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980919037120111090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620367275273633792",
+          "start": 0,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980919037120111090",
+    "in_reply_to_user_id": "1620367275273633792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980917671928672306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alina_Medverova 那您就没从这个东西最本质的逻辑跟我探讨\n因为从受害者出来后的成分来看他显然不能维稳\n我还没见过任何一个基本盘进去出来还是基本盘\n并且在批量制造社会不稳定分子\n给予各国关于人权话题对此事展开的讨论以及批判\n如果我在玩地球模拟器的话我一定不会点这个点用来维稳🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T08:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980919037120111090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980919037120111090",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980917671928672306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 那您就没从这个东西最本质的逻辑跟我探讨\n因为从受害者出来后的成分来看他显然不能维稳\n我还没见过任何一个基本盘进去出来还是基本盘\n并且在批量制造社会不稳定分子\n给予各国关于人权话题对此事展开的讨论以及批判\n如果我在玩地球模拟器的话我一定不会点这个点用来维稳🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T08:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980917671928672306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980917671928672306",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980917456891007253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我还是那句话，它是否利于维稳始终无所谓，目的是维稳就足够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 927,
+          "like_count": 722,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1154
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1526,
+          "like_count": 74807,
+          "listed_count": 6,
+          "media_count": 985,
+          "tweet_count": 16368
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981739254347686066",
+    "created_at": "2025-10-24T15:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T16:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981739254347686066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981737744109072561",
+          "start": 36,
+          "url": "https://t.co/rrxVEv5PCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981739254347686066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981737744109072561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你如果放着大量做好隔离推特鉴证仍被抓的人\n那我只能又在认定你在意淫了🤣 https://t.co/rrxVEv5PCG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981739254347686066",
+        "created_at": "2025-10-24T15:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981739254347686066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981737744109072561",
+              "start": 36,
+              "url": "https://t.co/rrxVEv5PCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981739254347686066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981737744109072561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你如果放着大量做好隔离推特鉴证仍被抓的人\n那我只能又在认定你在意淫了🤣 https://t.co/rrxVEv5PCG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981737744109072561",
+        "created_at": "2025-10-24T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981737744109072561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981736183026569498",
+              "start": 145,
+              "url": "https://t.co/bnySfHAB7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981737744109072561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981736183026569498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但凡找的不是演员，都能找到自己被找的原因，哪个反贼没这点脑子？\n支共的信息监控在墙外就只能仰赖信息隔离不到位或是墙内外同名称，+86手机这种最终引到墙内数据库的方式（你硬要露脸/露位置那没办法）\n或者墙外言论根本不是黑皮的线索，抗不住压招了的，甚至黑皮最后都不知道的也大有人在…\n\n难绷… https://t.co/bnySfHAB7c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 949,
+          "like_count": 766,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 1348
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 188,
+          "like_count": 9526,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2202
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

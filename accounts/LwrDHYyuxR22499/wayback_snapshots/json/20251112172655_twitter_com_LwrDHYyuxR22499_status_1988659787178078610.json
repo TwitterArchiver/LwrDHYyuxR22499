@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1988604160745541670",
+    "created_at": "2025-11-12T17:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T18:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988659787178078610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1725845598426030080",
+          "start": 0,
+          "username": "dadaolzlkjituan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988659787178078610",
+    "in_reply_to_user_id": "1725845598426030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988658371000693091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dadaolzlkjituan 你确定不是段鑫的父母吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1988604160745541670",
+        "created_at": "2025-11-12T17:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988659787178078610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1725845598426030080",
+              "start": 0,
+              "username": "dadaolzlkjituan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988659787178078610",
+        "in_reply_to_user_id": "1725845598426030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988658371000693091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dadaolzlkjituan 你确定不是段鑫的父母吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725845598426030080",
+        "conversation_id": "1988604160745541670",
+        "created_at": "2025-11-12T17:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988658371000693091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988658371000693091",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988604160745541670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 1.視頻上之受害者不是段鑫，\n是2023年死於李錚集中營之新受害者.\n2.段鑫是被李科手下之湘潭縣“青少年素質教育學校”裏頭之“教官”，\n給活生生地打死的,\n(先前因段鑫越獄巳經被打得半死了，\n據文獻記載.)\n3.李錚集團実際上只支付了“賠償款”（封口費60萬.）\n本人對上述之言論負責到底."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 1025,
+          "like_count": 829,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 1389
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T11:57:27.000Z",
+        "description": "吃人不吐骨頭的英高特（湘陰縣李錚犯罪集團），\n一家開在名為湘陰縣中山職業技術學校內部的非人道特訓集中營“學校”。\n此校先後已有20餘名“學生”“意外”死亡，\n本少爺微博上400多條博文一夜之間， 盡數消失， 此等鬼蜮伎倆， 必定為李錚集團所為。 牠們殘害少年， 賺人血饅頭錢之鬼蜮行徑， 必將被曝於青天白日之下。",
+        "id": "1725845598426030080",
+        "location": "中華民國維新政府",
+        "name": "打倒李錚李科集中營違法集團",
+        "pinned_tweet_id": "1862183058700640476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804574276483514370/SzH158xM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 43,
+          "like_count": 3253,
+          "listed_count": 1,
+          "media_count": 981,
+          "tweet_count": 3230
+        },
+        "username": "dadaolzlkjituan",
+        "verified": false
+      }
+    ]
+  }
+}

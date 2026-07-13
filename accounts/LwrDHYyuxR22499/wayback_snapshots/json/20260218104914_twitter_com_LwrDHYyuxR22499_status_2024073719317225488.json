@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2023776840608084441",
+    "created_at": "2026-02-18T10:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024073719317225488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1093065619577147392",
+          "start": 0,
+          "username": "AkQfpdUknVp0O4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024073719317225488",
+    "in_reply_to_user_id": "1093065619577147392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024073311416684734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkQfpdUknVp0O4n 呃呃……我也是顺直…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2023776840608084441",
+        "created_at": "2026-02-18T10:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024073719317225488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1093065619577147392",
+              "start": 0,
+              "username": "AkQfpdUknVp0O4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024073719317225488",
+        "in_reply_to_user_id": "1093065619577147392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024073311416684734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkQfpdUknVp0O4n 呃呃……我也是顺直…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093065619577147392",
+        "conversation_id": "2023776840608084441",
+        "created_at": "2026-02-18T10:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024073311416684734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024073311416684734",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023776840608084441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 妈呀，顺直男真TM恶心死了🤢🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 1867,
+          "like_count": 1665,
+          "listed_count": 12,
+          "media_count": 340,
+          "tweet_count": 2188
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-06T08:35:26.000Z",
+        "description": "",
+        "id": "1093065619577147392",
+        "location": "Germany",
+        "name": "天蝎座",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587364303568502786/ENuT3ZrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 2038,
+          "like_count": 10069,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 535
+        },
+        "username": "AkQfpdUknVp0O4n",
+        "verified": false
+      }
+    ]
+  }
+}

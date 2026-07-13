@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000398751740100642",
+    "created_at": "2025-12-15T03:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000401464771166399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698001955422175232",
+          "start": 0,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000401464771166399",
+    "in_reply_to_user_id": "1698001955422175232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000401276967014742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d07207333210 🤓好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000398751740100642",
+        "created_at": "2025-12-15T03:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000401464771166399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698001955422175232",
+              "start": 0,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000401464771166399",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000401276967014742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d07207333210 🤓好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "conversation_id": "2000398751740100642",
+        "created_at": "2025-12-15T03:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000401276967014742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000401276967014742",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000400449342750933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 看完了，所以你只是复读一遍以前的对话，“告诉”实际只是复读，那我也要复读一下截图了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 1188,
+          "like_count": 1029,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 1617
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "pinned_tweet_id": "1999902018316710000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 877,
+          "like_count": 23596,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 4702
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

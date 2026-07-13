@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1986317940472365235",
+    "created_at": "2025-11-06T06:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T07:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986317940472365235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JanexieL/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/JanexieL/status/1977368463703212340",
+          "start": 29,
+          "url": "https://t.co/nix03cwTTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986317940472365235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977368463703212340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤨你怎么知道我没这么做呢\n还是你觉得我搞倒闭的学校还少了 https://t.co/nix03cwTTI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1986317940472365235",
+        "created_at": "2025-11-06T06:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986317940472365235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JanexieL/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/JanexieL/status/1977368463703212340",
+              "start": 29,
+              "url": "https://t.co/nix03cwTTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986317940472365235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977368463703212340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤨你怎么知道我没这么做呢\n还是你觉得我搞倒闭的学校还少了 https://t.co/nix03cwTTI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2305516323",
+        "conversation_id": "1972094428220428684",
+        "created_at": "2025-10-12T13:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977368463703212340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977368463703212340",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972094428220428684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你都拿到这么多证据了，\n以你狭隘的性格，你不应该举报、内外媒体曝光双管齐下吗？至少在x上你都恨不得一张张文件、一个个视频传你的英勇事迹了啊~\n我也觉得网瘾学校没必要，不如直接切断生活费让他们去打工吧~\nOD、阉割就不是创收了？创欧美人的收也是创~别那么双标~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 1005,
+          "like_count": 840,
+          "listed_count": 6,
+          "media_count": 255,
+          "tweet_count": 1373
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-26T11:44:28.000Z",
+        "description": "₍˄·͈༝·͈˄₎ʃ \n私人\n不要关注",
+        "id": "2305516323",
+        "name": "JaneX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/584383649837031424/Z3wyr3vG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 169,
+          "like_count": 27541,
+          "listed_count": 4,
+          "media_count": 1700,
+          "tweet_count": 7047
+        },
+        "username": "JanexieL",
+        "verified": false
+      }
+    ]
+  }
+}

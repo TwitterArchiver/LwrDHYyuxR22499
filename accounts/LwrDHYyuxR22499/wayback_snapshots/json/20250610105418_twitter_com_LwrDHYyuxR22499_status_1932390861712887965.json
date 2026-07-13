@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1932390861712887965",
+    "created_at": "2025-06-10T10:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T11:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932390861712887965"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932390861712887965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是个实践主义者为了探究为什么有人od\nod有什么快感\nod又会给人带来怎样的伤害还有怎样的感受\n我联合用药了十粒美金刚以及十粒金刚烷胺\n结果是我其实没感觉到任何幸福不过我看到非常多艺术的场面\n神圣的天堂摆钟以及腐烂的死亡人间\n药效没超过十九个小时\n整个人勉强能走路\n无快感\n有清晰的思维逻辑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1932390861712887965",
+        "created_at": "2025-06-10T10:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T11:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932390861712887965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932390861712887965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是个实践主义者为了探究为什么有人od\nod有什么快感\nod又会给人带来怎样的伤害还有怎样的感受\n我联合用药了十粒美金刚以及十粒金刚烷胺\n结果是我其实没感觉到任何幸福不过我看到非常多艺术的场面\n神圣的天堂摆钟以及腐烂的死亡人间\n药效没超过十九个小时\n整个人勉强能走路\n无快感\n有清晰的思维逻辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 364,
+          "like_count": 344,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 508
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

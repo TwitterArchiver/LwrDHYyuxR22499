@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999309621845254386",
+    "created_at": "2025-12-12T21:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T22:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999596192582500853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918895108453548032",
+          "start": 0,
+          "username": "LEGESHENMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999596192582500853",
+    "in_reply_to_user_id": "1918895108453548032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999596024973893945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LEGESHENMA 一直很有实力先生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-12T21:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999596192582500853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918895108453548032",
+              "start": 0,
+              "username": "LEGESHENMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999596192582500853",
+        "in_reply_to_user_id": "1918895108453548032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999596024973893945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LEGESHENMA 一直很有实力先生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918895108453548032",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-12T21:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999596024973893945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999596024973893945",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999309621845254386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这么强？！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1139,
+          "like_count": 971,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1553
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T05:07:52.000Z",
+        "description": "雕雕",
+        "id": "1918895108453548032",
+        "location": "Earth",
+        "name": "了个神马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918895330931937280/TvkUnx1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 271,
+          "like_count": 2639,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 372
+        },
+        "username": "LEGESHENMA",
+        "verified": false
+      }
+    ]
+  }
+}

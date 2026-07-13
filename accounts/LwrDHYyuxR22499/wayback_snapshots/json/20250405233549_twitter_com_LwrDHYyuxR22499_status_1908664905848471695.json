@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908664903399071745"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1908499192730824953",
+    "created_at": "2025-04-05T23:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T00:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908664905848471695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1457925329939361797",
+          "start": 0,
+          "username": "sutanghentian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lJbymB3c1o",
+          "end": 84,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1908664905848471695/photo/1",
+          "media_key": "3_1908664903399071745",
+          "start": 61,
+          "url": "https://t.co/lJbymB3c1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908664905848471695",
+    "in_reply_to_user_id": "1457925329939361797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908499192730824953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sutanghentian 这世界就是这傻逼社会就是这样的很正常我其实可以跟您讲解这一切是为什么如果需要帮助可以联系我 https://t.co/lJbymB3c1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1908664903399071745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnzwnfpbYAEqiW2.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908664903399071745"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1908499192730824953",
+        "created_at": "2025-04-05T23:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T00:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908664905848471695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1457925329939361797",
+              "start": 0,
+              "username": "sutanghentian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJbymB3c1o",
+              "end": 84,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1908664905848471695/photo/1",
+              "media_key": "3_1908664903399071745",
+              "start": 61,
+              "url": "https://t.co/lJbymB3c1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908664905848471695",
+        "in_reply_to_user_id": "1457925329939361797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908499192730824953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sutanghentian 这世界就是这傻逼社会就是这样的很正常我其实可以跟您讲解这一切是为什么如果需要帮助可以联系我 https://t.co/lJbymB3c1o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457925329939361797",
+        "conversation_id": "1908499192730824953",
+        "created_at": "2025-04-05T12:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908499192730824953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908499192730824953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1794,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭…一边看着和我差不多时间hrt和留头发的家长党，一边再看看被送到扭转之后的我现在的样子…为什么这个世界会这样子…\n我真的时不时就有想要死掉的念头…为什么呀…我真的好难受…凭什么呀，我做错了什么为什么这个世界要这样子对我…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 267,
+          "like_count": 207,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 360
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T04:17:53.000Z",
+        "description": "07年的女孩子，家暴党，（hrt：2023.6.24）老公@kokodayoCN，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，@linyin1129，妹妹@sorasukiovo，经常emo…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "kokodayoCN"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Fancy_Starry"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "eureka222323"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "plantie_uwu"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "bghtnya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "linyin1129"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "sorasukiovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sutangtiantian",
+                "end": 23,
+                "expanded_url": "https://t.me/sutangtiantian",
+                "start": 0,
+                "url": "https://t.co/kPZmayouXK"
+              }
+            ]
+          }
+        },
+        "id": "1457925329939361797",
+        "location": "垃圾桶",
+        "name": "酥糖～🏳️‍⚧️🍥🍬",
+        "pinned_tweet_id": "1823031404789481494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 1675,
+          "like_count": 26703,
+          "listed_count": 6,
+          "media_count": 467,
+          "tweet_count": 15590
+        },
+        "url": "https://t.co/kPZmayouXK",
+        "username": "sutanghentian",
+        "verified": false
+      }
+    ]
+  }
+}

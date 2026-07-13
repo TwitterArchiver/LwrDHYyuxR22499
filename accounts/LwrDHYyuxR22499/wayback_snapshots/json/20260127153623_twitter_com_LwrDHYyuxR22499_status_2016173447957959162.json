@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015296767462637676",
+    "created_at": "2026-01-27T15:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016173447957959162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982451698473054208",
+          "start": 0,
+          "username": "Koizumi_imuvas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016173447957959162",
+    "in_reply_to_user_id": "1982451698473054208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016159414236192779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koizumi_imuvas 务必加入我们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015296767462637676",
+        "created_at": "2026-01-27T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016173447957959162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982451698473054208",
+              "start": 0,
+              "username": "Koizumi_imuvas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016173447957959162",
+        "in_reply_to_user_id": "1982451698473054208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016159414236192779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koizumi_imuvas 务必加入我们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982451698473054208",
+        "conversation_id": "2015296767462637676",
+        "created_at": "2026-01-27T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016159414236192779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016159414236192779",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015296767462637676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 需要打手吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 1679,
+          "like_count": 1423,
+          "listed_count": 12,
+          "media_count": 317,
+          "tweet_count": 1985
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:18:27.000Z",
+        "description": "爱乐之城",
+        "id": "1982451698473054208",
+        "name": "阴湿巨魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982848482927845376/jt4gp5k9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 59,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 123
+        },
+        "username": "Koizumi_imuvas",
+        "verified": false
+      }
+    ]
+  }
+}

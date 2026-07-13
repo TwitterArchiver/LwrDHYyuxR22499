@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2060007987264033255",
+    "created_at": "2026-05-28T14:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060007987264033255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2060006581975093441",
+          "start": 103,
+          "url": "https://t.co/8xY68jNwZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060007987264033255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060006581975093441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因个案救援以开发至上线\n我将不再局限于只救一个人，或只毁一个体系，转而求上\n我们正在开发系统性清除体系的方式，如果运行成功，以后我们就可以像现在救人一样简单地点掉一个体系，从而实现某省某市扭转清零的工作。 https://t.co/8xY68jNwZo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060007987264033255",
+        "created_at": "2026-05-28T14:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060007987264033255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2060006581975093441",
+              "start": 103,
+              "url": "https://t.co/8xY68jNwZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060007987264033255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060006581975093441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因个案救援以开发至上线\n我将不再局限于只救一个人，或只毁一个体系，转而求上\n我们正在开发系统性清除体系的方式，如果运行成功，以后我们就可以像现在救人一样简单地点掉一个体系，从而实现某省某市扭转清零的工作。 https://t.co/8xY68jNwZo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060006581975093441",
+        "created_at": "2026-05-28T14:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060006581975093441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060006581975093441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我与我们的组员正在尝试将一个省的扭转机构清零\n各位有兴趣参加么?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 3005,
+          "like_count": 3002,
+          "listed_count": 19,
+          "media_count": 429,
+          "tweet_count": 2877
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

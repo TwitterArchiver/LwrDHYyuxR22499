@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2035038760161718397",
+    "created_at": "2026-03-20T17:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T18:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035038760161718397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2035035535912431729",
+          "start": 146,
+          "url": "https://t.co/uETDta0w4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035038760161718397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035035535912431729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我痛恨这一切。\n为什么坐在这个位置上的人偏偏是我？为什么我不得不亲眼目睹这些疾苦？\n我突然发现无论是掀翻一整个体系救下几百人\n还是单独处理个案救下几十人，\n亦是联合众多自媒体主流媒体让BBC报道，\n生命依旧总在我眼前滑落\n我还是和从前一样守护不住他们\n我憎恨这份突如其来却又不得不背负的责任 https://t.co/uETDta0w4M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2035038760161718397",
+        "created_at": "2026-03-20T17:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035038760161718397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2035035535912431729",
+              "start": 146,
+              "url": "https://t.co/uETDta0w4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035038760161718397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035035535912431729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我痛恨这一切。\n为什么坐在这个位置上的人偏偏是我？为什么我不得不亲眼目睹这些疾苦？\n我突然发现无论是掀翻一整个体系救下几百人\n还是单独处理个案救下几十人，\n亦是联合众多自媒体主流媒体让BBC报道，\n生命依旧总在我眼前滑落\n我还是和从前一样守护不住他们\n我憎恨这份突如其来却又不得不背负的责任 https://t.co/uETDta0w4M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2035035535912431729",
+        "created_at": "2026-03-20T16:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035035535912431729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035035535912431729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情复杂。\n今日有美好的生命在眼前闪过\n只觉得自己深深地破碎\n有人被打死，有人被虐死，\n有人被殴打致伤、伤口感染、身上生蛆，\n有人因创伤在绝望中选择自杀\n死亡如同影子伴我左右\n我能做什么呢？\n坐这个位置连绝望都不配\n一旦崩溃就会有更多人死\n一声声不断的叹息里，大概又有人死去了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3878,
+          "following_count": 2173,
+          "like_count": 2125,
+          "listed_count": 13,
+          "media_count": 361,
+          "tweet_count": 2357
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

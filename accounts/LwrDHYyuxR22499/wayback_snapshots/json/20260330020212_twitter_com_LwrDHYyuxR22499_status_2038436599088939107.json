@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038436585881088003",
+        "3_2038436586195709952",
+        "3_2038436587940478976",
+        "3_2038436589517656064"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038436599088939107",
+    "created_at": "2026-03-30T02:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038436599088939107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GevEDdh52",
+          "end": 74,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+          "media_key": "3_2038436585881088003",
+          "start": 51,
+          "url": "https://t.co/3GevEDdh52"
+        },
+        {
+          "display_url": "pic.x.com/3GevEDdh52",
+          "end": 74,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+          "media_key": "3_2038436586195709952",
+          "start": 51,
+          "url": "https://t.co/3GevEDdh52"
+        },
+        {
+          "display_url": "pic.x.com/3GevEDdh52",
+          "end": 74,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+          "media_key": "3_2038436587940478976",
+          "start": 51,
+          "url": "https://t.co/3GevEDdh52"
+        },
+        {
+          "display_url": "pic.x.com/3GevEDdh52",
+          "end": 74,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+          "media_key": "3_2038436589517656064",
+          "start": 51,
+          "url": "https://t.co/3GevEDdh52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038436599088939107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本次受温柔委托帮助其表述本次真实意愿\n我等会会开个投票出来\n后续对跨性别者的救助会严格按此次投票为准 https://t.co/3GevEDdh52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_2038436585881088003",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEn7RlaaMAMYwHC.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1376,
+        "media_key": "3_2038436586195709952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEn7Rmla8AAUFuh.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2038436587940478976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEn7RtFaAAAsGSo.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038436589517656064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEn7Ry9b0AAO23S.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038436585881088003",
+            "3_2038436586195709952",
+            "3_2038436587940478976",
+            "3_2038436589517656064"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038436599088939107",
+        "created_at": "2026-03-30T02:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038436599088939107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GevEDdh52",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+              "media_key": "3_2038436585881088003",
+              "start": 51,
+              "url": "https://t.co/3GevEDdh52"
+            },
+            {
+              "display_url": "pic.x.com/3GevEDdh52",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+              "media_key": "3_2038436586195709952",
+              "start": 51,
+              "url": "https://t.co/3GevEDdh52"
+            },
+            {
+              "display_url": "pic.x.com/3GevEDdh52",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+              "media_key": "3_2038436587940478976",
+              "start": 51,
+              "url": "https://t.co/3GevEDdh52"
+            },
+            {
+              "display_url": "pic.x.com/3GevEDdh52",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2038436599088939107/photo/1",
+              "media_key": "3_2038436589517656064",
+              "start": 51,
+              "url": "https://t.co/3GevEDdh52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038436599088939107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本次受温柔委托帮助其表述本次真实意愿\n我等会会开个投票出来\n后续对跨性别者的救助会严格按此次投票为准 https://t.co/3GevEDdh52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 2303,
+          "like_count": 2220,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 2451
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

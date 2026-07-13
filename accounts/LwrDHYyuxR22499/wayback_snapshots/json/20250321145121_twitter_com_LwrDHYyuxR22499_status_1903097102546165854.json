@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903097098347651072"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1903055499085648184",
+    "created_at": "2025-03-21T14:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T15:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903097102546165854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "935788025300348929",
+          "start": 0,
+          "username": "bingling39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbkwLdxnaj",
+          "end": 39,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1903097102546165854/photo/1",
+          "media_key": "3_1903097098347651072",
+          "start": 16,
+          "url": "https://t.co/TbkwLdxnaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903097102546165854",
+    "in_reply_to_user_id": "935788025300348929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903055499085648184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingling39 你咋了 https://t.co/TbkwLdxnaj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1808,
+        "media_key": "3_1903097098347651072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkoulgWoAAcw_h.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903097098347651072"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1903055499085648184",
+        "created_at": "2025-03-21T14:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T15:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903097102546165854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "935788025300348929",
+              "start": 0,
+              "username": "bingling39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbkwLdxnaj",
+              "end": 39,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1903097102546165854/photo/1",
+              "media_key": "3_1903097098347651072",
+              "start": 16,
+              "url": "https://t.co/TbkwLdxnaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903097102546165854",
+        "in_reply_to_user_id": "935788025300348929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903055499085648184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingling39 你咋了 https://t.co/TbkwLdxnaj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935788025300348929",
+        "conversation_id": "1903055499085648184",
+        "created_at": "2025-03-21T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903055499085648184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903055499085648184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终究还是只剩下自己一人了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 249,
+          "like_count": 186,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 326
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:30:26.000Z",
+        "description": "mtf/持证含糖/不太熟悉玩推/手机维修工程师（修手机的)/武汉庇佑所管理/ TG频道: https://t.co/uHpEpvSrXC /🚪80支付宝口令 /但行好事，莫问前程",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 68,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 45,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 23,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 0,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          }
+        },
+        "id": "935788025300348929",
+        "location": "WuHan",
+        "name": "冰凌枫月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822820942843985920/JJaPljOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 227,
+          "like_count": 2392,
+          "listed_count": 8,
+          "media_count": 193,
+          "tweet_count": 1036
+        },
+        "url": "https://t.co/uHpEpvSrXC",
+        "username": "bingling39",
+        "verified": false
+      }
+    ]
+  }
+}

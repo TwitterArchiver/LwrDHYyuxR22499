@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980886168872103968",
+    "created_at": "2025-10-23T04:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981212617235714216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981212617235714216",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981184124217151687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 看看你自己是什么成色🫵🏻\n按照你的理论你妈在中国生下你給共产党缴税都是阴谋\n你竟然还能舔着个脸在秩序暴力下跟个一条有被害妄想癔症的蛆一样活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980886168872103968",
+        "created_at": "2025-10-23T04:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981212617235714216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981212617235714216",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981184124217151687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 看看你自己是什么成色🫵🏻\n按照你的理论你妈在中国生下你給共产党缴税都是阴谋\n你竟然还能舔着个脸在秩序暴力下跟个一条有被害妄想癔症的蛆一样活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1980886168872103968",
+        "created_at": "2025-10-23T02:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T03:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981184124217151687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981184124217151687",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980886168872103968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 有这么个人吗你发个图就了不起？盒都盒不到，你是想说黑皮已经帮你把盒保护起来了还是就没这么个盒？是想坦承自己是诈欺犯还是黑皮同路人？\n\n正常人随手盒一下都能知道你什么成色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 927,
+          "like_count": 728,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 1181
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 183,
+          "like_count": 8883,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1997
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

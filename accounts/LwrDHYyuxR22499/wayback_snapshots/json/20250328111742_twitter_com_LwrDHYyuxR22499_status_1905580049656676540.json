@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905580040634728450"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1905580049656676540",
+    "created_at": "2025-03-28T11:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T12:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905580049656676540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tkX5NhOuZo",
+          "end": 105,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1905580049656676540/photo/1",
+          "media_key": "3_1905580040634728450",
+          "start": 82,
+          "url": "https://t.co/tkX5NhOuZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905580049656676540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汤戈韬自己是跨性别又意淫别人是阴阳双面🤣真够反跨的\n爹味真重你的脑子疑似这辈子也区分不开辱骂跟性骚扰了\n你的父母在你的教育阶段缺失了吗\n让你既没有同情心有这么爹味 https://t.co/tkX5NhOuZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905580040634728450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnH682UbgAIJksm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905580040634728450"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1905580049656676540",
+        "created_at": "2025-03-28T11:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905580049656676540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkX5NhOuZo",
+              "end": 105,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1905580049656676540/photo/1",
+              "media_key": "3_1905580040634728450",
+              "start": 82,
+              "url": "https://t.co/tkX5NhOuZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905580049656676540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汤戈韬自己是跨性别又意淫别人是阴阳双面🤣真够反跨的\n爹味真重你的脑子疑似这辈子也区分不开辱骂跟性骚扰了\n你的父母在你的教育阶段缺失了吗\n让你既没有同情心有这么爹味 https://t.co/tkX5NhOuZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 257,
+          "like_count": 193,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 340
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

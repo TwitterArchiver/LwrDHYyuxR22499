@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038983075070390300",
+    "created_at": "2026-03-31T14:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038983075070390300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ytiihyslqlabpo…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/ytiihyslqlabpow/status/2038981045404524724",
+          "start": 142,
+          "url": "https://t.co/r3pR2b1oEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038983075070390300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038981045404524724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多人对我表示退出有一定误解\n我并不是非要对方放弃自己的身份认同，我才愿意出手相助\n而是在现实条件下，我个人没有办法用她们认同的方式去救人\n如果可以，我当然愿意尊重并称呼她们认可的身份\n但在当下的舆论环境里，我们显然做不到。\n与其继续用这种方式，在无意中伤害到她们，选择退出也许更好 https://t.co/r3pR2b1oEV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038983075070390300",
+        "created_at": "2026-03-31T14:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038983075070390300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ytiihyslqlabpo…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/ytiihyslqlabpow/status/2038981045404524724",
+              "start": 142,
+              "url": "https://t.co/r3pR2b1oEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038983075070390300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038981045404524724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人对我表示退出有一定误解\n我并不是非要对方放弃自己的身份认同，我才愿意出手相助\n而是在现实条件下，我个人没有办法用她们认同的方式去救人\n如果可以，我当然愿意尊重并称呼她们认可的身份\n但在当下的舆论环境里，我们显然做不到。\n与其继续用这种方式，在无意中伤害到她们，选择退出也许更好 https://t.co/r3pR2b1oEV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "406080012",
+        "conversation_id": "2038981045404524724",
+        "created_at": "2026-03-31T14:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038981045404524724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2038894930832355833",
+              "start": 71,
+              "url": "https://t.co/tEU9hJz0Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038981045404524724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038894930832355833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说，虽然发了个投票，但是只要投的不是你想要的，就退出\n换句话说，只有投票同意你 misgender 跨性别，你才愿意「救人」。\n有点抽象 https://t.co/tEU9hJz0Zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3994,
+          "following_count": 2322,
+          "like_count": 2327,
+          "listed_count": 15,
+          "media_count": 383,
+          "tweet_count": 2515
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-06T06:44:29.000Z",
+        "description": "女的// Trader Joe's 爱好者 // 🚪GRE 330+（两年内有效）// #推友的性别是推友 \n⬛⬛⬛⬛⬛⬛ \n🌫️🌫️🌫️🌫️🌫️🌫️ \n⬜⬜⬜⬜⬜⬜ \n🟪🟪🟪🟪🟪🟪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 44,
+                "tag": "推友的性别是推友"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misstaco.bsky.social",
+                "end": 23,
+                "expanded_url": "https://misstaco.bsky.social/",
+                "start": 0,
+                "url": "https://t.co/nxt1zHSlka"
+              }
+            ]
+          }
+        },
+        "id": "406080012",
+        "location": "Wonderland",
+        "name": "蛋挞也是 Taco🎄",
+        "pinned_tweet_id": "1717588345973612909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707630937343774720/vhBzp-4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5680,
+          "following_count": 1250,
+          "like_count": 13989,
+          "listed_count": 26,
+          "media_count": 3702,
+          "tweet_count": 18367
+        },
+        "url": "https://t.co/nxt1zHSlka",
+        "username": "ytiihyslqlabpow",
+        "verified": true
+      }
+    ]
+  }
+}

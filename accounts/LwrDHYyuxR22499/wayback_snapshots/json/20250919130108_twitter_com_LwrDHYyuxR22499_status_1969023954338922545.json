@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1968928035928752193",
+    "created_at": "2025-09-19T13:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T14:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969023954338922545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874120221151420420",
+          "start": 0,
+          "username": "In0w0nI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969023954338922545",
+    "in_reply_to_user_id": "1874120221151420420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969022018407539106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@In0w0nI 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1968928035928752193",
+        "created_at": "2025-09-19T13:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969023954338922545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874120221151420420",
+              "start": 0,
+              "username": "In0w0nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969023954338922545",
+        "in_reply_to_user_id": "1874120221151420420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969022018407539106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In0w0nI 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874120221151420420",
+        "conversation_id": "1968928035928752193",
+        "created_at": "2025-09-19T12:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969022018407539106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969022018407539106",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968928035928752193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你干嘛救人，活该被骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 706,
+          "like_count": 633,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 897
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:47:42.000Z",
+        "description": "我明天一定要去干坏事",
+        "id": "1874120221151420420",
+        "name": "☁️炼之青🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929012217460174848/NNot55uP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 72,
+          "like_count": 2310,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 4647
+        },
+        "username": "In0w0nI",
+        "verified": false
+      }
+    ]
+  }
+}

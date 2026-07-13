@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2007997868649652365",
+    "created_at": "2026-01-05T02:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T03:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008002745354293308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1981940554075357184",
+          "start": 0,
+          "username": "Nyarsalt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008002745354293308",
+    "in_reply_to_user_id": "1981940554075357184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008000619072950358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyarsalt 🤔🤔🤔你怎么这么多小号按你这理论你活着都算炒作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2007997868649652365",
+        "created_at": "2026-01-05T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008002745354293308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1981940554075357184",
+              "start": 0,
+              "username": "Nyarsalt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008002745354293308",
+        "in_reply_to_user_id": "1981940554075357184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008000619072950358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyarsalt 🤔🤔🤔你怎么这么多小号按你这理论你活着都算炒作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981940554075357184",
+        "conversation_id": "2007997868649652365",
+        "created_at": "2026-01-05T02:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008000619072950358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008000619072950358",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007997868649652365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你现在怎么变成纯炒作了，李颖（戒网瘾版）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 1504,
+          "like_count": 1264,
+          "listed_count": 9,
+          "media_count": 302,
+          "tweet_count": 1813
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T04:27:13.000Z",
+        "description": "本人来推特就是为了约炮，最近钟情于小枝黑薯条 @mengtunwudaimu的亲亇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "mengtunwudaimu"
+              }
+            ]
+          }
+        },
+        "id": "1981940554075357184",
+        "name": "小北",
+        "pinned_tweet_id": "2007222642777174183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005205378808647680/j43tRh2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 60,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 562
+        },
+        "username": "Nyarsalt",
+        "verified": false
+      }
+    ]
+  }
+}

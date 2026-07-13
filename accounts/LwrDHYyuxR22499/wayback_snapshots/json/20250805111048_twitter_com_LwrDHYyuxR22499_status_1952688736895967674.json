@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1952688736895967674",
+    "created_at": "2025-08-05T11:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T12:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952688736895967674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MizukiWorkshop…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/MizukiWorkshop/status/1952681805942849869",
+          "start": 52,
+          "url": "https://t.co/isKYuVvGHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952688736895967674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952681805942849869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想如果你真正遭受过霸凌你应该知道……\n霸凌都是系统性的\n视而不见又或者参与其中\n都是平庸之恶的一部分 https://t.co/isKYuVvGHg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1952688736895967674",
+        "created_at": "2025-08-05T11:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952688736895967674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/1952681805942849869",
+              "start": 52,
+              "url": "https://t.co/isKYuVvGHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952688736895967674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952681805942849869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想如果你真正遭受过霸凌你应该知道……\n霸凌都是系统性的\n视而不见又或者参与其中\n都是平庸之恶的一部分 https://t.co/isKYuVvGHg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "1952681805942849869",
+        "created_at": "2025-08-05T10:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952681805942849869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1952680083442798954",
+              "start": 139,
+              "url": "https://t.co/hMHE9dQohf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952681805942849869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 4,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952680083442798954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好好平庸之恶，望文生义差不多得了，我就当闲着没事来支教一下吧：\n所谓平庸之恶（恶的平庸性）指的是纳粹集中营体系的一种性质，其将反人类暴行的罪恶性质拆解消融在发展到极致的科层制结构中；这种消融之所以可能，其前提是国家机器的高度组织化、分工化、理性化。\n最后半句话复读三遍，请。 https://t.co/hMHE9dQohf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 466,
+          "like_count": 451,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 630
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1015,
+          "like_count": 97911,
+          "listed_count": 9,
+          "media_count": 1305,
+          "tweet_count": 18582
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2071639824977604663",
+    "created_at": "2026-06-29T16:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071639824977604663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2071639138143518907",
+          "start": 53,
+          "url": "https://t.co/A3X965fjmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071639824977604663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071639138143518907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人问我非法扭转学校没了\n哪么合法的呢\n那些挂着资质干坏事的“专门学校”呢\n答案显而易见\n新的斗争开始了 https://t.co/A3X965fjmP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 244,
+        "media_key": "3_2071639134897164288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_w0TJX0AAjeoc.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071639824977604663",
+        "created_at": "2026-06-29T16:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071639824977604663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2071639138143518907",
+              "start": 53,
+              "url": "https://t.co/A3X965fjmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071639824977604663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071639138143518907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人问我非法扭转学校没了\n哪么合法的呢\n那些挂着资质干坏事的“专门学校”呢\n答案显而易见\n新的斗争开始了 https://t.co/A3X965fjmP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071639134897164288"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071639138143518907",
+        "created_at": "2026-06-29T16:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071639138143518907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bn81urlrIu",
+              "end": 130,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2071639138143518907/photo/1",
+              "media_key": "3_2071639134897164288",
+              "start": 107,
+              "url": "https://t.co/Bn81urlrIu"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2050137220758270151",
+              "start": 131,
+              "url": "https://t.co/AMxn0T74Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071639138143518907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050137220758270151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该校办学许可已被没收\n不要觉得顶着个专门学校的招牌就拿你没办法\n非法开的戒网瘾学校还没收拾干净\n不要觉得你们这些上了牌照\n就可以乱搞事\n不老老实实接收警送生一样一脚踹死\n因涉及一些保密事项\n只放送节选篇章后续补全 https://t.co/Bn81urlrIu https://t.co/AMxn0T74Sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6159,
+          "following_count": 3289,
+          "like_count": 3588,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3216
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

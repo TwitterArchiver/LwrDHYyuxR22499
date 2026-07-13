@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984303997478715645",
+    "created_at": "2025-10-31T17:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984305819475726339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945314984881479680",
+          "start": 0,
+          "username": "DXL_888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984305819475726339",
+    "in_reply_to_user_id": "1945314984881479680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984305248278888635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXL_888 😓希望您在这个话题上严肃一些\n我为数不多充满美好愿景的一次被狠狠干碎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984303997478715645",
+        "created_at": "2025-10-31T17:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984305819475726339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945314984881479680",
+              "start": 0,
+              "username": "DXL_888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984305819475726339",
+        "in_reply_to_user_id": "1945314984881479680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984305248278888635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXL_888 😓希望您在这个话题上严肃一些\n我为数不多充满美好愿景的一次被狠狠干碎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314984881479680",
+        "conversation_id": "1984303997478715645",
+        "created_at": "2025-10-31T17:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984305248278888635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984305248278888635",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984303997478715645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 支"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 979,
+          "like_count": 783,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1399
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T02:50:15.000Z",
+        "description": "你看那通天的几把，每时每刻都在设。我小时候不懂，以为那是雪花。｜乳化男娘，非常抽象，现居承德，头像是本人｜大号：@notThujaS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "notThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1945314984881479680",
+        "name": "🍥乌老师不是污老师🏳️‍⚧️",
+        "pinned_tweet_id": "1982950018735849738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980850696745369600/fABSABe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 70,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 632
+        },
+        "username": "DXL_888",
+        "verified": false
+      }
+    ]
+  }
+}

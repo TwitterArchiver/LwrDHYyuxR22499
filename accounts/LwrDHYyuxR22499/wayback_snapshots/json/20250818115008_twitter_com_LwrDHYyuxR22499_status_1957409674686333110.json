@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957409670605484032",
+        "3_1957409669837946880",
+        "3_1957409667925303296"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1957409674686333110",
+    "created_at": "2025-08-18T11:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T12:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957409674686333110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cm55dpMpTE",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957409674686333110/photo/1",
+          "media_key": "3_1957409670605484032",
+          "start": 144,
+          "url": "https://t.co/cm55dpMpTE"
+        },
+        {
+          "display_url": "pic.x.com/cm55dpMpTE",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957409674686333110/photo/1",
+          "media_key": "3_1957409669837946880",
+          "start": 144,
+          "url": "https://t.co/cm55dpMpTE"
+        },
+        {
+          "display_url": "pic.x.com/cm55dpMpTE",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957409674686333110/photo/1",
+          "media_key": "3_1957409667925303296",
+          "start": 144,
+          "url": "https://t.co/cm55dpMpTE"
+        },
+        {
+          "display_url": "x.com/mu71996101761/…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/mu71996101761/status/1955999989555191883",
+          "start": 168,
+          "url": "https://t.co/FZP8DDbjJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957409674686333110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955999989555191883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要祈祷😁从来就没有什么救世主也不靠神仙皇帝要创造人类的幸福全靠我们自己\n我们要夺回劳动果实让思想冲破牢笼\n快把那炉火烧地通红\n趁热打铁才能成功\n这是最后的斗争团结起来到明天\n英特纳雄耐尔就一定要实现\n让我们抗争不合法与不公\n让我们团结起来\n直到明天\n能为弱势群体我为此流血流汗我很骄傲 https://t.co/cm55dpMpTE https://t.co/FZP8DDbjJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957409670605484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoduYBasAAyhag.jpg",
+        "width": 917
+      },
+      {
+        "height": 2248,
+        "media_key": "3_1957409669837946880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoduVKbAAAxVbJ.jpg",
+        "width": 1042
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1957409667925303296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoduOCaYAAlmj_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957409670605484032",
+            "3_1957409669837946880",
+            "3_1957409667925303296"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1957409674686333110",
+        "created_at": "2025-08-18T11:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957409674686333110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cm55dpMpTE",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957409674686333110/photo/1",
+              "media_key": "3_1957409670605484032",
+              "start": 144,
+              "url": "https://t.co/cm55dpMpTE"
+            },
+            {
+              "display_url": "pic.x.com/cm55dpMpTE",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957409674686333110/photo/1",
+              "media_key": "3_1957409669837946880",
+              "start": 144,
+              "url": "https://t.co/cm55dpMpTE"
+            },
+            {
+              "display_url": "pic.x.com/cm55dpMpTE",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1957409674686333110/photo/1",
+              "media_key": "3_1957409667925303296",
+              "start": 144,
+              "url": "https://t.co/cm55dpMpTE"
+            },
+            {
+              "display_url": "x.com/mu71996101761/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/mu71996101761/status/1955999989555191883",
+              "start": 168,
+              "url": "https://t.co/FZP8DDbjJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957409674686333110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955999989555191883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要祈祷😁从来就没有什么救世主也不靠神仙皇帝要创造人类的幸福全靠我们自己\n我们要夺回劳动果实让思想冲破牢笼\n快把那炉火烧地通红\n趁热打铁才能成功\n这是最后的斗争团结起来到明天\n英特纳雄耐尔就一定要实现\n让我们抗争不合法与不公\n让我们团结起来\n直到明天\n能为弱势群体我为此流血流汗我很骄傲 https://t.co/cm55dpMpTE https://t.co/FZP8DDbjJb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873359152376131585",
+        "conversation_id": "1955939459196723692",
+        "created_at": "2025-08-14T14:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955999989555191883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955999989555191883",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955939459196723692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 只能为他们祈祷，希望平安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 506,
+          "like_count": 469,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 675
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T13:23:38.000Z",
+        "description": "别用着中国话骂着中国人，只会一天天挂着个破vpn翻墙来看，还一口一个支那猪，你自己不是吗，回家看看自己家的猪还在不在，上网冲浪给脑子冲傻了吧 ，以为看个外网就无敌了，赶紧让你妈去给日本人当慰安妇吧，只配舔洋人屁眼，我不反对也不支持，如果有错那是国家，人民是没有错的",
+        "id": "1873359152376131585",
+        "name": "謀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955503350059094016/mdIm_ZTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "mu71996101761",
+        "verified": false
+      }
+    ]
+  }
+}

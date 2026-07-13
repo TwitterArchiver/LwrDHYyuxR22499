@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1982088322299371868",
+    "created_at": "2025-10-26T06:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982329485468082235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        },
+        {
+          "end": 29,
+          "id": "1607388730914140160",
+          "start": 15,
+          "username": "popcat1234566"
+        },
+        {
+          "end": 46,
+          "id": "1907152174431535104",
+          "start": 30,
+          "username": "6L217qw9Fg66380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982329485468082235",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982252918049825026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 @popcat1234566 @6L217qw9Fg66380 没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1982088322299371868",
+        "created_at": "2025-10-26T06:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982329485468082235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            },
+            {
+              "end": 29,
+              "id": "1607388730914140160",
+              "start": 15,
+              "username": "popcat1234566"
+            },
+            {
+              "end": 46,
+              "id": "1907152174431535104",
+              "start": 30,
+              "username": "6L217qw9Fg66380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982329485468082235",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982252918049825026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 @popcat1234566 @6L217qw9Fg66380 没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "1982088322299371868",
+        "created_at": "2025-10-26T01:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982252918049825026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            },
+            {
+              "end": 31,
+              "id": "1907152174431535104",
+              "start": 15,
+              "username": "6L217qw9Fg66380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982252918049825026",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982251037177106875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 @6L217qw9Fg66380 洛可可救出来了就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 948,
+          "like_count": 771,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 1361
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884745863534198785/t0P4WW_w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 144,
+          "like_count": 66713,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 7165
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n另有神秘菜单 私信解锁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1960642947600228419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812786235565314048/g2vuCrcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 652,
+          "like_count": 36232,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T19:25:00.000Z",
+        "description": "最尊重山东人的推主，od💊自由，文学爱好者。",
+        "id": "1907152174431535104",
+        "location": "Minato-ku, Tokyo",
+        "name": "前列腺高潮不是被爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980860743072305152/vWsx8_Qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 76,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "6L217qw9Fg66380",
+        "verified": false
+      }
+    ]
+  }
+}

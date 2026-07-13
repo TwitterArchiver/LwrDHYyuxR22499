@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2043276542089060456",
+    "created_at": "2026-04-12T12:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043304331731190117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515859446492061696",
+          "start": 0,
+          "username": "xb2002b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/5A7zmFZ4NSEl…",
+          "end": 32,
+          "expanded_url": "https://mp.weixin.qq.com/s/5A7zmFZ4NSEl5hEwwXPVBA",
+          "start": 9,
+          "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HA2P22mjP9UGU_whsiHywcI0gj7mTOqnjVvuXT95&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5A7zmFZ4NSEl5hEwwXPVBA",
+          "url": "https://t.co/bmQspYKvXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043304331731190117",
+    "in_reply_to_user_id": "1515859446492061696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043285327591432330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xb2002b https://t.co/bmQspYKvXZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2043276542089060456",
+        "created_at": "2026-04-12T12:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043304331731190117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515859446492061696",
+              "start": 0,
+              "username": "xb2002b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/5A7zmFZ4NSEl…",
+              "end": 32,
+              "expanded_url": "https://mp.weixin.qq.com/s/5A7zmFZ4NSEl5hEwwXPVBA",
+              "start": 9,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HA2P22mjP9UGU_whsiHywcI0gj7mTOqnjVvuXT95&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5A7zmFZ4NSEl5hEwwXPVBA",
+              "url": "https://t.co/bmQspYKvXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043304331731190117",
+        "in_reply_to_user_id": "1515859446492061696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043285327591432330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xb2002b https://t.co/bmQspYKvXZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515859446492061696",
+        "conversation_id": "2043276542089060456",
+        "created_at": "2026-04-12T11:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043285327591432330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043285327591432330",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 469,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043276542089060456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 citation needed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 2430,
+          "like_count": 2505,
+          "listed_count": 14,
+          "media_count": 397,
+          "tweet_count": 2623
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T01:07:24.000Z",
+        "description": "Amateur C-E translator. Stacking/Overwatch/Genshin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xb2002b",
+                "end": 23,
+                "expanded_url": "http://github.com/xb2002b",
+                "start": 0,
+                "url": "https://t.co/UqLMrfOvOb"
+              }
+            ]
+          }
+        },
+        "id": "1515859446492061696",
+        "location": "雾之湖",
+        "name": "xb2002b",
+        "pinned_tweet_id": "1957814333725110738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862515176429219840/D4ZJXH3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 118,
+          "like_count": 69430,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/UqLMrfOvOb",
+        "username": "xb2002b",
+        "verified": false
+      }
+    ]
+  }
+}

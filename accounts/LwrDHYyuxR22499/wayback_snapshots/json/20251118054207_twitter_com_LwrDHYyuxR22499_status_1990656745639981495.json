@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1990656745639981495",
+    "created_at": "2025-11-18T05:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990656745639981495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1990655984839372964",
+          "start": 56,
+          "url": "https://t.co/H8qy8OtXQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990656745639981495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990655984839372964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我似乎已经做好了把他们这些丑事全部爆出之后被弄死的准备了?\n也许吧\n这不重要重要的是我们完整的证明了\n一件事情 https://t.co/H8qy8OtXQ4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1990656745639981495",
+        "created_at": "2025-11-18T05:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990656745639981495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1990655984839372964",
+              "start": 56,
+              "url": "https://t.co/H8qy8OtXQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990656745639981495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990655984839372964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我似乎已经做好了把他们这些丑事全部爆出之后被弄死的准备了?\n也许吧\n这不重要重要的是我们完整的证明了\n一件事情 https://t.co/H8qy8OtXQ4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1990655984839372964",
+        "created_at": "2025-11-18T05:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990655984839372964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1990652354425995274",
+              "start": 145,
+              "url": "https://t.co/BC2aIR489K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990655984839372964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990652354425995274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这个基础上我们更加的证明了\n不仅无法靠着现有的司法体系解决\n青少年被远洋捕捞迫害非法囚禁虐待\n等事情\n我们还收集并且证实到了许许多多扭转机构是在政府等官僚体系的授意下开设的\n并充当打手从中牟取暴利贪污腐败的证据\n\n这不是地头蛇这么简单\n这是一场脱缰了的官僚体系对人民进行压迫的一场战争… https://t.co/BC2aIR489K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1111,
+          "like_count": 881,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 1443
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

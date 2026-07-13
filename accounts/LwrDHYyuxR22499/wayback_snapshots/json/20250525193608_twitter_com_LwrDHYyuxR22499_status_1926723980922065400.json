@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1926524314502758616",
+    "created_at": "2025-05-25T19:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T20:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926723980922065400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588890037474971649",
+          "start": 0,
+          "username": "Spartakist_"
+        },
+        {
+          "end": 25,
+          "id": "1448187795571286017",
+          "start": 13,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926723980922065400",
+    "in_reply_to_user_id": "1588890037474971649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926534973164552238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spartakist_ @shuiyebush1 好吊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1926524314502758616",
+        "created_at": "2025-05-25T19:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T20:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926723980922065400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588890037474971649",
+              "start": 0,
+              "username": "Spartakist_"
+            },
+            {
+              "end": 25,
+              "id": "1448187795571286017",
+              "start": 13,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926723980922065400",
+        "in_reply_to_user_id": "1588890037474971649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926534973164552238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spartakist_ @shuiyebush1 好吊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588890037474971649",
+        "conversation_id": "1926524314502758616",
+        "created_at": "2025-05-25T07:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926534973164552238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926534973164552238",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926524314502758616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 活该被砍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 334,
+          "like_count": 324,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 485
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:44:48.000Z",
+        "description": "理想随风而逝，徒留你和我在废墟上苟活。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/dekabris…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/dekabristqaq",
+                "start": 0,
+                "url": "https://t.co/8OQKM9gRt9"
+              }
+            ]
+          }
+        },
+        "id": "1588890037474971649",
+        "location": "Commune of Revachol",
+        "name": "Hibiki🏳‍⚧🍥💊清水版",
+        "pinned_tweet_id": "1691819768041619916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589948716022046723/T9Y0R1ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6010,
+          "following_count": 3655,
+          "like_count": 74494,
+          "listed_count": 15,
+          "media_count": 1911,
+          "tweet_count": 27420
+        },
+        "url": "https://t.co/8OQKM9gRt9",
+        "username": "Spartakist_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@Spartakist_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Spartakist_"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水绯纱",
+        "pinned_tweet_id": "1922213803669741679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923183775888048129/w3FgeUVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5121,
+          "following_count": 594,
+          "like_count": 45189,
+          "listed_count": 16,
+          "media_count": 2269,
+          "tweet_count": 16270
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

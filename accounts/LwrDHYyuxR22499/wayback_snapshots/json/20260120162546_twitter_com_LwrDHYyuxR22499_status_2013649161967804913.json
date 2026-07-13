@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013637284273574062",
+    "created_at": "2026-01-20T16:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013649161967804913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 22,
+          "id": "1781510736000274432",
+          "start": 13,
+          "username": "huantim1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013649161967804913",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013648673465422043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @huantim1 硬实力不够就靠思路来补喽🤧\n谁让我在我们组员里武力值连前五都排不上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013637284273574062",
+        "created_at": "2026-01-20T16:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013649161967804913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 22,
+              "id": "1781510736000274432",
+              "start": 13,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013649161967804913",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013648673465422043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @huantim1 硬实力不够就靠思路来补喽🤧\n谁让我在我们组员里武力值连前五都排不上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2013637284273574062",
+        "created_at": "2026-01-20T16:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013648673465422043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 26,
+              "id": "1781510736000274432",
+              "start": 17,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013648673465422043",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013639961728233671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @huantim1 思路不错啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 1629,
+          "like_count": 1372,
+          "listed_count": 9,
+          "media_count": 315,
+          "tweet_count": 1917
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "重庆身上有一种很明确的信号： “老子条件不行，但我偏要做出点样子”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2013260482921017577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 2093,
+          "like_count": 20739,
+          "listed_count": 6,
+          "media_count": 1810,
+          "tweet_count": 17903
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "上海某高一牲｜非二元性别💛🤍💜🖤（mtx？queer？暂时不含糖那种……）｜无性恋🖤🩶🤍💜｜随便看点｜互fo，忘回请评论/私信提醒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huantim",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huantim",
+                "start": 0,
+                "url": "https://t.co/4Um5sVu4et"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781510900635009024/ggVgOfNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 363,
+          "like_count": 7116,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/4Um5sVu4et",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1956242031887704064",
+        "7_1956242817950605313"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1956242878323368294",
+    "created_at": "2025-08-15T06:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T07:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956242878323368294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsRvVcEQp7",
+          "end": 147,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1956242878323368294/video/1",
+          "media_key": "7_1956242031887704064",
+          "start": 124,
+          "url": "https://t.co/XsRvVcEQp7"
+        },
+        {
+          "display_url": "pic.x.com/XsRvVcEQp7",
+          "end": 147,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1956242878323368294/video/1",
+          "media_key": "7_1956242817950605313",
+          "start": 124,
+          "url": "https://t.co/XsRvVcEQp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956242878323368294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沟槽的傻篮子学校建两道墙\n每隔二十米不到一个监控位\n一个监控位俩摄像头\n没有教育资助给学生上文化课\n没医疗资质\n声称自己能治疗抑郁症然后给抑郁症患者扎小纸人\n最大的有一个三十来岁的同被关在里面因为人家的取向问题天天不是殴打就是虐待鉴定为贱畜集中营 https://t.co/XsRvVcEQp7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27531,
+        "height": 1280,
+        "media_key": "7_1956242031887704064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1956242031887704064/pu/img/fs-MZPVt0yLRRs8L.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956242031887704064/pu/vid/avc1/320x568/a7hhXT-BiVZgrgir.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956242031887704064/pu/vid/avc1/480x852/2xgH6aSp64fHkhP4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956242031887704064/pu/vid/avc1/720x1280/kSBqsF5DWuEAZxzV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1956242031887704064/pu/pl/0iOGWm9bH-bQOWu1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8708,
+        "height": 960,
+        "media_key": "7_1956242817950605313",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1956242817950605313/pu/img/leM09AfNhKUAPewN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956242817950605313/pu/vid/avc1/320x568/GJTpXbDkfU3L0_It.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956242817950605313/pu/vid/avc1/480x852/J1X-LLH_kwV9hsvY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956242817950605313/pu/vid/avc1/540x960/55n_WDRJahFurcPb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1956242817950605313/pu/pl/-WOeqmwLnVq7qCZs.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1956242031887704064",
+            "7_1956242817950605313"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1956242878323368294",
+        "created_at": "2025-08-15T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956242878323368294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsRvVcEQp7",
+              "end": 147,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1956242878323368294/video/1",
+              "media_key": "7_1956242031887704064",
+              "start": 124,
+              "url": "https://t.co/XsRvVcEQp7"
+            },
+            {
+              "display_url": "pic.x.com/XsRvVcEQp7",
+              "end": 147,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1956242878323368294/video/1",
+              "media_key": "7_1956242817950605313",
+              "start": 124,
+              "url": "https://t.co/XsRvVcEQp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956242878323368294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沟槽的傻篮子学校建两道墙\n每隔二十米不到一个监控位\n一个监控位俩摄像头\n没有教育资助给学生上文化课\n没医疗资质\n声称自己能治疗抑郁症然后给抑郁症患者扎小纸人\n最大的有一个三十来岁的同被关在里面因为人家的取向问题天天不是殴打就是虐待鉴定为贱畜集中营 https://t.co/XsRvVcEQp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 489,
+          "like_count": 460,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 668
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

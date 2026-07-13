@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2031207062215209390",
+    "created_at": "2026-03-10T03:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T04:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031207062215209390"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "autism",
+          "probability": 0.5928,
+          "start": 70,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1354873238",
+          "start": 3,
+          "username": "Palmput"
+        },
+        {
+          "end": 29,
+          "id": "1843201902550634496",
+          "start": 13,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031207062215209390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031108724975161606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Palmput: @LwrDHYyuxR22499 Chinese people think that beatings stop autism? Are they retarded?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2031207062215209390",
+        "created_at": "2026-03-10T03:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031207062215209390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "autism",
+              "probability": 0.5928,
+              "start": 70,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1354873238",
+              "start": 3,
+              "username": "Palmput"
+            },
+            {
+              "end": 29,
+              "id": "1843201902550634496",
+              "start": 13,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031207062215209390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031108724975161606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Palmput: @LwrDHYyuxR22499 Chinese people think that beatings stop autism? Are they retarded?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354873238",
+        "conversation_id": "2030985107830653066",
+        "created_at": "2026-03-09T20:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031108724975161606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "autism",
+              "probability": 0.5638,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031108724975161606",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030985107830653066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 Chinese people think that beatings stop autism? Are they retarded?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 2037,
+          "like_count": 1982,
+          "listed_count": 12,
+          "media_count": 359,
+          "tweet_count": 2341
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-15T17:23:05.000Z",
+        "description": "🤡🌎",
+        "id": "1354873238",
+        "location": "Texas, USA",
+        "name": "Palmput",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998161812814987264/qg4wXHV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 268,
+          "like_count": 7986,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 1058
+        },
+        "username": "Palmput",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056971175184736273",
+    "created_at": "2026-05-20T05:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056971175184736273"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056971175184736273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直都觉得，拿扭转机构救助收费是一件很邪恶的事情。\n因为涉及到的是人的生命安全，以及最基本的人权。\n在这种条件下讨价还价、跟别人要钱，\n简直就像是\n把房子、车子吃的喝的，\n这种社会刚需卖得跟钻石一样贵，一样龌龊\n这就像垄断了别人活命的某种资源，以此创收一样\n诚然…这种品德令我贫穷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056971175184736273",
+        "created_at": "2026-05-20T05:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056971175184736273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056971175184736273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都觉得，拿扭转机构救助收费是一件很邪恶的事情。\n因为涉及到的是人的生命安全，以及最基本的人权。\n在这种条件下讨价还价、跟别人要钱，\n简直就像是\n把房子、车子吃的喝的，\n这种社会刚需卖得跟钻石一样贵，一样龌龊\n这就像垄断了别人活命的某种资源，以此创收一样\n诚然…这种品德令我贫穷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 2877,
+          "like_count": 2837,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2799
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

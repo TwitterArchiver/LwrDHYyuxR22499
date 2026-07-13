@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072356435003158528",
+        "3_2072356440090849280",
+        "7_2072356506520219648"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072356577626185850",
+    "created_at": "2026-07-01T16:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072356577626185850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "weibo.com/1645578093/R6n…",
+          "end": 76,
+          "expanded_url": "https://weibo.com/1645578093/R6n4Flk8a",
+          "start": 53,
+          "unwound_url": "https://weibo.com/1645578093/R6n4Flk8a",
+          "url": "https://t.co/R4rBSrZCLG"
+        },
+        {
+          "display_url": "pic.x.com/boyDKZRm9t",
+          "end": 164,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072356577626185850/video/1",
+          "media_key": "3_2072356435003158528",
+          "start": 141,
+          "url": "https://t.co/boyDKZRm9t"
+        },
+        {
+          "display_url": "pic.x.com/boyDKZRm9t",
+          "end": 164,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072356577626185850/video/1",
+          "media_key": "3_2072356440090849280",
+          "start": 141,
+          "url": "https://t.co/boyDKZRm9t"
+        },
+        {
+          "display_url": "pic.x.com/boyDKZRm9t",
+          "end": 164,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072356577626185850/video/1",
+          "media_key": "7_2072356506520219648",
+          "start": 141,
+          "url": "https://t.co/boyDKZRm9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072356577626185850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是发点大家伙爱看的吧\n2026/6/30/\n南风窗发表文章:\n30多岁还被抓去戒网瘾，魔鬼机构更猖獗了\nhttps://t.co/R4rBSrZCLG\n目前全网浏览量破百万\n并在视频中用到了我们卧底拍摄到素材感谢各位媒体的曝光与支持\n过两天我依旧会带来由我们参与的个案的新闻播报 https://t.co/boyDKZRm9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072356435003158528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ9MqRbsAAQwUc.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072356440090849280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ9M9ObsAALzyH.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 39227,
+        "height": 1280,
+        "media_key": "7_2072356506520219648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072356506520219648/pu/img/hox5cD96_8uivc85.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072356506520219648/pu/vid/avc1/320x712/zDpida5NVtubyJdy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072356506520219648/pu/vid/avc1/480x1070/f8w6AZKrVON5NKZT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072356506520219648/pu/vid/avc1/574x1280/9Vo-RE4mh7qfxLky.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072356506520219648/pu/pl/WQKI4CxG367UtAC5.m3u8?tag=12"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072356435003158528",
+            "3_2072356440090849280",
+            "7_2072356506520219648"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072356577626185850",
+        "created_at": "2026-07-01T16:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072356577626185850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "weibo.com/1645578093/R6n…",
+              "end": 76,
+              "expanded_url": "https://weibo.com/1645578093/R6n4Flk8a",
+              "start": 53,
+              "unwound_url": "https://weibo.com/1645578093/R6n4Flk8a",
+              "url": "https://t.co/R4rBSrZCLG"
+            },
+            {
+              "display_url": "pic.x.com/boyDKZRm9t",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072356577626185850/video/1",
+              "media_key": "3_2072356435003158528",
+              "start": 141,
+              "url": "https://t.co/boyDKZRm9t"
+            },
+            {
+              "display_url": "pic.x.com/boyDKZRm9t",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072356577626185850/video/1",
+              "media_key": "3_2072356440090849280",
+              "start": 141,
+              "url": "https://t.co/boyDKZRm9t"
+            },
+            {
+              "display_url": "pic.x.com/boyDKZRm9t",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072356577626185850/video/1",
+              "media_key": "7_2072356506520219648",
+              "start": 141,
+              "url": "https://t.co/boyDKZRm9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072356577626185850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是发点大家伙爱看的吧\n2026/6/30/\n南风窗发表文章:\n30多岁还被抓去戒网瘾，魔鬼机构更猖獗了\nhttps://t.co/R4rBSrZCLG\n目前全网浏览量破百万\n并在视频中用到了我们卧底拍摄到素材感谢各位媒体的曝光与支持\n过两天我依旧会带来由我们参与的个案的新闻播报 https://t.co/boyDKZRm9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6179,
+          "following_count": 3300,
+          "like_count": 3639,
+          "listed_count": 19,
+          "media_count": 482,
+          "tweet_count": 3290
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

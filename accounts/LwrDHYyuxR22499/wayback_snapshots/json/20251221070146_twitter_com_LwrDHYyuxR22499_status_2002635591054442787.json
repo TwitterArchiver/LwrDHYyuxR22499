@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2002635499606061059"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2002635591054442787",
+    "created_at": "2025-12-21T07:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T08:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002635591054442787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SW5TkjUV9W",
+          "end": 68,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2002635591054442787/video/1",
+          "media_key": "7_2002635499606061059",
+          "start": 45,
+          "url": "https://t.co/SW5TkjUV9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002635591054442787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回首往昔\n真令人感叹……\n半年前我坐在马路上\n穿着漏洞的裤子\n磨破的拖鞋把这些事做完了… https://t.co/SW5TkjUV9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20758,
+        "height": 1280,
+        "media_key": "7_2002635499606061059",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002635499606061059/pu/img/iaBFZOtBdbImaLFX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002635499606061059/pu/vid/avc1/320x568/AeCvmWn_lJGVqYkl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002635499606061059/pu/vid/avc1/480x852/vn4DqWOn0YxvF4IH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002635499606061059/pu/vid/avc1/720x1280/xW0mXVaZOoy3y34Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002635499606061059/pu/pl/OdqY8kDtRufW7Nx6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002635499606061059"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2002635591054442787",
+        "created_at": "2025-12-21T07:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T08:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002635591054442787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SW5TkjUV9W",
+              "end": 68,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2002635591054442787/video/1",
+              "media_key": "7_2002635499606061059",
+              "start": 45,
+              "url": "https://t.co/SW5TkjUV9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002635591054442787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回首往昔\n真令人感叹……\n半年前我坐在马路上\n穿着漏洞的裤子\n磨破的拖鞋把这些事做完了… https://t.co/SW5TkjUV9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1389,
+          "like_count": 1137,
+          "listed_count": 7,
+          "media_count": 291,
+          "tweet_count": 1691
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

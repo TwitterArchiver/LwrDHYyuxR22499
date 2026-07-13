@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1952681805942849869",
+    "created_at": "2025-08-05T11:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T12:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952700577143480455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "Engelsu0621"
+        },
+        {
+          "end": 28,
+          "id": "1455052587145723904",
+          "start": 13,
+          "username": "MizukiWorkshop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952700577143480455",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952698166962458982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Engelsu0621 @MizukiWorkshop 如果你认为一群人在公开批判他人尊严的时候\n不做到尽可能的还原真相再去做\n并且是成系统性的造谣以及孤立\n以及社会性抹杀\n都不是平庸之恶的话那你给我讲讲啥是呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1952681805942849869",
+        "created_at": "2025-08-05T11:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952700577143480455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "Engelsu0621"
+            },
+            {
+              "end": 28,
+              "id": "1455052587145723904",
+              "start": 13,
+              "username": "MizukiWorkshop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952700577143480455",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952698166962458982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Engelsu0621 @MizukiWorkshop 如果你认为一群人在公开批判他人尊严的时候\n不做到尽可能的还原真相再去做\n并且是成系统性的造谣以及孤立\n以及社会性抹杀\n都不是平庸之恶的话那你给我讲讲啥是呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1952681805942849869",
+        "created_at": "2025-08-05T11:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952698166962458982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            },
+            {
+              "end": 42,
+              "id": "1843201902550634496",
+              "start": 26,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952698166962458982",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952681805942849869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop 唉平庸之恶，唉大他者@LwrDHYyuxR22499 没文化别装逼了看着尴尬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 466,
+          "like_count": 453,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 633
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。 / 我的翅膀，我的眼，我的心@Uturo_Bune",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "Uturo_Bune"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950074917971775490/mTJWCkHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 883,
+          "like_count": 25287,
+          "listed_count": 6,
+          "media_count": 2278,
+          "tweet_count": 24156
+        },
+        "username": "Engelsu0621",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1015,
+          "like_count": 97931,
+          "listed_count": 9,
+          "media_count": 1305,
+          "tweet_count": 18588
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

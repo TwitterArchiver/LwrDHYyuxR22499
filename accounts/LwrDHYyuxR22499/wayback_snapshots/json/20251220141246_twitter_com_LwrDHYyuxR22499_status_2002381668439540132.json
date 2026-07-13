@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2002381668439540132",
+    "created_at": "2025-12-20T14:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002381668439540132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "每年，中國各地有成千上萬的「問題」青少年被送往管教學校。這些學校組成了一個利潤豐厚的產業，其向焦慮的家長承諾，通過軍事化的管教方式可以「矯正」青少年們叛逆、抑鬱，甚至性別認同和性取向等各種問題。臥底拍攝的影片揭露了這些學校如何與家長串通，冒充執法人員，在光天化日之下綁架不願入學的學生。學生們表示，一旦進入學校，他...",
+          "display_url": "m.youtube.com/watch?v=SVOVqP…",
+          "end": 23,
+          "expanded_url": "https://m.youtube.com/watch?v=SVOVqPfPcLE#bottom-sheet",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2002322066398191616/rNhEedCf?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2002322066398191616/rNhEedCf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "受騙、綁架與虐待：中國「矯正」叛逆青少年的紀律學校－ BBC News 中文",
+          "unwound_url": "https://www.youtube.com/watch?app=desktop&v=SVOVqPfPcLE",
+          "url": "https://t.co/4zedfJ7FWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002381668439540132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4zedfJ7FWl\n关于我们调查走访暗下取证扭转机构的中文版上映了\n本次受邀与BBC合作感觉不错\n人员素质在线期待再一次合作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2002381668439540132",
+        "created_at": "2025-12-20T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002381668439540132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "每年，中國各地有成千上萬的「問題」青少年被送往管教學校。這些學校組成了一個利潤豐厚的產業，其向焦慮的家長承諾，通過軍事化的管教方式可以「矯正」青少年們叛逆、抑鬱，甚至性別認同和性取向等各種問題。臥底拍攝的影片揭露了這些學校如何與家長串通，冒充執法人員，在光天化日之下綁架不願入學的學生。學生們表示，一旦進入學校，他...",
+              "display_url": "m.youtube.com/watch?v=SVOVqP…",
+              "end": 23,
+              "expanded_url": "https://m.youtube.com/watch?v=SVOVqPfPcLE#bottom-sheet",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2002322066398191616/rNhEedCf?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002322066398191616/rNhEedCf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "受騙、綁架與虐待：中國「矯正」叛逆青少年的紀律學校－ BBC News 中文",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=SVOVqPfPcLE",
+              "url": "https://t.co/4zedfJ7FWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002381668439540132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4zedfJ7FWl\n关于我们调查走访暗下取证扭转机构的中文版上映了\n本次受邀与BBC合作感觉不错\n人员素质在线期待再一次合作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 1368,
+          "like_count": 1095,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 1671
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

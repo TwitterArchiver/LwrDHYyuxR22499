@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997674039234658304"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1997674042187284572",
+    "created_at": "2025-12-07T14:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997674042187284572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xxxnhohedO",
+          "end": 75,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1997674042187284572/photo/1",
+          "media_key": "3_1997674039234658304",
+          "start": 52,
+          "url": "https://t.co/xxxnhohedO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997674042187284572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对我有什么建议或者看法\n可以写到这个牌子上\n当然想看我搞下次在搞什么大活也可以写在上面最后发在评论区里 https://t.co/xxxnhohedO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1997674039234658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kp9F2aAAAgLe6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997674039234658304"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1997674042187284572",
+        "created_at": "2025-12-07T14:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997674042187284572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxxnhohedO",
+              "end": 75,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1997674042187284572/photo/1",
+              "media_key": "3_1997674039234658304",
+              "start": 52,
+              "url": "https://t.co/xxxnhohedO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997674042187284572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我有什么建议或者看法\n可以写到这个牌子上\n当然想看我搞下次在搞什么大活也可以写在上面最后发在评论区里 https://t.co/xxxnhohedO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1135,
+          "like_count": 932,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 1503
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999309621845254386",
+    "created_at": "2025-12-13T05:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999716957743202535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        },
+        {
+          "end": 25,
+          "id": "1938210111992074240",
+          "start": 17,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999716957743202535",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999716332057813134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter @FJUNNNN 真的😁不拿自己命耍能好玩吗?\n开耍！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999716332057813134].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999716332057813134",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999716332057813134"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-13T05:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999716957743202535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            },
+            {
+              "end": 25,
+              "id": "1938210111992074240",
+              "start": 17,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999716957743202535",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999716332057813134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter @FJUNNNN 真的😁不拿自己命耍能好玩吗?\n开耍！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1143,
+          "like_count": 981,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1564
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "显示ip所在地的斯克你没马了",
+        "id": "1523537773143236608",
+        "name": "胡桃老师不是狐老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 248,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2436
+        },
+        "username": "Homulilly_Alter",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 636,
+          "like_count": 1158,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 441
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

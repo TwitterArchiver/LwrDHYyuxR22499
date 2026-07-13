@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2037138930899050498"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2037432154377105535",
+    "created_at": "2026-03-27T07:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037432154377105535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "NCT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882671462210998272",
+          "start": 3,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037432154377105535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037138932211868053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoEJ: 關於NCT，大家還想加什麼功能？#NCT"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-27T12:05:43.000Z",
+        "id": "2037138930899050498",
+        "options": [
+          {
+            "label": "報告",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "論壇（需要另開網站）",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "搜索",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "多語言",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2037138930899050498"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2037432154377105535",
+        "created_at": "2026-03-27T07:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037432154377105535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "NCT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882671462210998272",
+              "start": 3,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037432154377105535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037138932211868053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoEJ: 關於NCT，大家還想加什麼功能？#NCT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2037138930899050498"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2037138932211868053",
+        "created_at": "2026-03-26T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037138932211868053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "NCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037138932211868053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "關於NCT，大家還想加什麼功能？#NCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 2292,
+          "like_count": 2185,
+          "listed_count": 15,
+          "media_count": 375,
+          "tweet_count": 2398
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "I love my country,but i'm not Heidrgger.\n\nDiscord: https://t.co/ccn1U72HVa\nE-mail: contact@hosinoneko.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 74,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 51,
+                "url": "https://t.co/ccn1U72HVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCT.hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://NCT.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/MYVBfe2rap"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野ネコ - 頭髮被强制剪正在恢復中（お互いフォローでき）",
+        "pinned_tweet_id": "2033277996153680185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 499,
+          "like_count": 3045,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 2905
+        },
+        "url": "https://t.co/MYVBfe2rap",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

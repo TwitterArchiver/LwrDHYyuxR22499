@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1975472091282743572",
+    "created_at": "2025-10-09T21:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T22:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976398582875095323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896175390005342208",
+          "start": 0,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976398582875095323",
+    "in_reply_to_user_id": "1896175390005342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975472091282743572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinya 我之前不就跟你讲过?你自己注意点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1975472091282743572",
+        "created_at": "2025-10-09T21:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976398582875095323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976398582875095323",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975472091282743572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya 我之前不就跟你讲过?你自己注意点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "1975472091282743572",
+        "created_at": "2025-10-07T08:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975472091282743572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975472091282743572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 21273,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑我娘背后有仇恨人员的帮助，原因如下\n1.我娘通过不明手段取得了我好友的大致住址，并于今天向我确认，借此训斥我\n2.在最近，我的母亲高价购买了一系列「补品」，并强迫我服用，我出现了皮肤变差，体毛生长速度加快，脱发等疑似反雄症状\n3.此前我发现我娘的手机内显示有反跨组织的通知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 862,
+          "like_count": 686,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 976
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉｜❤️恋人：@Haruhi_LAP，🍧闺蜜：@CuteKittenO3O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Haruhi_LAP"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "青岛地铁13号线",
+        "name": "初菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1511,
+          "like_count": 14750,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 821
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

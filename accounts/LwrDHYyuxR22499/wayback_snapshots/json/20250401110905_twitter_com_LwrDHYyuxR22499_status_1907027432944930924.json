@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907027424313036800"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1907011081089786238",
+    "created_at": "2025-04-01T11:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T12:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907027432944930924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3wrIZIFSN",
+          "end": 39,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1907027432944930924/photo/1",
+          "media_key": "3_1907027424313036800",
+          "start": 16,
+          "url": "https://t.co/X3wrIZIFSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907027432944930924",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907011081089786238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo https://t.co/X3wrIZIFSN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907027424313036800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncfVqsbUAADq7p.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907027424313036800"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1907011081089786238",
+        "created_at": "2025-04-01T11:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T12:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907027432944930924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3wrIZIFSN",
+              "end": 39,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1907027432944930924/photo/1",
+              "media_key": "3_1907027424313036800",
+              "start": 16,
+              "url": "https://t.co/X3wrIZIFSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907027432944930924",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907011081089786238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo https://t.co/X3wrIZIFSN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "1907011081089786238",
+        "created_at": "2025-04-01T10:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907011081089786238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907011081089786238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈似乎只是想让我在家休息几天\n不过这几天我得小心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 264,
+          "like_count": 203,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 355
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/抑郁/臭蝈蝻/深柜/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m/无证含糖/我的⭐️💢@snmqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "snmqwq"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "1905830642119843896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1935,
+          "like_count": 6933,
+          "listed_count": 5,
+          "media_count": 272,
+          "tweet_count": 1549
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

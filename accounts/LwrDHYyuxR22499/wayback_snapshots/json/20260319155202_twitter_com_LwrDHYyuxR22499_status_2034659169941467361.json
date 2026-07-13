@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2034652874530329057",
+    "created_at": "2026-03-19T15:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034659169941467361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034659169941467361",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034658467039113723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 我确实有这能力但我不会因个人问题或私德问题\n选择违反人权的做法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2034652874530329057",
+        "created_at": "2026-03-19T15:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034659169941467361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034659169941467361",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034658467039113723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 我确实有这能力但我不会因个人问题或私德问题\n选择违反人权的做法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2034652874530329057",
+        "created_at": "2026-03-19T15:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034658467039113723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034658467039113723",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034652874530329057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 能不能把唐毓文送进扭转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 2153,
+          "like_count": 2121,
+          "listed_count": 13,
+          "media_count": 363,
+          "tweet_count": 2355
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 2113,
+          "like_count": 67774,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 4713
+        },
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

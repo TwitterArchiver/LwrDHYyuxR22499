@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000503271358861419",
+    "created_at": "2025-12-15T10:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000512920514601137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698001955422175232",
+          "start": 0,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000512920514601137",
+    "in_reply_to_user_id": "1698001955422175232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000512112159035448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d07207333210 您说的是对的我意识到了自己的问题所在\n我会及时改正这个问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000503271358861419",
+        "created_at": "2025-12-15T10:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000512920514601137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698001955422175232",
+              "start": 0,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000512920514601137",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000512112159035448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d07207333210 您说的是对的我意识到了自己的问题所在\n我会及时改正这个问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "conversation_id": "2000503271358861419",
+        "created_at": "2025-12-15T10:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000512112159035448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000512112159035448",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000503909337673971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 用点经济学知识，一个谨慎不惹大事维护公众形象的救助者，在同等条件下可以获得的资助，是一定要比冒失骂过头的不维护个人形象的救助者多——得到资助的前提是得让别人想资助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 1238,
+          "like_count": 1045,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 1629
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "pinned_tweet_id": "1999902018316710000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 877,
+          "like_count": 23642,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 4707
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

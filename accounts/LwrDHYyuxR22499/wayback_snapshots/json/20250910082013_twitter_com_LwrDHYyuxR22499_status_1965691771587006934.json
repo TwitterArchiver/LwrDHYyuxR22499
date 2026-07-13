@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965691768986533888"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965475783390150769",
+    "created_at": "2025-09-10T08:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T09:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965691771587006934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazaAkira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wuWu3aClEh",
+          "end": 43,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965691771587006934/photo/1",
+          "media_key": "3_1965691768986533888",
+          "start": 20,
+          "url": "https://t.co/wuWu3aClEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965691771587006934",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965603654595215852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazaAkira 看我操作 https://t.co/wuWu3aClEh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_1965691768986533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eKP8xaAAA-pR7.jpg",
+        "width": 423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965691768986533888"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965475783390150769",
+        "created_at": "2025-09-10T08:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965691771587006934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazaAkira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuWu3aClEh",
+              "end": 43,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1965691771587006934/photo/1",
+              "media_key": "3_1965691768986533888",
+              "start": 20,
+              "url": "https://t.co/wuWu3aClEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965691771587006934",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965603654595215852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazaAkira 看我操作 https://t.co/wuWu3aClEh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1965475783390150769",
+        "created_at": "2025-09-10T02:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965603654595215852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965603654595215852",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965475783390150769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 咋搞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 647,
+          "like_count": 602,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 859
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "RIP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "游戳",
+        "pinned_tweet_id": "1965329272756965802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963655595862757381/ZQ_ObJTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7904,
+          "following_count": 1417,
+          "like_count": 45801,
+          "listed_count": 11,
+          "media_count": 3355,
+          "tweet_count": 27327
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazaAkira",
+        "verified": true
+      }
+    ]
+  }
+}

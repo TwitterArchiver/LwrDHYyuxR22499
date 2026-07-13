@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2060296452321300539",
+    "created_at": "2026-05-30T17:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060768540626727033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599507593541472256",
+          "start": 0,
+          "username": "shemenitian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060768540626727033",
+    "in_reply_to_user_id": "1599507593541472256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060768468539212195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shemenitian 那你朋友也太几把随机生成了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060296452321300539",
+        "created_at": "2026-05-30T17:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060768540626727033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599507593541472256",
+              "start": 0,
+              "username": "shemenitian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060768540626727033",
+        "in_reply_to_user_id": "1599507593541472256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060768468539212195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shemenitian 那你朋友也太几把随机生成了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599507593541472256",
+        "conversation_id": "2060296452321300539",
+        "created_at": "2026-05-30T17:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060768468539212195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060768468539212195",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060296452321300539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 沟槽的你长的好像我朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5424,
+          "following_count": 3036,
+          "like_count": 3080,
+          "listed_count": 19,
+          "media_count": 434,
+          "tweet_count": 2908
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T20:55:13.000Z",
+        "description": "",
+        "id": "1599507593541472256",
+        "location": "East Region, Singapore",
+        "name": "6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755822438859046912/VoY7QlBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "username": "shemenitian",
+        "verified": false
+      }
+    ]
+  }
+}

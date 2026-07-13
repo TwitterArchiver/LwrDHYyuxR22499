@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2022328943022616750",
+    "created_at": "2026-02-13T15:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022331411202756973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1985722042126303232",
+          "start": 0,
+          "username": "pstf11458964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022331411202756973",
+    "in_reply_to_user_id": "1985722042126303232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022330720933560811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pstf11458964 可不是……张也是713进去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2022328943022616750",
+        "created_at": "2026-02-13T15:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022331411202756973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985722042126303232",
+              "start": 0,
+              "username": "pstf11458964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022331411202756973",
+        "in_reply_to_user_id": "1985722042126303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022330720933560811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pstf11458964 可不是……张也是713进去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985722042126303232",
+        "conversation_id": "2022328943022616750",
+        "created_at": "2026-02-13T15:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330720933560811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330720933560811",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022328943022616750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 13真不是一个好的数字\n我有13恐惧症是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 1821,
+          "like_count": 1585,
+          "listed_count": 12,
+          "media_count": 334,
+          "tweet_count": 2140
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T14:53:38.000Z",
+        "description": "一个潜伏在新加坡的纯正的大西洋主义者，馬蹄鐵大一統理論支持者/You block=I win/I had no malicious intent; all malice is subjective.:)/Asian lib/Bi",
+        "id": "1985722042126303232",
+        "name": "Ⅳ帕斯塔夫🇪🇺🇨🇦🇮🇱🇸🇬🇺🇦/Jones",
+        "pinned_tweet_id": "2012446597326717089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057224661090304/-0Thr8Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 556,
+          "like_count": 43956,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 4911
+        },
+        "username": "pstf11458964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999309621845254386",
+    "created_at": "2026-03-10T14:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031375008359133211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907639222531735552",
+          "start": 0,
+          "username": "xxbb0709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031375008359133211",
+    "in_reply_to_user_id": "1907639222531735552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031374061297971376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxbb0709 很抱歉我不能提供这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2026-03-10T14:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031375008359133211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907639222531735552",
+              "start": 0,
+              "username": "xxbb0709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031375008359133211",
+        "in_reply_to_user_id": "1907639222531735552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031374061297971376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxbb0709 很抱歉我不能提供这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907639222531735552",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2026-03-10T14:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031374061297971376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031374061297971376",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999309621845254386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 航哥可以问问怎么联系国外相关报道媒体吗 我跟您一样也很厌恶这种机构 我知道在国内很难对抗他们 关注您也一直看到在他们手中救人 但是对他们来说不痛不痒的 我也想借助墙外的力量报道里面的情况 我愿意出资出时间 只求能打击这种无良机构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 2038,
+          "like_count": 1970,
+          "listed_count": 12,
+          "media_count": 354,
+          "tweet_count": 2281
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:40:25.000Z",
+        "description": "",
+        "id": "1907639222531735552",
+        "name": "轨迹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929861324110286853/bTIs3N33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "xxbb0709",
+        "verified": false
+      }
+    ]
+  }
+}

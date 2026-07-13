@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1966031145919033606",
+    "created_at": "2025-09-11T09:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T10:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966064940751696099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966064940751696099",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966063507717369909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 我救人快都能被贱畜怀疑跟地方警察黑皮勾结那我能说什么呢😌顺从你\n你的一切指认思考都来自于你的意淫而非证据"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1966031145919033606",
+        "created_at": "2025-09-11T09:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966064940751696099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966064940751696099",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966063507717369909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 我救人快都能被贱畜怀疑跟地方警察黑皮勾结那我能说什么呢😌顺从你\n你的一切指认思考都来自于你的意淫而非证据"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1966031145919033606",
+        "created_at": "2025-09-11T08:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966063507717369909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966063507717369909",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966060383451623673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你没被黑皮黑警黑牢关，那你不管主观意愿你就成为了分化社群的维稳工具\n我主张去中心化就是让维稳（抓人押人）成本提高，不出现所谓「领袖」行为避免私德分化社群整体的逆权风向。我去送头本身就是塑造我被害的意见领袖形象，与我的主张相悖，还降低维稳成本，我干嘛图这个靠分化群体换得的个人功名？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 649,
+          "like_count": 621,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 886
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1928781798773072159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 168,
+          "like_count": 3704,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1195
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

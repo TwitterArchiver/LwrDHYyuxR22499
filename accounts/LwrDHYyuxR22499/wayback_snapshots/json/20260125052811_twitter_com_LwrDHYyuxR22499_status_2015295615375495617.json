@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015295615375495617",
+    "created_at": "2026-01-25T05:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T06:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015295615375495617"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015295615375495617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋招募一名组员需要长期稳定工作\n无线下内容\n无时间限制\n工作内容只需要一天剪俩视频就行了\n薪酬面议🤓\n有意者请私信\n如果你想搞大动静想要跟牢王一起救几个人玩玩顺便轻松赚点💰\n请私信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015295615375495617",
+        "created_at": "2026-01-25T05:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015295615375495617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015295615375495617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋招募一名组员需要长期稳定工作\n无线下内容\n无时间限制\n工作内容只需要一天剪俩视频就行了\n薪酬面议🤓\n有意者请私信\n如果你想搞大动静想要跟牢王一起救几个人玩玩顺便轻松赚点💰\n请私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1649,
+          "like_count": 1411,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1971
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

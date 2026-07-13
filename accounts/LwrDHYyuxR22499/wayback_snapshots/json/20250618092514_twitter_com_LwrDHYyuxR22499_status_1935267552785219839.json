@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1935267503728640004"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1935266305004945787",
+    "created_at": "2025-06-18T09:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T10:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935267552785219839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lsJ9iyrcqa",
+          "end": 53,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935267552785219839/video/1",
+          "media_key": "7_1935267503728640004",
+          "start": 30,
+          "url": "https://t.co/lsJ9iyrcqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935267552785219839",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935266305004945787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure 别难过了跟我一起看黄片吧 https://t.co/lsJ9iyrcqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16566,
+        "height": 720,
+        "media_key": "7_1935267503728640004",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1935267503728640004/pu/img/usAYES41wrPal1dt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935267503728640004/pu/vid/avc1/480x270/AEvdaTjRQmTmH_9u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935267503728640004/pu/vid/avc1/640x360/NwLOx1Q_33m2FNDU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935267503728640004/pu/vid/avc1/1280x720/2_fVcd85mjp0Tmvp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1935267503728640004/pu/pl/_FLzSHZTFp5gB-tf.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1935267503728640004"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1935266305004945787",
+        "created_at": "2025-06-18T09:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935267552785219839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsJ9iyrcqa",
+              "end": 53,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1935267552785219839/video/1",
+              "media_key": "7_1935267503728640004",
+              "start": 30,
+              "url": "https://t.co/lsJ9iyrcqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935267552785219839",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935266305004945787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 别难过了跟我一起看黄片吧 https://t.co/lsJ9iyrcqa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1935266305004945787",
+        "created_at": "2025-06-18T09:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935266305004945787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935266305004945787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的难受啊。\n我的脑子三观老是打架。。。\n比方说看见那个摩托车被庆祝提车鞭炮点燃的时候\n我脑袋里一个声音是好似喵\n另一个声音是,人家只是想提车庆祝一下为什么变成了悲剧。\n好难受。。\n\n长期这种割裂感。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 377,
+          "like_count": 368,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 530
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🧊🌊⁉️｜叫líng就好啦 ｜非二元MtX🏳️‍🌈🏳️‍⚧️｜🍥hrt24.4.20｜179cm50kg骨头架子｜纯乐子人♿️的生活推｜08年｜川渝常驻重庆｜入坑半年音游人 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜对象@juhao0721山田凉❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "minokakay"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🧊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6945,
+          "following_count": 1114,
+          "like_count": 28083,
+          "listed_count": 8,
+          "media_count": 1979,
+          "tweet_count": 15356
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": false
+      }
+    ]
+  }
+}

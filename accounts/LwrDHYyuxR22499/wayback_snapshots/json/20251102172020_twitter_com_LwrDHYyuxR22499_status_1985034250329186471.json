@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984930232793780442",
+    "created_at": "2025-11-02T17:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985034250329186471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512135884765806593",
+          "start": 0,
+          "username": "SatoSher0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985034250329186471",
+    "in_reply_to_user_id": "1512135884765806593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985033186485915858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SatoSher0 😠问题是我一直也没道德败坏啊\n财产公开行动公开\n心德也公开并且不收费\n救的人也从不对他们吃拿卡要\n也不跟任何受害者发生性关系\n😁以及现在干的活还太小了以后还有大的呢救个人算什么本事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984930232793780442",
+        "created_at": "2025-11-02T17:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985034250329186471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512135884765806593",
+              "start": 0,
+              "username": "SatoSher0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985034250329186471",
+        "in_reply_to_user_id": "1512135884765806593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985033186485915858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SatoSher0 😠问题是我一直也没道德败坏啊\n财产公开行动公开\n心德也公开并且不收费\n救的人也从不对他们吃拿卡要\n也不跟任何受害者发生性关系\n😁以及现在干的活还太小了以后还有大的呢救个人算什么本事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512135884765806593",
+        "conversation_id": "1984930232793780442",
+        "created_at": "2025-11-02T17:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985033186485915858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985033186485915858",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984930232793780442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 光救人這一條 哪怕再道德敗壞也無謂\n何況辛勤無言善舉堪山 值得聖人二字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 995,
+          "like_count": 831,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1456
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T18:31:14.000Z",
+        "description": "She/Her | 08 | 高中生 | HRT Since20220613 | 長沙在住 | Satoshi Wachi 和知 綰 | 最近執筆中 | 神戸救国党党員@Kobekyukoku | 永遠の友達@Moelin_Moe @manani_QvQ @qiyigaoxia2635 @T8O9K6Y4O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Kobekyukoku"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "Moelin_Moe"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "manani_QvQ"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "qiyigaoxia2635"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "T8O9K6Y4O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/wachisatoshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/wachisatoshi",
+                "start": 0,
+                "url": "https://t.co/DfPxPTAzWz"
+              }
+            ]
+          }
+        },
+        "id": "1512135884765806593",
+        "location": "雲水禪心",
+        "name": "SATOSHI和知 綰",
+        "pinned_tweet_id": "1964006993200353461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981562601415819264/9VKhpm0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 7467,
+          "like_count": 65535,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 5865
+        },
+        "url": "https://t.co/DfPxPTAzWz",
+        "username": "SatoSher0",
+        "verified": false
+      }
+    ]
+  }
+}

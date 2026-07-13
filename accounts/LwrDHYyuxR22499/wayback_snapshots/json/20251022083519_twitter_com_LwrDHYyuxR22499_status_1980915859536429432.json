@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980915848693809152"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980905948832231781",
+    "created_at": "2025-10-22T08:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980915859536429432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620367275273633792",
+          "start": 0,
+          "username": "Alina_Medverova"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wWA01o9oxc",
+          "end": 183,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1980915859536429432/photo/1",
+          "media_key": "3_1980915848693809152",
+          "start": 160,
+          "url": "https://t.co/wWA01o9oxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980915859536429432",
+    "in_reply_to_user_id": "1620367275273633792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980913787227259084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alina_Medverova 很多六七岁的小孩子\n全家都基本盘\n也会在这种学校里了九年义务都没完成就被自己父母送到这这种机构里\n基本的不能再基本的依旧会在里面遭受着各种各样的虐待\n最后成为社会不稳定因素\n就拿我卧底到的这张被饿的营养不良的孩子照片为准\n很多小孩子都不知道自己为什么就进来了\n原因可能只是他父母想而已 https://t.co/wWA01o9oxc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1980915848693809152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32geBNWAAAgSC5.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980915848693809152"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T08:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980915859536429432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWA01o9oxc",
+              "end": 183,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1980915859536429432/photo/1",
+              "media_key": "3_1980915848693809152",
+              "start": 160,
+              "url": "https://t.co/wWA01o9oxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980915859536429432",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980913787227259084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 很多六七岁的小孩子\n全家都基本盘\n也会在这种学校里了九年义务都没完成就被自己父母送到这这种机构里\n基本的不能再基本的依旧会在里面遭受着各种各样的虐待\n最后成为社会不稳定因素\n就拿我卧底到的这张被饿的营养不良的孩子照片为准\n很多小孩子都不知道自己为什么就进来了\n原因可能只是他父母想而已 https://t.co/wWA01o9oxc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1980905948832231781",
+        "created_at": "2025-10-22T08:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980913787227259084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980913787227259084",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980911736829145585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 “维稳”，是维护针对基本盘的稳定，你从那里面出来你就不是基本盘了那还维你干什么……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 927,
+          "like_count": 722,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1150
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1526,
+          "like_count": 74803,
+          "listed_count": 6,
+          "media_count": 985,
+          "tweet_count": 16363
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

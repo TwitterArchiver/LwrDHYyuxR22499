@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999958177534865408",
+        "3_1999958177543335936",
+        "3_1999958177543315456",
+        "3_1999958178965196800"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1999958201396232542",
+    "created_at": "2025-12-13T21:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T22:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999958201396232542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eYHkKJWMDk",
+          "end": 99,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+          "media_key": "3_1999958177534865408",
+          "start": 76,
+          "url": "https://t.co/eYHkKJWMDk"
+        },
+        {
+          "display_url": "pic.x.com/eYHkKJWMDk",
+          "end": 99,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+          "media_key": "3_1999958177543335936",
+          "start": 76,
+          "url": "https://t.co/eYHkKJWMDk"
+        },
+        {
+          "display_url": "pic.x.com/eYHkKJWMDk",
+          "end": 99,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+          "media_key": "3_1999958177543315456",
+          "start": 76,
+          "url": "https://t.co/eYHkKJWMDk"
+        },
+        {
+          "display_url": "pic.x.com/eYHkKJWMDk",
+          "end": 99,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+          "media_key": "3_1999958178965196800",
+          "start": 76,
+          "url": "https://t.co/eYHkKJWMDk"
+        },
+        {
+          "display_url": "x.com/vinswex/status…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/vinswex/status/1999890287066546278",
+          "start": 100,
+          "url": "https://t.co/MiL15lozlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999958201396232542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999890287066546278",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓其实是有的兄弟\n只要你足够关注你会发现\n您不仅可以BBC看到我\n还可以在中华网东方卫视\n红星新闻看到牢王\n你甚至可以搜到我因为去抢人被行政处罚的记录 https://t.co/eYHkKJWMDk https://t.co/MiL15lozlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999958177534865408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8FHXcGacAA2b3k.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999958177543335936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8FHXcIbsAAxibJ.jpg",
+        "width": 917
+      },
+      {
+        "height": 917,
+        "media_key": "3_1999958177543315456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8FHXcIbYAAGTWD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1999958178965196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8FHXhbbkAASKZT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999958177534865408",
+            "3_1999958177543335936",
+            "3_1999958177543315456",
+            "3_1999958178965196800"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1999958201396232542",
+        "created_at": "2025-12-13T21:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T22:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999958201396232542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYHkKJWMDk",
+              "end": 99,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+              "media_key": "3_1999958177534865408",
+              "start": 76,
+              "url": "https://t.co/eYHkKJWMDk"
+            },
+            {
+              "display_url": "pic.x.com/eYHkKJWMDk",
+              "end": 99,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+              "media_key": "3_1999958177543335936",
+              "start": 76,
+              "url": "https://t.co/eYHkKJWMDk"
+            },
+            {
+              "display_url": "pic.x.com/eYHkKJWMDk",
+              "end": 99,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+              "media_key": "3_1999958177543315456",
+              "start": 76,
+              "url": "https://t.co/eYHkKJWMDk"
+            },
+            {
+              "display_url": "pic.x.com/eYHkKJWMDk",
+              "end": 99,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1999958201396232542/photo/1",
+              "media_key": "3_1999958178965196800",
+              "start": 76,
+              "url": "https://t.co/eYHkKJWMDk"
+            },
+            {
+              "display_url": "x.com/vinswex/status…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/vinswex/status/1999890287066546278",
+              "start": 100,
+              "url": "https://t.co/MiL15lozlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999958201396232542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999890287066546278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓其实是有的兄弟\n只要你足够关注你会发现\n您不仅可以BBC看到我\n还可以在中华网东方卫视\n红星新闻看到牢王\n你甚至可以搜到我因为去抢人被行政处罚的记录 https://t.co/eYHkKJWMDk https://t.co/MiL15lozlg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564028083769774080",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-13T17:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999890287066546278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999890287066546278",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999309621845254386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 接发黑暗势力值得肯定，只不过为什么国内主流新闻没消息？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 1141,
+          "like_count": 983,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 1568
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T23:12:20.000Z",
+        "description": "I don’t like bad people, watch yourself",
+        "id": "1564028083769774080",
+        "location": "Green Forest ",
+        "name": "Friedrich Victoria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965447392620380160/VcWjVOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 909,
+          "like_count": 20653,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 3989
+        },
+        "username": "vinswex",
+        "verified": false
+      }
+    ]
+  }
+}

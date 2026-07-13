@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998266095359422464"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1998266105727746399",
+    "created_at": "2025-12-09T05:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998266105727746399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k19V6rs6CC",
+          "end": 29,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1998266105727746399/photo/1",
+          "media_key": "3_1998266095359422464",
+          "start": 6,
+          "url": "https://t.co/k19V6rs6CC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998266105727746399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大的要来了 https://t.co/k19V6rs6CC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998266095359422464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tEbSya8AATomx.jpg",
+        "width": 1903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998266095359422464"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1998266105727746399",
+        "created_at": "2025-12-09T05:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998266105727746399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k19V6rs6CC",
+              "end": 29,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1998266105727746399/photo/1",
+              "media_key": "3_1998266095359422464",
+              "start": 6,
+              "url": "https://t.co/k19V6rs6CC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998266105727746399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大的要来了 https://t.co/k19V6rs6CC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1139,
+          "like_count": 934,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 1511
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1988026801789288910",
+    "created_at": "2025-11-25T17:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T18:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993372942533890281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "TangYuwenMTF"
+        },
+        {
+          "end": 22,
+          "id": "1618557658163970049",
+          "start": 14,
+          "username": "qqqqqf5"
+        },
+        {
+          "end": 32,
+          "id": "1857841028214214656",
+          "start": 23,
+          "username": "kilock08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993372942533890281",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988124175064854611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangYuwenMTF @qqqqqf5 @kilock08 跟上天有鸡毛关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1988026801789288910",
+        "created_at": "2025-11-25T17:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993372942533890281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "TangYuwenMTF"
+            },
+            {
+              "end": 22,
+              "id": "1618557658163970049",
+              "start": 14,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 32,
+              "id": "1857841028214214656",
+              "start": 23,
+              "username": "kilock08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993372942533890281",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988124175064854611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangYuwenMTF @qqqqqf5 @kilock08 跟上天有鸡毛关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973585079852257280",
+        "conversation_id": "1988026801789288910",
+        "created_at": "2025-11-11T05:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988124175064854611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 18,
+              "id": "1857841028214214656",
+              "start": 9,
+              "username": "kilock08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988124175064854611",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988026801789288910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 @kilock08 这上天真坏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 1118,
+          "like_count": 903,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1466
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "高中休学中 反跨，MTF 对象：@zhishi_cook和@wowo_yz MTF hrt started : 2025.6.30 轻度抑郁 中度焦虑 抽象多边 mtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1992456491887108105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 81,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuIsm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 115,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 92,
+                "url": "https://t.co/vkfKFLuIsm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1989724969690173744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4049,
+          "following_count": 1952,
+          "like_count": 8041,
+          "listed_count": 9,
+          "media_count": 1012,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T17:39:58.000Z",
+        "description": "OIer｜MTF｜笨蛋🌱  \n https://t.co/gxzP8Zpyab  \n双相｜精分｜BPD  \n|最喜欢的人 @qqqqqf5  \n|最好的姐姐 @sakura1841481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "qqqqqf5"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "sakura1841481"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 39,
+                "expanded_url": "http://github.com/kilockok",
+                "start": 16,
+                "url": "https://t.co/gxzP8Zpyab"
+              }
+            ]
+          }
+        },
+        "id": "1857841028214214656",
+        "location": "中国",
+        "name": "kilock🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857841098829578240/5xs_r2EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 448,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 181
+        },
+        "username": "kilock08",
+        "verified": false
+      }
+    ]
+  }
+}

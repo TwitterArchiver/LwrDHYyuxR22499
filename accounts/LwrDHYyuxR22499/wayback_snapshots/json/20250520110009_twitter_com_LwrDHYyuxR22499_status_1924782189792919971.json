@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1924619587230089647",
+    "created_at": "2025-05-20T11:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T12:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924782189792919971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924782189792919971",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924752397014073526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1924619587230089647",
+        "created_at": "2025-05-20T11:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T12:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924782189792919971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924782189792919971",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924752397014073526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523537773143236608",
+        "conversation_id": "1924619587230089647",
+        "created_at": "2025-05-20T09:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T10:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924752397014073526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924752397014073526",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924619587230089647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我支持你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 329,
+          "like_count": 323,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 478
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "本账号中之人就是你们之前讨厌的那个人，如果你以前拉黑了我请继续保持拉黑/进步保守主义/直升机驾驶员/含糖反跨顺男/阶级敌人/网络右翼/清蒸骰子/拥共支黑/反DEI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/WoST5VR3tg"
+              }
+            ]
+          }
+        },
+        "id": "1523537773143236608",
+        "name": "胡桃夾子",
+        "pinned_tweet_id": "1898494089483649385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 207,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/WoST5VR3tg",
+        "username": "Homulilly_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2018997108402229372",
+    "created_at": "2026-02-04T22:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T23:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019174099369750959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907215780552359936",
+          "start": 0,
+          "username": "FengJIn2781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019174099369750959",
+    "in_reply_to_user_id": "1907215780552359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019171855832391687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengJIn2781 你说的话完全就是在本末倒置😁\n无论是否是在我们行动开始的时候发布视频都是我跟老反因自爆商讨出来的方案\n2我的策略多的是你完全是在拿着你的刻板印象意淫别人罢了\n所以你所谓的老反被打了威胁电话后我才要自爆完全是你个人的臆想\n因为无论是老反真的接到了威胁电话开始算\n还是行动前开始算自爆都更早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018997108402229372",
+        "created_at": "2026-02-04T22:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019174099369750959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907215780552359936",
+              "start": 0,
+              "username": "FengJIn2781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019174099369750959",
+        "in_reply_to_user_id": "1907215780552359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019171855832391687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengJIn2781 你说的话完全就是在本末倒置😁\n无论是否是在我们行动开始的时候发布视频都是我跟老反因自爆商讨出来的方案\n2我的策略多的是你完全是在拿着你的刻板印象意淫别人罢了\n所以你所谓的老反被打了威胁电话后我才要自爆完全是你个人的臆想\n因为无论是老反真的接到了威胁电话开始算\n还是行动前开始算自爆都更早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907215780552359936",
+        "conversation_id": "2018997108402229372",
+        "created_at": "2026-02-04T22:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019171855832391687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20191…",
+              "end": 119,
+              "expanded_url": "https://x.com/i/status/2019169530308882819",
+              "start": 96,
+              "url": "https://t.co/q1ejoffRtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019171855832391687",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019169530308882819",
+            "type": "quoted"
+          },
+          {
+            "id": "2019169086954152255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 前面问题如下所见，我回复一下你下面的问题，在你们行动之前牢反的粉丝已经去冲击学校的评论区所以才被注意到的，而且根据你以前的策略也都是曝光+行动，而不是直接自爆https://t.co/q1ejoffRtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 1728,
+          "like_count": 1450,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 2055
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T23:37:43.000Z",
+        "description": "落在一个人一生中的雪，我们不能全部看见/INFP-T/道教/MTF🏳️‍⚧️/政治立场左下/💗好闺蜜～@mmbb111222333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "mmbb111222333"
+              }
+            ]
+          }
+        },
+        "id": "1907215780552359936",
+        "name": "风锦🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1987421556738544118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924291917489049600/dfz7HIqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 174,
+          "like_count": 1457,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 870
+        },
+        "username": "FengJIn2781",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2040823976092741632"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2040824335661941010",
+    "created_at": "2026-04-05T16:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040824335661941010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FeFaeR4lC2",
+          "end": 96,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2040824335661941010/video/1",
+          "media_key": "7_2040823976092741632",
+          "start": 73,
+          "url": "https://t.co/FeFaeR4lC2"
+        },
+        {
+          "display_url": "x.com/yururu107925/s…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/yururu107925/status/2035615033468830046",
+          "start": 97,
+          "url": "https://t.co/WCe8nezOgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040824335661941010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035615033468830046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "将该机构绑架受害者的原视频在此处\n补档\n后续会将受害者全程采访录音更新在youtub上方便更多人了解这些学校的危害\n以上行为均得到受害者本人许可 https://t.co/FeFaeR4lC2 https://t.co/WCe8nezOgi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73769,
+        "height": 1280,
+        "media_key": "7_2040823976092741632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040823976092741632/pu/img/EyCJ2SffXzIdZ81I.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/vid/avc1/320x710/XV_ehuzv9lu8LNEb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/vid/avc1/480x1066/Fw7deBqGO9K4WjQa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/vid/avc1/576x1280/4YjP4Gu70nCVBe3R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/pl/XG4eRhgR4kgKYahj.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040823976092741632"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2040824335661941010",
+        "created_at": "2026-04-05T16:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040824335661941010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeFaeR4lC2",
+              "end": 96,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2040824335661941010/video/1",
+              "media_key": "7_2040823976092741632",
+              "start": 73,
+              "url": "https://t.co/FeFaeR4lC2"
+            },
+            {
+              "display_url": "x.com/yururu107925/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/yururu107925/status/2035615033468830046",
+              "start": 97,
+              "url": "https://t.co/WCe8nezOgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040824335661941010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035615033468830046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "将该机构绑架受害者的原视频在此处\n补档\n后续会将受害者全程采访录音更新在youtub上方便更多人了解这些学校的危害\n以上行为均得到受害者本人许可 https://t.co/FeFaeR4lC2 https://t.co/WCe8nezOgi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931320269936959489",
+        "conversation_id": "2035615033468830046",
+        "created_at": "2026-03-22T07:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035615033468830046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1935221058489171971",
+              "start": 11,
+              "username": "mngxiaohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035615033468830046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 755214,
+          "like_count": 227,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "求助贴：\n我的朋友雨萌@mngxiaohan 在3月21日15点33分向我发出求救消息后消失她最后出现的位置是襄阳市汉强职业培训学校她已成年被送去扭转的概率很大请求大家麻烦转发一下救救她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 2350,
+          "like_count": 2424,
+          "listed_count": 15,
+          "media_count": 388,
+          "tweet_count": 2571
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T12:00:24.000Z",
+        "description": "mtf,有证含糖,喜欢ボ力口、MMD,会画一些简单的东西比如这个不起眼的头像......",
+        "id": "1931320269936959489",
+        "location": "Japan",
+        "name": "Yururu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931327319425323008/TqukvQod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 107,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "yururu107925",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038870440555553120",
+    "created_at": "2026-03-31T06:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038870440555553120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FelicityCWells…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/FelicityCWells/status/2038865358640365611",
+          "start": 145,
+          "url": "https://t.co/Zl92oQqvko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038870440555553120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038865358640365611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们不操控、也不会去操控投票结果😌\n而且这么做我本身也没有任何利益可图。\n公选的结果\n可能会让我没法再按照自己的方式去做救援\n可如果我擅自干预，又是不尊重整个跨性别群体\n两难之下不得不选择退出与尊重\n希望跨性别社群能选出一位解决这个问题的人\n总不能我们救也骂\n不救也骂\n我也有局限性不是神 https://t.co/Zl92oQqvko"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038870440555553120",
+        "created_at": "2026-03-31T06:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038870440555553120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FelicityCWells…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/FelicityCWells/status/2038865358640365611",
+              "start": 145,
+              "url": "https://t.co/Zl92oQqvko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038870440555553120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038865358640365611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不操控、也不会去操控投票结果😌\n而且这么做我本身也没有任何利益可图。\n公选的结果\n可能会让我没法再按照自己的方式去做救援\n可如果我擅自干预，又是不尊重整个跨性别群体\n两难之下不得不选择退出与尊重\n希望跨性别社群能选出一位解决这个问题的人\n总不能我们救也骂\n不救也骂\n我也有局限性不是神 https://t.co/Zl92oQqvko"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "13605432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2038865358640365611",
+        "created_at": "2026-03-31T06:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038865358640365611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44196397",
+              "start": 9,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038815863823016057",
+              "start": 81,
+              "url": "https://t.co/YMMXzJGLMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038865358640365611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038815863823016057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学习你推首席野爹 @elonmusk  先用狗哨话术预设议程，再设置误导性投票选项操纵结果，唯学艺不精直接垫底翻车，但这一出野爹没教过啊，咋整？得，直接不演了吧 https://t.co/YMMXzJGLMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 2313,
+          "like_count": 2276,
+          "listed_count": 15,
+          "media_count": 380,
+          "tweet_count": 2477
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n🎀milf👗but🌌still🖖sci-fi🚀space🤖tech🥵nerd🍥girl💍arc\nထasd🌈🦋adhd🥀mdd❤️‍🩹cptsd💄🪞✨agp🌸sapphic🏳️‍⚧️she/her/slut",
+        "id": "13605432",
+        "location": "RLE | Sol-Terra",
+        "name": "✨菲💋Felicity✨🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987879490685661185/7ZaSLUmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 4511,
+          "like_count": 22438,
+          "listed_count": 39,
+          "media_count": 841,
+          "tweet_count": 33179
+        },
+        "username": "FelicityCWells",
+        "verified": false
+      }
+    ]
+  }
+}

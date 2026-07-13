@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981301385477153126",
+    "created_at": "2025-10-23T10:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T11:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981301385477153126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981269246983430539",
+          "start": 141,
+          "url": "https://t.co/SQlZbnJMf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981301385477153126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981269246983430539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依照先在你的逻辑来看有几个身份等着你\n1国安上司因为你比我还牛逼因为你贡献的统战价值比我大\n我办不成的事你都行\n2一条接受到主人命令就来咬我造谣的蛆🤣因为你明知道我身份证刷不出来只是因为你自己的社工库有问题还在造谣\n你主人是谁我大抵都能想到\n你是个不合格的产品😆\n因为你把自己否了 https://t.co/SQlZbnJMf3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981301385477153126",
+        "created_at": "2025-10-23T10:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981301385477153126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981269246983430539",
+              "start": 141,
+              "url": "https://t.co/SQlZbnJMf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981301385477153126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981269246983430539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依照先在你的逻辑来看有几个身份等着你\n1国安上司因为你比我还牛逼因为你贡献的统战价值比我大\n我办不成的事你都行\n2一条接受到主人命令就来咬我造谣的蛆🤣因为你明知道我身份证刷不出来只是因为你自己的社工库有问题还在造谣\n你主人是谁我大抵都能想到\n你是个不合格的产品😆\n因为你把自己否了 https://t.co/SQlZbnJMf3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1981269246983430539",
+        "created_at": "2025-10-23T07:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981269246983430539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1981268301092376969",
+              "start": 71,
+              "url": "https://t.co/cDhXXuu6OF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981269246983430539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1631,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981268301092376969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「虽然我把本应成为反贼的都规训成了建制派，但我做对了」\n这不就跟支共讨伐葛蕾塔是一个话术吗？罢工罢课罢市没用，不如宁给北平创造防沙带？\n招笑 https://t.co/cDhXXuu6OF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 930,
+          "like_count": 729,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1231
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 184,
+          "like_count": 8982,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2040
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1938887343391547392"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1930103257696702855",
+    "created_at": "2025-06-28T09:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938887369236869241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        },
+        {
+          "end": 27,
+          "id": "1879338554511495168",
+          "start": 12,
+          "username": "BAshirasu_1226"
+        },
+        {
+          "end": 35,
+          "id": "1846255536687534086",
+          "start": 28,
+          "username": "snmqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gep0EbjmwD",
+          "end": 59,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1938887369236869241/video/1",
+          "media_key": "7_1938887343391547392",
+          "start": 36,
+          "url": "https://t.co/Gep0EbjmwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938887369236869241",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938322759064686779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 @BAshirasu_1226 @snmqwq https://t.co/Gep0EbjmwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6966,
+        "height": 580,
+        "media_key": "7_1938887343391547392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1938887343391547392/pu/img/TvKvmcbe2TIonOvn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938887343391547392/pu/vid/avc1/274x270/QB9rx3dfe2tf6Zxw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938887343391547392/pu/vid/avc1/366x360/GpbclZEgZuiVjxZ6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938887343391547392/pu/vid/avc1/592x580/te6M6t72h9ZyqIYz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1938887343391547392/pu/pl/tWDFCRghNtWSvTcT.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1938887343391547392"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1930103257696702855",
+        "created_at": "2025-06-28T09:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938887369236869241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            },
+            {
+              "end": 27,
+              "id": "1879338554511495168",
+              "start": 12,
+              "username": "BAshirasu_1226"
+            },
+            {
+              "end": 35,
+              "id": "1846255536687534086",
+              "start": 28,
+              "username": "snmqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gep0EbjmwD",
+              "end": 59,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1938887369236869241/video/1",
+              "media_key": "7_1938887343391547392",
+              "start": 36,
+              "url": "https://t.co/Gep0EbjmwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938887369236869241",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938322759064686779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 @BAshirasu_1226 @snmqwq https://t.co/Gep0EbjmwD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "1930103257696702855",
+        "created_at": "2025-06-26T19:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T20:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938322759064686779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            },
+            {
+              "end": 23,
+              "id": "1846255536687534086",
+              "start": 16,
+              "username": "snmqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938322759064686779",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930103257696702855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 @snmqwq 哎，切蛋就能涨这么多吗，我有点想。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 398,
+          "like_count": 385,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 557
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*秀色可餐🍊@tangeorange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "tangeorange"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "酸酸甜甜🍋k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5475,
+          "following_count": 4686,
+          "like_count": 28198,
+          "listed_count": 9,
+          "media_count": 430,
+          "tweet_count": 4346
+        },
+        "username": "kxk1388574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年的🍥一只|在家长不管党和家长党中徘徊|175cm/70kg（不在乎健康的那种减肥中）|双相|精分|ENFP-T|5.24打赢复活赛|hrt2024.4.22|自切时间2025.6.10|BA厨小梓，舟厨特蕾西娅|闲散人员一只|小狗@Takina_Jimato|🚪88→里推:@mai_HAYASE_chu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/wlKM5cp85J"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "巴别塔",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1938539440470921594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7205,
+          "following_count": 261,
+          "like_count": 777,
+          "listed_count": 7,
+          "media_count": 75,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/wlKM5cp85J",
+        "username": "BAshirasu_1226",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:24:36.000Z",
+        "description": "08跨/重读高一/无证含糖/hrt-2025.2.1/抖s+m？/AFO/嵌入式/pcb layout/ALL in boom/轻度玉玉+中度焦虑/喜欢找同类贴贴/坐标重庆/求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snmqwq.online",
+                "end": 23,
+                "expanded_url": "https://snmqwq.online",
+                "start": 0,
+                "url": "https://t.co/mNl6h2IMDj"
+              }
+            ]
+          }
+        },
+        "id": "1846255536687534086",
+        "location": "重庆",
+        "name": "尚凝梦qwq",
+        "pinned_tweet_id": "1928422012180906433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901910621677084672/2_69LYBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 424,
+          "like_count": 659,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/mNl6h2IMDj",
+        "username": "snmqwq",
+        "verified": false
+      }
+    ]
+  }
+}

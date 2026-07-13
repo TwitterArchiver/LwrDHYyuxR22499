@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1920865173910294944",
+    "created_at": "2025-05-11T03:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T04:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921412100531880351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1371296214692499457",
+          "start": 0,
+          "username": "MisakaNo10777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921412100531880351",
+    "in_reply_to_user_id": "1371296214692499457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921404476339937493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaNo10777 😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1920865173910294944",
+        "created_at": "2025-05-11T03:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921412100531880351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371296214692499457",
+              "start": 0,
+              "username": "MisakaNo10777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921412100531880351",
+        "in_reply_to_user_id": "1371296214692499457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921404476339937493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNo10777 😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371296214692499457",
+        "conversation_id": "1920865173910294944",
+        "created_at": "2025-05-11T03:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921404476339937493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921404476339937493",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920865173910294944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 299,
+          "like_count": 268,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 431
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T03:04:44.000Z",
+        "description": "I am a college computer science student & developer & Misaka No.10777 . 失败学研0",
+        "id": "1371296214692499457",
+        "location": "别人交白卷就考上的某个一本",
+        "name": "Misaka10777",
+        "pinned_tweet_id": "1685137590465495040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722776439832055808/fuQD5NGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4293,
+          "following_count": 3521,
+          "like_count": 446674,
+          "listed_count": 17,
+          "media_count": 2937,
+          "tweet_count": 21675
+        },
+        "username": "MisakaNo10777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2008916220620529946",
+    "created_at": "2026-01-08T00:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T01:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009058195290116546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 26,
+          "id": "1585145286598483968",
+          "start": 14,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009058195290116546",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008916220620529946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 @lianyiganyu 🤓🫵🏻我不是你小组的组员哦\n请注意总结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2008916220620529946",
+        "created_at": "2026-01-08T00:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009058195290116546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 26,
+              "id": "1585145286598483968",
+              "start": 14,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009058195290116546",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008916220620529946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @lianyiganyu 🤓🫵🏻我不是你小组的组员哦\n请注意总结"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2008916220620529946",
+        "created_at": "2026-01-07T14:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:45:45.000Z",
+          "edits_remaining": 0,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008912947847073891",
+          "2008913393147875548",
+          "2008914075649262065",
+          "2008914732720537923",
+          "2008915001990676547",
+          "2008916220620529946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1585145286598483968",
+              "start": 8,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/1879265587433816458",
+              "start": 154,
+              "url": "https://t.co/DplOoJmaOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008916220620529946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 20,
+                "id": "1585145286598483968",
+                "start": 8,
+                "username": "lianyiganyu"
+              },
+              {
+                "end": 768,
+                "id": "1300828282061877249",
+                "start": 755,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 796,
+                "id": "1300828282061877249",
+                "start": 783,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 815,
+                "id": "1585145286598483968",
+                "start": 803,
+                "username": "lianyiganyu"
+              },
+              {
+                "end": 1672,
+                "id": "1938210111992074240",
+                "start": 1664,
+                "username": "FJUNNNN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/status/19044…",
+                "end": 1143,
+                "expanded_url": "https://x.com/i/status/1904488308857872700",
+                "start": 1120,
+                "url": "https://t.co/i2Xn9E3HAH"
+              },
+              {
+                "display_url": "x.com/i/status/20009…",
+                "end": 1248,
+                "expanded_url": "https://x.com/i/status/2000998939680801094",
+                "start": 1225,
+                "url": "https://t.co/1UIOFXPoDh"
+              }
+            ]
+          },
+          "text": "涟漪危机干预小组@lianyiganyu 2025年工作简报（北京时间1月1日至12月31日）：\n\n本次简报有以下注意事项：\n\n一，涟漪危机干预小组的所有助人工作均以保护和拯救生命，尽可能让更多原本会死亡的人活下去为第一优先原则，其次才会追求“助人工作资金回报率”，这是涟漪危机干预小组长期亏损的根本原因。\n否则，如果以NGO组织的逻辑进行团队运营（在中国大陆地区无法执行且摩擦成本巨大），或者放弃底层阶级的受助者，仅为中产或以上阶级受助者提供服务，减少亏损甚至实现盈利完全可行。\n\n二，不再区分“赞赏金额”和“受助者回馈”，因为实务工作中二者的身份常常会混合和交织。如果是非资金赞赏（如劳动力，工作岗位或房屋等资源，包括支出资金计算在内，则会以资金形式按最低工资的标准进行估算量化）。\n\n三，上一次的工作简报金额采取“估算金额与详细金额累加的方式对每一年和每一项的支出进行计算”，（例如20万元约数加上1314元详细数字，最后会得出201314元）但是事实上这样会产生歧义，本次工作简报的每一项金额在有估算的情况下会直接按照约数进行报告。\n\n四，累计赞赏金额在200元以上的赞赏者可通过任何账号向寒涟漪进行任何一项金额开支和助人工作项目的问询和质证，寒涟漪会在不透露他人个人信息的情况下（除非相关事件和人员涉及到赞赏者本人）提供解答和相关助人记录及其资金流水。\n\n五，和往年一样，涟漪危机干预小组2025年的助人工作的资金来源超70％来自于寒涟漪本人及其亲密关系，本次助人工作简报仅作为信息交流使用。不作为任何将本团队视为NGO或其他形式的公共组织的依据，其所有助人活动均由助人者以团队或个人形式基于法律框架下“公民自发的见义勇为行动”进行。\n\n六，因为X平台发长文需要充值会员，为了节省开支，寒涟漪只保留了@hanlianyi331 账号的会员。因此本次简报会在@hanlianyi331 账号上发布，@lianyiganyu 账号引用转发。\n\n线上工作：\n\n2025年全年，涟漪危机干预小组在各个线上平台（含小组账号和寒涟漪个人账号）共计为约600人次无偿提供了信息咨询，资源链接和陪聊服务，共计为约30人次的跨性别者的家长提供了咨询。\n其中大多数资源主要为危机和自杀干预或其指导（线上），家庭暴力干预和家庭工作及其指导（线上），医疗资源和法律资源咨询及其链接等内容。有偿咨询（线上）共计约80人次，其主要是陪聊，学历教育，就业咨询，学术采访和志愿者培训等内容。\n\n线下工作：\n\n针对因受到王孝天，李保兴诈骗巨额资金而陷入严重自杀危机的11名受害者进行了自杀及危机干预工作，并且进行了收集证据和集结受害者到北京进行了法律维权的尝试。（https://t.co/i2Xn9E3HAH）\n\n共计为129人提供了5天及以上时间的住处，其中涉及到危机及自杀干预工作的受助人员为41人，涉及到对抗反人类暴力监禁虐待恐怖组织和协助信息曝光工作及其相关工作（https://t.co/1UIOFXPoDh）的受助人员共计13人，其余一般为工作技能培训，躲避家庭暴力，寻求医疗资源，寻找工作岗位和就业机会，自学高考或考研等学历教育，志愿者，学术研究者，高校或机构人员拜访等情况。\n\n2025年庇护所项目在全国范围共计维持八个房屋，分布在湖北，四川及广东。\n\n资金情况：\n\n2025年，涟漪危机干预小组共计在助人工作中投入资金约57万元。其中包括了约31万元的房屋租金及押金，电，水，燃气，网络，物业，家具家电，搬家搬运等费用，约15万元的出借资金的借贷成本，约6万元的医药援助成本，约3万元的志愿者津贴及其交通和住宿等成本，针对王孝天诈骗案件法律维权综合费用（截止2025年12月31日）约2万元。\n\n全平台各个渠道共计收到赞赏者和受助者回馈（如有能力情况下分摊的房屋租金）共计约207361元。（其中74000元来自两位大湾区工作的姐姐，这是她们工薪收入的一部分，且已经给她们的生活产生了负担，其中一位已持续四年有余。） \n\n除此之外，@FJUNNNN 在2025年共计为涟漪危机干预小组的助人工作投入了资金约十万元，寒涟漪本人则共计为助人工作投入了约26万元。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4521,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879265587433816458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "涟漪危机干预小组@lianyiganyu 2025年工作简报（北京时间1月1日至12月31日）：\n\n本次简报有以下注意事项：\n\n一，涟漪危机干预小组的所有助人工作均以保护和拯救生命，尽可能让更多原本会死亡的人活下去为第一优先原则，其次才会追求“助人工作资金回报率”，这是涟漪危机干预小组长期亏损的根本原因。 https://t.co/DplOoJmaOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 1520,
+          "like_count": 1285,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 1832
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40799,
+          "following_count": 3661,
+          "like_count": 1381,
+          "listed_count": 67,
+          "media_count": 381,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      }
+    ]
+  }
+}

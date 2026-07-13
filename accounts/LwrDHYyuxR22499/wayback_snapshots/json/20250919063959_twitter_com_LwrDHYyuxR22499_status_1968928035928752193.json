@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968928008011489280",
+        "3_1968928009378779136",
+        "3_1968928031038197760",
+        "3_1968928010888765441"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1968928035928752193",
+    "created_at": "2025-09-19T06:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T07:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968928035928752193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/abFDwbTjbA",
+          "end": 52,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+          "media_key": "3_1968928008011489280",
+          "start": 29,
+          "url": "https://t.co/abFDwbTjbA"
+        },
+        {
+          "display_url": "pic.x.com/abFDwbTjbA",
+          "end": 52,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+          "media_key": "3_1968928009378779136",
+          "start": 29,
+          "url": "https://t.co/abFDwbTjbA"
+        },
+        {
+          "display_url": "pic.x.com/abFDwbTjbA",
+          "end": 52,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+          "media_key": "3_1968928031038197760",
+          "start": 29,
+          "url": "https://t.co/abFDwbTjbA"
+        },
+        {
+          "display_url": "pic.x.com/abFDwbTjbA",
+          "end": 52,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+          "media_key": "3_1968928010888765441",
+          "start": 29,
+          "url": "https://t.co/abFDwbTjbA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968928035928752193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一顺直人因为危险等级不够没得到我的救助资源而开始破口大骂 https://t.co/abFDwbTjbA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968928008011489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MJl2nXoAAwBMo.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968928009378779136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MJl7tW0AA87O3.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968928031038197760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MJnMZXUAA86LO.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968928010888765441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MJmBVXYAExFtB.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968928008011489280",
+            "3_1968928009378779136",
+            "3_1968928031038197760",
+            "3_1968928010888765441"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968928035928752193",
+        "created_at": "2025-09-19T06:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T07:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968928035928752193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abFDwbTjbA",
+              "end": 52,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+              "media_key": "3_1968928008011489280",
+              "start": 29,
+              "url": "https://t.co/abFDwbTjbA"
+            },
+            {
+              "display_url": "pic.x.com/abFDwbTjbA",
+              "end": 52,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+              "media_key": "3_1968928009378779136",
+              "start": 29,
+              "url": "https://t.co/abFDwbTjbA"
+            },
+            {
+              "display_url": "pic.x.com/abFDwbTjbA",
+              "end": 52,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+              "media_key": "3_1968928031038197760",
+              "start": 29,
+              "url": "https://t.co/abFDwbTjbA"
+            },
+            {
+              "display_url": "pic.x.com/abFDwbTjbA",
+              "end": 52,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1968928035928752193/photo/1",
+              "media_key": "3_1968928010888765441",
+              "start": 29,
+              "url": "https://t.co/abFDwbTjbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968928035928752193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一顺直人因为危险等级不够没得到我的救助资源而开始破口大骂 https://t.co/abFDwbTjbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 700,
+          "like_count": 629,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 893
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

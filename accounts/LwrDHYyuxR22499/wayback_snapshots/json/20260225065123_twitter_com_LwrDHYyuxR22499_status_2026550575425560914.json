@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2026160160868012308",
+    "created_at": "2026-02-25T06:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026550575425560914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906006892532703233",
+          "start": 0,
+          "username": "_Wu_Qing_"
+        },
+        {
+          "end": 26,
+          "id": "1260553941714186241",
+          "start": 11,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026550575425560914",
+    "in_reply_to_user_id": "1906006892532703233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026424528390467906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Wu_Qing_ @whyyoutouzhele 私聊一下?我们需要更多知情者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2026160160868012308",
+        "created_at": "2026-02-25T06:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026550575425560914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906006892532703233",
+              "start": 0,
+              "username": "_Wu_Qing_"
+            },
+            {
+              "end": 26,
+              "id": "1260553941714186241",
+              "start": 11,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026550575425560914",
+        "in_reply_to_user_id": "1906006892532703233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026424528390467906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Wu_Qing_ @whyyoutouzhele 私聊一下?我们需要更多知情者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906006892532703233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2026160160868012308",
+        "created_at": "2026-02-24T22:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026424528390467906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026424528390467906",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026160160868012308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 沁元博不是孤立的一家，它有对应的上线。学校里所谓的“心理老师”陈昱赫负责介绍学生去往更上一级的机构，张丽红的爱中成长教育咨询有限公司（实际上是类似传销的组织，全国好多地方都有基地，带着孩子在不同基地间到处跑，给家长洗脑圈钱，鼓励家长发展下线）。不敢在墙内发怕被ban，大家可以关注一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "2026549305713246493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 1903,
+          "like_count": 1779,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2221
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T15:34:05.000Z",
+        "description": "",
+        "id": "1906006892532703233",
+        "name": "芜青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013722958632570880/MiKGH16q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 51,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "_Wu_Qing_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2025900193976308004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194305,
+          "following_count": 1017,
+          "like_count": 9039,
+          "listed_count": 8570,
+          "media_count": 41978,
+          "tweet_count": 48994
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

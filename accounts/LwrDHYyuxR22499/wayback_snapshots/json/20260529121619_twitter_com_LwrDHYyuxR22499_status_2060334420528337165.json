@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2060334420528337165",
+    "created_at": "2026-05-29T12:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060334420528337165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 27,
+          "id": "1278173196848513024",
+          "start": 13,
+          "username": "LimeZ10040746"
+        },
+        {
+          "end": 37,
+          "id": "193648759",
+          "start": 28,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060334420528337165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060276011355279825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: @LimeZ10040746 @ripo0079 江西中医药大学张朱乐，陕西安康市沁元博素质教育基地，因为女同被母亲送进去的。经典的性少数迫害的案例。安康市公安局督察的电话录音在我手机上就有，你要不要听？就是他亲口说的“这个是同性恋你晓不晓得”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2060334420528337165",
+        "created_at": "2026-05-29T12:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060334420528337165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 27,
+              "id": "1278173196848513024",
+              "start": 13,
+              "username": "LimeZ10040746"
+            },
+            {
+              "end": 37,
+              "id": "193648759",
+              "start": 28,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060334420528337165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060276011355279825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: @LimeZ10040746 @ripo0079 江西中医药大学张朱乐，陕西安康市沁元博素质教育基地，因为女同被母亲送进去的。经典的性少数迫害的案例。安康市公安局督察的电话录音在我手机上就有，你要不要听？就是他亲口说的“这个是同性恋你晓不晓得”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2060263174788800523",
+        "created_at": "2026-05-29T08:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060276011355279825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1278173196848513024",
+              "start": 0,
+              "username": "LimeZ10040746"
+            },
+            {
+              "end": 24,
+              "id": "193648759",
+              "start": 15,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060276011355279825",
+        "in_reply_to_user_id": "1278173196848513024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1152,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060274567030210931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimeZ10040746 @ripo0079 江西中医药大学张朱乐，陕西安康市沁元博素质教育基地，因为女同被母亲送进去的。经典的性少数迫害的案例。安康市公安局督察的电话录音在我手机上就有，你要不要听？就是他亲口说的“这个是同性恋你晓不晓得”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5394,
+          "following_count": 3014,
+          "like_count": 3036,
+          "listed_count": 19,
+          "media_count": 432,
+          "tweet_count": 2889
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058661675612663945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 1821,
+          "like_count": 20979,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 5363
+        },
+        "username": "hu_qin_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-01T03:46:59.000Z",
+        "description": "日本酒大好きな中国人丨\n日本酒飲まないとシヌ丨\n猫ちゃんの奴隷丨",
+        "id": "1278173196848513024",
+        "name": "Lime Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536907517791305734/RXvP-2Qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 428,
+          "like_count": 3581,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 951
+        },
+        "username": "LimeZ10040746",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11703,
+          "following_count": 1413,
+          "like_count": 73503,
+          "listed_count": 132,
+          "media_count": 4361,
+          "tweet_count": 54562
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004676358698594453",
+    "created_at": "2025-12-27T04:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T05:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004769633023525099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "807771969735135232",
+          "start": 0,
+          "username": "Isgood_Thomas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004769633023525099",
+    "in_reply_to_user_id": "807771969735135232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004748221353267433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isgood_Thomas 你猜主角还有他们的素材都是哪来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004676358698594453",
+        "created_at": "2025-12-27T04:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004769633023525099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "807771969735135232",
+              "start": 0,
+              "username": "Isgood_Thomas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004769633023525099",
+        "in_reply_to_user_id": "807771969735135232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004748221353267433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isgood_Thomas 你猜主角还有他们的素材都是哪来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "807771969735135232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2004676358698594453",
+        "created_at": "2025-12-27T02:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004748221353267433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004748221353267433",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004676358698594453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 BBC最近有個調查報道是關於扭轉機構的\n如果你確實有證據和訊息，可以投稿給BBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079123917045760/3UkP7ItU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 1446,
+          "like_count": 1177,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 1716
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-11T02:20:20.000Z",
+        "description": "後悔したくない　目の前に\n僕らの道がある",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wikipedia.org",
+                "end": 23,
+                "expanded_url": "https://wikipedia.org",
+                "start": 0,
+                "url": "https://t.co/AojoByen1R"
+              }
+            ]
+          }
+        },
+        "id": "807771969735135232",
+        "location": "Jhongjheng, Taipei, Taiwan ROC",
+        "name": "Kingcow",
+        "pinned_tweet_id": "1002587503772090368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728701518046781440/Gv89b_cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 597,
+          "like_count": 8986,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 4372
+        },
+        "url": "https://t.co/AojoByen1R",
+        "username": "Isgood_Thomas",
+        "verified": false
+      }
+    ]
+  }
+}

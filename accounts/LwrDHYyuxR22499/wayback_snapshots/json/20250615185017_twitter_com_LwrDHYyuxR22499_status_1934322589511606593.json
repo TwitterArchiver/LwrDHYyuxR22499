@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1934322589511606593",
+    "created_at": "2025-06-15T18:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T19:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934322589511606593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        },
+        {
+          "end": 51,
+          "id": "1843201902550634496",
+          "start": 35,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934322589511606593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934185644575621452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 工作日志\n2025/5/22\n@LwrDHYyuxR22499接到了刘靖蕾本人像我们的求救声称自己被教官抓走\n后由志愿人员前往事故发生地\n调去监控录像确认车牌信息\n于2025/5/29确认其所在学校的真实位置信息\n开始展开救援\n2025/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934185623151333376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtebk5WaUAAr7AY.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934185623675674624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtebk7TbIAAAA1z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934185623172321280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtebk5bakAA8gPs.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1934322589511606593",
+        "created_at": "2025-06-15T18:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T19:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934322589511606593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 51,
+              "id": "1843201902550634496",
+              "start": 35,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934322589511606593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934185644575621452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 工作日志\n2025/5/22\n@LwrDHYyuxR22499接到了刘靖蕾本人像我们的求救声称自己被教官抓走\n后由志愿人员前往事故发生地\n调去监控录像确认车牌信息\n于2025/5/29确认其所在学校的真实位置信息\n开始展开救援\n2025/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934185623151333376",
+            "3_1934185623675674624",
+            "3_1934185623172321280"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1934185644575621452",
+        "created_at": "2025-06-15T09:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T10:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934185644575621452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1843201902550634496",
+              "start": 15,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 140,
+              "id": "1843201902550634496",
+              "start": 124,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0DYHr7iB6",
+              "end": 188,
+              "expanded_url": "https://x.com/yaming00742313/status/1934185644575621452/photo/1",
+              "media_key": "3_1934185623151333376",
+              "start": 165,
+              "url": "https://t.co/I0DYHr7iB6"
+            },
+            {
+              "display_url": "pic.x.com/I0DYHr7iB6",
+              "end": 188,
+              "expanded_url": "https://x.com/yaming00742313/status/1934185644575621452/photo/1",
+              "media_key": "3_1934185623675674624",
+              "start": 165,
+              "url": "https://t.co/I0DYHr7iB6"
+            },
+            {
+              "display_url": "pic.x.com/I0DYHr7iB6",
+              "end": 188,
+              "expanded_url": "https://x.com/yaming00742313/status/1934185644575621452/photo/1",
+              "media_key": "3_1934185623172321280",
+              "start": 165,
+              "url": "https://t.co/I0DYHr7iB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934185644575621452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 31,
+                "id": "1843201902550634496",
+                "start": 15,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 140,
+                "id": "1843201902550634496",
+                "start": 124,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          },
+          "text": "工作日志\n2025/5/22\n@LwrDHYyuxR22499接到了刘靖蕾本人像我们的求救声称自己被教官抓走\n后由志愿人员前往事故发生地\n调去监控录像确认车牌信息\n于2025/5/29确认其所在学校的真实位置信息\n开始展开救援\n2025/6/14/@LwrDHYyuxR22499一人前往线下与警方\n学校负责人家长十一人进行谈判\n于当日下午刘靖蕾获释回家\n警方受案调查涉事教官被开除\n感谢警方的重视与负责依法依规办理此案\n\n此案结束下付在场记录"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6529,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "工作日志\n2025/5/22\n@LwrDHYyuxR22499接到了刘靖蕾本人像我们的求救声称自己被教官抓走\n后由志愿人员前往事故发生地\n调去监控录像确认车牌信息\n于2025/5/29确认其所在学校的真实位置信息\n开始展开救援\n2025/6/14/@LwrDHYyuxR22499一人前往线下与警方\n学校负责人家长十一人进行谈判 https://t.co/I0DYHr7iB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 370,
+          "like_count": 360,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 520
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12440,
+          "following_count": 1551,
+          "like_count": 6439,
+          "listed_count": 27,
+          "media_count": 336,
+          "tweet_count": 2416
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

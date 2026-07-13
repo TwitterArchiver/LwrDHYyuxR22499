@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1976394506598744372",
+    "created_at": "2025-10-09T21:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T22:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976394506598744372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maigo_wakatake…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/maigo_wakatake/status/1976211005026992495",
+          "start": 15,
+          "url": "https://t.co/cCgmQEJGoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976394506598744372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976211005026992495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依经验来看他们的结果都不太好 https://t.co/cCgmQEJGoR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1976394506598744372",
+        "created_at": "2025-10-09T21:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976394506598744372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigo_wakatake…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/maigo_wakatake/status/1976211005026992495",
+              "start": 15,
+              "url": "https://t.co/cCgmQEJGoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976394506598744372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976211005026992495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依经验来看他们的结果都不太好 https://t.co/cCgmQEJGoR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "1976211005026992495",
+        "created_at": "2025-10-09T08:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976211005026992495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976211005026992495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做救助吧还有个问题是当事人依从度的问题。\n「我家里大概还是爱着我的」是个普及率可能有90%+的现象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 862,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 974
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "多意识体-桔梗系统。北雁ふみんです。被剪掉垂耳的传染性兔（部分时候不是）。持久而长久的睡眠障碍者。🚪128，是的、我们需要钱。she/her/they/them, if it matters",
+        "id": "1315706812935487489",
+        "location": "いいえ 見えはしない",
+        "name": "咪仑唑达",
+        "pinned_tweet_id": "1968144116866593084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 206,
+          "like_count": 2948,
+          "listed_count": 10,
+          "media_count": 2228,
+          "tweet_count": 20069
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

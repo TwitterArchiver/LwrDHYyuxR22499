@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1957471771353047366",
+    "created_at": "2025-08-18T15:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957471771353047366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        },
+        {
+          "end": 60,
+          "id": "1843201902550634496",
+          "start": 44,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 121,
+          "id": "1843201902550634496",
+          "start": 105,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957471771353047366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957466964227743758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 工作日志:/2025/8/9/\n再河南执行任务的@LwrDHYyuxR22499\n接到了@SHUlxixixi 亲密关系的求助\n声称其被非法集中营“仁人教育”绑架囚禁。\n@LwrDHYyuxR22499于8/11抵达线下，十二号展开对该校…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12458,
+        "height": 1920,
+        "media_key": "7_1957466544302329856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957466544302329856/pu/img/XUCKNAhB17LULiAC.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466544302329856/pu/vid/avc1/320x568/fRDU9_tTMtvO-5qB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466544302329856/pu/vid/avc1/480x852/RjfZpGXYfF-D9bEy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466544302329856/pu/vid/avc1/720x1280/XHIodjzwV5xx0yGe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957466544302329856/pu/pl/LtXAz2dU04l8CIWL.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 28079,
+        "height": 1920,
+        "media_key": "7_1957466683251236864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957466683251236864/pu/img/e0ZxhUaPpThvwrWP.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466683251236864/pu/vid/avc1/320x568/Kl3Wsjxpd0GNwxT6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466683251236864/pu/vid/avc1/480x852/SyMAq_NqnEf2YRlb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466683251236864/pu/vid/avc1/720x1280/z9UeJgyIjkvc54Qq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957466683251236864/pu/pl/2N01H0Y72ywQexIW.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 9219,
+        "height": 1920,
+        "media_key": "7_1957466830882447360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957466830882447360/pu/img/YkBJgzobiF8l94A2.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466830882447360/pu/vid/avc1/320x568/rITK097h9TCXTbDL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466830882447360/pu/vid/avc1/480x852/zx61Q6yBNYJx950t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466830882447360/pu/vid/avc1/720x1280/-WcHjaZuFm-Hxn53.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957466830882447360/pu/pl/mOXlnHXIK0iLsYQC.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 10092,
+        "height": 1920,
+        "media_key": "7_1957466910339244032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957466910339244032/pu/img/qe05SFf0-wz6xClz.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466910339244032/pu/vid/avc1/320x568/BYgKm6-7JsYASXOv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466910339244032/pu/vid/avc1/480x852/BnDmJDQvuupj1k4y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957466910339244032/pu/vid/avc1/720x1280/D40S6HuDDhbQEJpj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957466910339244032/pu/pl/zMyqtRKCehcBLcrb.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1957471771353047366",
+        "created_at": "2025-08-18T15:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957471771353047366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 60,
+              "id": "1843201902550634496",
+              "start": 44,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 121,
+              "id": "1843201902550634496",
+              "start": 105,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957471771353047366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957466964227743758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 工作日志:/2025/8/9/\n再河南执行任务的@LwrDHYyuxR22499\n接到了@SHUlxixixi 亲密关系的求助\n声称其被非法集中营“仁人教育”绑架囚禁。\n@LwrDHYyuxR22499于8/11抵达线下，十二号展开对该校…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957466544302329856",
+            "7_1957466683251236864",
+            "7_1957466830882447360",
+            "7_1957466910339244032"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1957466964227743758",
+        "created_at": "2025-08-18T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957466964227743758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1843201902550634496",
+              "start": 24,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 101,
+              "id": "1843201902550634496",
+              "start": 85,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHpmPSbYqS",
+              "end": 148,
+              "expanded_url": "https://x.com/yaming00742313/status/1957466964227743758/video/1",
+              "media_key": "7_1957466544302329856",
+              "start": 125,
+              "url": "https://t.co/YHpmPSbYqS"
+            },
+            {
+              "display_url": "pic.x.com/YHpmPSbYqS",
+              "end": 148,
+              "expanded_url": "https://x.com/yaming00742313/status/1957466964227743758/video/1",
+              "media_key": "7_1957466683251236864",
+              "start": 125,
+              "url": "https://t.co/YHpmPSbYqS"
+            },
+            {
+              "display_url": "pic.x.com/YHpmPSbYqS",
+              "end": 148,
+              "expanded_url": "https://x.com/yaming00742313/status/1957466964227743758/video/1",
+              "media_key": "7_1957466830882447360",
+              "start": 125,
+              "url": "https://t.co/YHpmPSbYqS"
+            },
+            {
+              "display_url": "pic.x.com/YHpmPSbYqS",
+              "end": 148,
+              "expanded_url": "https://x.com/yaming00742313/status/1957466964227743758/video/1",
+              "media_key": "7_1957466910339244032",
+              "start": 125,
+              "url": "https://t.co/YHpmPSbYqS"
+            },
+            {
+              "display_url": "x.com/SHUIxixixi/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/SHUIxixixi/status/1957447625546072150",
+              "start": 149,
+              "url": "https://t.co/LJLFxs0oia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957466964227743758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 40,
+                "id": "1843201902550634496",
+                "start": 24,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 101,
+                "id": "1843201902550634496",
+                "start": 85,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 297,
+                "id": "1843201902550634496",
+                "start": 281,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 406,
+                "id": "1843201902550634496",
+                "start": 390,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          },
+          "text": "工作日志:/2025/8/9/\n再河南执行任务的@LwrDHYyuxR22499\n接到了@SHUlxixixi 亲密关系的求助\n声称其被非法集中营“仁人教育”绑架囚禁。\n@LwrDHYyuxR22499于8/11抵达线下，十二号展开对该校区的调查，\n在多次线下以及线上的调查走访后，发现该学校不仅有虐待，伤害，体罚，等情况还有强奸霸凌，组织迷信活动通过扎小纸人治疗双向情感障碍，并且无任何医疗资质，培训资质，教学资质等违法后，\n开始联系广大受害者用于媒体曝光，\n并多次线下侦查偷拍以及奔波在法律途径。\n在这期间受到了多起自称警察不知名人士的电话骚扰与恐吓。\n随后@LwrDHYyuxR22499将所有线下成员全部遣散一人留守济南继续调查走访，在几天内收集到了近三十人的证词以及实质性证据。\n在努力与齐全的证据下，短短三天就由教育局牵头成立专班调查该机构也以此素材完成了舆论曝光。\n@LwrDHYyuxR22499以此海量的证据做为要挟\n要求其机构释放受害者。\n该机构迫不得已再救援者介入的第六天决定放人，\n受害人目前已安全到家，\n后续将继续保护受害者的人身安全。\n\n                                             此案结束"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957447625546072150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "工作日志:/2025/8/9/\n再河南执行任务的@LwrDHYyuxR22499\n接到了@SHUlxixixi 亲密关系的求助\n声称其被非法集中营“仁人教育”绑架囚禁。\n@LwrDHYyuxR22499于8/11抵达线下，十二号展开对该校区的调查， https://t.co/YHpmPSbYqS https://t.co/LJLFxs0oia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 508,
+          "like_count": 484,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 686
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12277,
+          "following_count": 1557,
+          "like_count": 6488,
+          "listed_count": 27,
+          "media_count": 343,
+          "tweet_count": 2454
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

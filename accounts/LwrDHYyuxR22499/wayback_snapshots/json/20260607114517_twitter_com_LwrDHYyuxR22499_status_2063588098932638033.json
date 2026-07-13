@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063587300949606400"
+      ],
+      "media_source_tweet_id": [
+        "2063587389969416469"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2063588098932638033",
+    "created_at": "2026-06-07T11:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063588098932638033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgvwNLED2G",
+          "end": 52,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063587389969416469/video/1",
+          "media_key": "7_2063587300949606400",
+          "start": 29,
+          "url": "https://t.co/EgvwNLED2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063588098932638033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063587389969416469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 附带新闻完整版 https://t.co/EgvwNLED2G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81604,
+        "height": 1280,
+        "media_key": "7_2063587300949606400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063587300949606400/pu/img/JY-VCFK-0WBu9e9B.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063587300949606400/pu/vid/avc1/320x568/CfYtfzBUoripTvki.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063587300949606400/pu/vid/avc1/480x852/kj7gOsYG-uRraUuS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063587300949606400/pu/vid/avc1/720x1280/9dVpHE9ciaPUPjuF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063587300949606400/pu/pl/iOh2NMu6ahu87Nug.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063587300949606400"
+          ],
+          "media_source_tweet_id": [
+            "2063587389969416469"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2063588098932638033",
+        "created_at": "2026-06-07T11:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063588098932638033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgvwNLED2G",
+              "end": 52,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063587389969416469/video/1",
+              "media_key": "7_2063587300949606400",
+              "start": 29,
+              "url": "https://t.co/EgvwNLED2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063588098932638033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063587389969416469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 附带新闻完整版 https://t.co/EgvwNLED2G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063587300949606400"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2063583804477051301",
+        "created_at": "2026-06-07T11:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063587389969416469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgvwNLED2G",
+              "end": 31,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063587389969416469/video/1",
+              "media_key": "7_2063587300949606400",
+              "start": 8,
+              "url": "https://t.co/EgvwNLED2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063587389969416469",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063583804477051301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附带新闻完整版 https://t.co/EgvwNLED2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 3108,
+          "like_count": 3188,
+          "listed_count": 19,
+          "media_count": 448,
+          "tweet_count": 2972
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

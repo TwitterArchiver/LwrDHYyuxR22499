@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1956582965355712559",
+    "created_at": "2025-08-16T05:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T06:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956582965355712559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/003art127580/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/003art127580/status/1955957333106024536",
+          "start": 72,
+          "url": "https://t.co/CZxgtbFEJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956582965355712559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955957333106024536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈了个臭逼的跨性别不是人啊\n我问你到底是不是人\n贱畜你这种意式形态高于人权的傻逼\n应该被你出轨的的亲妈用隔壁王叔叔阳具把你捅死在你妈的肚子里 https://t.co/CZxgtbFEJv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1956582965355712559",
+        "created_at": "2025-08-16T05:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T06:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956582965355712559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/003art127580/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/003art127580/status/1955957333106024536",
+              "start": 72,
+              "url": "https://t.co/CZxgtbFEJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956582965355712559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955957333106024536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈了个臭逼的跨性别不是人啊\n我问你到底是不是人\n贱畜你这种意式形态高于人权的傻逼\n应该被你出轨的的亲妈用隔壁王叔叔阳具把你捅死在你妈的肚子里 https://t.co/CZxgtbFEJv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642914972740231169",
+        "conversation_id": "1955939459196723692",
+        "created_at": "2025-08-14T11:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955957333106024536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955957333106024536",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955939459196723692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 又是你们那种不男不女的货色吧😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 498,
+          "like_count": 461,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 671
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T15:40:46.000Z",
+        "description": "当你抠出支黑这两个字的时候，没错黑的就是你🤓🤓🤓\n中国人说白了都是极端左畜，认同左派=支持中共\n不回复是觉得你的贱命不配浪费我的时间，如果比较闲可能也会开小号骂你",
+        "id": "1642914972740231169",
+        "name": "nice bear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642915726049824770/KUg7daMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 34,
+          "like_count": 1545,
+          "listed_count": 6,
+          "media_count": 83,
+          "tweet_count": 3749
+        },
+        "username": "003art127580",
+        "verified": false
+      }
+    ]
+  }
+}

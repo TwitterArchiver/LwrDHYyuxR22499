@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004676358698594453",
+    "created_at": "2025-12-27T05:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004783771128922323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1227606381227692037",
+          "start": 0,
+          "username": "SHUIxixixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004783771128922323",
+    "in_reply_to_user_id": "1227606381227692037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004783131304645018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUIxixixi 感觉不如于港先生一根毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004676358698594453",
+        "created_at": "2025-12-27T05:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004783771128922323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1227606381227692037",
+              "start": 0,
+              "username": "SHUIxixixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004783771128922323",
+        "in_reply_to_user_id": "1227606381227692037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004783131304645018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUIxixixi 感觉不如于港先生一根毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227606381227692037",
+        "conversation_id": "2004676358698594453",
+        "created_at": "2025-12-27T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004783131304645018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004783131304645018",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004769835935498361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 劲大无需多言，还喜欢在对象面前装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079123917045760/3UkP7ItU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1451,
+          "like_count": 1185,
+          "listed_count": 9,
+          "media_count": 294,
+          "tweet_count": 1718
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:53:42.000Z",
+        "description": "这里是汐喵ꉂ ᳐˶ᵒ ᵕ ˂˶ ᳐ฅ坐标浙江 178/130 生产日期2006.12.26 门槛50加vxqq 有门槛图包w(感觉不太好看)想要请发zfb口令(T＿T) 推广链接自辨喵 小号 @SHUIxixixi02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 96,
+                "username": "SHUIxixixi02"
+              }
+            ]
+          }
+        },
+        "id": "1227606381227692037",
+        "name": "汐🍥",
+        "pinned_tweet_id": "2004413221198029273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784546576918044672/5Uv048cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13620,
+          "following_count": 240,
+          "like_count": 583,
+          "listed_count": 82,
+          "media_count": 55,
+          "tweet_count": 351
+        },
+        "username": "SHUIxixixi",
+        "verified": false
+      }
+    ]
+  }
+}

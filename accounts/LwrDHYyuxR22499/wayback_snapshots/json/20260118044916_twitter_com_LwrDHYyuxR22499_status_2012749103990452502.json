@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2012749103990452502",
+    "created_at": "2026-01-18T04:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T05:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012749103990452502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012749103990452502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤔有哪位愿意当牢王的饭票吗\n因为最近在卧底以及救人方面\n花费过多了维持日常生活以及吃饭变得有点困难…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2012749103990452502",
+        "created_at": "2026-01-18T04:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012749103990452502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012749103990452502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔有哪位愿意当牢王的饭票吗\n因为最近在卧底以及救人方面\n花费过多了维持日常生活以及吃饭变得有点困难…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 1599,
+          "like_count": 1328,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 1868
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

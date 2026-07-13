@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-13T04:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977587015551156606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746923469512822784",
+          "start": 0,
+          "username": "hurricane580394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977587015551156606",
+    "in_reply_to_user_id": "1746923469512822784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977550163960049922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hurricane580394 😎平安是有点难了祝顺利吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T04:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977587015551156606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746923469512822784",
+              "start": 0,
+              "username": "hurricane580394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977587015551156606",
+        "in_reply_to_user_id": "1746923469512822784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977550163960049922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hurricane580394 😎平安是有点难了祝顺利吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746923469512822784",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T01:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977550163960049922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977550163960049922",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐！你以后也要平安顺利一点₍˄·͈༝·͈˄*₎◞ ̑̑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 882,
+          "like_count": 701,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1046
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T15:53:21.000Z",
+        "description": "transboy🏳️‍🌈He/Him🏳️‍⚧️\nI am not less of a man because of my body.",
+        "id": "1746923469512822784",
+        "name": "hurricane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750571147060744195/v6KqWgVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 136,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 110
+        },
+        "username": "hurricane580394",
+        "verified": false
+      }
+    ]
+  }
+}

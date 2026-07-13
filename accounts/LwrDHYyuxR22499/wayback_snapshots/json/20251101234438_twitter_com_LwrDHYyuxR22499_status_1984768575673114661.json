@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984767140109717554",
+    "created_at": "2025-11-01T23:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T00:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984768575673114661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878681729407356928",
+          "start": 0,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984768575673114661",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984768378922549343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYuusui1999 😁当然是因为我看不惯这群傻逼\n而且这位可是老相识了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984767140109717554",
+        "created_at": "2025-11-01T23:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984768575673114661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984768575673114661",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984768378922549343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 😁当然是因为我看不惯这群傻逼\n而且这位可是老相识了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1984767140109717554",
+        "created_at": "2025-11-01T23:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984768378922549343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984768378922549343",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984767140109717554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 怎么干什么都有人骂🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 988,
+          "like_count": 797,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1416
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 2253,
+          "like_count": 36932,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9084
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

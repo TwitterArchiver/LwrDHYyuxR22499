@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984301594792321423",
+    "created_at": "2025-11-01T02:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984445653670641857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1262311550116696066",
+          "start": 0,
+          "username": "yaoniangmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984445653670641857",
+    "in_reply_to_user_id": "1262311550116696066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984443460922065363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoniangmao 之前能3300卖给他们的人被他们弄死了，现在又要哭着说现在赚的太多了自己又没能力组织个链子出来卡死药商唉，真有意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984301594792321423",
+        "created_at": "2025-11-01T02:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984445653670641857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1262311550116696066",
+              "start": 0,
+              "username": "yaoniangmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984445653670641857",
+        "in_reply_to_user_id": "1262311550116696066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984443460922065363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoniangmao 之前能3300卖给他们的人被他们弄死了，现在又要哭着说现在赚的太多了自己又没能力组织个链子出来卡死药商唉，真有意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262311550116696066",
+        "conversation_id": "1984301594792321423",
+        "created_at": "2025-11-01T02:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984443460922065363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984443460922065363",
+        "in_reply_to_user_id": "1262311550116696066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984443026840961368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 一眼就知道是小孩子，认为这世界上一切的东西都没有成本😭喵喵也觉得如果能让大家用到3100日元的日雌也很高兴呢，但做不到呢……..药商又不是神，而且就是3100日元的日雌，如果算上原料成本，指不定几百呢，制造商不要生活吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 983,
+          "like_count": 789,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1407
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T09:19:42.000Z",
+        "description": "色/补/日雌/凝胶/减肥药/美白丸/在线销售 telegram客服https://t.co/4tCtiXFodG       discord客服添加好友yaoniangmao     商品特殊，请耐心等待喵喵回复，协助客服@Imagawanobunaga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "Imagawanobunaga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yaoniangmaoisb…",
+                "end": 56,
+                "expanded_url": "http://t.me/yaoniangmaoisback",
+                "start": 33,
+                "url": "https://t.co/4tCtiXFodG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "matters.news/@urcity",
+                "end": 23,
+                "expanded_url": "https://matters.news/@urcity",
+                "start": 0,
+                "url": "https://t.co/kbHYvxp5px"
+              }
+            ]
+          }
+        },
+        "id": "1262311550116696066",
+        "location": "缅北 柬埔寨 中南海 马上就到你家门口",
+        "name": "药娘猫🏳️‍⚧️",
+        "pinned_tweet_id": "1639234345889308672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968226110166175745/qzYzQ4xG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12998,
+          "following_count": 6861,
+          "like_count": 10053,
+          "listed_count": 47,
+          "media_count": 375,
+          "tweet_count": 4725
+        },
+        "url": "https://t.co/kbHYvxp5px",
+        "username": "yaoniangmao",
+        "verified": false
+      }
+    ]
+  }
+}

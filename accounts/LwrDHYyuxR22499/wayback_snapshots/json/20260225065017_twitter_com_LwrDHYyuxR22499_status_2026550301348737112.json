@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2026550301348737112",
+    "created_at": "2026-02-25T06:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026550301348737112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2026160160868012308",
+          "start": 34,
+          "url": "https://t.co/7FuuKzhYPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026550301348737112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026160160868012308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦牛批又把我救的人挂出来了\n这已经是李颖第六次把我办的案子挂出来了 https://t.co/7FuuKzhYPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2419,
+        "media_key": "3_2025942569750843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2YCIVXUAAp5tj.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1713,
+        "media_key": "3_2025942600188858368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2YD5uWkAAGVmJ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2026550301348737112",
+        "created_at": "2026-02-25T06:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026550301348737112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2026160160868012308",
+              "start": 34,
+              "url": "https://t.co/7FuuKzhYPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026550301348737112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026160160868012308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦牛批又把我救的人挂出来了\n这已经是李颖第六次把我办的案子挂出来了 https://t.co/7FuuKzhYPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025942569750843392",
+            "3_2025942600188858368"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2026160160868012308",
+        "created_at": "2026-02-24T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026160160868012308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8SsbscJGP",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2026160160868012308/photo/1",
+              "media_key": "3_2025942569750843392",
+              "start": 118,
+              "url": "https://t.co/r8SsbscJGP"
+            },
+            {
+              "display_url": "pic.x.com/r8SsbscJGP",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2026160160868012308/photo/1",
+              "media_key": "3_2025942600188858368",
+              "start": 118,
+              "url": "https://t.co/r8SsbscJGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026160160868012308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2月22日，一名21岁女大学生称，她被父母和教官骗入陕西省安康市一家戒网瘾学校，期间遭到校方非人虐待。\n她称自己因为反抗，被教官拖到宿舍里一顿拳打脚踢。\n如果有人逃跑被抓回来就会受到“水疗”惩罚：“就是把人反复按进水里，让你溺水窒息”\n曾经有一个男孩被教官拖到树林里殴打，他的惨叫声在整个校园回荡。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 269030,
+          "like_count": 1015,
+          "quote_count": 10,
+          "reply_count": 101,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "2月22日，一名21岁女大学生称，她被父母和教官骗入陕西省安康市一家戒网瘾学校，期间遭到校方非人虐待。\n她称自己因为反抗，被教官拖到宿舍里一顿拳打脚踢。\n如果有人逃跑被抓回来就会受到“水疗”惩罚：“就是把人反复按进水里，让你溺水窒息” https://t.co/r8SsbscJGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "2026549305713246493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 1902,
+          "like_count": 1778,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2220
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2025900193976308004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194305,
+          "following_count": 1017,
+          "like_count": 9039,
+          "listed_count": 8570,
+          "media_count": 41978,
+          "tweet_count": 48994
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

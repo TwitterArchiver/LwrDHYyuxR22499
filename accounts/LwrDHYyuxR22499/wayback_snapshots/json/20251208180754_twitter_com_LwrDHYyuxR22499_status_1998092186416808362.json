@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1995227051117494454",
+    "created_at": "2025-12-08T18:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998092186416808362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998092186416808362",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998087458765123975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg 我们其实一直在做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1995227051117494454",
+        "created_at": "2025-12-08T18:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998092186416808362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998092186416808362",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998087458765123975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg 我们其实一直在做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "1995227051117494454",
+        "created_at": "2025-12-08T17:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998087458765123975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998087458765123975",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995227051117494454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我有点想对网瘾学校发起特别斩首行动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 1139,
+          "like_count": 934,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 1509
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 535,
+          "like_count": 4678,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2615
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

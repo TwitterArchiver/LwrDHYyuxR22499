@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998541949054365698",
+        "3_1998541949742288896"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1998541953236091034",
+    "created_at": "2025-12-09T23:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T00:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998541953236091034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEGT9BFtf0",
+          "end": 46,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1998541953236091034/photo/1",
+          "media_key": "3_1998541949054365698",
+          "start": 23,
+          "url": "https://t.co/rEGT9BFtf0"
+        },
+        {
+          "display_url": "pic.x.com/rEGT9BFtf0",
+          "end": 46,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1998541953236091034/photo/1",
+          "media_key": "3_1998541949742288896",
+          "start": 23,
+          "url": "https://t.co/rEGT9BFtf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998541953236091034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圣诞马上就要到了我该选择哪个当我的限定头像? https://t.co/rEGT9BFtf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_1998541949054365698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7w_UF4aMAIqeE3.jpg",
+        "width": 1970
+      },
+      {
+        "height": 1938,
+        "media_key": "3_1998541949742288896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7w_UIcbEAAqtoq.jpg",
+        "width": 1993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998541949054365698",
+            "3_1998541949742288896"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1998541953236091034",
+        "created_at": "2025-12-09T23:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998541953236091034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEGT9BFtf0",
+              "end": 46,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1998541953236091034/photo/1",
+              "media_key": "3_1998541949054365698",
+              "start": 23,
+              "url": "https://t.co/rEGT9BFtf0"
+            },
+            {
+              "display_url": "pic.x.com/rEGT9BFtf0",
+              "end": 46,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1998541953236091034/photo/1",
+              "media_key": "3_1998541949742288896",
+              "start": 23,
+              "url": "https://t.co/rEGT9BFtf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998541953236091034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞马上就要到了我该选择哪个当我的限定头像? https://t.co/rEGT9BFtf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 1138,
+          "like_count": 938,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 1515
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

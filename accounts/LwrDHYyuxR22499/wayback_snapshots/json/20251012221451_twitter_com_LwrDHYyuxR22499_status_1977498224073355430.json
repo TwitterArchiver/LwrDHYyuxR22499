@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977498224073355430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954601674083053569",
+          "start": 0,
+          "username": "JuSakuyuLime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977498224073355430",
+    "in_reply_to_user_id": "1954601674083053569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977463833712320886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuSakuyuLime ✿✿ヽ(°▽°)ノ✿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498224073355430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954601674083053569",
+              "start": 0,
+              "username": "JuSakuyuLime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498224073355430",
+        "in_reply_to_user_id": "1954601674083053569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977463833712320886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuSakuyuLime ✿✿ヽ(°▽°)ノ✿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601674083053569",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T19:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977463833712320886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977463833712320886",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 878,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1033
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T17:52:21.000Z",
+        "description": "Antipathy World\n🇨🇳\n不知道自己為何物的phony\nChinese &English &Japanese自放送\n有事请私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YuringSpeaking",
+                "end": 23,
+                "expanded_url": "https://t.me/YuringSpeaking",
+                "start": 0,
+                "url": "https://t.co/miEPcgzByf"
+              }
+            ]
+          }
+        },
+        "id": "1954601674083053569",
+        "location": "格林纳达",
+        "name": "雎咲柚檸Sakiyuring",
+        "pinned_tweet_id": "1970004108108320773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958581195630948352/iVdryU4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1262,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/miEPcgzByf",
+        "username": "JuSakuyuLime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1975802428588175828",
+    "created_at": "2025-10-09T21:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T22:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976401277010788555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 26,
+          "id": "1878681729407356928",
+          "start": 14,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976401277010788555",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975802428588175828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @HYuusui1999 这下看懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1975802428588175828",
+        "created_at": "2025-10-09T21:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976401277010788555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 26,
+              "id": "1878681729407356928",
+              "start": 14,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976401277010788555",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975802428588175828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @HYuusui1999 这下看懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Supreme Court and justices",
+              "id": "867872043672326144",
+              "name": "Supreme Court of the United States"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Supreme Court and justices",
+              "id": "867872043672326144",
+              "name": "Supreme Court of the United States"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518650792080666625",
+              "name": "United States government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1975802428588175828",
+        "created_at": "2025-10-08T05:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975802428588175828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noliewithbtc/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/noliewithbtc/status/1975605645857476878",
+              "start": 20,
+              "url": "https://t.co/SUAiazkYfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975802428588175828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10148,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975605645857476878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死 你们美国马上要把扭转机构合法化了 https://t.co/SUAiazkYfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 862,
+          "like_count": 687,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 978
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18485,
+          "following_count": 2319,
+          "like_count": 33682,
+          "listed_count": 56,
+          "media_count": 680,
+          "tweet_count": 16576
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2069,
+          "like_count": 35138,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8751
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

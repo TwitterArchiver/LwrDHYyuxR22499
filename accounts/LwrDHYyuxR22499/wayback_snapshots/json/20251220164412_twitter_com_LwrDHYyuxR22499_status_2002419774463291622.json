@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002419752459997184",
+        "3_2002419752468414464"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2002395185473613926",
+    "created_at": "2025-12-20T16:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002419774463291622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1812433811067858944",
+          "start": 0,
+          "username": "79_554"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbcyMJoBWn",
+          "end": 39,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2002419774463291622/photo/1",
+          "media_key": "3_2002419752459997184",
+          "start": 16,
+          "url": "https://t.co/EbcyMJoBWn"
+        },
+        {
+          "display_url": "pic.x.com/EbcyMJoBWn",
+          "end": 39,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2002419774463291622/photo/1",
+          "media_key": "3_2002419752468414464",
+          "start": 16,
+          "url": "https://t.co/EbcyMJoBWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002419774463291622",
+    "in_reply_to_user_id": "1812433811067858944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002418074319007856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@79_554 答案是透支生命 https://t.co/EbcyMJoBWn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002419752459997184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oGJ9SakAAEjXx.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002419752468414464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oGJ9UbAAAU5Ly.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002419752459997184",
+            "3_2002419752468414464"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2002395185473613926",
+        "created_at": "2025-12-20T16:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002419774463291622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1812433811067858944",
+              "start": 0,
+              "username": "79_554"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbcyMJoBWn",
+              "end": 39,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2002419774463291622/photo/1",
+              "media_key": "3_2002419752459997184",
+              "start": 16,
+              "url": "https://t.co/EbcyMJoBWn"
+            },
+            {
+              "display_url": "pic.x.com/EbcyMJoBWn",
+              "end": 39,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2002419774463291622/photo/1",
+              "media_key": "3_2002419752468414464",
+              "start": 16,
+              "url": "https://t.co/EbcyMJoBWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002419774463291622",
+        "in_reply_to_user_id": "1812433811067858944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002418074319007856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@79_554 答案是透支生命 https://t.co/EbcyMJoBWn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812433811067858944",
+        "conversation_id": "2002395185473613926",
+        "created_at": "2025-12-20T16:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002418074319007856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002418074319007856",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002395185473613926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我的天……respect，不过我想问一下这么高强度的活动精力不会消耗完吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1377,
+          "like_count": 1116,
+          "listed_count": 7,
+          "media_count": 289,
+          "tweet_count": 1680
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T10:27:55.000Z",
+        "description": "",
+        "id": "1812433811067858944",
+        "name": "seven✧classic*💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858185589948108800/KOphdTuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 844,
+          "like_count": 4266,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 195
+        },
+        "username": "79_554",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1988136340450615396",
+    "created_at": "2025-11-12T13:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988601656532222352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "jam905767892426"
+        },
+        {
+          "end": 28,
+          "id": "1473656145168723971",
+          "start": 17,
+          "username": "maxiaojiu2"
+        },
+        {
+          "end": 37,
+          "id": "1618557658163970049",
+          "start": 29,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988601656532222352",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988239370005233715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jam905767892426 @maxiaojiu2 @qqqqqf5 我看未必不敢电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1988136340450615396",
+        "created_at": "2025-11-12T13:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988601656532222352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "jam905767892426"
+            },
+            {
+              "end": 28,
+              "id": "1473656145168723971",
+              "start": 17,
+              "username": "maxiaojiu2"
+            },
+            {
+              "end": 37,
+              "id": "1618557658163970049",
+              "start": 29,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988601656532222352",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988239370005233715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jam905767892426 @maxiaojiu2 @qqqqqf5 我看未必不敢电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "1988136340450615396",
+        "created_at": "2025-11-11T13:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988239370005233715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1473656145168723971",
+              "start": 0,
+              "username": "maxiaojiu2"
+            },
+            {
+              "end": 20,
+              "id": "1618557658163970049",
+              "start": 12,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988239370005233715",
+        "in_reply_to_user_id": "1473656145168723971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988227152253473244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxiaojiu2 @qqqqqf5 感觉现在合法的不敢电了，但是带军事化管理字眼的，里面全是把自己小权力发挥极致的教官和学生教官，每天就想着怎么不挨打挨骂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1015,
+          "like_count": 824,
+          "listed_count": 6,
+          "media_count": 257,
+          "tweet_count": 1385
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "서울 한국 ",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1985705314868740258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 33,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 227
+        },
+        "username": "jam905767892426",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T14:06:31.000Z",
+        "description": "しじんぴんにまび\n為什麼小粉紅總是那麼激動？因為他們是中國人。\n中國是共產主義也聲稱共產國家，那醫療和教育都是免費的對吧",
+        "id": "1473656145168723971",
+        "location": "Taichung City, Taiwan",
+        "name": "爌肉啦幹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474186704349442050/5RjbG1C6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 169,
+          "like_count": 4109,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 2858
+        },
+        "username": "maxiaojiu2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "15岁MTF\n拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1984726981779603959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 1945,
+          "like_count": 7591,
+          "listed_count": 9,
+          "media_count": 910,
+          "tweet_count": 2505
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

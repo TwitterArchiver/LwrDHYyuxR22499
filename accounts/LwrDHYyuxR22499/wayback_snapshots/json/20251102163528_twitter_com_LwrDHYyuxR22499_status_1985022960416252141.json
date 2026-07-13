@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1985022960416252141",
+    "created_at": "2025-11-02T16:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985022960416252141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NagiExpress/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/NagiExpress/status/1985006771958636756",
+          "start": 18,
+          "url": "https://t.co/Pm62xvwHQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985022960416252141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985006771958636756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持请你来当卧底\n跟我一起来玩取证 https://t.co/Pm62xvwHQ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1985022960416252141",
+        "created_at": "2025-11-02T16:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985022960416252141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NagiExpress/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/NagiExpress/status/1985006771958636756",
+              "start": 18,
+              "url": "https://t.co/Pm62xvwHQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985022960416252141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985006771958636756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持请你来当卧底\n跟我一起来玩取证 https://t.co/Pm62xvwHQ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "1985006771958636756",
+        "created_at": "2025-11-02T15:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985006771958636756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1984986060926161107",
+              "start": 36,
+              "url": "https://t.co/sOHKAkKsfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985006771958636756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984986060926161107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然不是很礼貌但有没有机会反向操作把我抓进去\n我可以付钱\n想体验体验了 https://t.co/sOHKAkKsfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 990,
+          "like_count": 823,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1447
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "和nagi一起挑战想象力的极限",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "直快Nagi🥥",
+        "pinned_tweet_id": "1984939752798183515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 1856,
+          "like_count": 16550,
+          "listed_count": 6,
+          "media_count": 1403,
+          "tweet_count": 14539
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

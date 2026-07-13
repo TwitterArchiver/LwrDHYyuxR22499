@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1930098295608881619",
+    "created_at": "2025-06-04T08:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T09:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930178831949627638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930178831949627638",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930098295608881619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 如果这对你产生不适感直接寄给别人或者扔掉好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930098292731588617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskWK8_asAk75-v.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1930098295608881619",
+        "created_at": "2025-06-04T08:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T09:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930178831949627638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930178831949627638",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930098295608881619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 如果这对你产生不适感直接寄给别人或者扔掉好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930098292731588617"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930098295608881619",
+        "created_at": "2025-06-04T03:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930098295608881619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTpcB5iuFw",
+              "end": 51,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930098295608881619/photo/1",
+              "media_key": "3_1930098292731588617",
+              "start": 28,
+              "url": "https://t.co/PTpcB5iuFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930098295608881619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭这人知道我家住哪我还拿他没办法😭😭这饭不吃是不行了吗 https://t.co/PTpcB5iuFw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 359,
+          "like_count": 348,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 504
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 475,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2025050935555502451",
+    "created_at": "2026-02-21T03:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025050935555502451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1874872095076982784",
+          "start": 3,
+          "username": "Martin5Bormann"
+        },
+        {
+          "end": 36,
+          "id": "1843201902550634496",
+          "start": 20,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025050935555502451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025000395517653103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Martin5Bormann: @LwrDHYyuxR22499 我表叔当年上的就是武校，毕业之后找的工作是讨债"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2025050935555502451",
+        "created_at": "2026-02-21T03:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025050935555502451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1874872095076982784",
+              "start": 3,
+              "username": "Martin5Bormann"
+            },
+            {
+              "end": 36,
+              "id": "1843201902550634496",
+              "start": 20,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025050935555502451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025000395517653103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Martin5Bormann: @LwrDHYyuxR22499 我表叔当年上的就是武校，毕业之后找的工作是讨债"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874872095076982784",
+        "conversation_id": "2024716277764542683",
+        "created_at": "2026-02-21T00:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025000395517653103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025000395517653103",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024716277764542683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我表叔当年上的就是武校，毕业之后找的工作是讨债"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3121,
+          "following_count": 1879,
+          "like_count": 1692,
+          "listed_count": 12,
+          "media_count": 343,
+          "tweet_count": 2202
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T17:35:32.000Z",
+        "description": "全心全意为人民服务是民族社会主义国家工人党始终坚持的根本宗旨。 民族社会主义国家工人党从成立之初就担负起了为人民谋幸福、为民族谋复兴的历史使命。 在此后的革命历程中，党始终坚持开展斗争为人民、依靠人民闹革命，在人民的帮助、支持下，才能够一次次化险为夷、绝境逢生，从弱小走向壮大",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qingdao.gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.qingdao.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/9w65GR0FDf"
+              }
+            ]
+          }
+        },
+        "id": "1874872095076982784",
+        "location": "胶澳总督府管辖领地",
+        "name": "马丁·路德维格·鲍曼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005657154150416384/864VvRe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 48,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/9w65GR0FDf",
+        "username": "Martin5Bormann",
+        "verified": false
+      }
+    ]
+  }
+}

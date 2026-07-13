@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021911566158066127",
+    "created_at": "2026-02-17T13:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023744684225441824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "935788025300348929",
+          "start": 0,
+          "username": "bingling39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023744684225441824",
+    "in_reply_to_user_id": "935788025300348929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023740467901591882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingling39 下次可以试试不过吃完几个月后要检查身体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021911566158066127",
+        "created_at": "2026-02-17T13:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023744684225441824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "935788025300348929",
+              "start": 0,
+              "username": "bingling39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023744684225441824",
+        "in_reply_to_user_id": "935788025300348929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023740467901591882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingling39 下次可以试试不过吃完几个月后要检查身体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935788025300348929",
+        "conversation_id": "2021911566158066127",
+        "created_at": "2026-02-17T12:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023740467901591882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023740467901591882",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023738271772405987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 没尝过🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 1833,
+          "like_count": 1641,
+          "listed_count": 12,
+          "media_count": 339,
+          "tweet_count": 2178
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:30:26.000Z",
+        "description": "mtf/持证含糖/不太熟悉玩推/手机维修工程师（修手机的)/武汉庇佑所管理/ TG频道: https://t.co/uHpEpvSrXC /🚪80支付宝口令 /但行好事，莫问前程",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 68,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 45,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 23,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 0,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          }
+        },
+        "id": "935788025300348929",
+        "location": "WuHan",
+        "name": "冰凌枫月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822820942843985920/JJaPljOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 226,
+          "like_count": 3029,
+          "listed_count": 10,
+          "media_count": 244,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/uHpEpvSrXC",
+        "username": "bingling39",
+        "verified": false
+      }
+    ]
+  }
+}

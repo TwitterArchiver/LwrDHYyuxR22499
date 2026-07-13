@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1953469488113803531",
+    "created_at": "2025-08-07T16:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T17:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953494561549963473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953494561549963473",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953469488113803531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 你他妈的比我还吓人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953469416861323264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxweFa-b0AABrI6.jpg",
+        "width": 931
+      },
+      {
+        "height": 1880,
+        "media_key": "3_1953469417389805568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxweFc8b0AATivu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953469418954166272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxweFixaEAAs9an.jpg",
+        "width": 1177
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953469418257948672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxweFgLaoAALbSm.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1953469488113803531",
+        "created_at": "2025-08-07T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953494561549963473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953494561549963473",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953469488113803531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 你他妈的比我还吓人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953469416861323264",
+            "3_1953469417389805568",
+            "3_1953469418954166272",
+            "3_1953469418257948672"
+          ]
+        },
+        "author_id": "1896812508289404928",
+        "conversation_id": "1953469488113803531",
+        "created_at": "2025-08-07T14:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953469488113803531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqxVgoMbhG",
+              "end": 37,
+              "expanded_url": "https://x.com/erciyuanha87431/status/1953469488113803531/photo/1",
+              "media_key": "3_1953469416861323264",
+              "start": 14,
+              "url": "https://t.co/hqxVgoMbhG"
+            },
+            {
+              "display_url": "pic.x.com/hqxVgoMbhG",
+              "end": 37,
+              "expanded_url": "https://x.com/erciyuanha87431/status/1953469488113803531/photo/1",
+              "media_key": "3_1953469417389805568",
+              "start": 14,
+              "url": "https://t.co/hqxVgoMbhG"
+            },
+            {
+              "display_url": "pic.x.com/hqxVgoMbhG",
+              "end": 37,
+              "expanded_url": "https://x.com/erciyuanha87431/status/1953469488113803531/photo/1",
+              "media_key": "3_1953469418954166272",
+              "start": 14,
+              "url": "https://t.co/hqxVgoMbhG"
+            },
+            {
+              "display_url": "pic.x.com/hqxVgoMbhG",
+              "end": 37,
+              "expanded_url": "https://x.com/erciyuanha87431/status/1953469488113803531/photo/1",
+              "media_key": "3_1953469418257948672",
+              "start": 14,
+              "url": "https://t.co/hqxVgoMbhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953469488113803531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人表情包，有需要的自取🤓 https://t.co/hqxVgoMbhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 471,
+          "like_count": 464,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 656
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有双相情感障碍纯疯子一个💀～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳\n大家都能跟我交朋友，多说说话就好了，虽然说我很不会说话，但我很愿意倾听，求互粉\n并未吃糖🍥\n主播的神秘小老妹儿：@LiciiQAQ  @yingyang_MTF\n\n引路人：@Lianshufa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "yingyang_MTF"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "Lianshufa"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "重庆银",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1949569082938081444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945736481613533184/sdIkktzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 832,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 655
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

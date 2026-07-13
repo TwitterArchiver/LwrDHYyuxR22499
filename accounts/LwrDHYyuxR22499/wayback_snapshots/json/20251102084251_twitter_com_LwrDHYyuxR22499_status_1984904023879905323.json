@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984904014161485824"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984900518867870170",
+    "created_at": "2025-11-02T08:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984904023879905323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExjEnFjRYw",
+          "end": 137,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1984904023879905323/photo/1",
+          "media_key": "3_1984904014161485824",
+          "start": 114,
+          "url": "https://t.co/ExjEnFjRYw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984904023879905323",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984902426361807312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 带着良心玩多没劲\n我看你是没坏透还就想涨涨价格\n速速带资绷入局我带宁成为卖药圈大肘子\n药娘信息很闭塞的一大堆国内都不上推特的现在还在买从你或者其他人那直购过来的药物加一百人民币卖给\n这群药娘你不知道吗 https://t.co/ExjEnFjRYw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_1984904014161485824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vLrzVXoAAQESn.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984904014161485824"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T08:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984904023879905323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExjEnFjRYw",
+              "end": 137,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1984904023879905323/photo/1",
+              "media_key": "3_1984904014161485824",
+              "start": 114,
+              "url": "https://t.co/ExjEnFjRYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984904023879905323",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984902426361807312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 带着良心玩多没劲\n我看你是没坏透还就想涨涨价格\n速速带资绷入局我带宁成为卖药圈大肘子\n药娘信息很闭塞的一大堆国内都不上推特的现在还在买从你或者其他人那直购过来的药物加一百人民币卖给\n这群药娘你不知道吗 https://t.co/ExjEnFjRYw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984900518867870170",
+        "created_at": "2025-11-02T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984902426361807312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984902426361807312",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984901411466084628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3😁现在你就可以吧市场上卖的比你便宜的挤兑走了\n造谣假药也好罢黑料背后报警铁拳也罢收集他在推特上的反动素材驱虎吞狼挤兑走\n再代理人到达足够规模的时候你就完全不在需要自身发货\n而是把你的风险转嫁给代理人\n你只负责向有资质的代理人供货就行\n现在你就可以离岸动动手指靠着信息差\n狠狠赚马内了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 989,
+          "like_count": 798,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 1423
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "致敬传奇耐杀王猫卷 ’ @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "HobartR6"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🏙️",
+        "name": "𝙇𝙪𝙢𝙞.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984347223728275460/Wsdoz0EC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 841,
+          "like_count": 743,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2155
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

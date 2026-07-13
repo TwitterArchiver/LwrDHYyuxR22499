@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2004796945534263459",
+    "created_at": "2025-12-27T07:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T08:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004814682960572593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840845367388356611",
+          "start": 0,
+          "username": "sunooru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004814682960572593",
+    "in_reply_to_user_id": "1840845367388356611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004814450080305409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunooru_ 哦我当然不会加入他们毕竟我自我认定是一个人道主义者并且十分坚定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2004796945534263459",
+        "created_at": "2025-12-27T07:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004814682960572593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840845367388356611",
+              "start": 0,
+              "username": "sunooru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004814682960572593",
+        "in_reply_to_user_id": "1840845367388356611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004814450080305409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunooru_ 哦我当然不会加入他们毕竟我自我认定是一个人道主义者并且十分坚定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840845367388356611",
+        "conversation_id": "2004796945534263459",
+        "created_at": "2025-12-27T07:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004814450080305409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004814450080305409",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004796945534263459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你的维度比这种无聊的只讲主义没有实践的政治光谱不知道要高出来多少…别卑躬屈膝加入低于你的那帮人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004079123917045760/3UkP7ItU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 1452,
+          "like_count": 1195,
+          "listed_count": 8,
+          "media_count": 295,
+          "tweet_count": 1727
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T20:05:18.000Z",
+        "description": "关注很淫荡…生活很纯洁 可以交朋友但是不要给我发xx照！你会很倒霉的",
+        "id": "1840845367388356611",
+        "location": "Hammersmith, London",
+        "name": "金枪鱼🐟Tsuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872632583970013185/-WgWdtUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 227,
+          "like_count": 3632,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 168
+        },
+        "username": "sunooru_",
+        "verified": false
+      }
+    ]
+  }
+}

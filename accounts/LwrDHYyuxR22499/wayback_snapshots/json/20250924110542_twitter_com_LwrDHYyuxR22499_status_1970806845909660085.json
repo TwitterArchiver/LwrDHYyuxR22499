@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1970387259653529865",
+    "created_at": "2025-09-24T11:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970806845909660085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813720901726441472",
+          "start": 0,
+          "username": "hoshiamechyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970806845909660085",
+    "in_reply_to_user_id": "1813720901726441472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970482396303892491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshiamechyan 我去恶俗啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1970387259653529865",
+        "created_at": "2025-09-24T11:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970806845909660085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813720901726441472",
+              "start": 0,
+              "username": "hoshiamechyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970806845909660085",
+        "in_reply_to_user_id": "1813720901726441472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970482396303892491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshiamechyan 我去恶俗啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813720901726441472",
+        "conversation_id": "1970387259653529865",
+        "created_at": "2025-09-23T13:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970482396303892491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970482396303892491",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970387259653529865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 本来就是，往右美里面加麻黄碱和槟榔碱能是什么好人😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 745,
+          "like_count": 635,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 915
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T23:42:24.000Z",
+        "description": "明月影，清溪流，孤帆远影碧空秋。情难续，梦难留。一腔愁绪，几度春秋。愁、愁、愁。",
+        "id": "1813720901726441472",
+        "name": "星雨",
+        "pinned_tweet_id": "1813725847226069457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813726176764133376/avK_umH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 30,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 26
+        },
+        "username": "hoshiamechyan",
+        "verified": false
+      }
+    ]
+  }
+}

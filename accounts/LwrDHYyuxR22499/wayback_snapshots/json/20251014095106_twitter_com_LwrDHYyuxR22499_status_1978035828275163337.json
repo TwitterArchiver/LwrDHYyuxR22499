@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977693279744577829",
+    "created_at": "2025-10-14T09:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978035828275163337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1975959177341419521",
+          "start": 0,
+          "username": "xiaojiu99990000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978035828275163337",
+    "in_reply_to_user_id": "1975959177341419521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977936014250590225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojiu99990000 早死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977693279744577829",
+        "created_at": "2025-10-14T09:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978035828275163337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1975959177341419521",
+              "start": 0,
+              "username": "xiaojiu99990000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978035828275163337",
+        "in_reply_to_user_id": "1975959177341419521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977936014250590225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiu99990000 早死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975959177341419521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1977693279744577829",
+        "created_at": "2025-10-14T03:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977936014250590225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977936014250590225",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977693279744577829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 摇滚长发男依旧权威（没有说你爸很好的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 883,
+          "like_count": 703,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1057
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T16:19:23.000Z",
+        "description": "🚪88/188/288/520/1314 验证20 ip10r 欢迎女孩子互转互fo 接纯绿半绿非绿线上陪玩出原味 我需要很多钱和很多爱",
+        "id": "1975959177341419521",
+        "name": "99",
+        "pinned_tweet_id": "1977096030668964143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975973583995486208/1fc9UuXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 16,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "xiaojiu99990000",
+        "verified": false
+      }
+    ]
+  }
+}

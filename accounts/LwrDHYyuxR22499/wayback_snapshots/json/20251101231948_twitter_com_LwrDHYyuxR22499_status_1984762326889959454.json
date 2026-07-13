@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984762326889959454",
+    "created_at": "2025-11-01T23:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T00:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984762326889959454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AypashabintDan…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/AypashabintDan/status/1984667355784544543",
+          "start": 110,
+          "url": "https://t.co/wNRkfHKvss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984762326889959454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984667355784544543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你真是一条蛆爹今年二十二身份证放互联网上岁数都搞不明白脑子吃屎了?\n以为我跟你帕夏低能儿一样缺点钱不是跟家里人要就是挂二维码?\n🤭🤭\n还是靠着碰瓷别人谁你老婆诈骗骗钱花?\n逼人自杀造谣还不够咯现在又要玩人格毁灭这一套了 https://t.co/wNRkfHKvss"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984762326889959454",
+        "created_at": "2025-11-01T23:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984762326889959454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AypashabintDan…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/AypashabintDan/status/1984667355784544543",
+              "start": 110,
+              "url": "https://t.co/wNRkfHKvss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984762326889959454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984667355784544543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你真是一条蛆爹今年二十二身份证放互联网上岁数都搞不明白脑子吃屎了?\n以为我跟你帕夏低能儿一样缺点钱不是跟家里人要就是挂二维码?\n🤭🤭\n还是靠着碰瓷别人谁你老婆诈骗骗钱花?\n逼人自杀造谣还不够咯现在又要玩人格毁灭这一套了 https://t.co/wNRkfHKvss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "1984667355784544543",
+        "created_at": "2025-11-01T17:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984667355784544543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1984305293287940367",
+              "start": 40,
+              "url": "https://t.co/5vJFgvkz4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984667355784544543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984305293287940367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“小生时年二十，已干八年救助，系十二岁超天才也，我这么努力，快来给我捐钱吧~” https://t.co/5vJFgvkz4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 988,
+          "like_count": 793,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1412
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "三十年跨性别救助经验，自费两千万英镑，资深跨性别运动人士，中国第一。附：本人年芳廿四。",
+        "id": "1940622242381262848",
+        "name": "Aypasha bint Dan",
+        "pinned_tweet_id": "1966841721595326804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940622314040971265/UC3cjKyu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 60,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 269
+        },
+        "username": "AypashabintDan",
+        "verified": false
+      }
+    ]
+  }
+}

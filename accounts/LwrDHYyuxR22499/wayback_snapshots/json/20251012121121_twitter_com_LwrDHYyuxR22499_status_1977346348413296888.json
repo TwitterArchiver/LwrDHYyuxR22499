@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977156540135305243",
+    "created_at": "2025-10-12T12:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T13:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977346348413296888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1176535991454064640",
+          "start": 0,
+          "username": "NekoMakiQAQ"
+        },
+        {
+          "end": 22,
+          "id": "2305516323",
+          "start": 13,
+          "username": "JanexieL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977346348413296888",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977346214220755273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoMakiQAQ @JanexieL 太掉价了…咱要不算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977156540135305243",
+        "created_at": "2025-10-12T12:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977346348413296888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "NekoMakiQAQ"
+            },
+            {
+              "end": 22,
+              "id": "2305516323",
+              "start": 13,
+              "username": "JanexieL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977346348413296888",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977346214220755273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoMakiQAQ @JanexieL 太掉价了…咱要不算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1977156540135305243",
+        "created_at": "2025-10-12T12:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977346214220755273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2305516323",
+              "start": 0,
+              "username": "JanexieL"
+            },
+            {
+              "end": 26,
+              "id": "1843201902550634496",
+              "start": 10,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977346214220755273",
+        "in_reply_to_user_id": "2305516323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977345046170010019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanexieL @LwrDHYyuxR22499 我左插插右插插"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 876,
+          "like_count": 699,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 1001
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "PhD Candidate @NTUsg, Cognitive Science | 亲友 💌@HobartR6🐟@Chiyuyu520🐱@_FurryFur_🪼@m1zukiqaqaqaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "NTUsg"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "HobartR6"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "m1zukiqaqaqaq"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi 猫卷 (日雌380包邮",
+        "pinned_tweet_id": "1976837638142541999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976840724676251648/O1Os3IVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3675,
+          "following_count": 1013,
+          "like_count": 28068,
+          "listed_count": 17,
+          "media_count": 1273,
+          "tweet_count": 15708
+        },
+        "username": "NekoMakiQAQ",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-26T11:44:28.000Z",
+        "description": "₍˄·͈༝·͈˄₎ʃ \n私人\n不要关注",
+        "id": "2305516323",
+        "name": "JaneX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/584383649837031424/Z3wyr3vG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 168,
+          "like_count": 27496,
+          "listed_count": 3,
+          "media_count": 1689,
+          "tweet_count": 6959
+        },
+        "username": "JanexieL",
+        "verified": false
+      }
+    ]
+  }
+}

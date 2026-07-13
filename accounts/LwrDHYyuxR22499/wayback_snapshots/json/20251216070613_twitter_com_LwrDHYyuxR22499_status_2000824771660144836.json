@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000824764034899973"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000824771660144836",
+    "created_at": "2025-12-16T07:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T08:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000824771660144836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Soc4Hdh0Bm",
+          "end": 128,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2000824771660144836/photo/1",
+          "media_key": "3_2000824764034899973",
+          "start": 105,
+          "url": "https://t.co/Soc4Hdh0Bm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000824771660144836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😌就知道干好事没好下场\n东西刚发出来还没捂热乎就有人来人身攻击\n不过得纠正一下\n没人跟你一样那么废物\n在秩序暴力下除了在网上骂骂现实当中就当稳定螺丝的贱畜\n还得幻想我找别人\n我是因为自身能力过强主动找到的我们 https://t.co/Soc4Hdh0Bm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000824764034899973",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RbhaYa4AUYiZu.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000824764034899973"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000824771660144836",
+        "created_at": "2025-12-16T07:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000824771660144836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Soc4Hdh0Bm",
+              "end": 128,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2000824771660144836/photo/1",
+              "media_key": "3_2000824764034899973",
+              "start": 105,
+              "url": "https://t.co/Soc4Hdh0Bm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000824771660144836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😌就知道干好事没好下场\n东西刚发出来还没捂热乎就有人来人身攻击\n不过得纠正一下\n没人跟你一样那么废物\n在秩序暴力下除了在网上骂骂现实当中就当稳定螺丝的贱畜\n还得幻想我找别人\n我是因为自身能力过强主动找到的我们 https://t.co/Soc4Hdh0Bm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1287,
+          "like_count": 1069,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 1650
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

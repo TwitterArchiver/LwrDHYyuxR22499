@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2052304979206209973",
+    "created_at": "2026-05-07T08:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052307823326007338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935328713396326400",
+          "start": 0,
+          "username": "aiyinmontana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052307823326007338",
+    "in_reply_to_user_id": "1935328713396326400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052307585802682529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyinmontana 那是啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052304979206209973",
+        "created_at": "2026-05-07T08:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052307823326007338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935328713396326400",
+              "start": 0,
+              "username": "aiyinmontana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052307823326007338",
+        "in_reply_to_user_id": "1935328713396326400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052307585802682529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyinmontana 那是啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935328713396326400",
+        "conversation_id": "2052304979206209973",
+        "created_at": "2026-05-07T08:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052307585802682529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052307585802682529",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052307207396679712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 符合第一定律"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4934,
+          "following_count": 2714,
+          "like_count": 2673,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2690
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T13:28:24.000Z",
+        "description": "",
+        "id": "1935328713396326400",
+        "name": "Goodfellas",
+        "pinned_tweet_id": "2038499634084204915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047245591005241344/Q7VF2Y--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 166,
+          "like_count": 750,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 998
+        },
+        "username": "aiyinmontana",
+        "verified": false
+      }
+    ]
+  }
+}

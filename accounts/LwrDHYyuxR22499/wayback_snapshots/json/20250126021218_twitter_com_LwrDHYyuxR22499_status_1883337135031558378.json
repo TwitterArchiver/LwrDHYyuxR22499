@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1882628682348691781",
+    "created_at": "2025-01-26T02:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T03:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883337135031558378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710391034302337024",
+          "start": 0,
+          "username": "AypashaYomoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883337135031558378",
+    "in_reply_to_user_id": "1710391034302337024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882628682348691781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AypashaYomoda 😃纯绿也算瓢虫哦\n那你们这些换过男女朋友的人一律归为烂裤裆一类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1882628682348691781",
+        "created_at": "2025-01-26T02:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T03:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883337135031558378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710391034302337024",
+              "start": 0,
+              "username": "AypashaYomoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883337135031558378",
+        "in_reply_to_user_id": "1710391034302337024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882628682348691781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AypashaYomoda 😃纯绿也算瓢虫哦\n那你们这些换过男女朋友的人一律归为烂裤裆一类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710391034302337024",
+        "conversation_id": "1882628682348691781",
+        "created_at": "2025-01-24T03:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T04:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882628682348691781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/1882109838240653601",
+              "start": 136,
+              "url": "https://t.co/jrgg18LdXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882628682348691781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 972,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882109838240653601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "将王宇航（牧渊）称为“亚明的姘头”是我先这样做的。因为他俩本来没有任何一个人明确承认过自己是对方的恋人，而且王还提出想花钱让我的fiance陪睡并且说可以包养她，让我因此产生了他们只是姘头的理解。当这个叫法被亚明听到并气坏了以后我也很惊讶，才知道原来他们居然也是正经情侣 https://t.co/jrgg18LdXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 147,
+          "like_count": 85,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 196
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T20:26:30.000Z",
+        "description": "珠江酷儿联谊 Chinese Queer Canton\n佛狸祠主、the Vixenkami、人的Aypasha\n降生并成长为现在的样子、永远期待着与大家的重逢。只知道侍奉的佛狸祠主，究竟能给大家什么程度的新的祝福呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_1aam6lCGB80M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_1aam6lCGB80M2I1",
+                "start": 0,
+                "url": "https://t.co/DHnFSbuVlw"
+              }
+            ]
+          }
+        },
+        "id": "1710391034302337024",
+        "location": "？？？",
+        "name": "Aypasha bint Dan 阿依帕夏 “帕夏肯定早死了”",
+        "pinned_tweet_id": "1883108884002529314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821927369189306368/CixxvOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 426,
+          "like_count": 289,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/DHnFSbuVlw",
+        "username": "AypashaYomoda",
+        "verified": false
+      }
+    ]
+  }
+}

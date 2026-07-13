@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1998363729696829891",
+    "created_at": "2025-12-09T12:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T13:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998363729696829891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/520illusion/status/1998274621561528821",
+          "start": 63,
+          "url": "https://t.co/bRgkOAZEkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998363729696829891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998274621561528821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓下水道灌水泥掺棉花\n房间里放鞭炮\n买五斤小鸡粑粑生物肥稀释成水装喷头喷屋里\n马桶里放二踢脚多好玩啊既然要走干什么不搞点破坏 https://t.co/bRgkOAZEkM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998274455856971776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tMB8EXgAAghUz.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1998363729696829891",
+        "created_at": "2025-12-09T12:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998363729696829891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/520illusion/status/1998274621561528821",
+              "start": 63,
+              "url": "https://t.co/bRgkOAZEkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998363729696829891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998274621561528821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓下水道灌水泥掺棉花\n房间里放鞭炮\n买五斤小鸡粑粑生物肥稀释成水装喷头喷屋里\n马桶里放二踢脚多好玩啊既然要走干什么不搞点破坏 https://t.co/bRgkOAZEkM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998274455856971776"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1998274621561528821",
+        "created_at": "2025-12-09T06:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998274621561528821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "mtf"
+            },
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "crypto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZIrZxI4om",
+              "end": 116,
+              "expanded_url": "https://x.com/520illusion/status/1998274621561528821/photo/1",
+              "media_key": "3_1998274455856971776",
+              "start": 93,
+              "url": "https://t.co/nZIrZxI4om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998274621561528821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14991,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不知道他们从哪边得来的消息\n警方联系了房东说我有自杀倾向\n房东吓坏了 将我赶出房子\n精心布置好的小屋又不得不拆掉\n心脏被星辰贯穿 \n我觉得这一切都是上海的问题\n#mtf #crypto https://t.co/nZIrZxI4om"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1138,
+          "like_count": 934,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 1511
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义 | 幻象丛生 |  蓝  | 终将成为你 | 清水 | 循此苦旅 终抵繁星 | 人民万岁 | 💙 |",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998328306509266944/kCeZjoZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 206,
+          "like_count": 3587,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 2072
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

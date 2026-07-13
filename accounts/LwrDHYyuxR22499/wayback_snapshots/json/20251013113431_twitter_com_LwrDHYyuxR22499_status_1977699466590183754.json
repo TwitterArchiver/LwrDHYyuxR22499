@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977699457128112128"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1977699466590183754",
+    "created_at": "2025-10-13T11:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T12:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977699466590183754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9qnsYPbMI",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977699466590183754/photo/1",
+          "media_key": "3_1977699457128112128",
+          "start": 144,
+          "url": "https://t.co/L9qnsYPbMI"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1977693279744577829",
+          "start": 168,
+          "url": "https://t.co/4djRQmygQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977699466590183754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977693279744577829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很可惜啊😕\n他们从来都不想生下我\n在怀我的时候我爸婚内出轨\n几乎从不陪在我妈身边\n甚至还被家暴\n我妈也从来就不想生我\n这让她换上了严重的产后抑郁\n从小就仇恨我虐待我\n把我身上的肉打黑掐黑\n让别的小孩划伤我以此取乐\n拿着钳子把我的指甲拔下来\n心情不好拿铅笔捅我手\n直至今日铅笔头还断在肉里 https://t.co/L9qnsYPbMI https://t.co/4djRQmygQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977699457128112128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IzLY6aoAAq5Rj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977699457128112128"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1977699466590183754",
+        "created_at": "2025-10-13T11:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977699466590183754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9qnsYPbMI",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1977699466590183754/photo/1",
+              "media_key": "3_1977699457128112128",
+              "start": 144,
+              "url": "https://t.co/L9qnsYPbMI"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1977693279744577829",
+              "start": 168,
+              "url": "https://t.co/4djRQmygQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977699466590183754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977693279744577829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很可惜啊😕\n他们从来都不想生下我\n在怀我的时候我爸婚内出轨\n几乎从不陪在我妈身边\n甚至还被家暴\n我妈也从来就不想生我\n这让她换上了严重的产后抑郁\n从小就仇恨我虐待我\n把我身上的肉打黑掐黑\n让别的小孩划伤我以此取乐\n拿着钳子把我的指甲拔下来\n心情不好拿铅笔捅我手\n直至今日铅笔头还断在肉里 https://t.co/L9qnsYPbMI https://t.co/4djRQmygQS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1977693279744577829",
+        "created_at": "2025-10-13T11:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977693279744577829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1977424908595720195",
+              "start": 134,
+              "url": "https://t.co/Ww1ZfbGLqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977693279744577829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁我突然想起来了我的出生就很傻逼\n  我老母十七岁的时候就跟我爸这个摇滚长发男乱搞莫名其妙怀孕了\n在我之前他们已经打掉一个了\n我没被打掉是因为在我妈肚子里\n就有九斤八两\n我太大医生打不掉我了\n这么看来我的人生真是不幸从没有人希望这我出生\n而我在我妈肚子里就开始抗争了 https://t.co/Ww1ZfbGLqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 884,
+          "like_count": 702,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1055
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

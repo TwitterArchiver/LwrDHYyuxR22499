@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1947000678871622008",
+    "created_at": "2025-07-21T14:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947309764188180785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1615229704549859329",
+          "start": 0,
+          "username": "U7dc8Sf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947309764188180785",
+    "in_reply_to_user_id": "1615229704549859329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947000678871622008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U7dc8Sf9 我能加你个联系方式吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1947000678871622008",
+        "created_at": "2025-07-21T14:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947309764188180785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1615229704549859329",
+              "start": 0,
+              "username": "U7dc8Sf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947309764188180785",
+        "in_reply_to_user_id": "1615229704549859329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947000678871622008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U7dc8Sf9 我能加你个联系方式吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615229704549859329",
+        "conversation_id": "1947000678871622008",
+        "created_at": "2025-07-20T18:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T19:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947000678871622008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947000678871622008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14002,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我在德国的最后一晚，明天就会遣返回国，北京时间的后天下午就到中国了。\n说实话没什么感想，当一个注定的结局早到来的时候，我反而会更安定，因为这减少了我的等待时间，但好在天无绝人之路，只要不在第一时间被送回家里，一切都不是问题。我仍然感谢德国政府为我提供了将近七个月的保护（1/N）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 433,
+          "like_count": 415,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 581
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T06:09:40.000Z",
+        "description": "Auf Wiedersehen",
+        "id": "1615229704549859329",
+        "name": "Erbswurst",
+        "pinned_tweet_id": "1665684189159755777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911057411059691520/x5R0TnU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 3319,
+          "like_count": 39711,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 9792
+        },
+        "username": "U7dc8Sf9",
+        "verified": false
+      }
+    ]
+  }
+}

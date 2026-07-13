@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010954728746975232"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2010954856329249096",
+    "created_at": "2026-01-13T05:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010954856329249096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lrjvFXGNfo",
+          "end": 55,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2010954856329249096/video/1",
+          "media_key": "7_2010954728746975232",
+          "start": 32,
+          "url": "https://t.co/lrjvFXGNfo"
+        },
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Minokakay/status/2003514933234057431",
+          "start": 56,
+          "url": "https://t.co/yWDImg0Dqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010954856329249096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003514933234057431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该校基础信息\n及其鹰犬个人账号\n该校对抓捕性少数似乎情有独钟… https://t.co/lrjvFXGNfo https://t.co/yWDImg0Dqk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010954856329249096].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010954856329249096",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010954856329249096"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40057,
+        "height": 1280,
+        "media_key": "7_2010954728746975232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010954728746975232/pu/img/Mp0LF2UzeBdYbIBG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010954728746975232/pu/vid/avc1/320x712/-DNpaAhkrkYVbZzU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010954728746975232/pu/vid/avc1/480x1070/xZxL2Zaq87U-NNJq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010954728746975232/pu/vid/avc1/574x1280/8L7OviAtvuuGxb2_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010954728746975232/pu/pl/QzBuvC7_TbsjbatT.m3u8?tag=12"
+          }
+        ],
+        "width": 574
+      },
+      {
+        "duration_ms": 74933,
+        "height": 1920,
+        "media_key": "13_2003514828351295488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003514828351295488/img/GwzBxU0_xbwSY0oG.jpg",
+        "public_metrics": {
+          "view_count": 2935
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003514828351295488/vid/avc1/720x1280/b3fLm4rEaJYcdf0E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003514828351295488/vid/avc1/480x852/fz9ZFspNozjIc5Kg.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003514828351295488/vid/avc1/320x568/wkCRWxF0v_xnZCsv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003514828351295488/vid/avc1/1080x1920/fCj-C-IqB55y3T1G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003514828351295488/pl/KsB_safnmQWWSAzg.m3u8?v=006"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003514828351295488"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2003514933234057431",
+        "created_at": "2025-12-23T17:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003514933234057431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pt6nlJ1qn2",
+              "end": 29,
+              "expanded_url": "https://x.com/Minokakay/status/2003514933234057431/video/1",
+              "media_key": "13_2003514828351295488",
+              "start": 6,
+              "url": "https://t.co/pt6nlJ1qn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003514933234057431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6143,
+          "like_count": 43,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推油？ https://t.co/pt6nlJ1qn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009440425611034624/hB-hwvS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 1549,
+          "like_count": 1303,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 1850
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等先看https://t.co/9scN5m8csf，不回答网站已经回答过的问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 81,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 58,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13806,
+          "following_count": 1025,
+          "like_count": 44980,
+          "listed_count": 49,
+          "media_count": 1821,
+          "tweet_count": 25411
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

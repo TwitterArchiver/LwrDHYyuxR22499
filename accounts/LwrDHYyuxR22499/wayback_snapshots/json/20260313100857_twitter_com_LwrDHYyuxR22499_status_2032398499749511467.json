@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2032157511370096943",
+    "created_at": "2026-03-13T10:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032398499749511467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032398499749511467",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032397249733611695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 他甚至有可能跟你是同一时期的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2032157511370096943",
+        "created_at": "2026-03-13T10:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032398499749511467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032398499749511467",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032397249733611695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 他甚至有可能跟你是同一时期的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2032157511370096943",
+        "created_at": "2026-03-13T10:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032397249733611695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032397249733611695",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032394780764942521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 一个同样被关进去的药娘……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3759,
+          "following_count": 2076,
+          "like_count": 2019,
+          "listed_count": 13,
+          "media_count": 355,
+          "tweet_count": 2303
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "在矯正機構呆久了是什麽感覺？就像被強姦時習慣了那些狀態，甚至享受起來，突然驚醒，痛哭起來。而不論是什麽表情，都被那個變態看在了眼裏\n日本ツイッターアカウント: @HosinoEJ_Japan\nDiscord: https://t.co/ccn1U72HVa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "HosinoEJ_Japan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 128,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 105,
+                "url": "https://t.co/ccn1U72HVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://www.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/xmlDJbJSXi"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野ネコ - 頭髮被强制剪正在恢復中（お互いフォローでき）",
+        "pinned_tweet_id": "2024917642101096586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 474,
+          "like_count": 2846,
+          "listed_count": 4,
+          "media_count": 516,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/xmlDJbJSXi",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

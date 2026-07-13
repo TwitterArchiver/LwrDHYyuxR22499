@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2074269714608689584",
+    "created_at": "2026-07-08T09:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074785912421220404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984321775333937152",
+          "start": 0,
+          "username": "Epheiamoe"
+        },
+        {
+          "end": 21,
+          "id": "2046781355753664512",
+          "start": 11,
+          "username": "Luminimk7"
+        },
+        {
+          "end": 36,
+          "id": "1069931275698335744",
+          "start": 22,
+          "username": "TponyS_xiaoma"
+        },
+        {
+          "end": 53,
+          "id": "1557846379736666113",
+          "start": 37,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074785912421220404",
+    "in_reply_to_user_id": "1984321775333937152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074764729831285129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epheiamoe @Luminimk7 @TponyS_xiaoma @Meguminsama2009 何情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074269714608689584",
+        "created_at": "2026-07-08T09:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074785912421220404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 21,
+              "id": "2046781355753664512",
+              "start": 11,
+              "username": "Luminimk7"
+            },
+            {
+              "end": 36,
+              "id": "1069931275698335744",
+              "start": 22,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 53,
+              "id": "1557846379736666113",
+              "start": 37,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074785912421220404",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074764729831285129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe @Luminimk7 @TponyS_xiaoma @Meguminsama2009 何情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074269714608689584",
+        "created_at": "2026-07-08T07:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074764729831285129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046781355753664512",
+              "start": 0,
+              "username": "Luminimk7"
+            },
+            {
+              "end": 25,
+              "id": "1069931275698335744",
+              "start": 11,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 42,
+              "id": "1557846379736666113",
+              "start": 26,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 78,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2037569305995579897",
+              "start": 55,
+              "url": "https://t.co/S5sRrnUcpG"
+            },
+            {
+              "display_url": "nct.hosinoneko.me/map",
+              "end": 102,
+              "expanded_url": "https://nct.hosinoneko.me/map",
+              "start": 79,
+              "status": 200,
+              "title": "NCT data view",
+              "unwound_url": "https://nct.hosinoneko.me/map",
+              "url": "https://t.co/L1M8Jw4OI6"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 134,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057636619264655465?s=20",
+              "start": 111,
+              "url": "https://t.co/qtHikLNceR"
+            },
+            {
+              "display_url": "chat.deepseek.com/share/43pn35hg…",
+              "end": 158,
+              "expanded_url": "https://chat.deepseek.com/share/43pn35hg14bcq0smnn",
+              "start": 135,
+              "unwound_url": "https://chat.deepseek.com/share/43pn35hg14bcq0smnn",
+              "url": "https://t.co/cbdf5fBbKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074764729831285129",
+        "in_reply_to_user_id": "2046781355753664512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057636619264655465",
+            "type": "quoted"
+          },
+          {
+            "id": "2074755625620590876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminimk7 @TponyS_xiaoma @Meguminsama2009 我没有，但有很多人有。\nhttps://t.co/S5sRrnUcpG\nhttps://t.co/L1M8Jw4OI6\n以及更多参考：\nhttps://t.co/qtHikLNceR\nhttps://t.co/cbdf5fBbKZ\n\n这只是随手找的，不用谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6240,
+          "following_count": 3323,
+          "like_count": 3746,
+          "listed_count": 19,
+          "media_count": 492,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 27,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T02:45:20.000Z",
+        "description": "",
+        "id": "2046781355753664512",
+        "name": "Lumini",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 21,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "Luminimk7",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2072316487369445686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21533,
+          "following_count": 361,
+          "like_count": 5717,
+          "listed_count": 131,
+          "media_count": 744,
+          "tweet_count": 6954
+        },
+        "url": "",
+        "username": "TponyS_xiaoma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1960,
+          "like_count": 3362,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 7667
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

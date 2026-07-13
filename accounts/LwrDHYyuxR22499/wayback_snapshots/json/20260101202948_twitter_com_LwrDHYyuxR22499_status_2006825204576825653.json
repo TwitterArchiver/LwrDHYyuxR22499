@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2006770990286766273",
+    "created_at": "2026-01-01T20:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T21:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006825204576825653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "60042536",
+          "start": 0,
+          "username": "keyemail"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006825204576825653",
+    "in_reply_to_user_id": "60042536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006821624226754961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keyemail 此次直播仅限于本人答疑解惑\n如果你有问题你可以问我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2006770990286766273",
+        "created_at": "2026-01-01T20:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T21:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006825204576825653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "60042536",
+              "start": 0,
+              "username": "keyemail"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006825204576825653",
+        "in_reply_to_user_id": "60042536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006821624226754961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keyemail 此次直播仅限于本人答疑解惑\n如果你有问题你可以问我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60042536",
+        "conversation_id": "2006770990286766273",
+        "created_at": "2026-01-01T20:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T21:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006821624226754961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006821624226754961",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006770990286766273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 不带我吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 1472,
+          "like_count": 1237,
+          "listed_count": 9,
+          "media_count": 300,
+          "tweet_count": 1772
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "人权工作者。  专注于儿少权益，身心障碍人士与精神健康",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/xFQJAqXeSx"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1999323570158338515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 535,
+          "like_count": 648,
+          "listed_count": 24,
+          "media_count": 473,
+          "tweet_count": 6956
+        },
+        "url": "https://t.co/xFQJAqXeSx",
+        "username": "keyemail",
+        "verified": true
+      }
+    ]
+  }
+}

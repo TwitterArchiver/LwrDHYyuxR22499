@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2071345265181933983",
+    "created_at": "2026-06-28T21:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071345960559726656"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071345960559726656",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071345265181933983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可真是世界第一大畜生😁😁\n这群喜欢送孩子的家长也算是遇到比死水还阴的生物了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071345265181933983",
+        "created_at": "2026-06-28T21:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071345960559726656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071345960559726656",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071345265181933983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可真是世界第一大畜生😁😁\n这群喜欢送孩子的家长也算是遇到比死水还阴的生物了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071345265181933983",
+        "created_at": "2026-06-28T21:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071345265181933983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071345265181933983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😑突然发现我真的好不受家长待见\n每个人都觉得我在多管闲事管别人家里事\n每个家长被干预完逮到机会都得骂我几句\n教官上门抓个人就得花一万多这钱也是不退的\n我摆摆手就把人整回去了\n稍微算算\n光我自己至少让这群家长损失也得超过30w了\n一想到这群家长本不富裕许多都是借钱送的\n一种自豪感就爬上心头😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6125,
+          "following_count": 3288,
+          "like_count": 3578,
+          "listed_count": 19,
+          "media_count": 476,
+          "tweet_count": 3205
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

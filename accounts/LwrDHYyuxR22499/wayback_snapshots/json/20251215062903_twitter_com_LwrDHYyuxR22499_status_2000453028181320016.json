@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000342831035265112",
+    "created_at": "2025-12-15T06:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T07:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000453028181320016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980334028239798273",
+          "start": 0,
+          "username": "lnyn267348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000453028181320016",
+    "in_reply_to_user_id": "1980334028239798273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000441048615829934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyn267348 那倒不是……说这话是因为我跟他们的矛盾是有历史的……\n被他们霸凌造谣党异议人士打压那是一年钱就开始了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000342831035265112",
+        "created_at": "2025-12-15T06:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000453028181320016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980334028239798273",
+              "start": 0,
+              "username": "lnyn267348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000453028181320016",
+        "in_reply_to_user_id": "1980334028239798273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000441048615829934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyn267348 那倒不是……说这话是因为我跟他们的矛盾是有历史的……\n被他们霸凌造谣党异议人士打压那是一年钱就开始了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980334028239798273",
+        "conversation_id": "2000342831035265112",
+        "created_at": "2025-12-15T05:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000441048615829934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000441048615829934",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000342831035265112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 不喜欢完全可以拉黑屏蔽终止双方讨论，而不是扣帽瞎骂搞内斗打压异己，以为自己是在维护性少数权益，维护言论自由，实则自己在背叛自己的思想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1189,
+          "like_count": 1030,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 1619
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T18:03:29.000Z",
+        "description": "无政府主义、自由女权主义、LGBTQ+权益",
+        "id": "1980334028239798273",
+        "name": "🏳️‍🌈青木里美🏳️‍⚧️🏴🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998659878756450304/fq9Ee1Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 84,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 320
+        },
+        "username": "lnyn267348",
+        "verified": false
+      }
+    ]
+  }
+}

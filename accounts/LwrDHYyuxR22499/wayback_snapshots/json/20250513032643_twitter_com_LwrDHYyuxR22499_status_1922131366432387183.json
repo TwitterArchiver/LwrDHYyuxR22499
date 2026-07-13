@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1922131351559393280"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1922131366432387183",
+    "created_at": "2025-05-13T03:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T04:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922131366432387183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5CQmvXFT3a",
+          "end": 29,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1922131366432387183/video/1",
+          "media_key": "7_1922131351559393280",
+          "start": 6,
+          "url": "https://t.co/5CQmvXFT3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922131366432387183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草狗小子🤣 https://t.co/5CQmvXFT3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10147,
+        "height": 856,
+        "media_key": "7_1922131351559393280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1922131351559393280/pu/img/aFkQg7Z9um2mUZpM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922131351559393280/pu/vid/avc1/320x712/JCpDzmRbt-3sVd1P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922131351559393280/pu/vid/avc1/384x856/E5MU3zvQkJpdijoK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1922131351559393280/pu/pl/ZlmfPfNpA4xat-hT.m3u8?tag=12"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1922131351559393280"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1922131366432387183",
+        "created_at": "2025-05-13T03:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922131366432387183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CQmvXFT3a",
+              "end": 29,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1922131366432387183/video/1",
+              "media_key": "7_1922131351559393280",
+              "start": 6,
+              "url": "https://t.co/5CQmvXFT3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922131366432387183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草狗小子🤣 https://t.co/5CQmvXFT3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 314,
+          "like_count": 279,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 440
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

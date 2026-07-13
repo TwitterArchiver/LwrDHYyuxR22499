@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013103655667572975",
+    "created_at": "2026-01-19T13:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T14:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013247178110828887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467515573751873542",
+          "start": 0,
+          "username": "ce3319749964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013247178110828887",
+    "in_reply_to_user_id": "1467515573751873542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013216278710755460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ce3319749964 别老等我啊你们自己干啥呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013103655667572975",
+        "created_at": "2026-01-19T13:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013247178110828887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467515573751873542",
+              "start": 0,
+              "username": "ce3319749964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013247178110828887",
+        "in_reply_to_user_id": "1467515573751873542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013216278710755460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ce3319749964 别老等我啊你们自己干啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467515573751873542",
+        "conversation_id": "2013103655667572975",
+        "created_at": "2026-01-19T11:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013216278710755460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013216278710755460",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013103655667572975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 什么时候拿下这一家呢（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 1628,
+          "like_count": 1363,
+          "listed_count": 9,
+          "media_count": 313,
+          "tweet_count": 1904
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T15:26:02.000Z",
+        "description": "🍪/常驻杭州但是全国可飞✈️/苦逼学牲😭/一周五天早八/Minecraft/3D打印/不键政但看乐子/老⏰/INFP/F/0576",
+        "id": "1467515573751873542",
+        "name": "COOKIE9🍪",
+        "pinned_tweet_id": "1908890653872079084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228973036023808/b3oHj1KW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 352,
+          "like_count": 367,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 406
+        },
+        "username": "ce3319749964",
+        "verified": false
+      }
+    ]
+  }
+}

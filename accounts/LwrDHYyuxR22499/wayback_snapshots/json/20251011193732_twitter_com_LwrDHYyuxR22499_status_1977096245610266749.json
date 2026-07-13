@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977041980137021501",
+    "created_at": "2025-10-11T19:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T20:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977096245610266749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1077906424661856257",
+          "start": 0,
+          "username": "nf0RvF9qLpjzOpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977096245610266749",
+    "in_reply_to_user_id": "1077906424661856257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977094710717276194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nf0RvF9qLpjzOpv 我到不崩溃\n我唯一能做的就是为了生命继续冲锋罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977041980137021501",
+        "created_at": "2025-10-11T19:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T20:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977096245610266749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977096245610266749",
+        "in_reply_to_user_id": "1077906424661856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977094710717276194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv 我到不崩溃\n我唯一能做的就是为了生命继续冲锋罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077906424661856257",
+        "conversation_id": "1977041980137021501",
+        "created_at": "2025-10-11T19:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T20:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977094710717276194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977094710717276194",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977041980137021501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 歇一下吧 要是干崩溃之后更没法干"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 867,
+          "like_count": 693,
+          "listed_count": 5,
+          "media_count": 223,
+          "tweet_count": 985
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 75,
+          "like_count": 382990,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 179256
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      }
+    ]
+  }
+}

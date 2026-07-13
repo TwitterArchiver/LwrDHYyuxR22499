@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883364181367562240"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883364183934451956",
+    "created_at": "2025-01-26T03:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T04:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883364183934451956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/40pmciJTGM",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883364183934451956/photo/1",
+          "media_key": "3_1883364181367562240",
+          "start": 143,
+          "url": "https://t.co/40pmciJTGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883364183934451956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "基于事实我不否认我跟小二现在还保持这合作关系\n谁能救人我跟谁合作\n谁能维护人权我跟谁合作\n谁能帮我们把真正的人从苦难当中解脱出来\n我跟谁合作\n甚至我在国内还跟小粉红合作\n后被知道发外网被骂惨了\n我虽然天天骂你\n但如果哪天你或者你的对象需要求援\n我也会跟你合作\n我没任何立场\n我爱所有人 https://t.co/40pmciJTGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883364181367562240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiMNvpUboAAUPtz.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883364181367562240"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883364183934451956",
+        "created_at": "2025-01-26T03:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T04:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883364183934451956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40pmciJTGM",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883364183934451956/photo/1",
+              "media_key": "3_1883364181367562240",
+              "start": 143,
+              "url": "https://t.co/40pmciJTGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883364183934451956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "基于事实我不否认我跟小二现在还保持这合作关系\n谁能救人我跟谁合作\n谁能维护人权我跟谁合作\n谁能帮我们把真正的人从苦难当中解脱出来\n我跟谁合作\n甚至我在国内还跟小粉红合作\n后被知道发外网被骂惨了\n我虽然天天骂你\n但如果哪天你或者你的对象需要求援\n我也会跟你合作\n我没任何立场\n我爱所有人 https://t.co/40pmciJTGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 148,
+          "like_count": 87,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 206
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

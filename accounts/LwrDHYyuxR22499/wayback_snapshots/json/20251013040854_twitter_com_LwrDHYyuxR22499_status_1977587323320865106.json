@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-13T04:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977587323320865106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937385761785188352",
+          "start": 0,
+          "username": "BH7QSO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977587323320865106",
+    "in_reply_to_user_id": "1937385761785188352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977558737885008113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BH7QSO ✌︎( ᐛ )✌︎快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T04:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977587323320865106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937385761785188352",
+              "start": 0,
+              "username": "BH7QSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977587323320865106",
+        "in_reply_to_user_id": "1937385761785188352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977558737885008113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BH7QSO ✌︎( ᐛ )✌︎快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937385761785188352",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T02:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977558737885008113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977558737885008113",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 882,
+          "like_count": 701,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1051
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T05:42:33.000Z",
+        "description": "/无线电爱好/有呼号但ID是假的（QSO不能作为呼号后辍）/刷机佬/苦逼高中生/在学Python（Just print）丨汝将永恒沐浴星光，不论昼夜更替，不论生死轮转，不论晦明阴阳，不论虚实幻灭。",
+        "id": "1937385761785188352",
+        "location": "半人马座-α",
+        "name": "Starlight",
+        "pinned_tweet_id": "1964342309602164749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956693093194907649/cDOR328G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 98,
+          "like_count": 4365,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 202
+        },
+        "username": "BH7QSO",
+        "verified": false
+      }
+    ]
+  }
+}

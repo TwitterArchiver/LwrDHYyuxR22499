@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939888450741628929"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1939888457020842382",
+    "created_at": "2025-07-01T03:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T04:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939888457020842382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2yhhzIeWu7",
+          "end": 23,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1939888457020842382/photo/1",
+          "media_key": "3_1939888450741628929",
+          "start": 0,
+          "url": "https://t.co/2yhhzIeWu7"
+        },
+        {
+          "display_url": "x.com/keyemail/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/keyemail/status/1939888112186138893",
+          "start": 24,
+          "url": "https://t.co/NooMetrU8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939888457020842382",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939888112186138893",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2yhhzIeWu7 https://t.co/NooMetrU8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_1939888450741628929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuveRJpWcAEgFZe.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939888450741628929"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1939888457020842382",
+        "created_at": "2025-07-01T03:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939888457020842382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yhhzIeWu7",
+              "end": 23,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1939888457020842382/photo/1",
+              "media_key": "3_1939888450741628929",
+              "start": 0,
+              "url": "https://t.co/2yhhzIeWu7"
+            },
+            {
+              "display_url": "x.com/keyemail/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/keyemail/status/1939888112186138893",
+              "start": 24,
+              "url": "https://t.co/NooMetrU8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939888457020842382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939888112186138893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2yhhzIeWu7 https://t.co/NooMetrU8l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60042536",
+        "conversation_id": "1939888112186138893",
+        "created_at": "2025-07-01T03:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939888112186138893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1939887451637784675",
+              "start": 29,
+              "url": "https://t.co/6i4NqhM54P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939888112186138893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939887451637784675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的不建议你对于个案负责。 只有案主才能够对他们负责。 https://t.co/6i4NqhM54P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 399,
+          "like_count": 392,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 561
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "人权工作者。  专注于儿少权益，身心障碍人士与精神健康",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/xFQJAqXeSx"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1930796444086411627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 479,
+          "like_count": 534,
+          "listed_count": 22,
+          "media_count": 357,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/xFQJAqXeSx",
+        "username": "keyemail",
+        "verified": false
+      }
+    ]
+  }
+}

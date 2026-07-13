@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021148234354499617",
+    "created_at": "2026-02-10T09:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T10:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021148853223956793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927367747618390016",
+          "start": 0,
+          "username": "shenleban_mgtow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021148853223956793",
+    "in_reply_to_user_id": "1927367747618390016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021148234354499617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenleban_mgtow 不至于吧卧槽🤯我吐个槽怎么被你们用来彼此攻击彼此仇恨彼此对立伤害别人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021148234354499617",
+        "created_at": "2026-02-10T09:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021148853223956793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927367747618390016",
+              "start": 0,
+              "username": "shenleban_mgtow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021148853223956793",
+        "in_reply_to_user_id": "1927367747618390016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021148234354499617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenleban_mgtow 不至于吧卧槽🤯我吐个槽怎么被你们用来彼此攻击彼此仇恨彼此对立伤害别人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927367747618390016",
+        "conversation_id": "2021148234354499617",
+        "created_at": "2026-02-10T09:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021148234354499617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2020907511214375129",
+              "start": 6,
+              "url": "https://t.co/rDRs2NxRPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021148234354499617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020907511214375129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "招娣劣根性 https://t.co/rDRs2NxRPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 1770,
+          "like_count": 1505,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 2089
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T14:15:21.000Z",
+        "description": "生理男性 | 173 | 55kg | 18 | mtf | 男娘 | HRT:2024.2.8 | 红丸mgtow | 想变成可爱的女孩子 | 厌女 | mt straight woman | 小证含糖 | 保守主义 | 男权 | 男同权 | mtf/mtx权 | 保守自由主义",
+        "id": "1927367747618390016",
+        "name": "神乐坂迪舍🍥（mtf/药娘）",
+        "pinned_tweet_id": "1953674247106150766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927371856970952704/GrfJ7Z45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 83,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1752
+        },
+        "username": "shenleban_mgtow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989783111576817971",
+    "created_at": "2025-11-16T03:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989898558133473550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724989707052867585",
+          "start": 0,
+          "username": "PeterSimmonsUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989898558133473550",
+    "in_reply_to_user_id": "1724989707052867585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989896769748996231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PeterSimmonsUK 你也太弱智了我们自己往外网扔的少了?\n不经我允许转载跟发不发外网是一码事?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T03:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989898558133473550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724989707052867585",
+              "start": 0,
+              "username": "PeterSimmonsUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989898558133473550",
+        "in_reply_to_user_id": "1724989707052867585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989896769748996231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeterSimmonsUK 你也太弱智了我们自己往外网扔的少了?\n不经我允许转载跟发不发外网是一码事?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724989707052867585",
+        "conversation_id": "1989783111576817971",
+        "created_at": "2025-11-16T03:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989896769748996231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989896769748996231",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989783111576817971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 ＂别发外网！＂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 1034,
+          "like_count": 835,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1398
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T03:16:32.000Z",
+        "description": "Freedom of speech is everything 中左自由主义｜科学与理性｜暴力厌恶者｜只有建立在言论出版集会结社的自由与民主选举政府的基础上面，才是有力的政治。",
+        "id": "1724989707052867585",
+        "location": "Vancouver, British Columbia",
+        "name": "席彼德 🇺🇦🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945255010834481152/9AFA7xee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 232,
+          "like_count": 6068,
+          "listed_count": 10,
+          "media_count": 596,
+          "tweet_count": 12009
+        },
+        "username": "PeterSimmonsUK",
+        "verified": false
+      }
+    ]
+  }
+}

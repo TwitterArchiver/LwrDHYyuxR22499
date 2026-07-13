@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072344409690317115",
+    "created_at": "2026-07-01T16:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072357348233085274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 27,
+          "id": "1608637128132685825",
+          "start": 17,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072357348233085274",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072356827283751166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @nyaepheia 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072344409690317115",
+        "created_at": "2026-07-01T16:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072357348233085274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 27,
+              "id": "1608637128132685825",
+              "start": 17,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072357348233085274",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072356827283751166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @nyaepheia 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2072344409690317115",
+        "created_at": "2026-07-01T16:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072356827283751166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1608637128132685825",
+              "start": 17,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072356827283751166",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072356641438335495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @nyaepheia 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6179,
+          "following_count": 3300,
+          "like_count": 3642,
+          "listed_count": 19,
+          "media_count": 481,
+          "tweet_count": 3291
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 2982,
+          "like_count": 84825,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 6570
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ \n/ɪˈfiːə/ she/they\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW.\n\nhrt since26.4.1\n可以访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu\n紧急联系：@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "yxrchina"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "lckmtfdesu"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2070271935133728928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 916,
+          "like_count": 33219,
+          "listed_count": 3,
+          "media_count": 721,
+          "tweet_count": 6387
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

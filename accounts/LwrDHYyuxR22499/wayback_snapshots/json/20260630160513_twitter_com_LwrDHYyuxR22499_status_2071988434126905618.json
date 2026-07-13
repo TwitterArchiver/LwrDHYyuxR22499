@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2071813744343368137",
+    "created_at": "2026-06-30T16:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071988434126905618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara02A01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071988434126905618",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071988114470699229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara02A01 黑人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071813744343368137",
+        "created_at": "2026-06-30T16:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071988434126905618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071988434126905618",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071988114470699229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 黑人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766644305660420096",
+        "conversation_id": "2071813744343368137",
+        "created_at": "2026-06-30T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071988114470699229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071988114470699229",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071813744343368137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 誰在背後資助的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 3294,
+          "like_count": 3601,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3226
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "視姦者去死/akaすいか/高校2年生/上海/mtf🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/お酒🍷依存/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領\nzh-hant/ja/en\n裏垢@umeharaAC02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "umeharaAC02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF32Js"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "name": "梅原寒咲",
+        "pinned_tweet_id": "2060350171293319289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1855,
+          "like_count": 15685,
+          "listed_count": 5,
+          "media_count": 413,
+          "tweet_count": 8369
+        },
+        "url": "https://t.co/BjCzmF32Js",
+        "username": "umehara02A01",
+        "verified": false
+      }
+    ]
+  }
+}

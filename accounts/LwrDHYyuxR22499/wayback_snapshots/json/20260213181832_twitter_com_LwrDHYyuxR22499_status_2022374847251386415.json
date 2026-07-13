@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2022340059815723255",
+    "created_at": "2026-02-13T18:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T19:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022374847251386415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022374847251386415",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022373663299776618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 我在开玩笑的时候非常不正经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2022340059815723255",
+        "created_at": "2026-02-13T18:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022374847251386415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022374847251386415",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022373663299776618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 我在开玩笑的时候非常不正经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "2022340059815723255",
+        "created_at": "2026-02-13T18:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022373663299776618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022373663299776618",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022340059815723255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 ?我记得你挺正经的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 1822,
+          "like_count": 1592,
+          "listed_count": 12,
+          "media_count": 334,
+          "tweet_count": 2152
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế（圣诞 ver）🎄🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 406,
+          "like_count": 126923,
+          "listed_count": 2,
+          "media_count": 1064,
+          "tweet_count": 14983
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

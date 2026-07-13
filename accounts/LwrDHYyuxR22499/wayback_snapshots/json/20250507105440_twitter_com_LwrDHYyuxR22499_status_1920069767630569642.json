@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1920069720121991168"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1920069767630569642",
+    "created_at": "2025-05-07T10:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T11:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920069767630569642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qylQfCv45B",
+          "end": 40,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1920069767630569642/video/1",
+          "media_key": "7_1920069720121991168",
+          "start": 17,
+          "url": "https://t.co/qylQfCv45B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920069767630569642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天我很开心所以更新三条抽象视频 https://t.co/qylQfCv45B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36476,
+        "height": 832,
+        "media_key": "7_1920069720121991168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920069720121991168/pu/img/491oKnqps4vlyaNB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920069720121991168/pu/vid/avc1/320x368/tZRo8q3pB4ihJgtp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920069720121991168/pu/vid/avc1/480x554/WMQuJC_Bm_4HSlKz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920069720121991168/pu/vid/avc1/720x832/2hX2Sew43WMNDJZU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920069720121991168/pu/pl/8fIifmhnqjlNBEfM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920069720121991168"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1920069767630569642",
+        "created_at": "2025-05-07T10:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T11:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920069767630569642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qylQfCv45B",
+              "end": 40,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1920069767630569642/video/1",
+              "media_key": "7_1920069720121991168",
+              "start": 17,
+              "url": "https://t.co/qylQfCv45B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920069767630569642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我很开心所以更新三条抽象视频 https://t.co/qylQfCv45B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 295,
+          "like_count": 250,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 414
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

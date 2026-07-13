@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2015724947113726359",
+    "created_at": "2026-01-26T13:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015785234802081985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801490762888318976",
+          "start": 0,
+          "username": "raotianshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015785234802081985",
+    "in_reply_to_user_id": "1801490762888318976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015724947113726359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raotianshou 他能成我吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2015724947113726359",
+        "created_at": "2026-01-26T13:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015785234802081985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801490762888318976",
+              "start": 0,
+              "username": "raotianshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015785234802081985",
+        "in_reply_to_user_id": "1801490762888318976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015724947113726359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raotianshou 他能成我吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801490762888318976",
+        "conversation_id": "2015724947113726359",
+        "created_at": "2026-01-26T09:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015724947113726359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2015296767462637676",
+              "start": 34,
+              "url": "https://t.co/Ivy9MI3QZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015724947113726359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015296767462637676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "力推n55参与进攻扭转副本去救人，一拳干爆警察肋骨，这战力值没法说 https://t.co/Ivy9MI3QZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 1674,
+          "like_count": 1419,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1980
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:44:21.000Z",
+        "description": "05註冊地球online🍥一读书就不开心🍥大一萌新医学生🍥嘴上功夫一流🍥同類私信互fo🍥努力圓角中 #线下 #圆角",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "线下"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "圆角"
+              }
+            ]
+          }
+        },
+        "id": "1801490762888318976",
+        "name": "神楽坂 幻蝶纯梦🍥(互fo版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935366192602001408/7pYL-OmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 161,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 225
+        },
+        "username": "raotianshou",
+        "verified": false
+      }
+    ]
+  }
+}

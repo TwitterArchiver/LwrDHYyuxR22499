@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978117811881799680"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1978117820698227063",
+    "created_at": "2025-10-14T15:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978117820698227063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbndxB5HH3",
+          "end": 34,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978117820698227063/photo/1",
+          "media_key": "3_1978117811881799680",
+          "start": 11,
+          "url": "https://t.co/GbndxB5HH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978117820698227063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生日过完了😎继续工作 https://t.co/GbndxB5HH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2111,
+        "media_key": "3_1978117811881799680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Ovq10WcAAmN4E.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978117811881799680"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1978117820698227063",
+        "created_at": "2025-10-14T15:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978117820698227063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbndxB5HH3",
+              "end": 34,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978117820698227063/photo/1",
+              "media_key": "3_1978117811881799680",
+              "start": 11,
+              "url": "https://t.co/GbndxB5HH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978117820698227063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日过完了😎继续工作 https://t.co/GbndxB5HH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 883,
+          "like_count": 708,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1059
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

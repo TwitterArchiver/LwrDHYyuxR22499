@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2026550301348737112",
+    "created_at": "2026-02-25T16:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026700162509463676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1698890818046582784",
+          "start": 0,
+          "username": "ZaixinP"
+        },
+        {
+          "end": 23,
+          "id": "1834112777566167040",
+          "start": 9,
+          "username": "RichardC50621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026700162509463676",
+    "in_reply_to_user_id": "1698890818046582784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026698422619656707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaixinP @RichardC50621 我不是警察……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2026550301348737112",
+        "created_at": "2026-02-25T16:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026700162509463676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1698890818046582784",
+              "start": 0,
+              "username": "ZaixinP"
+            },
+            {
+              "end": 23,
+              "id": "1834112777566167040",
+              "start": 9,
+              "username": "RichardC50621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026700162509463676",
+        "in_reply_to_user_id": "1698890818046582784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026698422619656707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaixinP @RichardC50621 我不是警察……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698890818046582784",
+        "conversation_id": "2026550301348737112",
+        "created_at": "2026-02-25T16:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026698422619656707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834112777566167040",
+              "start": 0,
+              "username": "RichardC50621"
+            },
+            {
+              "end": 31,
+              "id": "1843201902550634496",
+              "start": 15,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026698422619656707",
+        "in_reply_to_user_id": "1834112777566167040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026597695767412950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RichardC50621 @LwrDHYyuxR22499 你真是个畜生啊，警察冒着生命危险救人结果功劳全被一个在意大利动嘴的人抢了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 1918,
+          "like_count": 1788,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2240
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T02:48:45.000Z",
+        "description": "",
+        "id": "1698890818046582784",
+        "name": "zai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941590129837023232/IkyhAanC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 534
+        },
+        "username": "ZaixinP",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T06:12:37.000Z",
+        "description": "",
+        "id": "1834112777566167040",
+        "name": "理性温和派",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995376330284654592/oeZeLhe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 21,
+          "like_count": 5616,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1159
+        },
+        "username": "RichardC50621",
+        "verified": false
+      }
+    ]
+  }
+}

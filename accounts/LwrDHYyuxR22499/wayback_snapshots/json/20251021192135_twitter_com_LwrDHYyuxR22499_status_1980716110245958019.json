@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1979805282114093455",
+    "created_at": "2025-10-21T19:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T20:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980716110245958019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512401066981146629",
+          "start": 0,
+          "username": "Tsukishima_hane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980716110245958019",
+    "in_reply_to_user_id": "1512401066981146629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980710182276755722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukishima_hane 我怎么觉得自杀也是人权的一部分呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1979805282114093455",
+        "created_at": "2025-10-21T19:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980716110245958019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512401066981146629",
+              "start": 0,
+              "username": "Tsukishima_hane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980716110245958019",
+        "in_reply_to_user_id": "1512401066981146629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980710182276755722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukishima_hane 我怎么觉得自杀也是人权的一部分呢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512401066981146629",
+        "conversation_id": "1979805282114093455",
+        "created_at": "2025-10-21T18:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980710182276755722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980710182276755722",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979805282114093455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 每个人都该有亲手结束自己那不幸的痛苦的权利，而不是被人道主义所束缚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 920,
+          "like_count": 716,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1104
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T12:05:01.000Z",
+        "description": "一具男尸｜🏳️‍🌈 无性别+无性恋｜自介在隔壁（目移）｜镜中的我@GABA_ga_suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "GABA_ga_suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "start": 0,
+                "url": "https://t.co/LhhLTxA2kl"
+              }
+            ]
+          }
+        },
+        "id": "1512401066981146629",
+        "location": "虚无漩涡",
+        "name": "金牌厨师长",
+        "pinned_tweet_id": "1921938566344773969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961513268922781696/WOi1NOc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 343,
+          "like_count": 3254,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2819
+        },
+        "url": "https://t.co/LhhLTxA2kl",
+        "username": "Tsukishima_hane",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1966031145919033606",
+    "created_at": "2025-09-11T08:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T09:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966062842597224656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966062842597224656",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966062206518448613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 😮所有的主义政治目标最后都应该落实到实际的人权问题上\n请问您的思想行动跟社群能解决人权问题吗😮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1966031145919033606",
+        "created_at": "2025-09-11T08:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966062842597224656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966062842597224656",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966062206518448613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 😮所有的主义政治目标最后都应该落实到实际的人权问题上\n请问您的思想行动跟社群能解决人权问题吗😮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1966031145919033606",
+        "created_at": "2025-09-11T08:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966062206518448613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966062206518448613",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966059824074182904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我不图名利，认为本世代的逆权运动应该全面去中心化，那去中心化了做好信息隔离和反社工调查我怎么进去？\n本世代任何中心化的抗争者不被当局关照必然引起对其与官方勾兑的质疑，或者干脆早就在事实上被当局反向利用维稳\n你救了几百个人但是为当局背书了那对你的评价必然只能是褒贬不一，对社群必然分化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 649,
+          "like_count": 619,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 883
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1928781798773072159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 168,
+          "like_count": 3704,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1193
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

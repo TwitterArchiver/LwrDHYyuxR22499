@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1892236871100481537",
+    "created_at": "2025-02-22T11:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T12:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893266793323442669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        },
+        {
+          "end": 25,
+          "id": "1856186701280075776",
+          "start": 12,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893266793323442669",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893266259791241371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 @baizhouzi520 我不清楚这六位有三位我都在介入……但家长似乎铁板一块\n我把所有能怼到脸上的证据都拿出来了\n家长导员爷爷奶奶老师都找了个遍\n结果别说劝回来了连学校在哪都套不出来😥\n很难不怀疑是有预谋的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1892236871100481537",
+        "created_at": "2025-02-22T11:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T12:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893266793323442669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            },
+            {
+              "end": 25,
+              "id": "1856186701280075776",
+              "start": 12,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893266793323442669",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893266259791241371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 @baizhouzi520 我不清楚这六位有三位我都在介入……但家长似乎铁板一块\n我把所有能怼到脸上的证据都拿出来了\n家长导员爷爷奶奶老师都找了个遍\n结果别说劝回来了连学校在哪都套不出来😥\n很难不怀疑是有预谋的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1892236871100481537",
+        "created_at": "2025-02-22T11:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T12:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893266259791241371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 30,
+              "id": "1856186701280075776",
+              "start": 17,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893266259791241371",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893265393789137242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @baizhouzi520 是寒假炸柜还是有什么背后势力在搞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 190,
+          "like_count": 155,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 292
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MTF转发bot🍥关注Luna/曦玲/暗月强迫失踪",
+        "pinned_tweet_id": "1891714309694058927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850906274109743104/vOmjtfaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 259,
+          "like_count": 1403,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 2142
+        },
+        "username": "Chunier520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "精神状态差（待认证）|互联网生物|喵喵喵（赛博猫娘/大概）|08mtf|白洲梓是咱最喜欢的女孩子w|笨蛋|拍车佬（大概|16岁休学ing|🍥2024.12.11|二次元|175cm|55kg|想发疯|自宅警备队|无证含糖ing～|最最好哒妹妹@Yamanaka_Ame|补佳乐重度依赖|容易社死|麦门信徒|拜耳忠实用户",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Yamanaka_Ame"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "（随机刷新于全国各地）",
+        "name": "白洲不是白粥是白洲（在家休学ing）（能不能讨个fo啊）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1891326726560448730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866681094873157633/fWyMHiqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 509,
+          "like_count": 10157,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 1104
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981250196018475270",
+    "created_at": "2025-10-23T06:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T07:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981250196018475270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981247069844291595",
+          "start": 146,
+          "url": "https://t.co/pv6DQh2b4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981250196018475270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981247069844291595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看你着仗着互联网匿名耍泼皮无赖的样子😁\n 来点实名信息都不敢\n看看你这流氓样你也配说共产党流氓?\n来填\n我叫xxx\n我的身份信息是xxxxxxx\n我将于xxxx日\n与xxxx一同前往北京四通桥进行抗议你不填你妈必死的\n可别有贼心没贼胆只敢在互联网狗叫\n那你骂共党发这个也无非就是过家家而已 https://t.co/pv6DQh2b4L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981250196018475270",
+        "created_at": "2025-10-23T06:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981250196018475270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981247069844291595",
+              "start": 146,
+              "url": "https://t.co/pv6DQh2b4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981250196018475270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981247069844291595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看你着仗着互联网匿名耍泼皮无赖的样子😁\n 来点实名信息都不敢\n看看你这流氓样你也配说共产党流氓?\n来填\n我叫xxx\n我的身份信息是xxxxxxx\n我将于xxxx日\n与xxxx一同前往北京四通桥进行抗议你不填你妈必死的\n可别有贼心没贼胆只敢在互联网狗叫\n那你骂共党发这个也无非就是过家家而已 https://t.co/pv6DQh2b4L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1981245699753988344",
+        "created_at": "2025-10-23T06:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981247069844291595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 40,
+              "expanded_url": "https://x.com/OverSpeed_Wiki2/status/1981245060747604156?t=8CXOSBzNkSe8R4zO0hJOwg&s=19",
+              "start": 17,
+              "url": "https://t.co/xoeaP0cwRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981247069844291595",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981245060747604156",
+            "type": "quoted"
+          },
+          {
+            "id": "1981245699753988344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 https://t.co/xoeaP0cwRu\n\n来，跟我念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 930,
+          "like_count": 729,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1198
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 183,
+          "like_count": 8916,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2016
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068655625211699385",
+    "created_at": "2026-06-21T11:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068655625211699385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sauricat/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/sauricat/status/2068654645434560891",
+          "start": 29,
+          "url": "https://t.co/9qGgXnzvca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068655625211699385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068654645434560891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凭什么骂的时候不带上你呢\n你碍着我救人的事还是假的不成? https://t.co/9qGgXnzvca"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068655625211699385",
+        "created_at": "2026-06-21T11:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068655625211699385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/sauricat/status/2068654645434560891",
+              "start": 29,
+              "url": "https://t.co/9qGgXnzvca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068655625211699385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068654645434560891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凭什么骂的时候不带上你呢\n你碍着我救人的事还是假的不成? https://t.co/9qGgXnzvca"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2068654645434560891",
+        "created_at": "2026-06-21T11:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068654645434560891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2068609963535299062",
+              "start": 55,
+              "url": "https://t.co/dVW6qCwnO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068654645434560891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068609963535299062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大兄弟，知道你跟你手下的人做了很多好事，要是你能不要再黑我，别骂别人的时候顺便把我一起拿出来骂，可就更好了。 https://t.co/dVW6qCwnO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 3195,
+          "like_count": 3361,
+          "listed_count": 18,
+          "media_count": 465,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Shu the Internet Squirrel",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11181,
+          "following_count": 1036,
+          "like_count": 34480,
+          "listed_count": 35,
+          "media_count": 618,
+          "tweet_count": 12279
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

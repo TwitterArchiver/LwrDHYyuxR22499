@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2058568437149081832",
+    "created_at": "2026-05-28T04:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059848682120654849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "385760660",
+          "start": 0,
+          "username": "psyofsouthwest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059848682120654849",
+    "in_reply_to_user_id": "385760660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059848446769791122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyofsouthwest 还真是老资历\n我在陶宏开面前简直就像新兵蛋子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2058568437149081832",
+        "created_at": "2026-05-28T04:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059848682120654849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059848682120654849",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059848446769791122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 还真是老资历\n我在陶宏开面前简直就像新兵蛋子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2058568437149081832",
+        "created_at": "2026-05-28T04:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059848446769791122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059848446769791122",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058568437149081832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 陶宏开老资历，我知道他都已经有二十几年了，遗祸无穷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5378,
+          "following_count": 2999,
+          "like_count": 2991,
+          "listed_count": 19,
+          "media_count": 429,
+          "tweet_count": 2874
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 4725,
+          "like_count": 121118,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 15429
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      }
+    ]
+  }
+}

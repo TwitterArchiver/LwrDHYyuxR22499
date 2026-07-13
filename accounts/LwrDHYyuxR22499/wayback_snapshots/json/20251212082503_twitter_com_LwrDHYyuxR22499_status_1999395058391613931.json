@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1999309621845254386",
+    "created_at": "2025-12-12T08:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999395058391613931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3375930977",
+          "start": 0,
+          "username": "AisingioroJob"
+        },
+        {
+          "end": 25,
+          "id": "1597257668313260033",
+          "start": 15,
+          "username": "Minokakay"
+        },
+        {
+          "end": 41,
+          "id": "1971006655430262784",
+          "start": 26,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999395058391613931",
+    "in_reply_to_user_id": "3375930977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999393701676937236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AisingioroJob @Minokakay @FxxkApexLegend 那我就死呗我曹那我还说啥了直接给了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-12T08:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999395058391613931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3375930977",
+              "start": 0,
+              "username": "AisingioroJob"
+            },
+            {
+              "end": 25,
+              "id": "1597257668313260033",
+              "start": 15,
+              "username": "Minokakay"
+            },
+            {
+              "end": 41,
+              "id": "1971006655430262784",
+              "start": 26,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999395058391613931",
+        "in_reply_to_user_id": "3375930977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999393701676937236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AisingioroJob @Minokakay @FxxkApexLegend 那我就死呗我曹那我还说啥了直接给了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3375930977",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-12T08:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999393701676937236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1597257668313260033",
+              "start": 17,
+              "username": "Minokakay"
+            },
+            {
+              "end": 43,
+              "id": "1971006655430262784",
+              "start": 28,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999393701676937236",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999379769670938679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @Minokakay @FxxkApexLegend 理想很好 但现实还是。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1136,
+          "like_count": 963,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1544
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-14T15:48:36.000Z",
+        "description": "from mainland China \nto see the world",
+        "id": "3375930977",
+        "name": "JobMainland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674386567681683459/La1lZ7Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 205,
+          "like_count": 7490,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 3994
+        },
+        "username": "AisingioroJob",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13024,
+          "following_count": 1007,
+          "like_count": 44984,
+          "listed_count": 50,
+          "media_count": 1738,
+          "tweet_count": 24283
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，舞萌吃，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️ 🇺🇦 我不关心政治 我只关心活生生的人 看黄粉红五毛轮子请滚 \n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "juhao0721"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998809777317773312/MBndSsMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3073,
+          "following_count": 405,
+          "like_count": 6666,
+          "listed_count": 10,
+          "media_count": 582,
+          "tweet_count": 5109
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

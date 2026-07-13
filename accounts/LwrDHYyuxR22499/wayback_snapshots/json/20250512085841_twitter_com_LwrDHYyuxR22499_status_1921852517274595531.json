@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1921852517274595531",
+    "created_at": "2025-05-12T08:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T09:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921852517274595531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921852517274595531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921846024416436626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 近期工作日志\n\n曾因刘紫怡事件以及学员殴打学员事件在推特以及被国内媒体广泛曝光的唤醒青少年成长中心\n时经两个月后\n经过团队成员的不懈的努力下\n现已被关停查处\n又一次的伟大胜利与解放自由😎\n下附该学校抢人录像还有殴打学员视频 https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921852517274595531].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921852517274595531",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921852517274595531"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1921842798241714176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvB17dXEAAba-N.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1921842801043447808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvB2F5WIAA4jnT.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 42666,
+        "height": 1080,
+        "media_key": "7_1921845914819309568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1921845914819309568/pu/img/XWuar7gezIeLD3Bi.jpg",
+        "public_metrics": {
+          "view_count": 112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921845914819309568/pu/vid/avc1/296x270/2x3HfaciBgufY_Oz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921845914819309568/pu/vid/avc1/396x360/a5833_1DVKej_Ybx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921845914819309568/pu/vid/avc1/792x720/e-saupxrAemzzwWs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1921845914819309568/pu/pl/ptzlgVzSV-pUprao.m3u8?tag=12"
+          }
+        ],
+        "width": 1188
+      },
+      {
+        "duration_ms": 29470,
+        "height": 1280,
+        "media_key": "7_1921845980443340800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1921845980443340800/pu/img/2saITABhT2Q8ukdi.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921845980443340800/pu/vid/avc1/320x690/w6ixiCsl78p-Ez1Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921845980443340800/pu/vid/avc1/480x1036/zoCrR3G3QXgQwh0T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921845980443340800/pu/vid/avc1/592x1280/OIvFVHzNG4wtbPPI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1921845980443340800/pu/pl/ZP3PhCOKb9VCoctp.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921842798241714176",
+            "3_1921842801043447808",
+            "7_1921845914819309568",
+            "7_1921845980443340800"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1921846024416436626",
+        "created_at": "2025-05-12T08:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:20:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921842816696664117",
+          "1921846024416436626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfFlGqapx3",
+              "end": 135,
+              "expanded_url": "https://x.com/yaming00742313/status/1921846024416436626/video/1",
+              "media_key": "3_1921842798241714176",
+              "start": 112,
+              "url": "https://t.co/KfFlGqapx3"
+            },
+            {
+              "display_url": "pic.x.com/KfFlGqapx3",
+              "end": 135,
+              "expanded_url": "https://x.com/yaming00742313/status/1921846024416436626/video/1",
+              "media_key": "3_1921842801043447808",
+              "start": 112,
+              "url": "https://t.co/KfFlGqapx3"
+            },
+            {
+              "display_url": "pic.x.com/KfFlGqapx3",
+              "end": 135,
+              "expanded_url": "https://x.com/yaming00742313/status/1921846024416436626/video/1",
+              "media_key": "7_1921845914819309568",
+              "start": 112,
+              "url": "https://t.co/KfFlGqapx3"
+            },
+            {
+              "display_url": "pic.x.com/KfFlGqapx3",
+              "end": 135,
+              "expanded_url": "https://x.com/yaming00742313/status/1921846024416436626/video/1",
+              "media_key": "7_1921845980443340800",
+              "start": 112,
+              "url": "https://t.co/KfFlGqapx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921846024416436626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 253,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "近期工作日志\n\n曾因刘紫怡事件以及学员殴打学员事件在推特以及被国内媒体广泛曝光的唤醒青少年成长中心\n时经两个月后\n经过团队成员的不懈的努力下\n现已被关停查处\n又一次的伟大胜利与解放自由😎\n下附该学校抢人录像还有殴打学员视频 https://t.co/KfFlGqapx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 307,
+          "like_count": 275,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 436
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1906193015112356123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12477,
+          "following_count": 1560,
+          "like_count": 6332,
+          "listed_count": 28,
+          "media_count": 329,
+          "tweet_count": 2393
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

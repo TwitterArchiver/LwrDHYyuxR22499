@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2001661122357936197",
+    "created_at": "2025-12-18T14:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T15:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001661122357936197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001661122357936197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001491034547904875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 在中国，改造“叛逆”青少年的纪律学校正成为一个蓬勃发展的产业。BBC调查发现，有超过20名这类学校的前学员指称曾遭受体罚。\n\n还有人表示，这些学校与家长串通将他们强行带走，试图以军事化训练“矫正”他们。有些父母甚至将已满18岁的成年人送去学校。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84640,
+        "height": 1920,
+        "media_key": "13_2001490746428514304",
+        "preview_image_url": "https://pbs.twimg.com/media/G8a5oHmbsAAiEWd.jpg",
+        "public_metrics": {
+          "view_count": 21852
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001490746428514304/vid/avc1/720x1280/Kcm6PNsNZrwYGj3d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001490746428514304/pl/Lrys7TzdWecKElV0.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001490746428514304/vid/avc1/480x852/6Puee9NgMf_C1uMP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001490746428514304/vid/avc1/1080x1920/GLmhd9FzrLRzNJTk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001490746428514304/vid/avc1/320x568/U-OWMwXc9EdajQfV.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2001661122357936197",
+        "created_at": "2025-12-18T14:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001661122357936197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001661122357936197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001491034547904875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 在中国，改造“叛逆”青少年的纪律学校正成为一个蓬勃发展的产业。BBC调查发现，有超过20名这类学校的前学员指称曾遭受体罚。\n\n还有人表示，这些学校与家长串通将他们强行带走，试图以军事化训练“矫正”他们。有些父母甚至将已满18岁的成年人送去学校。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001490746428514304"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2001491034547904875",
+        "created_at": "2025-12-18T03:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001491034547904875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ueYZgMhpNP",
+              "end": 146,
+              "expanded_url": "https://x.com/bbcchinese/status/2001491034547904875/video/1",
+              "media_key": "13_2001490746428514304",
+              "start": 123,
+              "url": "https://t.co/ueYZgMhpNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001491034547904875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 50190,
+          "like_count": 358,
+          "quote_count": 15,
+          "reply_count": 83,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，改造“叛逆”青少年的纪律学校正成为一个蓬勃发展的产业。BBC调查发现，有超过20名这类学校的前学员指称曾遭受体罚。\n\n还有人表示，这些学校与家长串通将他们强行带走，试图以军事化训练“矫正”他们。有些父母甚至将已满18岁的成年人送去学校。 https://t.co/ueYZgMhpNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001390599723978757/Zq_r6b50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 1334,
+          "like_count": 1082,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 1661
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150036,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11876,
+          "media_count": 24231,
+          "tweet_count": 154574
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

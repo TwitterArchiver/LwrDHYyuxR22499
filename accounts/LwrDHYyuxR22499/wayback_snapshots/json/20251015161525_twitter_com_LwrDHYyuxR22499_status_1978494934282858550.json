@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978494930436898816",
+        "3_1978494930093027328",
+        "3_1978494930898329600"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1978491534149329232",
+    "created_at": "2025-10-15T16:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T17:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978494934282858550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1mkmmGX3f",
+          "end": 168,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978494934282858550/photo/1",
+          "media_key": "3_1978494930436898816",
+          "start": 145,
+          "url": "https://t.co/T1mkmmGX3f"
+        },
+        {
+          "display_url": "pic.x.com/T1mkmmGX3f",
+          "end": 168,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978494934282858550/photo/1",
+          "media_key": "3_1978494930093027328",
+          "start": 145,
+          "url": "https://t.co/T1mkmmGX3f"
+        },
+        {
+          "display_url": "pic.x.com/T1mkmmGX3f",
+          "end": 168,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978494934282858550/photo/1",
+          "media_key": "3_1978494930898329600",
+          "start": 145,
+          "url": "https://t.co/T1mkmmGX3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978494934282858550",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978491534149329232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7重庆新起点杨茂莲受害人被我们强行抢走了\n8花溪陈雨胜男救援本人于该次于教官发生冲突并被逮捕后释放\n9耕力好习惯培养基地刘靖蕾收集证据曝光线下1v11把人带走\n10山东济南仁人教育救援汐\n耗时六天人被救出\n并成立专案组协助工作一个半月后\n仁人教育倒闭\n11河南汝州若水教育救援依列两天速通 https://t.co/T1mkmmGX3f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978494930436898816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UGqB6aQAAxdWI.jpg",
+        "width": 917
+      },
+      {
+        "height": 1194,
+        "media_key": "3_1978494930093027328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UGqAobMAARHN5.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978494930898329600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UGqDobIAAwYNU.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978491526587318272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UDj5lbgAAwgdh.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978491526901858304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UDj6wbAAANkj-.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978491528709623808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UDkBfbUAAYJ-P.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978494930436898816",
+            "3_1978494930093027328",
+            "3_1978494930898329600"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1978491534149329232",
+        "created_at": "2025-10-15T16:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978494934282858550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1mkmmGX3f",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978494934282858550/photo/1",
+              "media_key": "3_1978494930436898816",
+              "start": 145,
+              "url": "https://t.co/T1mkmmGX3f"
+            },
+            {
+              "display_url": "pic.x.com/T1mkmmGX3f",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978494934282858550/photo/1",
+              "media_key": "3_1978494930093027328",
+              "start": 145,
+              "url": "https://t.co/T1mkmmGX3f"
+            },
+            {
+              "display_url": "pic.x.com/T1mkmmGX3f",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978494934282858550/photo/1",
+              "media_key": "3_1978494930898329600",
+              "start": 145,
+              "url": "https://t.co/T1mkmmGX3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978494934282858550",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978491534149329232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7重庆新起点杨茂莲受害人被我们强行抢走了\n8花溪陈雨胜男救援本人于该次于教官发生冲突并被逮捕后释放\n9耕力好习惯培养基地刘靖蕾收集证据曝光线下1v11把人带走\n10山东济南仁人教育救援汐\n耗时六天人被救出\n并成立专案组协助工作一个半月后\n仁人教育倒闭\n11河南汝州若水教育救援依列两天速通 https://t.co/T1mkmmGX3f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978491526587318272",
+            "3_1978491526901858304",
+            "3_1978491528709623808"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1978491534149329232",
+        "created_at": "2025-10-15T16:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978491534149329232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DHPR4rhKL",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978491534149329232/photo/1",
+              "media_key": "3_1978491526587318272",
+              "start": 145,
+              "url": "https://t.co/5DHPR4rhKL"
+            },
+            {
+              "display_url": "pic.x.com/5DHPR4rhKL",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978491534149329232/photo/1",
+              "media_key": "3_1978491526901858304",
+              "start": 145,
+              "url": "https://t.co/5DHPR4rhKL"
+            },
+            {
+              "display_url": "pic.x.com/5DHPR4rhKL",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1978491534149329232/photo/1",
+              "media_key": "3_1978491528709623808",
+              "start": 145,
+              "url": "https://t.co/5DHPR4rhKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978491534149329232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做扭转机构救助已经满一年多了\n统计一下我处理过的案子\n1圣博案张恩旭救援并在后续协助击垮整个英高特体系释放多人\n2圣博转移后的饼干救援\n3山东胶州协助一名男性逃跑成功\n4武汉自由街协助一位孩子的姐姐把自己妹妹接回来\n5重庆炽璞教育星umi救援成功但受害者自身遭受严重虐待\n6参与刘紫怡事件 https://t.co/5DHPR4rhKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 891,
+          "like_count": 711,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 1065
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

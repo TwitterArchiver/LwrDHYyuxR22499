@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984162006619058638",
+    "created_at": "2025-10-31T17:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984313725537706475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1047409524447928321",
+          "start": 0,
+          "username": "AbigailLector"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984313725537706475",
+    "in_reply_to_user_id": "1047409524447928321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984162006619058638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AbigailLector 一想到当年御三家他们批给三道贩子的价比现在直购价格还高我就难崩\n现在也就赚两倍\n之前一百二来五百六百扔🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984162006619058638",
+        "created_at": "2025-10-31T17:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984313725537706475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1047409524447928321",
+              "start": 0,
+              "username": "AbigailLector"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984313725537706475",
+        "in_reply_to_user_id": "1047409524447928321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984162006619058638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AbigailLector 一想到当年御三家他们批给三道贩子的价比现在直购价格还高我就难崩\n现在也就赚两倍\n之前一百二来五百六百扔🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1047409524447928321",
+        "conversation_id": "1984162006619058638",
+        "created_at": "2025-10-31T07:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984162006619058638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984162006619058638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藥商賺錢可以，沒有白吃的飯，但是請不要太黑心髒肺，不要一副“你拿不到你活該，我有渠道就要宰你，願者上鉤，你活該”的嘴臉，藥商也不是只有幾個，這也是競爭，像彩虹糖那種店就該抵制，望周知，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 979,
+          "like_count": 785,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1402
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-03T08:54:25.000Z",
+        "description": "",
+        "id": "1047409524447928321",
+        "name": "🇹🇼 🇮🇱🇺🇦abigail.lector🇰🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960707342196158464/H9vbb3AK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 950,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 989
+        },
+        "username": "AbigailLector",
+        "verified": false
+      }
+    ]
+  }
+}

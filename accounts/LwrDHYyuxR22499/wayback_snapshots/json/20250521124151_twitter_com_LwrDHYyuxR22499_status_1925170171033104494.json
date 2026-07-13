@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1924619587230089647",
+    "created_at": "2025-05-21T12:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925170171033104494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "tobisawam1saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925170171033104494",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925069771860775323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tobisawam1saki 😎好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1924619587230089647",
+        "created_at": "2025-05-21T12:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925170171033104494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "tobisawam1saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925170171033104494",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925069771860775323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobisawam1saki 😎好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855890157989412864",
+        "conversation_id": "1924619587230089647",
+        "created_at": "2025-05-21T06:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925069771860775323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925069771860775323",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924619587230089647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 特色社会主义是一定会实现的😁😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 329,
+          "like_count": 323,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 481
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "坚决反川 支持中国共产党 友亚硝酸钠 里@r18misaki 除@mtfmisaki1 以外都是假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "r18misaki"
+              },
+              {
+                "end": 43,
+                "start": 32,
+                "username": "mtfmisaki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/d5kq7gfRZ6",
+                "end": 23,
+                "expanded_url": "https://discord.gg/d5kq7gfRZ6",
+                "start": 0,
+                "url": "https://t.co/ZTjhoE619T"
+              }
+            ]
+          }
+        },
+        "id": "1855890157989412864",
+        "location": "南京",
+        "name": "鳶沢 みさき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920624998986973184/F82W-Hep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1421,
+          "like_count": 32830,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/ZTjhoE619T",
+        "username": "tobisawam1saki",
+        "verified": false
+      }
+    ]
+  }
+}

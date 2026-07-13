@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981427166584995917",
+    "created_at": "2025-10-23T23:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T00:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981509153609961794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945314984881479680",
+          "start": 0,
+          "username": "DXL_888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981509153609961794",
+    "in_reply_to_user_id": "1945314984881479680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981450787449688374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXL_888 别啊让他投稿才好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981427166584995917",
+        "created_at": "2025-10-23T23:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T00:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981509153609961794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945314984881479680",
+              "start": 0,
+              "username": "DXL_888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981509153609961794",
+        "in_reply_to_user_id": "1945314984881479680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981450787449688374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXL_888 别啊让他投稿才好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314984881479680",
+        "conversation_id": "1981427166584995917",
+        "created_at": "2025-10-23T20:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T21:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981450787449688374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981450787449688374",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981427166584995917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那我投稿好咯？反正我和我这一票朋友都不是老中国籍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 946,
+          "like_count": 752,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1298
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T02:50:15.000Z",
+        "description": "你看那通天的几把，每时每刻都在设。我小时候不懂，以为那是雪花。｜乳化男娘，非常抽象，现居承德，头像是本人｜大号：@notThujaS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "notThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1945314984881479680",
+        "name": "🍥乌老师不是污老师🏳️‍⚧️",
+        "pinned_tweet_id": "1981495243641147430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980850696745369600/fABSABe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 47,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 282
+        },
+        "username": "DXL_888",
+        "verified": false
+      }
+    ]
+  }
+}

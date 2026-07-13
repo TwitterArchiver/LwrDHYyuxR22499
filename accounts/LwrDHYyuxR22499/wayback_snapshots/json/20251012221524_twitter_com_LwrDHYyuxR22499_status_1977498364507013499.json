@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977498364507013499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1668234754125344768",
+          "start": 0,
+          "username": "Reinai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977498364507013499",
+    "in_reply_to_user_id": "1668234754125344768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977457969035133271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reinai_ 快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977498364507013499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977498364507013499",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977457969035133271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T19:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977457969035133271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977457969035133271",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 879,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1035
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 382,
+          "like_count": 542,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 352
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

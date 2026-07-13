@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1986777127900037619",
+    "created_at": "2025-11-08T04:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987008691183493513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987008691183493513",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986901456948240445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg 据学生群体的传言这位似乎是从扭转机构被教官从楼上退下来的某位🧐🧐🧐\n他都四十了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1986777127900037619",
+        "created_at": "2025-11-08T04:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987008691183493513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987008691183493513",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986901456948240445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg 据学生群体的传言这位似乎是从扭转机构被教官从楼上退下来的某位🧐🧐🧐\n他都四十了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "1986777127900037619",
+        "created_at": "2025-11-07T20:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T21:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986901456948240445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986901456948240445",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986777127900037619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 不像是坐姿歪斜导致的弯曲，怎么像是有外力干扰的弯曲，这弯的角度太离谱了，腰椎间盘突出和坐姿不良都不会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 1012,
+          "like_count": 820,
+          "listed_count": 6,
+          "media_count": 256,
+          "tweet_count": 1378
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 459,
+          "like_count": 3666,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1715
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

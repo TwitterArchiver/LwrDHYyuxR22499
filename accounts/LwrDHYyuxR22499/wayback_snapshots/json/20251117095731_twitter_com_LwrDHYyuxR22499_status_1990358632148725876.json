@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989931580346012098",
+    "created_at": "2025-11-17T09:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990358632148725876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467515573751873542",
+          "start": 0,
+          "username": "ce3319749964"
+        },
+        {
+          "end": 24,
+          "id": "1956526823128563712",
+          "start": 14,
+          "username": "NayutaZoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990358632148725876",
+    "in_reply_to_user_id": "1467515573751873542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990346689744707609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ce3319749964 @NayutaZoe 我有空就来把他们残余的全都搂死\n估计也就今年年底"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989931580346012098",
+        "created_at": "2025-11-17T09:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990358632148725876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467515573751873542",
+              "start": 0,
+              "username": "ce3319749964"
+            },
+            {
+              "end": 24,
+              "id": "1956526823128563712",
+              "start": 14,
+              "username": "NayutaZoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990358632148725876",
+        "in_reply_to_user_id": "1467515573751873542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990346689744707609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ce3319749964 @NayutaZoe 我有空就来把他们残余的全都搂死\n估计也就今年年底"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467515573751873542",
+        "conversation_id": "1989931580346012098",
+        "created_at": "2025-11-17T09:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990346689744707609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1956526823128563712",
+              "start": 17,
+              "username": "NayutaZoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990346689744707609",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989954799966851341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @NayutaZoe 什么时候把弦歌也干到\n当初把我们从湖南拉倒安徽的时候还在门口转了圈来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1078,
+          "like_count": 864,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 1427
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T15:26:02.000Z",
+        "description": "🍪/常驻杭州但是全国可飞✈️/苦逼学牲😭/一周五天早八/Minecraft/3D打印/不键政但看乐子/老⏰/INFP/F/0576",
+        "id": "1467515573751873542",
+        "name": "COOKIE9🍪",
+        "pinned_tweet_id": "1908890653872079084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951632326783574017/IzbqQhwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 359,
+          "like_count": 360,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 383
+        },
+        "username": "ce3319749964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/15岁/\n音乐制作/数码科技/\nOnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      }
+    ]
+  }
+}

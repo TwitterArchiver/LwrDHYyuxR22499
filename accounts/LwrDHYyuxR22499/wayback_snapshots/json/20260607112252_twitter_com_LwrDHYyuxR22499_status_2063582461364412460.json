@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2063582461364412460",
+    "created_at": "2026-06-07T11:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063582461364412460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063582461364412460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063581623686410297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 本案体系已被“财新视野”所报道\n自去年八月起，\n追杀时长贯穿十个月有余。\n三个有关于“仁人教育”的推友个案被我们并联处理均全部获救。\n我们继续组织线下抗议线下举报\n被杀得四处溃逃，死了个七七八八处罚款退款赔偿驱离，一样没少\n经营基本溃散…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063581619303456769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNQjKeboAE77kI.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063581620503031808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNQjO8bsAAsEvJ.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063581619659915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNQjLzawAAM0r8.jpg",
+        "width": 917
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2063581620423241728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNQjOpaMAAG_n3.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2063582461364412460",
+        "created_at": "2026-06-07T11:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063582461364412460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063582461364412460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063581623686410297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 本案体系已被“财新视野”所报道\n自去年八月起，\n追杀时长贯穿十个月有余。\n三个有关于“仁人教育”的推友个案被我们并联处理均全部获救。\n我们继续组织线下抗议线下举报\n被杀得四处溃逃，死了个七七八八处罚款退款赔偿驱离，一样没少\n经营基本溃散…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063581619303456769",
+            "3_2063581620503031808",
+            "3_2063581619659915264",
+            "3_2063581620423241728"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2063581623686410297",
+        "created_at": "2026-06-07T11:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063581623686410297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "文｜财新周刊 姚炜增（实习），范俏佳 暴力矫正机构带来了什么？有病的是谁？谁对子女们负责？谁又对这些机构负责？ 仁人教育在官方宣传视频中称，“经国家各级部门批准设立”，目的是“帮....",
+              "display_url": "view.inews.qq.com/a/20260408A04A…",
+              "end": 151,
+              "expanded_url": "https://view.inews.qq.com/a/20260408A04A1600",
+              "start": 128,
+              "status": 200,
+              "title": "花6万矫正“躺平”子女后：殴打致伤、暴力胁迫、打火机烧灼……谁给了他们“治病”的权力？_腾讯新闻",
+              "unwound_url": "https://news.qq.com/rain/a/20260408A04A1600?suid=&media_id=",
+              "url": "https://t.co/0IBnsgzGzH"
+            },
+            {
+              "display_url": "pic.x.com/CDoeIV9EoH",
+              "end": 175,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063581623686410297/photo/1",
+              "media_key": "3_2063581619303456769",
+              "start": 152,
+              "url": "https://t.co/CDoeIV9EoH"
+            },
+            {
+              "display_url": "pic.x.com/CDoeIV9EoH",
+              "end": 175,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063581623686410297/photo/1",
+              "media_key": "3_2063581620503031808",
+              "start": 152,
+              "url": "https://t.co/CDoeIV9EoH"
+            },
+            {
+              "display_url": "pic.x.com/CDoeIV9EoH",
+              "end": 175,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063581623686410297/photo/1",
+              "media_key": "3_2063581619659915264",
+              "start": 152,
+              "url": "https://t.co/CDoeIV9EoH"
+            },
+            {
+              "display_url": "pic.x.com/CDoeIV9EoH",
+              "end": 175,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063581623686410297/photo/1",
+              "media_key": "3_2063581620423241728",
+              "start": 152,
+              "url": "https://t.co/CDoeIV9EoH"
+            },
+            {
+              "display_url": "x.com/nnxjing1/statu…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/nnxjing1/status/2051819427633725858",
+              "start": 176,
+              "url": "https://t.co/B6tAB7i2uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063581623686410297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819427633725858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本案体系已被“财新视野”所报道\n自去年八月起，\n追杀时长贯穿十个月有余。\n三个有关于“仁人教育”的推友个案被我们并联处理均全部获救。\n我们继续组织线下抗议线下举报\n被杀得四处溃逃，死了个七七八八处罚款退款赔偿驱离，一样没少\n经营基本溃散…\n下附新闻链接:\nhttps://t.co/0IBnsgzGzH https://t.co/CDoeIV9EoH https://t.co/B6tAB7i2uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 3108,
+          "like_count": 3183,
+          "listed_count": 19,
+          "media_count": 447,
+          "tweet_count": 2969
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2072311092551049619",
+    "created_at": "2026-07-01T13:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072311092551049619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sayuki_Inoue/s…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/Sayuki_Inoue/status/2072309075594129610",
+          "start": 78,
+          "url": "https://t.co/oCjOrw3FO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072311092551049619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072309075594129610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比起在这玩历史行政区\n这个老久的概念\n我不得不感叹一下帕夏自己约的架\n要在这玩躲猫猫不给详细地址\n让别人猜他在哪\n是断手断脚了定位发不了\n还是压根就不敢了 https://t.co/oCjOrw3FO3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2072311092551049619",
+        "created_at": "2026-07-01T13:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072311092551049619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sayuki_Inoue/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Sayuki_Inoue/status/2072309075594129610",
+              "start": 78,
+              "url": "https://t.co/oCjOrw3FO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072311092551049619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072309075594129610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比起在这玩历史行政区\n这个老久的概念\n我不得不感叹一下帕夏自己约的架\n要在这玩躲猫猫不给详细地址\n让别人猜他在哪\n是断手断脚了定位发不了\n还是压根就不敢了 https://t.co/oCjOrw3FO3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2072309075594129610",
+        "created_at": "2026-07-01T13:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072309075594129610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2072307810537529407",
+              "start": 85,
+              "url": "https://t.co/r25IiTvVzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072309075594129610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072307810537529407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你连百度都不会用吗？我可没吹自己是什么搜救大师，而且我没义务这么晚还要出门找你。至于“川沙顾路”这个概念有多容易检索，我现在向全社群发出邀请，欢迎大家来告诉他他有多愚蠢 https://t.co/r25IiTvVzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6179,
+          "following_count": 3298,
+          "like_count": 3625,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "死闺 @yifu0753",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "yifu0753"
+              }
+            ]
+          }
+        },
+        "id": "1940622242381262848",
+        "name": "井上 彩結樹 Inoue Sayuki ༒R.I.P.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 171,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1887
+        },
+        "url": "",
+        "username": "Sayuki_Inoue",
+        "verified": false
+      }
+    ]
+  }
+}

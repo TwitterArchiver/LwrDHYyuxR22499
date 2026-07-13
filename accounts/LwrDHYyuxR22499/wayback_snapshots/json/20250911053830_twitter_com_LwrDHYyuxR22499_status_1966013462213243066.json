@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966013457335296000",
+        "3_1966013458140508160",
+        "3_1966013458572558336",
+        "3_1966013457926627329"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1966013462213243066",
+    "created_at": "2025-09-11T05:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T06:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966013462213243066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0OLOHtGiVl",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+          "media_key": "3_1966013457335296000",
+          "start": 144,
+          "url": "https://t.co/0OLOHtGiVl"
+        },
+        {
+          "display_url": "pic.x.com/0OLOHtGiVl",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+          "media_key": "3_1966013458140508160",
+          "start": 144,
+          "url": "https://t.co/0OLOHtGiVl"
+        },
+        {
+          "display_url": "pic.x.com/0OLOHtGiVl",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+          "media_key": "3_1966013458572558336",
+          "start": 144,
+          "url": "https://t.co/0OLOHtGiVl"
+        },
+        {
+          "display_url": "pic.x.com/0OLOHtGiVl",
+          "end": 167,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+          "media_key": "3_1966013457926627329",
+          "start": 144,
+          "url": "https://t.co/0OLOHtGiVl"
+        },
+        {
+          "display_url": "x.com/FIREFLY040132/…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/FIREFLY040132/status/1965840349127127381",
+          "start": 168,
+          "url": "https://t.co/hHI3qJVvOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966013462213243066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965840349127127381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位昨晚被自己家里人绑架上车了\n一路从山西拉到了河南省郑州市登封武校中现已被非法囚禁在该校\n\n该学校有正规教育资质文化课等\n但学生在学校中依旧会遭受虐待霸凌以及殴打等情况\n并且受害人是被捆住双脚双手用车送过去的\n因该校的资质目前很难直接以非法办学无资质限制人身自由来打击\n有意救人者私信 https://t.co/0OLOHtGiVl https://t.co/hHI3qJVvOm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966013457335296000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iu0rQboAAJgl3.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966013458140508160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iu0uQaMAApo8K.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966013458572558336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iu0v3awAAxG18.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966013457926627329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iu0tdaoAEIrcr.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966013457335296000",
+            "3_1966013458140508160",
+            "3_1966013458572558336",
+            "3_1966013457926627329"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1966013462213243066",
+        "created_at": "2025-09-11T05:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966013462213243066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OLOHtGiVl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+              "media_key": "3_1966013457335296000",
+              "start": 144,
+              "url": "https://t.co/0OLOHtGiVl"
+            },
+            {
+              "display_url": "pic.x.com/0OLOHtGiVl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+              "media_key": "3_1966013458140508160",
+              "start": 144,
+              "url": "https://t.co/0OLOHtGiVl"
+            },
+            {
+              "display_url": "pic.x.com/0OLOHtGiVl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+              "media_key": "3_1966013458572558336",
+              "start": 144,
+              "url": "https://t.co/0OLOHtGiVl"
+            },
+            {
+              "display_url": "pic.x.com/0OLOHtGiVl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966013462213243066/photo/1",
+              "media_key": "3_1966013457926627329",
+              "start": 144,
+              "url": "https://t.co/0OLOHtGiVl"
+            },
+            {
+              "display_url": "x.com/FIREFLY040132/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/FIREFLY040132/status/1965840349127127381",
+              "start": 168,
+              "url": "https://t.co/hHI3qJVvOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966013462213243066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965840349127127381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位昨晚被自己家里人绑架上车了\n一路从山西拉到了河南省郑州市登封武校中现已被非法囚禁在该校\n\n该学校有正规教育资质文化课等\n但学生在学校中依旧会遭受虐待霸凌以及殴打等情况\n并且受害人是被捆住双脚双手用车送过去的\n因该校的资质目前很难直接以非法办学无资质限制人身自由来打击\n有意救人者私信 https://t.co/0OLOHtGiVl https://t.co/hHI3qJVvOm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918920268296359936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1965840349127127381",
+        "created_at": "2025-09-10T18:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T19:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965840349127127381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965840349127127381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12160,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是冯占峰\n我的身份证号是140427201004010032\n我因我家里吃药原因离家出走\n被我家里人现在以看管，绑手方式限制了我的人身自由\n并且要强行帮我绑架到河南的学校扭转机构里（不知道名字就先不写知道必须写）\n我本人冯占峰郑重声明不愿再这种无医疗条件教育资质限制我人身自由的扭转机构接受培训"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 648,
+          "like_count": 610,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 869
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁，身高168，断糖，没钱，很能吃，暂无固定住所，爱玩点休闲小游戏",
+        "id": "1918920268296359936",
+        "location": "床上",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963726016771498288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948999350333624320/e-2Mljmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 456,
+          "like_count": 605,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 441
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

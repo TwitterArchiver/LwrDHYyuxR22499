@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021094122925457674",
+    "created_at": "2026-02-10T09:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T10:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021153037171978354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016022863174852609",
+          "start": 0,
+          "username": "hamster_pro_max"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021153037171978354",
+    "in_reply_to_user_id": "2016022863174852609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021152737337946562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamster_pro_max 其实有时候是几千公里🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021153037171978354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016022863174852609",
+              "start": 0,
+              "username": "hamster_pro_max"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021153037171978354",
+        "in_reply_to_user_id": "2016022863174852609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021152737337946562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamster_pro_max 其实有时候是几千公里🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016022863174852609",
+        "conversation_id": "2021094122925457674",
+        "created_at": "2026-02-10T09:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021152737337946562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021152737337946562",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021094122925457674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 贴钱救人还能被吵吵，相隔几百公里，真能把人从扭转机构里面捞出来，你都得跪着感谢。现如今还被挂网上，真是金蝉子我又赢了的具象化。当好人还当错了，哪怕被男的强奸之后开始厌男，看到男的就ptsd，但对救你出来的人说句“谢谢”属于素质范畴吧？怪不得被关在里面，真的该去改造改造学学怎么做人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 1771,
+          "like_count": 1504,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 2090
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T05:38:10.000Z",
+        "description": "第一次玩推，第一个推特账号，终于找到大部队了/HRT 2024.1月mtf，攒钱手术中/分享碎碎念和我的生活！",
+        "id": "2016022863174852609",
+        "location": "距离您十万八千里",
+        "name": "囤囤鼠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016057442216669184/Oi8cR-nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 78,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "hamster_pro_max",
+        "verified": false
+      }
+    ]
+  }
+}

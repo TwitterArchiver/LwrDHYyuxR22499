@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1892104766110531739",
+    "created_at": "2025-02-19T08:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T09:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892136248028061800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733917560905863168",
+          "start": 0,
+          "username": "xy636372"
+        },
+        {
+          "end": 17,
+          "id": "1807065209657532416",
+          "start": 10,
+          "username": "cdwdsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892136248028061800",
+    "in_reply_to_user_id": "1733917560905863168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892132836829802742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xy636372 @cdwdsa 我去你复活辣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1892104766110531739",
+        "created_at": "2025-02-19T08:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T09:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892136248028061800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733917560905863168",
+              "start": 0,
+              "username": "xy636372"
+            },
+            {
+              "end": 17,
+              "id": "1807065209657532416",
+              "start": 10,
+              "username": "cdwdsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892136248028061800",
+        "in_reply_to_user_id": "1733917560905863168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892132836829802742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xy636372 @cdwdsa 我去你复活辣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733917560905863168",
+        "conversation_id": "1892104766110531739",
+        "created_at": "2025-02-19T08:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T09:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892132836829802742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807065209657532416",
+              "start": 0,
+              "username": "cdwdsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892132836829802742",
+        "in_reply_to_user_id": "1807065209657532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892119687049212386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdwdsa 后者吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 186,
+          "like_count": 148,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 287
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T18:32:23.000Z",
+        "description": "07/ip:山东/已炸柜/家暴党/重抑/休学中/\nhrt20241218/176/57kg/xyn🍥/情绪垃圾桶/同类互fo喵🥰",
+        "id": "1733917560905863168",
+        "name": "星umi🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891746933863309312/lXuh6crL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 58,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "xy636372",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:55:03.000Z",
+        "description": "06/抑郁/172/60kg/hrt241007/有A+了呢/mtf/缺爱/别离开我好吗/不是同类过🚪50在聊天/性取向偏男？/不发黄推/不抽烟/不喝酒/不赌博/不建政/两次自杀未遂/被抛弃一次/一个农村的穷逼",
+        "id": "1807065209657532416",
+        "location": "我活在影子里，光都是别人的",
+        "name": "活着好累🍥 🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880235339450839042/BeLhSKkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1294,
+          "like_count": 1114,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 411
+        },
+        "username": "cdwdsa",
+        "verified": false
+      }
+    ]
+  }
+}

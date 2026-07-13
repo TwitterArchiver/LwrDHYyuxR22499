@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2000071303882317926",
+    "created_at": "2025-12-14T05:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000073104937320462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851254945984741376",
+          "start": 0,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000073104937320462",
+    "in_reply_to_user_id": "1851254945984741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000071303882317926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastExeX01 我倒是觉得宣布合法化能解决一些问题呢?\n例如给一些特定的有资质的开具合法\n其余的不合法的全部关停\n有资质的可以帮孩子建设些东西甚至起到保护作用\n合法的这些地方要是虐待孩子也就有迹可循了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2000071303882317926",
+        "created_at": "2025-12-14T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000073104937320462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000073104937320462",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000071303882317926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 我倒是觉得宣布合法化能解决一些问题呢?\n例如给一些特定的有资质的开具合法\n其余的不合法的全部关停\n有资质的可以帮孩子建设些东西甚至起到保护作用\n合法的这些地方要是虐待孩子也就有迹可循了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2000071303882317926",
+        "created_at": "2025-12-14T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000071303882317926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1999309621845254386",
+              "start": 115,
+              "url": "https://t.co/3wM7AwqLEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000071303882317926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999309621845254386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国政府如果不重视这些人权问题，那自然会有其他人重视，这不是哪个领导或者精神上是领导的人一张嘴能决定的。\n往好了想能鞭策现任政府，往坏了想就是加速，要么宣布机构非法解决问题，要么合法化激化矛盾。\n至少都让这个国家往文明走了一步。 https://t.co/3wM7AwqLEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1146,
+          "like_count": 988,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 1574
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇦🇵🇸│\n是中国大街上的一位路人。",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "1999761964042792960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 254,
+          "like_count": 14673,
+          "listed_count": 3,
+          "media_count": 961,
+          "tweet_count": 6781
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

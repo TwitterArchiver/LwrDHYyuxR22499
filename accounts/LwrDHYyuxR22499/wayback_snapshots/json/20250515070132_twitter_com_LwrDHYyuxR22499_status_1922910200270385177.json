@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1922910168377065474"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1922910200270385177",
+    "created_at": "2025-05-15T07:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T08:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922910200270385177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADwMKCpoOL",
+          "end": 27,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1922910200270385177/video/1",
+          "media_key": "7_1922910168377065474",
+          "start": 4,
+          "url": "https://t.co/ADwMKCpoOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922910200270385177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好燃啊 https://t.co/ADwMKCpoOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24136,
+        "height": 720,
+        "media_key": "7_1922910168377065474",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1922910168377065474/pu/img/TYwdctngb6Pefp_2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922910168377065474/pu/vid/avc1/320x320/08G92qdie2Gtz7b8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922910168377065474/pu/vid/avc1/540x540/iuaFxINIvAthQJPV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922910168377065474/pu/vid/avc1/720x720/exIXsfD9_sZ2W_Ws.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1922910168377065474/pu/pl/_Wf1zEG9_I06V5Tl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1922910168377065474"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1922910200270385177",
+        "created_at": "2025-05-15T07:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T08:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922910200270385177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADwMKCpoOL",
+              "end": 27,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1922910200270385177/video/1",
+              "media_key": "7_1922910168377065474",
+              "start": 4,
+              "url": "https://t.co/ADwMKCpoOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922910200270385177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好燃啊 https://t.co/ADwMKCpoOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 318,
+          "like_count": 287,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 444
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1882026420232483181",
+    "created_at": "2025-01-22T11:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T12:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882026735530831956"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882026735530831956",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882026420232483181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你要是觉得不帮寒涟漪说他就是百分百没有强奸别人就是理中客那你真是\n一条为了某个不知名主人咬人的疯狗😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1882026420232483181",
+        "created_at": "2025-01-22T11:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882026735530831956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882026735530831956",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882026420232483181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要是觉得不帮寒涟漪说他就是百分百没有强奸别人就是理中客那你真是\n一条为了某个不知名主人咬人的疯狗😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882026403467796480"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1882026420232483181",
+        "created_at": "2025-01-22T11:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882026420232483181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1313383273079345152",
+              "start": 133,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AE2jzTQyI9",
+              "end": 173,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1882026420232483181/photo/1",
+              "media_key": "3_1882026403467796480",
+              "start": 150,
+              "url": "https://t.co/AE2jzTQyI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882026420232483181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤭你去问寒涟漪去我要是威胁过他一句话跟他要一分钱赔偿或直接指控他强奸\n我妈都死\n要是帮助他破除某些谣言捐资帮着寒涟漪赚了一笔钱\n你全家死绝了亲妈逼被护栏扎烂\n你的两张嘴唇一张一合跟你婊子妈的阴唇一样被人大力抽插随意闭合一样造谣\n你到时候验证了挨骂要立正别怪我骂的脏\n@ValeriaEulabeia https://t.co/AE2jzTQyI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 141,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 181
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2037569305995579897",
+    "created_at": "2026-03-27T17:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037579214770344178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        },
+        {
+          "end": 26,
+          "id": "1565981667746914304",
+          "start": 10,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037579214770344178",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037578831507472789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ @Kagura_Yukikaze 我只负责拿数据啊🤓\n我让那位更新一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_2037578829313802245",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbvJlMbAAUtxTm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2037569305995579897",
+        "created_at": "2026-03-27T17:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037579214770344178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            },
+            {
+              "end": 26,
+              "id": "1565981667746914304",
+              "start": 10,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037579214770344178",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037578831507472789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ @Kagura_Yukikaze 我只负责拿数据啊🤓\n我让那位更新一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037578829313802245"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2037569305995579897",
+        "created_at": "2026-03-27T17:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037578831507472789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1565981667746914304",
+              "start": 17,
+              "username": "Kagura_Yukikaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lv46tP6y44",
+              "end": 72,
+              "expanded_url": "https://x.com/HosinoEJ/status/2037578831507472789/photo/1",
+              "media_key": "3_2037578829313802245",
+              "start": 49,
+              "url": "https://t.co/lv46tP6y44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037578831507472789",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037569305995579897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @Kagura_Yukikaze 不是哥們，我看著河南也沒填啊 https://t.co/lv46tP6y44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 2293,
+          "like_count": 2187,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2400
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "I love my country,but i'm not Heidrgger.\n\nDiscord: https://t.co/ccn1U72HVa\nE-mail: contact@hosinoneko.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 74,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 51,
+                "url": "https://t.co/ccn1U72HVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCT.hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://NCT.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/MYVBfe2rap"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野ネコ | HosinoNeko",
+        "pinned_tweet_id": "2033277996153680185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 499,
+          "like_count": 3050,
+          "listed_count": 4,
+          "media_count": 543,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/MYVBfe2rap",
+        "username": "HosinoEJ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 2704,
+          "like_count": 96663,
+          "listed_count": 2,
+          "media_count": 726,
+          "tweet_count": 11510
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

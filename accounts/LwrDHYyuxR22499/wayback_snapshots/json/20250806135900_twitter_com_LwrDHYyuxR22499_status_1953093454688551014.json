@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1953015977144144136",
+    "created_at": "2025-08-06T13:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T14:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953093454688551014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953093454688551014",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953085756660171171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 睾丸癌大概率另一个也得嘎\n那不是剩枪游侠?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1953015977144144136",
+        "created_at": "2025-08-06T13:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953093454688551014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953093454688551014",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953085756660171171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 睾丸癌大概率另一个也得嘎\n那不是剩枪游侠?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "1953015977144144136",
+        "created_at": "2025-08-06T13:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953085756660171171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953085756660171171",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953083685043110221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我去了\n那我不变成圣诞老人了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 471,
+          "like_count": 459,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 650
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有双相情感障碍纯疯子一个💀～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳\n大家都能跟我交朋友，多说说话就好了，虽然说我很不会说话，但我很愿意倾听，求互粉\n并未吃糖🍥\n主播的神秘小老妹儿：@LiciiQAQ\n引路人：@Lianshufa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Lianshufa"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "重庆银",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1949569082938081444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945736481613533184/sdIkktzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 748,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 584
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

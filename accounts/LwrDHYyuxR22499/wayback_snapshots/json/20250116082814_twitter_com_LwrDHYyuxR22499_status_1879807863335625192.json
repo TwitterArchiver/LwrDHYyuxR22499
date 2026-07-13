@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1879209400092774776",
+    "created_at": "2025-01-16T08:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T09:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879807863335625192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879807863335625192",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879209400092774776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 如果你是学生你完全有可能是慢性肠胃炎中国的学生就没几个肠胃是正常的我建议你搞点陈香白露丸还有奥美拉挫镁肠溶片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1879209400092774776",
+        "created_at": "2025-01-16T08:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T09:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879807863335625192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879807863335625192",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879209400092774776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 如果你是学生你完全有可能是慢性肠胃炎中国的学生就没几个肠胃是正常的我建议你搞点陈香白露丸还有奥美拉挫镁肠溶片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1879209400092774776",
+        "created_at": "2025-01-14T16:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T17:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879209400092774776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879209400092774776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胃病犯了，想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 105,
+          "like_count": 54,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 125
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "一位转发mtf消息的bot喵\n本账号一切消息禁止用于政治用途\n禁止政治类账号进行转发和实现政治意图。\n爱党爱跨，不参与争吵，欢迎投稿\n最近由于寒涟漪被造谣，本账号将全天候打击一切针对任何跨性别救助者的造谣传谣污蔑行为。 #关注救助者健康",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 110,
+                "tag": "关注救助者健康"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "location": "广东省广州市",
+        "name": "mtf轉發bot（坚决支持寒涟漪！）",
+        "pinned_tweet_id": "1879528381005615454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850906274109743104/vOmjtfaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 138,
+          "like_count": 432,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 602
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

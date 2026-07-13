@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013103279945785344",
+        "3_2013103281589956608"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013103655667572975",
+    "created_at": "2026-01-19T04:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013103655667572975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bCdSJq5nJt",
+          "end": 165,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013103655667572975/video/1",
+          "media_key": "7_2013103279945785344",
+          "start": 142,
+          "url": "https://t.co/bCdSJq5nJt"
+        },
+        {
+          "display_url": "pic.x.com/bCdSJq5nJt",
+          "end": 165,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013103655667572975/video/1",
+          "media_key": "3_2013103281589956608",
+          "start": 142,
+          "url": "https://t.co/bCdSJq5nJt"
+        },
+        {
+          "display_url": "x.com/FJUNNNN/status…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/FJUNNNN/status/2012840359949152289",
+          "start": 166,
+          "url": "https://t.co/yXoZPC1K0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013103655667572975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012840359949152289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经多方比对核实该校设有多个关联账号其真实名称为重庆赋苗教育，与此前曾因抓捕跨性别者被曝光的机构系同一家\n在此公开该校鹰犬个人联系方式以正视听\n无独有偶近日一名曾被囚禁于此的跨性别女性主动联系到我控诉自己在机构内遭受暴力殴打体罚虐待精神洗脑不堪折磨她甚至曾以吞电池干燥剂的方式试图自杀 https://t.co/bCdSJq5nJt https://t.co/yXoZPC1K0r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28629,
+        "height": 1280,
+        "media_key": "7_2013103279945785344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013103279945785344/pu/img/d8UcX2QWWhijmJ-e.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013103279945785344/pu/vid/avc1/320x712/o-sVHZ2VQNWb7gBV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013103279945785344/pu/vid/avc1/480x1070/QEO_8LV5sAzkQbsB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013103279945785344/pu/vid/avc1/574x1280/2I7P2vBq0Ya2Shfu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013103279945785344/pu/pl/La1FTtGXtzZzLSKe.m3u8?tag=12"
+          }
+        ],
+        "width": 574
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013103281589956608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_6xMtXsAATSHJ.jpg",
+        "width": 745
+      },
+      {
+        "height": 829,
+        "media_key": "3_2012840351615127552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8LoqOXkAAyu0Q.jpg",
+        "width": 649
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012839539094503424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8K5XWWwAAN0i8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013103279945785344",
+            "3_2013103281589956608"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013103655667572975",
+        "created_at": "2026-01-19T04:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013103655667572975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCdSJq5nJt",
+              "end": 165,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013103655667572975/video/1",
+              "media_key": "7_2013103279945785344",
+              "start": 142,
+              "url": "https://t.co/bCdSJq5nJt"
+            },
+            {
+              "display_url": "pic.x.com/bCdSJq5nJt",
+              "end": 165,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013103655667572975/video/1",
+              "media_key": "3_2013103281589956608",
+              "start": 142,
+              "url": "https://t.co/bCdSJq5nJt"
+            },
+            {
+              "display_url": "x.com/FJUNNNN/status…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/FJUNNNN/status/2012840359949152289",
+              "start": 166,
+              "url": "https://t.co/yXoZPC1K0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013103655667572975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012840359949152289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经多方比对核实该校设有多个关联账号其真实名称为重庆赋苗教育，与此前曾因抓捕跨性别者被曝光的机构系同一家\n在此公开该校鹰犬个人联系方式以正视听\n无独有偶近日一名曾被囚禁于此的跨性别女性主动联系到我控诉自己在机构内遭受暴力殴打体罚虐待精神洗脑不堪折磨她甚至曾以吞电池干燥剂的方式试图自杀 https://t.co/bCdSJq5nJt https://t.co/yXoZPC1K0r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012840351615127552",
+            "3_2012839539094503424"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012840359949152289",
+        "created_at": "2026-01-18T10:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:48:40.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012839551744794848",
+          "2012840123717808249",
+          "2012840359949152289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zisQ8AhBLt",
+              "end": 51,
+              "expanded_url": "https://x.com/FJUNNNN/status/2012840359949152289/photo/1",
+              "media_key": "3_2012840351615127552",
+              "start": 28,
+              "url": "https://t.co/zisQ8AhBLt"
+            },
+            {
+              "display_url": "pic.x.com/zisQ8AhBLt",
+              "end": 51,
+              "expanded_url": "https://x.com/FJUNNNN/status/2012840359949152289/photo/1",
+              "media_key": "3_2012839539094503424",
+              "start": 28,
+              "url": "https://t.co/zisQ8AhBLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012840359949152289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 185661,
+          "like_count": 416,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "emmmmm\n矫正机构还拍上续集了_(´ཀ`」 ∠)_ https://t.co/zisQ8AhBLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 1612,
+          "like_count": 1345,
+          "listed_count": 9,
+          "media_count": 312,
+          "tweet_count": 1894
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 688,
+          "like_count": 1619,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 500
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

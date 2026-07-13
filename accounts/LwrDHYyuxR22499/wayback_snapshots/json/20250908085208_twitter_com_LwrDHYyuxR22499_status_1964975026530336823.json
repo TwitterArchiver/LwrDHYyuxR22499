@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1964778581286121961",
+    "created_at": "2025-09-08T08:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T09:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964975026530336823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964975026530336823",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964973938095927351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 暂时不需要谢谢您☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1964778581286121961",
+        "created_at": "2025-09-08T08:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964975026530336823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964975026530336823",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964973938095927351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 暂时不需要谢谢您☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502654786453204994",
+        "conversation_id": "1964778581286121961",
+        "created_at": "2025-09-08T08:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964973938095927351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964973938095927351",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964778581286121961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你需要一点药物辅助吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 591,
+          "like_count": 575,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 819
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖里推：@不告诉你！ 自己猜！‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "二酸化炭素の🪼猫诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 307,
+          "like_count": 27590,
+          "listed_count": 1,
+          "media_count": 979,
+          "tweet_count": 7512
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

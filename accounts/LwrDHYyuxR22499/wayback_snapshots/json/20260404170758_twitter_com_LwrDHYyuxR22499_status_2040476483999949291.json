@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2040476483999949291",
+    "created_at": "2026-04-04T17:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040476483999949291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2040475840820211962",
+          "start": 54,
+          "url": "https://t.co/RTgWJwhcra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040476483999949291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040475840820211962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没直接干倒闭是因为成立时间太短\n实质证据不足\n有时候觉得拿我们开发出来的这套体系打扭转机构有点欺负小孩了… https://t.co/RTgWJwhcra"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 115569,
+        "height": 720,
+        "media_key": "7_2040475677095596032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040475677095596032/pu/img/x4sx9Z_h-xbQ32AM.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040475677095596032/pu/vid/avc1/432x270/3TMBclJNIso6OqOO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040475677095596032/pu/vid/avc1/576x360/EW5-SiJUvTQMnpqG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040475677095596032/pu/vid/avc1/1152x720/q2szaRkYu1j5OH1w.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040475677095596032/pu/pl/bBu8CQdTSB6I9r-u.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2040476483999949291",
+        "created_at": "2026-04-04T17:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040476483999949291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2040475840820211962",
+              "start": 54,
+              "url": "https://t.co/RTgWJwhcra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040476483999949291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040475840820211962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没直接干倒闭是因为成立时间太短\n实质证据不足\n有时候觉得拿我们开发出来的这套体系打扭转机构有点欺负小孩了… https://t.co/RTgWJwhcra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040475677095596032"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2040475840820211962",
+        "created_at": "2026-04-04T17:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040475840820211962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqZwAIWgyH",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2040475840820211962/video/1",
+              "media_key": "7_2040475677095596032",
+              "start": 51,
+              "url": "https://t.co/jqZwAIWgyH"
+            },
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/siyu060910/status/2040452726681960920",
+              "start": 75,
+              "url": "https://t.co/uWwNWMYBlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040475840820211962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040452726681960920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这个威能，有这个手段，让扭转机构看到我们做事的手段，听到我的名字，就把校门打开，让我进去挑人带走。 https://t.co/jqZwAIWgyH https://t.co/uWwNWMYBlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4031,
+          "following_count": 2342,
+          "like_count": 2410,
+          "listed_count": 14,
+          "media_count": 387,
+          "tweet_count": 2561
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

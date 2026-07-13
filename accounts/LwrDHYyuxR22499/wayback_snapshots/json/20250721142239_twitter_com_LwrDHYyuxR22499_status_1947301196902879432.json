@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1947301196902879432",
+    "created_at": "2025-07-21T14:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947301196902879432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/Sui_aini/status/1947050320468852870",
+          "start": 123,
+          "url": "https://t.co/9Nsnxms6Ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947301196902879432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947050320468852870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很显然他说的一些事他们确实干了\n不占理就把人污蔑成清真小编诈骗别人造黄谣以此来孤立排挤他人是他们的惯用手段\n我跟张恩旭就是其中的一位受害者\n要说倒打一耙可真算不上\n例如v畜造谣我诈骗寒涟漪的钱企图代替他成为国内救助皇帝以及造谣别人姘头等话可不少 https://t.co/9Nsnxms6Ab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_1947050317159227393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwVP8pIWYAE4VPY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1947301196902879432",
+        "created_at": "2025-07-21T14:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947301196902879432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/Sui_aini/status/1947050320468852870",
+              "start": 123,
+              "url": "https://t.co/9Nsnxms6Ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947301196902879432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947050320468852870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很显然他说的一些事他们确实干了\n不占理就把人污蔑成清真小编诈骗别人造黄谣以此来孤立排挤他人是他们的惯用手段\n我跟张恩旭就是其中的一位受害者\n要说倒打一耙可真算不上\n例如v畜造谣我诈骗寒涟漪的钱企图代替他成为国内救助皇帝以及造谣别人姘头等话可不少 https://t.co/9Nsnxms6Ab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947050317159227393"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1947050320468852870",
+        "created_at": "2025-07-20T21:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T22:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947050320468852870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yggANdLpNd",
+              "end": 65,
+              "expanded_url": "https://x.com/Sui_aini/status/1947050320468852870/photo/1",
+              "media_key": "3_1947050317159227393",
+              "start": 42,
+              "url": "https://t.co/yggANdLpNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947050320468852870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2198,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "叽里咕噜说些什么呢，「把人逼到自杀」，是某协会干的事情吧...?怎么还倒打一耙呢? https://t.co/yggANdLpNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 433,
+          "like_count": 413,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 578
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 469,
+          "like_count": 1841,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 1601
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

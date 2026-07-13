@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2008994064302297485",
+    "created_at": "2026-01-09T07:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009527656472338550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009527656472338550",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009482611559993626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 不会🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2008994064302297485",
+        "created_at": "2026-01-09T07:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009527656472338550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009527656472338550",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009482611559993626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 不会🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "conversation_id": "2008994064302297485",
+        "created_at": "2026-01-09T04:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009482611559993626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009482611559993626",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008994064302297485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你有替代性創傷，你比較令人擔心。\n你應該先守護好你自己，你不需要透過毀滅自己來證明什麼，也不需要把自己當成代價，請試著對受傷的自己好一些，把你的溫柔分一些給你自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009440425611034624/hB-hwvS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 1535,
+          "like_count": 1296,
+          "listed_count": 9,
+          "media_count": 304,
+          "tweet_count": 1843
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了\n還希望保持聯絡的推友請fo我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "pinned_tweet_id": "2007498195707015530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007427830200901632/hEY_dCx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 105,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 94
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

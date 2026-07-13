@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-13T04:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977586856385745190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819916289605095424",
+          "start": 0,
+          "username": "SUMUD19480413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977586856385745190",
+    "in_reply_to_user_id": "1819916289605095424",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977563681874759978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUMUD19480413 ʕ ᵔᴥᵔ ʔ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T04:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977586856385745190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819916289605095424",
+              "start": 0,
+              "username": "SUMUD19480413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977586856385745190",
+        "in_reply_to_user_id": "1819916289605095424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977563681874759978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUMUD19480413 ʕ ᵔᴥᵔ ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819916289605095424",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T02:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977563681874759978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977563681874759978",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 Happy birthday"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 882,
+          "like_count": 701,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1044
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T02:00:42.000Z",
+        "description": "Viva Palestine!!!\nيعارض كل الاستعمار",
+        "id": "1819916289605095424",
+        "name": "No name fighter 🔻🍉☀🌲🟩️",
+        "pinned_tweet_id": "1945938928563114121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946744881596030976/8BMIX5gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 2498,
+          "like_count": 17643,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 8695
+        },
+        "username": "SUMUD19480413",
+        "verified": false
+      }
+    ]
+  }
+}

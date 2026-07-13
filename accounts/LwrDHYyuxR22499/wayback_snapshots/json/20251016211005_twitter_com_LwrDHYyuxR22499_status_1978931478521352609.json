@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1978931478521352609",
+    "created_at": "2025-10-16T21:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T22:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978931478521352609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1978501625267245433",
+          "start": 21,
+          "url": "https://t.co/kSuzmldGiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978931478521352609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978501625267245433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个验证方式蠢爆了\n我用作业帮你不炸了吗 https://t.co/kSuzmldGiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2273,
+        "media_key": "3_1978501622121824256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UMviYbAAAHSrQ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1978931478521352609",
+        "created_at": "2025-10-16T21:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T22:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978931478521352609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1978501625267245433",
+              "start": 21,
+              "url": "https://t.co/kSuzmldGiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978931478521352609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978501625267245433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个验证方式蠢爆了\n我用作业帮你不炸了吗 https://t.co/kSuzmldGiJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978501622121824256"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "1978501625267245433",
+        "created_at": "2025-10-15T16:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978501625267245433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9FbaxRHHI",
+              "end": 156,
+              "expanded_url": "https://x.com/y0zarashi/status/1978501625267245433/photo/1",
+              "media_key": "3_1978501622121824256",
+              "start": 133,
+              "url": "https://t.co/H9FbaxRHHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978501625267245433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4492,
+          "like_count": 6,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "门槛新增一条规矩就是加我之前，我通过之后我会找一些数学题你们必须做通关了才配跟我讲话，我是感觉就是没有接受过义务教育和系统性的学习，真的认知不同啊，不要强融 ，我说话，你说我讲的跟天书一样，你们说话就简单明了一个不知道那我们还是别相处了，我不是很喜欢弱智，有点厌蠢 https://t.co/H9FbaxRHHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 893,
+          "like_count": 717,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 1084
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。私信我前首先写一道数学题拍照给我，如果我会的话，方便我巩固知识，我帮你们系统性解释一下过程，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1978494921863524823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 2660
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

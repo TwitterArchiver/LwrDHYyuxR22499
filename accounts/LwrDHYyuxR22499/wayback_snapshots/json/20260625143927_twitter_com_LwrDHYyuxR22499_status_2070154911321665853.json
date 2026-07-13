@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2069777194826833994",
+    "created_at": "2026-06-25T14:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070154911321665853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782631239020662784",
+          "start": 0,
+          "username": "heishise1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070154911321665853",
+    "in_reply_to_user_id": "1782631239020662784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070151696005935372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heishise1984 无感想\n他应该拉着他的团队\n还有动用自己的社会媒体资源\n拉来更多健身大v出一期反对这类学校的视频"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2069777194826833994",
+        "created_at": "2026-06-25T14:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070154911321665853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782631239020662784",
+              "start": 0,
+              "username": "heishise1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070154911321665853",
+        "in_reply_to_user_id": "1782631239020662784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070151696005935372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heishise1984 无感想\n他应该拉着他的团队\n还有动用自己的社会媒体资源\n拉来更多健身大v出一期反对这类学校的视频"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782631239020662784",
+        "conversation_id": "2069777194826833994",
+        "created_at": "2026-06-25T14:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070151696005935372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070151696005935372",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069777194826833994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 他今天发了视频回应，如何评价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6015,
+          "following_count": 3261,
+          "like_count": 3513,
+          "listed_count": 19,
+          "media_count": 472,
+          "tweet_count": 3166
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T04:43:08.000Z",
+        "description": "你好！这里是结型场半导体，她从冥河中归来，徜徉在废墟和残骸的狭间中，死寂的一切将重新被注入生机与活力。｜我一旦开始转推，就说明本回合的发言力条用尽了。｜",
+        "id": "1782631239020662784",
+        "location": "冥河",
+        "name": "IGFET Second",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786767615295467520/dyRQq-FZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 139,
+          "like_count": 2389,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1368
+        },
+        "url": "",
+        "username": "heishise1984",
+        "verified": false
+      }
+    ]
+  }
+}

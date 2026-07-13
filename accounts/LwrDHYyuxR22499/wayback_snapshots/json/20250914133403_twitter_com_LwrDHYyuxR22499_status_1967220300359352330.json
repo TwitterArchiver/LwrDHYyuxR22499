@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1966522292239847554",
+    "created_at": "2025-09-14T13:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967220300359352330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617138994227339265",
+          "start": 0,
+          "username": "cathy213924"
+        },
+        {
+          "end": 24,
+          "id": "1904873292366036992",
+          "start": 13,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967220300359352330",
+    "in_reply_to_user_id": "1617138994227339265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966652076420677918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cathy213924 @Chiyuyu520 🤓这畜还说我诈骗寒涟漪呢要不你自己去问问好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1966522292239847554",
+        "created_at": "2025-09-14T13:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967220300359352330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "cathy213924"
+            },
+            {
+              "end": 24,
+              "id": "1904873292366036992",
+              "start": 13,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967220300359352330",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966652076420677918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cathy213924 @Chiyuyu520 🤓这畜还说我诈骗寒涟漪呢要不你自己去问问好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "conversation_id": "1966522292239847554",
+        "created_at": "2025-09-12T23:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T00:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966652076420677918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966652076420677918",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966522292239847554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 可是Valeria说亚明和清蒸有关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 685,
+          "like_count": 625,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 884
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | asexual🖤🩶🤍💜 | transfeminist | social liberalism | hate imperialism & totalitarianism | HRT 2023.12.11 | Free Palestine 🇵🇸",
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1927290401569771532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 1105,
+          "like_count": 8091,
+          "listed_count": 9,
+          "media_count": 864,
+          "tweet_count": 4943
+        },
+        "username": "cathy213924",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | Lover ❤️ @HydrogenNeko | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HydrogenNeko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 1293,
+          "like_count": 5320,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

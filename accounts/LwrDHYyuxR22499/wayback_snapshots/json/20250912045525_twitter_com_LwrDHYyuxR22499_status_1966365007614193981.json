@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1966101009945842061",
+    "created_at": "2025-09-12T04:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T05:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966365007614193981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863590811364950016",
+          "start": 0,
+          "username": "XueJ071223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966365007614193981",
+    "in_reply_to_user_id": "1863590811364950016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966223846836679174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XueJ071223 依我搞暴力的经验来看这个地方搞不了暴力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1966101009945842061",
+        "created_at": "2025-09-12T04:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966365007614193981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863590811364950016",
+              "start": 0,
+              "username": "XueJ071223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966365007614193981",
+        "in_reply_to_user_id": "1863590811364950016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966223846836679174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XueJ071223 依我搞暴力的经验来看这个地方搞不了暴力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863590811364950016",
+        "conversation_id": "1966101009945842061",
+        "created_at": "2025-09-11T19:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966223846836679174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966223846836679174",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966101524184264793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 正规方法行不通就暴力结局，直接在白天自由活动的时候让孩子翻墙或者直接从大门闯出来然后接应的人开车直接救走，最好摩托车不容易堵车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 652,
+          "like_count": 622,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 881
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T14:27:37.000Z",
+        "description": "/175/65kg(大肥猪减肥中）/好友位18r(聊天，自录涩图/视频，永劫/暗区PC/go陪玩），极度缺钱请求好心人愿意投喂(摇碗)",
+        "id": "1863590811364950016",
+        "location": "重庆",
+        "name": "雪が降った",
+        "pinned_tweet_id": "1962256637177315523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920520911507124224/uYdJ8ots_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 59,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 254
+        },
+        "username": "XueJ071223",
+        "verified": false
+      }
+    ]
+  }
+}

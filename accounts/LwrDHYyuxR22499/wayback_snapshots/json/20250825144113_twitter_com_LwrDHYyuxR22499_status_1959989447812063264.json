@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1959989425242550272"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1959989447812063264",
+    "created_at": "2025-08-25T14:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959989447812063264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yWVVvfyma",
+          "end": 23,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1959989447812063264/video/1",
+          "media_key": "7_1959989425242550272",
+          "start": 0,
+          "url": "https://t.co/4yWVVvfyma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959989447812063264",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4yWVVvfyma"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13769,
+        "height": 720,
+        "media_key": "7_1959989425242550272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959989425242550272/pu/img/2ezsEC9i6VLi_pZr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959989425242550272/pu/vid/avc1/296x270/HsksnGKyBQl_lBNs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959989425242550272/pu/vid/avc1/396x360/krbBEkWQjmlU2_9O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959989425242550272/pu/vid/avc1/794x720/mvGb3G0YLRTSEr_q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959989425242550272/pu/pl/-JlGGd7ej-8ZfV-i.m3u8?tag=12"
+          }
+        ],
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959989425242550272"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1959989447812063264",
+        "created_at": "2025-08-25T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959989447812063264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yWVVvfyma",
+              "end": 23,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1959989447812063264/video/1",
+              "media_key": "7_1959989425242550272",
+              "start": 0,
+              "url": "https://t.co/4yWVVvfyma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959989447812063264",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4yWVVvfyma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 529,
+          "like_count": 509,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 727
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

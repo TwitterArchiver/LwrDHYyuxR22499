@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1984764813357330787",
+    "created_at": "2025-11-01T23:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T00:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984764813357330787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXL_888/status…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/DXL_888/status/1984763437289984343",
+          "start": 93,
+          "url": "https://t.co/dibrRIrDTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984764813357330787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984763437289984343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那指定牛批的当时他要来线下帮忙救人我听到他对象要靠着卖淫凑学费心生怜悯\n于是我问他亲密包养他多少钱\n如果把人救出来的话我答应帮他缴学费\n到他嘴里就成了我要花钱包养他老婆了自绿倾向这一块 https://t.co/dibrRIrDTd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1984764813357330787",
+        "created_at": "2025-11-01T23:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984764813357330787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXL_888/status…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/DXL_888/status/1984763437289984343",
+              "start": 93,
+              "url": "https://t.co/dibrRIrDTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984764813357330787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984763437289984343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那指定牛批的当时他要来线下帮忙救人我听到他对象要靠着卖淫凑学费心生怜悯\n于是我问他亲密包养他多少钱\n如果把人救出来的话我答应帮他缴学费\n到他嘴里就成了我要花钱包养他老婆了自绿倾向这一块 https://t.co/dibrRIrDTd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314984881479680",
+        "conversation_id": "1984762326889959454",
+        "created_at": "2025-11-01T23:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984763437289984343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984763437289984343",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984762326889959454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 噢牛批还有仙人跳的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 988,
+          "like_count": 794,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1414
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T02:50:15.000Z",
+        "description": "你看那通天的几把，每时每刻都在设。我小时候不懂，以为那是雪花。｜乳化男娘，非常抽象，现居承德，头像是本人｜月抛请联系👉@notThujaS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "notThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1945314984881479680",
+        "name": "🍥乌老师不是污老师🏳️‍⚧️",
+        "pinned_tweet_id": "1982950018735849738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980850696745369600/fABSABe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 73,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 648
+        },
+        "username": "DXL_888",
+        "verified": false
+      }
+    ]
+  }
+}

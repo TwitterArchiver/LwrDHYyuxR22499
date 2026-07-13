@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2071866071314051125",
+    "created_at": "2026-06-30T07:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071866071314051125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/redraft2000/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/redraft2000/status/2071194927854502132",
+          "start": 28,
+          "url": "https://t.co/lkY4gk7qLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071866071314051125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071194927854502132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“我将带她进入全新的生活”\n😹😹😹😹\n去哪改造我不好说 https://t.co/lkY4gk7qLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071194918748598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5czhCasAAbd1Z.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071194919201599488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5cziua8AAs1c7.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071194919201599489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5cziua8AEtZGJ.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071866071314051125",
+        "created_at": "2026-06-30T07:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071866071314051125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redraft2000/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/redraft2000/status/2071194927854502132",
+              "start": 28,
+              "url": "https://t.co/lkY4gk7qLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071866071314051125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071194927854502132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我将带她进入全新的生活”\n😹😹😹😹\n去哪改造我不好说 https://t.co/lkY4gk7qLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071194918748598272",
+            "3_2071194919201599488",
+            "3_2071194919201599489"
+          ]
+        },
+        "author_id": "1953528457339834368",
+        "conversation_id": "2071194927854502132",
+        "created_at": "2026-06-28T11:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071194927854502132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKh0PtdRgA",
+              "end": 91,
+              "expanded_url": "https://x.com/redraft2000/status/2071194927854502132/photo/1",
+              "media_key": "3_2071194918748598272",
+              "start": 68,
+              "url": "https://t.co/JKh0PtdRgA"
+            },
+            {
+              "display_url": "pic.x.com/JKh0PtdRgA",
+              "end": 91,
+              "expanded_url": "https://x.com/redraft2000/status/2071194927854502132/photo/1",
+              "media_key": "3_2071194919201599488",
+              "start": 68,
+              "url": "https://t.co/JKh0PtdRgA"
+            },
+            {
+              "display_url": "pic.x.com/JKh0PtdRgA",
+              "end": 91,
+              "expanded_url": "https://x.com/redraft2000/status/2071194927854502132/photo/1",
+              "media_key": "3_2071194919201599489",
+              "start": 68,
+              "url": "https://t.co/JKh0PtdRgA"
+            },
+            {
+              "display_url": "x.com/Seven_Eraya/st…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/Seven_Eraya/status/2070137952739774894",
+              "start": 92,
+              "url": "https://t.co/ENWIfrg93K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071194927854502132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2852,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070137952739774894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Eraya目前被父亲控制了，我不知道她现在在哪，在遭受什么对待\n另外很遗憾，我原以为能和她爹一起帮助Eraya，但是他执意把我当成敌人 https://t.co/JKh0PtdRgA https://t.co/ENWIfrg93K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6169,
+          "following_count": 3293,
+          "like_count": 3590,
+          "listed_count": 19,
+          "media_count": 478,
+          "tweet_count": 3218
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 122,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2363
+        },
+        "url": "",
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

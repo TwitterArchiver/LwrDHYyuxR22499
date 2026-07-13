@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2006969178289512548",
+    "created_at": "2026-01-02T06:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T07:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006975698607718618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "AkonBritain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006975698607718618",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006974699822264797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkonBritain 那得是一年前的事了\n造谣造到今天\n又说我诈骗了寒涟漪还有所有人的钱\n又说我把别人老婆上了\n在我们差点被地方警察“被精神病”的时候\n造谣亚明有精神病不算完全民事行为能力人\n导致差点被迫害进去😁\n最近开始否认自己说过的话了\n说我用脏话骂他是性骚扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2006969178289512548",
+        "created_at": "2026-01-02T06:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006975698607718618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "AkonBritain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006975698607718618",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006974699822264797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkonBritain 那得是一年前的事了\n造谣造到今天\n又说我诈骗了寒涟漪还有所有人的钱\n又说我把别人老婆上了\n在我们差点被地方警察“被精神病”的时候\n造谣亚明有精神病不算完全民事行为能力人\n导致差点被迫害进去😁\n最近开始否认自己说过的话了\n说我用脏话骂他是性骚扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2006969178289512548",
+        "created_at": "2026-01-02T06:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006974699822264797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006974699822264797",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006969178289512548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 啊，没想到你会碰到那个白痴支黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005180892084670464/QfyIcsbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1473,
+          "like_count": 1241,
+          "listed_count": 9,
+          "media_count": 300,
+          "tweet_count": 1774
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurélia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919148943982592/yNkKa2ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 91,
+          "like_count": 120874,
+          "listed_count": 3,
+          "media_count": 4922,
+          "tweet_count": 67712
+        },
+        "username": "AkonBritain",
+        "verified": false
+      }
+    ]
+  }
+}

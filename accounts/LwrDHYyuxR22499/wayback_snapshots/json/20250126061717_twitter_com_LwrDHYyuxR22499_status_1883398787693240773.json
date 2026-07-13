@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883398360515911741",
+    "created_at": "2025-01-26T06:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T07:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883398787693240773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1313383273079345152",
+          "start": 20,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883398787693240773",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883398360515911741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "随时欢迎跨圈皇帝检查你也在上海他也在上海@ValeriaEulabeia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883398360515911741",
+        "created_at": "2025-01-26T06:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T07:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883398787693240773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1313383273079345152",
+              "start": 20,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883398787693240773",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883398360515911741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "随时欢迎跨圈皇帝检查你也在上海他也在上海@ValeriaEulabeia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883398356472651776",
+            "3_1883398356502011904",
+            "3_1883398356774625280",
+            "3_1883398356963409920"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883398360515911741",
+        "created_at": "2025-01-26T06:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T07:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883398360515911741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4AGMiZ75N",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883398360515911741/photo/1",
+              "media_key": "3_1883398356472651776",
+              "start": 145,
+              "url": "https://t.co/i4AGMiZ75N"
+            },
+            {
+              "display_url": "pic.x.com/i4AGMiZ75N",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883398360515911741/photo/1",
+              "media_key": "3_1883398356502011904",
+              "start": 145,
+              "url": "https://t.co/i4AGMiZ75N"
+            },
+            {
+              "display_url": "pic.x.com/i4AGMiZ75N",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883398360515911741/photo/1",
+              "media_key": "3_1883398356774625280",
+              "start": 145,
+              "url": "https://t.co/i4AGMiZ75N"
+            },
+            {
+              "display_url": "pic.x.com/i4AGMiZ75N",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883398360515911741/photo/1",
+              "media_key": "3_1883398356963409920",
+              "start": 145,
+              "url": "https://t.co/i4AGMiZ75N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883398360515911741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你个啥逼看看😅这是我从2022年就开始帮的一个无家可归没药吃的胯子人也在上海在我的帮助下目前回归了正常生活\n他十二岁就被家里人赶出来卖补贴家用最后的没办法了\n联系的我这两年来她的吃喝住行医药开销都是我来做\n直到2024年他找到工作了有房子住了我才让他给我打了个欠条\n一个月就让他还我一千 https://t.co/i4AGMiZ75N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 148,
+          "like_count": 88,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 211
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h08.nyc01.xyz/register?code=…",
+                "end": 23,
+                "expanded_url": "https://h08.nyc01.xyz/register?code=zhmt40ur",
+                "start": 0,
+                "url": "https://t.co/PiOdmK3mEs"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1874103313274462335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 3050,
+          "like_count": 118466,
+          "listed_count": 15,
+          "media_count": 1921,
+          "tweet_count": 18085
+        },
+        "url": "https://t.co/PiOdmK3mEs",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

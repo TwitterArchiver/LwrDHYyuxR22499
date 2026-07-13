@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1981698137346670853",
+    "created_at": "2025-10-24T12:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T13:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981698137346670853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981692997503996181",
+          "start": 91,
+          "url": "https://t.co/WawPwjg1fQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981698137346670853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981692997503996181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣🤣🤣🤣我可真草你母了\n我不认识你说的人都能意淫一下\n谁都像你一样每天蛆在阴沟里等着造谣人格毁灭别人\n我现在跟你说一个贪污受贿拿青少年创收的官僚的名字\n你叫不上名字你就是纯纯的贱畜 https://t.co/WawPwjg1fQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1968,
+        "media_key": "3_1981692977429835776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BjQ3WXcAAvz0T.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1981698137346670853",
+        "created_at": "2025-10-24T12:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981698137346670853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1981692997503996181",
+              "start": 91,
+              "url": "https://t.co/WawPwjg1fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981698137346670853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981692997503996181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣🤣我可真草你母了\n我不认识你说的人都能意淫一下\n谁都像你一样每天蛆在阴沟里等着造谣人格毁灭别人\n我现在跟你说一个贪污受贿拿青少年创收的官僚的名字\n你叫不上名字你就是纯纯的贱畜 https://t.co/WawPwjg1fQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981692977429835776"
+          ]
+        },
+        "author_id": "1917988927409143812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1981692997503996181",
+        "created_at": "2025-10-24T12:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981692997503996181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uQQjJQu3F",
+              "end": 164,
+              "expanded_url": "https://x.com/OverSpeed_Wiki2/status/1981692997503996181/photo/1",
+              "media_key": "3_1981692977429835776",
+              "start": 141,
+              "url": "https://t.co/0uQQjJQu3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981692997503996181",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 \n还有这种货色的\n\n看来鉴黑皮鉴钓鱼，你都不用骂习近平，你骂赖清德就行\n他们连赖清德的名讳都不敢提\n\n赖大统领最权威的一次✋😭✋\n赖统领的恩情与功德一辈子都还不完✋😭✋\n我们其他民族杂质最感谢赖统领的一次✋😭✋\n\n赖主席万寿无疆，习主席永远健康！ https://t.co/0uQQjJQu3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 949,
+          "like_count": 763,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 1308
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 186,
+          "like_count": 9512,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2162
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

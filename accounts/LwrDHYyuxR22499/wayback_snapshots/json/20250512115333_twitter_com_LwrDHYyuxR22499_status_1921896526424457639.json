@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1921776705686921229",
+    "created_at": "2025-05-12T11:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T12:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921896526424457639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878681729407356928",
+          "start": 0,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921896526424457639",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921776705686921229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYuusui1999 一眼死不掉缺爱了\n找人关心一下他的心理😗\n去操个逼立马不想死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1921776705686921229",
+        "created_at": "2025-05-12T11:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921896526424457639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921896526424457639",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921776705686921229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 一眼死不掉缺爱了\n找人关心一下他的心理😗\n去操个逼立马不想死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921776705686921229",
+        "created_at": "2025-05-12T03:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T04:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921776705686921229"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lcg_akiball/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/lcg_akiball/status/1921760139637317815",
+              "start": 7,
+              "url": "https://t.co/1ZoMG0tNcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921776705686921229",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921760139637317815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 https://t.co/1ZoMG0tNcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1921219721162068086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 308,
+          "like_count": 279,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 438
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 919,
+          "like_count": 18371,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 3993
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

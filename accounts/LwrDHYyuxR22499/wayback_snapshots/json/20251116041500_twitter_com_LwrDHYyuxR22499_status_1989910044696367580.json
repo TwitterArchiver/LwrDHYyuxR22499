@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989910044696367580",
+    "created_at": "2025-11-16T04:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989910044696367580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1989908422868033869",
+          "start": 46,
+          "url": "https://t.co/ljBrHAXfKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989910044696367580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989908422868033869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "各位要不盲猜一下这个主动请求扭转机构在本地驻扎拿青少年生命创收的\n贱人政府是哪里的😁😁😁😁 https://t.co/ljBrHAXfKE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989910044696367580",
+        "created_at": "2025-11-16T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989910044696367580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1989908422868033869",
+              "start": 46,
+              "url": "https://t.co/ljBrHAXfKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989910044696367580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989908422868033869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位要不盲猜一下这个主动请求扭转机构在本地驻扎拿青少年生命创收的\n贱人政府是哪里的😁😁😁😁 https://t.co/ljBrHAXfKE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989908422868033869",
+        "created_at": "2025-11-16T04:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989908422868033869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989908422868033869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冒充警察爆点还是太少了\n下一次议题以及证据可以是?\n政府有组织有预谟的针对家长和儿童的远洋捕捞和诈骗产业\n拿青少年生命创收发展经济\n并为黑恶势力提供保护伞\n这个议题如何呢?\n我手里的证据其实已经很充分了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1040,
+          "like_count": 842,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 1400
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

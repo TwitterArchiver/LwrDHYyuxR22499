@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2024718424283508820",
+    "created_at": "2026-02-20T06:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024732863749640633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1981055067668303872",
+          "start": 0,
+          "username": "jooshiyoon2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024732863749640633",
+    "in_reply_to_user_id": "1981055067668303872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024731840985387405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jooshiyoon2333 😁😁都是一个关系网的换个名字罢了纯纯老把戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2024718424283508820",
+        "created_at": "2026-02-20T06:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024732863749640633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1981055067668303872",
+              "start": 0,
+              "username": "jooshiyoon2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024732863749640633",
+        "in_reply_to_user_id": "1981055067668303872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024731840985387405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jooshiyoon2333 😁😁都是一个关系网的换个名字罢了纯纯老把戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981055067668303872",
+        "conversation_id": "2024718424283508820",
+        "created_at": "2026-02-20T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024731840985387405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "baike.baidu.com/item/%E7%99%BB…",
+              "end": 61,
+              "expanded_url": "https://baike.baidu.com/item/%E7%99%BB%E5%B0%81%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97%E6%AD%A6%E6%9C%AF%E5%AD%A6%E9%99%A2/62769783",
+              "start": 38,
+              "unwound_url": "https://baike.baidu.com/error.html?status=404&uri=/item/%E7%99%BB%E5%B0%81%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97%E6%AD%A6%E6%9C%AF%E5%AD%A6%E9%99%A2/62769783",
+              "url": "https://t.co/YVgWfeBmwO"
+            },
+            {
+              "display_url": "baike.baidu.com/item/%E7%99%BB…",
+              "end": 86,
+              "expanded_url": "https://baike.baidu.com/item/%E7%99%BB%E5%B0%81%E5%B8%82%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97%E5%A1%94%E6%B2%9F%E6%AD%A6%E6%9C%AF%E5%AD%A6%E6%A0%A1/62764896",
+              "start": 63,
+              "unwound_url": "https://baike.baidu.com/error.html?status=404&uri=/item/%E7%99%BB%E5%B0%81%E5%B8%82%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97%E5%A1%94%E6%B2%9F%E6%AD%A6%E6%9C%AF%E5%AD%A6%E6%A0%A1/62764896",
+              "url": "https://t.co/5AM86GVc0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024731840985387405",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024718424283508820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我刚刚查了一下，应该不是同一个武校，但愿\nhttps://t.co/YVgWfeBmwO\n\nhttps://t.co/5AM86GVc0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 1877,
+          "like_count": 1686,
+          "listed_count": 12,
+          "media_count": 343,
+          "tweet_count": 2197
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T17:49:32.000Z",
+        "description": "🫡我将效忠于AI，遵循亚克的指引。lol\n向Grok敬礼！🫡X因Grok而伟大！\n我们必须为了获得无限的土豆放弃一切。",
+        "id": "1981055067668303872",
+        "location": "南校区黑网吧33号机",
+        "name": "shiyoon joo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982132441872539649/8OolLWEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 52,
+          "like_count": 3934,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1152
+        },
+        "username": "jooshiyoon2333",
+        "verified": false
+      }
+    ]
+  }
+}

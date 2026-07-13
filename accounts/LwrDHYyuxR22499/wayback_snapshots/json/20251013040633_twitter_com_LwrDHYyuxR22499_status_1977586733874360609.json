@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-13T04:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977586733874360609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150394879605784576",
+          "start": 0,
+          "username": "didadida_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977586733874360609",
+    "in_reply_to_user_id": "1150394879605784576",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977549405051117865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didadida_qwq ʕ ᵔᴥᵔ ʔ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_1977549398923177984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Gqs2iacAA_myU.jpg",
+        "width": 238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T04:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977586733874360609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150394879605784576",
+              "start": 0,
+              "username": "didadida_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977586733874360609",
+        "in_reply_to_user_id": "1150394879605784576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977549405051117865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didadida_qwq ʕ ᵔᴥᵔ ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977549398923177984"
+          ]
+        },
+        "author_id": "1150394879605784576",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-13T01:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977549405051117865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBtrsXYQPg",
+              "end": 45,
+              "expanded_url": "https://x.com/didadida_qwq/status/1977549405051117865/photo/1",
+              "media_key": "3_1977549398923177984",
+              "start": 22,
+              "url": "https://t.co/PBtrsXYQPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977549405051117865",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐 https://t.co/PBtrsXYQPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 882,
+          "like_count": 701,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1043
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T13:21:27.000Z",
+        "description": "身高5'7\" 体重119磅的男娘 🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈11月8日是我的生日，我希望在这天得到你的生日祝福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/E8dVKzJ",
+                "end": 23,
+                "expanded_url": "https://b23.tv/E8dVKzJ",
+                "start": 0,
+                "url": "https://t.co/KkDdpFjj7N"
+              }
+            ]
+          }
+        },
+        "id": "1150394879605784576",
+        "location": "香港",
+        "name": "滴答",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970822907178975232/pz3k7qyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150,
+          "following_count": 1490,
+          "like_count": 27353,
+          "listed_count": 8,
+          "media_count": 947,
+          "tweet_count": 13935
+        },
+        "url": "https://t.co/KkDdpFjj7N",
+        "username": "didadida_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

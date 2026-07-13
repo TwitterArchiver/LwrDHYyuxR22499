@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021834298287174137",
+    "created_at": "2026-02-12T08:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T09:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021866747293495506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1407003323387977728",
+          "start": 0,
+          "username": "SoftLanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021866747293495506",
+    "in_reply_to_user_id": "1407003323387977728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021866473896259700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoftLanChan 他没发全就发了一个片段全程得有五六分钟呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021834298287174137",
+        "created_at": "2026-02-12T08:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021866747293495506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1407003323387977728",
+              "start": 0,
+              "username": "SoftLanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021866747293495506",
+        "in_reply_to_user_id": "1407003323387977728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021866473896259700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoftLanChan 他没发全就发了一个片段全程得有五六分钟呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407003323387977728",
+        "conversation_id": "2021834298287174137",
+        "created_at": "2026-02-12T08:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021866473896259700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021866473896259700",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021834298287174137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我没看清是怎么把车门用拳头干开的好可惜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 1804,
+          "like_count": 1552,
+          "listed_count": 12,
+          "media_count": 331,
+          "tweet_count": 2118
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T15:51:58.000Z",
+        "description": "某个被传言已经死掉的MTF\n从头开始吧，至少没人记得我\nFor Managed Democracy！",
+        "id": "1407003323387977728",
+        "location": "宛平南路600",
+        "name": "YumeLan🏳️‍⚧️🇺🇦Super Earth",
+        "pinned_tweet_id": "2019493225409703961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011315765878898688/_EZGaB5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3012,
+          "following_count": 271,
+          "like_count": 14412,
+          "listed_count": 10,
+          "media_count": 32,
+          "tweet_count": 596
+        },
+        "username": "SoftLanChan",
+        "verified": false
+      }
+    ]
+  }
+}

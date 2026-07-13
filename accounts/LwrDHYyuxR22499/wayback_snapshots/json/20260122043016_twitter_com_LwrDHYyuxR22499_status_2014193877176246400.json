@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013635176920744045",
+    "created_at": "2026-01-22T04:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014193877176246400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807127113444859904",
+          "start": 0,
+          "username": "3782315694Xiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014193877176246400",
+    "in_reply_to_user_id": "1807127113444859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014120184437776523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3782315694Xiang 你被抓了三次😢天啊宝宝\n不过话说你都三进宫了没混上助教吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-22T04:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014193877176246400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807127113444859904",
+              "start": 0,
+              "username": "3782315694Xiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014193877176246400",
+        "in_reply_to_user_id": "1807127113444859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014120184437776523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3782315694Xiang 你被抓了三次😢天啊宝宝\n不过话说你都三进宫了没混上助教吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807127113444859904",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-21T23:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T00:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014120184437776523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014120184437776523",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013635176920744045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 被抓了三次我直接被整成PTSD，在里面只要吃了对身体有害的东西直接就吃，现在没事就做噩梦，被抓，被关，被打，可以说，我身上大部分衣物都塞着刀片，以防万一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 1639,
+          "like_count": 1398,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 1947
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:01:04.000Z",
+        "description": "联系方式qq3997247387，聊天群897084565",
+        "id": "1807127113444859904",
+        "name": "怀愚痴卖五倍雌二醇凝胶🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007043403515936768/FIQsBpfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 88,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 65
+        },
+        "username": "3782315694Xiang",
+        "verified": false
+      }
+    ]
+  }
+}

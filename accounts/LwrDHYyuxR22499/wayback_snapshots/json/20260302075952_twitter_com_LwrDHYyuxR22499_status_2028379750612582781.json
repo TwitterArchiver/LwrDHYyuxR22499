@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2028379750612582781",
+    "created_at": "2026-03-02T07:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028379750612582781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028379750612582781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😾 总是为了少数人向利益既得者与腐败的官僚体系亮剑\n每一个生命都理应被看见被尊重，\n而绝非在扭转机构的迫害与恐惧的摧残下，逐渐腐臭凋零🥀\n即使注定绝大部分人无法理解我们做的事情\n即使在我们被打倒在地关进看守所时\n外界是嘲笑是鄙夷或是认定我们注定失败\n但无所谓\n我总是会站起来，继续冲锋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2028379750612582781",
+        "created_at": "2026-03-02T07:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028379750612582781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028379750612582781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😾 总是为了少数人向利益既得者与腐败的官僚体系亮剑\n每一个生命都理应被看见被尊重，\n而绝非在扭转机构的迫害与恐惧的摧残下，逐渐腐臭凋零🥀\n即使注定绝大部分人无法理解我们做的事情\n即使在我们被打倒在地关进看守所时\n外界是嘲笑是鄙夷或是认定我们注定失败\n但无所谓\n我总是会站起来，继续冲锋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3371,
+          "following_count": 1928,
+          "like_count": 1808,
+          "listed_count": 12,
+          "media_count": 344,
+          "tweet_count": 2253
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

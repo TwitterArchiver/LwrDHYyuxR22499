@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1918890223670341892",
+    "created_at": "2025-05-04T04:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T05:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918890223670341892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nuominiang7588…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/Nuominiang75884/status/1918761811853144459",
+          "start": 138,
+          "url": "https://t.co/3HGTkpALIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918890223670341892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918761811853144459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "五万人投票的这个数据从何而来呢\n除非公开这个投票渠道以及投票的具体数据\n至少我并没有在任何网站查到这个\n投票平台\n否则我只能认为这个投票事一纸空谈\n这是有失公平却不能让人信服的\n我不能因为讨厌的人在上面就认可这个数据\n假设我名字换成中国救助人员贡献榜单上面第一名我也不会认可 https://t.co/3HGTkpALIp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1918761782312943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqDPrMtbwAAg1x6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1918890223670341892",
+        "created_at": "2025-05-04T04:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T05:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918890223670341892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nuominiang7588…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Nuominiang75884/status/1918761811853144459",
+              "start": 138,
+              "url": "https://t.co/3HGTkpALIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918890223670341892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918761811853144459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五万人投票的这个数据从何而来呢\n除非公开这个投票渠道以及投票的具体数据\n至少我并没有在任何网站查到这个\n投票平台\n否则我只能认为这个投票事一纸空谈\n这是有失公平却不能让人信服的\n我不能因为讨厌的人在上面就认可这个数据\n假设我名字换成中国救助人员贡献榜单上面第一名我也不会认可 https://t.co/3HGTkpALIp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918761782312943616"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "1918761811853144459",
+        "created_at": "2025-05-03T20:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T21:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918761811853144459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/420D6AVrKY",
+              "end": 43,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1918761811853144459/photo/1",
+              "media_key": "3_1918761782312943616",
+              "start": 20,
+              "url": "https://t.co/420D6AVrKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918761811853144459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3286,
+          "like_count": 35,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024年跨圈救助圈抽象人物大榜，补档 https://t.co/420D6AVrKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 286,
+          "like_count": 221,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 382
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "向光而行，直到燃尽自己\n🏳️‍⚧️/INFP-T /道教徒/国际主义/摄影/❤️亲人@Kietter387803/ 最好的冰柚姐姐\n@Im_Grapefruit27/\n\n如果有紧急情况请加我微信：A1146B9732\n（想开我盒的别试了我微信没绑过手机号和银行卡）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "Im_Grapefruit27"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1910543901401796708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3248,
+          "following_count": 1072,
+          "like_count": 13144,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 2086
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

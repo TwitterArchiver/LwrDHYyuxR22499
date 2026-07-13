@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883346482725896192"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883346486286860507",
+    "created_at": "2025-01-26T02:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T03:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883346486286860507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BXUiLdZqnB",
+          "end": 168,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883346486286860507/photo/1",
+          "media_key": "3_1883346482725896192",
+          "start": 145,
+          "url": "https://t.co/BXUiLdZqnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883346486286860507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这种还要教别人怎么定位的人又鉴跨又鉴顺\n先定定自己的位置\n你是跨性别吗\n这么重的爹味\n张恩旭是被我们救出来之后发的推特\n也就是说她的涨粉以及我们遭受的迫害均是因为我们要救更多弱势群体\n😅😅😅😅\n啥逼玩意家里人被威胁被恐吓被盘问虐待我这都有我奶奶的录音的\n你要是能做到这种事张恩旭才懒得火 https://t.co/BXUiLdZqnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883346482725896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiL9pcvbwAAs-D8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883346482725896192"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883346486286860507",
+        "created_at": "2025-01-26T02:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T03:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883346486286860507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXUiLdZqnB",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883346486286860507/photo/1",
+              "media_key": "3_1883346482725896192",
+              "start": 145,
+              "url": "https://t.co/BXUiLdZqnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883346486286860507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这种还要教别人怎么定位的人又鉴跨又鉴顺\n先定定自己的位置\n你是跨性别吗\n这么重的爹味\n张恩旭是被我们救出来之后发的推特\n也就是说她的涨粉以及我们遭受的迫害均是因为我们要救更多弱势群体\n😅😅😅😅\n啥逼玩意家里人被威胁被恐吓被盘问虐待我这都有我奶奶的录音的\n你要是能做到这种事张恩旭才懒得火 https://t.co/BXUiLdZqnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 147,
+          "like_count": 87,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 204
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

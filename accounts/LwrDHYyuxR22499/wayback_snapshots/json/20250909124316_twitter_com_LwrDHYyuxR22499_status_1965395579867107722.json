@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1965361481291350364",
+    "created_at": "2025-09-09T12:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965395579867107722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928710897989730304",
+          "start": 0,
+          "username": "wang101jack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965395579867107722",
+    "in_reply_to_user_id": "1928710897989730304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965391568191537391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang101jack 🤔他觉得我是个喜欢挥刀向更弱者的懦夫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1965361481291350364",
+        "created_at": "2025-09-09T12:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965395579867107722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928710897989730304",
+              "start": 0,
+              "username": "wang101jack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965395579867107722",
+        "in_reply_to_user_id": "1928710897989730304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965391568191537391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang101jack 🤔他觉得我是个喜欢挥刀向更弱者的懦夫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928710897989730304",
+        "conversation_id": "1965361481291350364",
+        "created_at": "2025-09-09T12:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965391568191537391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965391568191537391",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965361481291350364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 他为什么要来找你？就很迷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 601,
+          "like_count": 602,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 853
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T07:11:38.000Z",
+        "description": "今天明天后天，祝你开心",
+        "id": "1928710897989730304",
+        "location": "哥布林洞窟最深处",
+        "name": "墨逸🪿🪿🪿",
+        "pinned_tweet_id": "1963115992579506262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959900398686535680/-Mr-Ebw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 392,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 544
+        },
+        "username": "wang101jack",
+        "verified": false
+      }
+    ]
+  }
+}

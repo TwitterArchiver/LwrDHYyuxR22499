@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883913563582222336"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883913567583543479",
+    "created_at": "2025-01-27T16:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T17:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883913567583543479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CTI0CscMLX",
+          "end": 170,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883913567583543479/photo/1",
+          "media_key": "3_1883913563582222336",
+          "start": 147,
+          "url": "https://t.co/CTI0CscMLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883913567583543479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我们的弱智ve又开始不经大脑思考就开始造谣了\n首先这句话除了小二\n还有春苗跟阿白两位\n我肯定他俩做的比小二还好就是说跨性别救助独此一家\n你是不是做梦也没想到春苗跟阿白也是两位跨性别?\n药娘皇帝又开始虚空意淫了\n哦对了我还得加一个Emma\n跟北燕东翼🤣\n这些都是不错的人\n其次寒庇护一所没关啊 https://t.co/CTI0CscMLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883913563582222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiUBZ5jb0AAWLEp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883913563582222336"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883913567583543479",
+        "created_at": "2025-01-27T16:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883913567583543479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTI0CscMLX",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1883913567583543479/photo/1",
+              "media_key": "3_1883913563582222336",
+              "start": 147,
+              "url": "https://t.co/CTI0CscMLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883913567583543479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我们的弱智ve又开始不经大脑思考就开始造谣了\n首先这句话除了小二\n还有春苗跟阿白两位\n我肯定他俩做的比小二还好就是说跨性别救助独此一家\n你是不是做梦也没想到春苗跟阿白也是两位跨性别?\n药娘皇帝又开始虚空意淫了\n哦对了我还得加一个Emma\n跟北燕东翼🤣\n这些都是不错的人\n其次寒庇护一所没关啊 https://t.co/CTI0CscMLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 151,
+          "like_count": 104,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 244
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013432510391427074"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2013432546886066184",
+    "created_at": "2026-01-20T02:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T03:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013432546886066184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CgmYqCPPO",
+          "end": 23,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013432546886066184/video/1",
+          "media_key": "7_2013432510391427074",
+          "start": 0,
+          "url": "https://t.co/7CgmYqCPPO"
+        },
+        {
+          "display_url": "x.com/yuanjieli10/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yuanjieli10/status/2013330687374262274",
+          "start": 24,
+          "url": "https://t.co/N9OKhWETJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013432546886066184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013330687374262274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/7CgmYqCPPO https://t.co/N9OKhWETJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21664,
+        "height": 480,
+        "media_key": "7_2013432510391427074",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013432510391427074/pu/img/2SDw-DQBiTx_NzL8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013432510391427074/pu/vid/avc1/480x270/-QecCA5jioFmvOPw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013432510391427074/pu/vid/avc1/642x360/V_VRhXYFITd553PA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013432510391427074/pu/vid/avc1/856x480/x7WHiBIo4cejVJJ3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013432510391427074/pu/pl/l4tjsgXijwQlFh8Z.m3u8?tag=12"
+          }
+        ],
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013432510391427074"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013432546886066184",
+        "created_at": "2026-01-20T02:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013432546886066184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CgmYqCPPO",
+              "end": 23,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013432546886066184/video/1",
+              "media_key": "7_2013432510391427074",
+              "start": 0,
+              "url": "https://t.co/7CgmYqCPPO"
+            },
+            {
+              "display_url": "x.com/yuanjieli10/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yuanjieli10/status/2013330687374262274",
+              "start": 24,
+              "url": "https://t.co/N9OKhWETJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013432546886066184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013330687374262274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7CgmYqCPPO https://t.co/N9OKhWETJi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582159381336039427",
+        "conversation_id": "2013259237565268115",
+        "created_at": "2026-01-19T19:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T20:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013330687374262274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013330687374262274",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013259237565268115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 并不是所有人都配称呼为人，你也一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 1626,
+          "like_count": 1365,
+          "listed_count": 9,
+          "media_count": 315,
+          "tweet_count": 1906
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T23:59:38.000Z",
+        "description": "",
+        "id": "1582159381336039427",
+        "name": "yuanjie li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582159434700161025/nMOMe6h3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 57,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 86
+        },
+        "username": "yuanjieli10",
+        "verified": false
+      }
+    ]
+  }
+}

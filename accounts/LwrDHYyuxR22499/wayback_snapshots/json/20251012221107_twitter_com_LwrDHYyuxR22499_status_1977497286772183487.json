@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1977424908595720195",
+    "created_at": "2025-10-12T22:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977497286772183487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778563028503642112",
+          "start": 0,
+          "username": "Asahi_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977497286772183487",
+    "in_reply_to_user_id": "1778563028503642112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977467266288791798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asahi_8964 🥳🥳🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T22:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977497286772183487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778563028503642112",
+              "start": 0,
+              "username": "Asahi_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977497286772183487",
+        "in_reply_to_user_id": "1778563028503642112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977467266288791798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asahi_8964 🥳🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778563028503642112",
+        "conversation_id": "1977424908595720195",
+        "created_at": "2025-10-12T20:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T21:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977467266288791798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977467266288791798",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977424908595720195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 生日快乐🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 876,
+          "like_count": 700,
+          "listed_count": 5,
+          "media_count": 226,
+          "tweet_count": 1017
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T23:17:42.000Z",
+        "description": "退步人/🍥HRT 2024.3.20/喜欢玩Minecraft\n/https://t.co/52XE0CBeut",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Asahi_233",
+                "end": 56,
+                "expanded_url": "https://www.youtube.com/@Asahi_233",
+                "start": 33,
+                "url": "https://t.co/52XE0CBeut"
+              }
+            ]
+          }
+        },
+        "id": "1778563028503642112",
+        "name": "Chocolate🍫",
+        "pinned_tweet_id": "1942940927485432071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946652194184282112/xuKfiGoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 1958,
+          "like_count": 14888,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1894
+        },
+        "username": "Asahi_8964",
+        "verified": false
+      }
+    ]
+  }
+}

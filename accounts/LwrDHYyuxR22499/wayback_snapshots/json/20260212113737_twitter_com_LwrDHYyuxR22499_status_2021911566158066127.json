@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2021911505130999809"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2021911566158066127",
+    "created_at": "2026-02-12T11:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021911566158066127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uh2Xzrf9U3",
+          "end": 35,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2021911566158066127/video/1",
+          "media_key": "7_2021911505130999809",
+          "start": 12,
+          "url": "https://t.co/Uh2Xzrf9U3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021911566158066127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞点好东西犒劳一下组员 https://t.co/Uh2Xzrf9U3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23189,
+        "height": 1280,
+        "media_key": "7_2021911505130999809",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021911505130999809/pu/img/_55ar0KanGnybW5K.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021911505130999809/pu/vid/avc1/320x568/P3FKTyT2ArkcCy4k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021911505130999809/pu/vid/avc1/480x852/G1Xtk06P5Lb7n6tr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021911505130999809/pu/vid/avc1/720x1280/fdE7ieXuv-hOaGgV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021911505130999809/pu/pl/U_Ibst9V3JaA5gj0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021911505130999809"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021911566158066127",
+        "created_at": "2026-02-12T11:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021911566158066127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uh2Xzrf9U3",
+              "end": 35,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2021911566158066127/video/1",
+              "media_key": "7_2021911505130999809",
+              "start": 12,
+              "url": "https://t.co/Uh2Xzrf9U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021911566158066127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞点好东西犒劳一下组员 https://t.co/Uh2Xzrf9U3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 1806,
+          "like_count": 1553,
+          "listed_count": 12,
+          "media_count": 332,
+          "tweet_count": 2124
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067924880637690187",
+    "created_at": "2026-06-19T11:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067937272885133755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067937272885133755",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067926068791828666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 哎呦喂😁😁这些畜生又把一个人逼走了\n你不是第一个这样的待遇我们可遭受过不止一次\n这些人没底线的造谣网暴一个比一个拿手\n让他们干点啥除了虚拟国没见有啥能耐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067926068791828666].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067926068791828666",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067926068791828666"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067924880637690187",
+        "created_at": "2026-06-19T11:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067937272885133755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067937272885133755",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067926068791828666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 哎呦喂😁😁这些畜生又把一个人逼走了\n你不是第一个这样的待遇我们可遭受过不止一次\n这些人没底线的造谣网暴一个比一个拿手\n让他们干点啥除了虚拟国没见有啥能耐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度亚洲新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5682,
+          "following_count": 3173,
+          "like_count": 3290,
+          "listed_count": 18,
+          "media_count": 463,
+          "tweet_count": 3039
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 本名杜澄溪 💕平时会发各种各样的日常～高P 没有任何盈利内容 所以不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2067555748838822312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25681,
+          "following_count": 1271,
+          "like_count": 3198,
+          "listed_count": 79,
+          "media_count": 449,
+          "tweet_count": 2758
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

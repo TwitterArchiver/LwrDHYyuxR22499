@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1886037447500542145",
+    "created_at": "2025-02-05T01:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T02:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886944826383589832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796015732125229056",
+          "start": 0,
+          "username": "Acetylene2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886944826383589832",
+    "in_reply_to_user_id": "1796015732125229056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886247557455917342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acetylene2004 🤣视频1不就是前情提要?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1886037447500542145",
+        "created_at": "2025-02-05T01:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T02:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886944826383589832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796015732125229056",
+              "start": 0,
+              "username": "Acetylene2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886944826383589832",
+        "in_reply_to_user_id": "1796015732125229056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886247557455917342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acetylene2004 🤣视频1不就是前情提要?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796015732125229056",
+        "conversation_id": "1886037447500542145",
+        "created_at": "2025-02-03T02:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T03:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886247557455917342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886247557455917342",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886037447500542145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 所以有没有前情提要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 159,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 257
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T03:08:20.000Z",
+        "description": "+86 177-1730-5362\n上海市闵行区莘庄镇西环一村20号602",
+        "id": "1796015732125229056",
+        "name": "庞惟友",
+        "pinned_tweet_id": "1831951353272529006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851869873233915904/ZcXgp7g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 82,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 236
+        },
+        "username": "Acetylene2004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1919283166759596533",
+    "created_at": "2025-05-05T06:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T07:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919283166759596533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919283166759596533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ve前脚说别人造谣又在暗示别人狼狈为奸了😋\n看看你当初造谣别人有精神病\n不是我救的造黄谣奔着下三路来让我自证自己没有诈骗寒涟漪的时候你这句话不跟自我介绍一样\n汤戈韬先生开始批量生产清真小编了\n清真小编要是有你这招收速度跨性别都完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1919283166759596533",
+        "created_at": "2025-05-05T06:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919283166759596533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919283166759596533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ve前脚说别人造谣又在暗示别人狼狈为奸了😋\n看看你当初造谣别人有精神病\n不是我救的造黄谣奔着下三路来让我自证自己没有诈骗寒涟漪的时候你这句话不跟自我介绍一样\n汤戈韬先生开始批量生产清真小编了\n清真小编要是有你这招收速度跨性别都完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 289,
+          "like_count": 239,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 398
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

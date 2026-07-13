@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1989787092931809292",
+    "created_at": "2025-11-15T20:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T21:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989788277411655773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989788277411655773",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989787092931809292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我非搞死这群人畜不可😁草你亲妈\n一个市政府拿着小孩子创收\n主动参与违法犯罪\n改造证人供词逼迫证人做伪证说学校没问题\n这群官僚死全家了草你亲妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989787092931809292",
+        "created_at": "2025-11-15T20:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989788277411655773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989788277411655773",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989787092931809292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我非搞死这群人畜不可😁草你亲妈\n一个市政府拿着小孩子创收\n主动参与违法犯罪\n改造证人供词逼迫证人做伪证说学校没问题\n这群官僚死全家了草你亲妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1989787092931809292",
+        "created_at": "2025-11-15T20:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989787092931809292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YJGAME0189/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/YJGAME0189/status/1989717127817834677",
+              "start": 144,
+              "url": "https://t.co/fBqqdqFCuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989787092931809292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989717127817834677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这还傻逼呢?过几天有个更大的议题会扔出的\n见过政府招标扭转机构主动要求扭转机构来开设\n主动欢迎黑恶势力拿青少年创收的政府打造园区经济并且充当他们保护伞帮忙威胁恐吓小孩\n并且按期抽血这种事吗🤨\n我最近手里议题可多了\n都是政府官员联在明知道死人强奸的情况下依旧拿青少年创收证据\n这群傻逼官僚 https://t.co/fBqqdqFCuk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1029,
+          "like_count": 833,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 1395
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

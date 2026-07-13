@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1980558276468306234",
+    "created_at": "2025-10-21T08:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T09:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980558276468306234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Liqiang_xjptan…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Liqiang_xjptank/status/1980533925656367249",
+          "start": 39,
+          "url": "https://t.co/PFjtxYuItD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980558276468306234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980533925656367249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你支持你妈了个逼我立马把人救出来给你看\n救不出来你们这群乐子人把我脑袋当球踢 https://t.co/PFjtxYuItD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1980558276468306234",
+        "created_at": "2025-10-21T08:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980558276468306234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liqiang_xjptan…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Liqiang_xjptank/status/1980533925656367249",
+              "start": 39,
+              "url": "https://t.co/PFjtxYuItD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980558276468306234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980533925656367249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你支持你妈了个逼我立马把人救出来给你看\n救不出来你们这群乐子人把我脑袋当球踢 https://t.co/PFjtxYuItD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973944428005101568",
+        "conversation_id": "1980376820471267740",
+        "created_at": "2025-10-21T07:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980533925656367249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980533925656367249",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980376820471267740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我支持学校🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 919,
+          "like_count": 714,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1098
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T02:53:35.000Z",
+        "description": "",
+        "id": "1973944428005101568",
+        "name": "jp X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973944493264232448/eqZ0ucIR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 16,
+          "like_count": 1545,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 333
+        },
+        "username": "Liqiang_xjptank",
+        "verified": false
+      }
+    ]
+  }
+}

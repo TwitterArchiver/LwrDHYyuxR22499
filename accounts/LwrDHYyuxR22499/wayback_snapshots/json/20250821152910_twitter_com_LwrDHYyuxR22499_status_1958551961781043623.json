@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958551955720253440",
+        "3_1958551957507112960"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1958548864501198964",
+    "created_at": "2025-08-21T15:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T16:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958551961781043623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXuRHrd3Hj",
+          "end": 45,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1958551961781043623/photo/1",
+          "media_key": "3_1958551955720253440",
+          "start": 22,
+          "url": "https://t.co/TXuRHrd3Hj"
+        },
+        {
+          "display_url": "pic.x.com/TXuRHrd3Hj",
+          "end": 45,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1958551961781043623/photo/1",
+          "media_key": "3_1958551957507112960",
+          "start": 22,
+          "url": "https://t.co/TXuRHrd3Hj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958551961781043623",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958548864501198964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补几张贱畜汤戈韬遇到他大爹瞬间阳痿的图\n😁 https://t.co/TXuRHrd3Hj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958551955720253440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4soHraMAAAuL3.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958551957507112960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4soOVbgAA2Sgx.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958551955720253440",
+            "3_1958551957507112960"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1958548864501198964",
+        "created_at": "2025-08-21T15:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958551961781043623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXuRHrd3Hj",
+              "end": 45,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1958551961781043623/photo/1",
+              "media_key": "3_1958551955720253440",
+              "start": 22,
+              "url": "https://t.co/TXuRHrd3Hj"
+            },
+            {
+              "display_url": "pic.x.com/TXuRHrd3Hj",
+              "end": 45,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1958551961781043623/photo/1",
+              "media_key": "3_1958551957507112960",
+              "start": 22,
+              "url": "https://t.co/TXuRHrd3Hj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958551961781043623",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958548864501198964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补几张贱畜汤戈韬遇到他大爹瞬间阳痿的图\n😁 https://t.co/TXuRHrd3Hj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1958548864501198964",
+        "created_at": "2025-08-21T15:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958548864501198964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buxiangdangjiu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/buxiangdangjiu3/status/1958427061275549706",
+              "start": 142,
+              "url": "https://t.co/3Es4TtWQ11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958548864501198964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958427061275549706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他可不会跟你好好辩经又或者了解些什么😁\n好比上次他碰瓷基督教碰到他大爹北燕书也是立马就化身怂逼了\n你真以为他骂你们是为了道德正义?\n又或者会给出一些建设性的解决方案?\n他只是可能今天哪根弦又搭错了开始自己的正义网暴而已\n要真有应该先把自己家里从官从商拿着腐败钱当无人性支黑的命先革了 https://t.co/3Es4TtWQ11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 519,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 696
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

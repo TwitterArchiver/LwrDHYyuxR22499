@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1886037447500542145",
+    "created_at": "2025-02-02T13:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T14:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886037447500542145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaming00742313…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/yaming00742313/status/1886033611637567902",
+          "start": 142,
+          "url": "https://t.co/4Y8MbYBHJx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886037447500542145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886033611637567902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王宇航声明将为此事负责\n以后会常去常看常驻\n帮老人解决实质性问题\n解决老人生存困难用水困难用电困难\n老人女儿养老困难等问题\n并且把老人家破了的窗户\n坏了的门都给修好\n每月定期上门\n而且据我观察\n这个家属院的老人们都是留守老人\n垃圾都抢着捡\n我将会挨个探访慰问以确保留守老人的生存问题 https://t.co/4Y8MbYBHJx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1886037447500542145",
+        "created_at": "2025-02-02T13:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886037447500542145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/yaming00742313/status/1886033611637567902",
+              "start": 142,
+              "url": "https://t.co/4Y8MbYBHJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886037447500542145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886033611637567902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王宇航声明将为此事负责\n以后会常去常看常驻\n帮老人解决实质性问题\n解决老人生存困难用水困难用电困难\n老人女儿养老困难等问题\n并且把老人家破了的窗户\n坏了的门都给修好\n每月定期上门\n而且据我观察\n这个家属院的老人们都是留守老人\n垃圾都抢着捡\n我将会挨个探访慰问以确保留守老人的生存问题 https://t.co/4Y8MbYBHJx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1886031229520400384",
+            "7_1886030819476852736",
+            "7_1886033250788982785"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1886033611637567902",
+        "created_at": "2025-02-02T12:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T13:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886033611637567902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3oqn7bMee",
+              "end": 117,
+              "expanded_url": "https://x.com/yaming00742313/status/1886033611637567902/video/1",
+              "media_key": "7_1886031229520400384",
+              "start": 94,
+              "url": "https://t.co/h3oqn7bMee"
+            },
+            {
+              "display_url": "pic.x.com/h3oqn7bMee",
+              "end": 117,
+              "expanded_url": "https://x.com/yaming00742313/status/1886033611637567902/video/1",
+              "media_key": "7_1886030819476852736",
+              "start": 94,
+              "url": "https://t.co/h3oqn7bMee"
+            },
+            {
+              "display_url": "pic.x.com/h3oqn7bMee",
+              "end": 117,
+              "expanded_url": "https://x.com/yaming00742313/status/1886033611637567902/video/1",
+              "media_key": "7_1886033250788982785",
+              "start": 94,
+              "url": "https://t.co/h3oqn7bMee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886033611637567902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天在推上和抖音都看到的，宝鸡本地的一位生活十分贫苦的奶奶，有一位摄影爱好博主将其的生活环境拍下发布在网上，许多本地热心人士都为奶奶尽了一些绵薄之力，今天我和宇航一起来看望了一下奶奶。\n在这里我们更近距离的感受到了奶奶生活的贫苦，能看到那些新鲜的食物和水是这几天热心网友送的，桌子上摆满了发霉的馒头和已经馊臭的菜，做饭只能在门口堆一个地方生火，屋内弥漫着垃圾和饭菜发出的臭味，家具门窗全部破损，奶奶也缺少棉被棉衣等保暖用品。\n也遇到了奶奶的女儿，交谈过程中我们了解到老人的老伴肺癌去世，老人因在火葬场哭错人而被殴打出残疾和受刺激患上严重精神分裂。一直由女儿赡养，后来又出车祸身上多处粉碎性骨折，又是雪上加霜。女儿的丈夫因工伤手臂残疾失去劳动能力。而女儿一个月只有不到两千块钱的工资，实在难以支撑，他们一家就这样过着十分贫苦的生活。\n而她多次向社区申请低保和残疾证，却被社区冷眼相待，拒绝为老人办理残疾证，甚至停电停水，想把他们赶回乡下。\n女儿十分的感谢网友的帮助，并且唯一的诉求就是为老人办理残疾证领取到低保，为自己减轻一些负担。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "昨天在推上和抖音都看到的，宝鸡本地的一位生活十分贫苦的奶奶，有一位摄影爱好博主将其的生活环境拍下发布在网上，许多本地热心人士都为奶奶尽了一些绵薄之力，今天我和宇航一起来看望了一下奶奶。… https://t.co/h3oqn7bMee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843202467905077248/3iQEBUW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 159,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 256
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。亲爱的牧鸢:@LwrDHYyuxR22499",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          }
+        },
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming和牧鸢（为生民立命）🙂",
+        "pinned_tweet_id": "1881784662626078745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12018,
+          "following_count": 1305,
+          "like_count": 6186,
+          "listed_count": 25,
+          "media_count": 283,
+          "tweet_count": 2266
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1970386364404507038",
+    "created_at": "2025-09-23T07:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T08:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970386364404507038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1970261201642037737",
+          "start": 38,
+          "url": "https://t.co/pamv6Z9PLV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970386364404507038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970261201642037737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我测你的吗啊能不能别老把我跟亚明混为一谈我就他对象啊怎么这尝试都没有就骂人 https://t.co/pamv6Z9PLV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1970386364404507038",
+        "created_at": "2025-09-23T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970386364404507038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki2/status/1970261201642037737",
+              "start": 38,
+              "url": "https://t.co/pamv6Z9PLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970386364404507038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970261201642037737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我测你的吗啊能不能别老把我跟亚明混为一谈我就他对象啊怎么这尝试都没有就骂人 https://t.co/pamv6Z9PLV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1970258313054167177",
+        "created_at": "2025-09-22T22:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T23:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970261201642037737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1923572617757253633",
+              "start": 0,
+              "username": "overdose_daya"
+            },
+            {
+              "end": 30,
+              "id": "1959467331178147840",
+              "start": 15,
+              "username": "overdose_dayRC"
+            },
+            {
+              "end": 47,
+              "id": "1700948552078467072",
+              "start": 34,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 59,
+              "id": "1938098811274203139",
+              "start": 48,
+              "username": "KAgo551640"
+            },
+            {
+              "end": 77,
+              "id": "1300828282061877249",
+              "start": 64,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 92,
+              "id": "1916247857293889537",
+              "start": 78,
+              "username": "HANLIANYI331_"
+            },
+            {
+              "end": 109,
+              "id": "1429365180618706945",
+              "start": 96,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 124,
+              "id": "60042536",
+              "start": 115,
+              "username": "keyemail"
+            },
+            {
+              "end": 144,
+              "id": "1843201902550634496",
+              "start": 128,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970261201642037737",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970258313054167177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_daya @overdose_dayRC 董晗\n@Overdose_DBD @KAgo551640 荣行键\n@HANLIANYI331 @HANLIANYI331_寒涟漪\n@Simone_Luxem 北雁冬翼\n@keyemail 小二\n@LwrDHYyuxR22499 亚明\n\n还有几个不识好歹的药圈恰烂钱，闹减害，不知恶法非法为何物的，有人让我放放你们，那就先拉倒了吧\n冲我塔那就必点你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 707,
+          "like_count": 632,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 905
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1928781798773072159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 187,
+          "like_count": 7705,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1730
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

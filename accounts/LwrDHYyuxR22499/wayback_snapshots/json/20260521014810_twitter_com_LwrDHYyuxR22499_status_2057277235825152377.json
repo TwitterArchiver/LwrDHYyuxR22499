@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2057277235825152377",
+    "created_at": "2026-05-21T01:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057277235825152377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825733032151756801",
+          "start": 3,
+          "username": "LKDenchin"
+        },
+        {
+          "end": 31,
+          "id": "1843201902550634496",
+          "start": 15,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057277235825152377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054969503675732382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LKDenchin: @LwrDHYyuxR22499 后来这个实践基地因为食物中毒吃死人了，被强制停办了。但是我小学和初中时期都被强制要求参加，那个地方不允许家长进入，我有同学发高烧40度，家长请求接回去都直接被堵在门口，不允许进去。部分教官退伍后有犯罪前科。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057277235825152377",
+        "created_at": "2026-05-21T01:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057277235825152377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825733032151756801",
+              "start": 3,
+              "username": "LKDenchin"
+            },
+            {
+              "end": 31,
+              "id": "1843201902550634496",
+              "start": 15,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057277235825152377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054969503675732382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LKDenchin: @LwrDHYyuxR22499 后来这个实践基地因为食物中毒吃死人了，被强制停办了。但是我小学和初中时期都被强制要求参加，那个地方不允许家长进入，我有同学发高烧40度，家长请求接回去都直接被堵在门口，不允许进去。部分教官退伍后有犯罪前科。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825733032151756801",
+        "conversation_id": "2054822422759743630",
+        "created_at": "2026-05-14T16:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054969503675732382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054969503675732382",
+        "in_reply_to_user_id": "1825733032151756801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054966860601552966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 后来这个实践基地因为食物中毒吃死人了，被强制停办了。但是我小学和初中时期都被强制要求参加，那个地方不允许家长进入，我有同学发高烧40度，家长请求接回去都直接被堵在门口，不允许进去。部分教官退伍后有犯罪前科。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5224,
+          "following_count": 2893,
+          "like_count": 2859,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2810
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T03:14:23.000Z",
+        "description": "大一蒟蒻在读 | 非科班计算机 | 隐形ASD自闭症 | INTJ | Project Treble | Cpp开发学习中 | Blog: https://t.co/PUizv92ww2 | 逢坂大河赛高！| 龙与虎一生推！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.1007777.xyz",
+                "end": 93,
+                "expanded_url": "https://blog.1007777.xyz",
+                "start": 70,
+                "url": "https://t.co/PUizv92ww2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.1007777.xyz",
+                "end": 23,
+                "expanded_url": "http://blog.1007777.xyz",
+                "start": 0,
+                "url": "https://t.co/W9KkfY41Tp"
+              }
+            ]
+          }
+        },
+        "id": "1825733032151756801",
+        "location": "Canton, China",
+        "name": "LKDenchin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050444945090383872/13FFGUjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/W9KkfY41Tp",
+        "username": "LKDenchin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958554365125619713"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "1958554368715726899",
+    "created_at": "2025-08-21T15:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T16:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958554368715726899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/luCpyNOzTd",
+          "end": 165,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1958554368715726899/photo/1",
+          "media_key": "3_1958554365125619713",
+          "start": 142,
+          "url": "https://t.co/luCpyNOzTd"
+        },
+        {
+          "display_url": "x.com/buxiangdangjiu…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/buxiangdangjiu3/status/1958427061275549706",
+          "start": 166,
+          "url": "https://t.co/3Es4TtWQ11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958554368715726899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958427061275549706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔你大可不必理会他虽然我不太清楚穆斯林是什么\n但是单看所谓用打女人等女性权益\n来指责他是不配的\n汤戈韬女士可不仅仅公开鉴跨表示过\n一些不符合他预期的跨性别应该被送到中国针对性少数的黑机构里去接受治疗\n并对受害者称之为爱支病\n别说女性权益了\n他对自己的底线要求连最基本的人权都是个问题 https://t.co/luCpyNOzTd https://t.co/3Es4TtWQ11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958554365125619713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4u0XaacAE0GSq.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958554365125619713"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1958554368715726899",
+        "created_at": "2025-08-21T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958554368715726899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luCpyNOzTd",
+              "end": 165,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1958554368715726899/photo/1",
+              "media_key": "3_1958554365125619713",
+              "start": 142,
+              "url": "https://t.co/luCpyNOzTd"
+            },
+            {
+              "display_url": "x.com/buxiangdangjiu…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/buxiangdangjiu3/status/1958427061275549706",
+              "start": 166,
+              "url": "https://t.co/3Es4TtWQ11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958554368715726899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958427061275549706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔你大可不必理会他虽然我不太清楚穆斯林是什么\n但是单看所谓用打女人等女性权益\n来指责他是不配的\n汤戈韬女士可不仅仅公开鉴跨表示过\n一些不符合他预期的跨性别应该被送到中国针对性少数的黑机构里去接受治疗\n并对受害者称之为爱支病\n别说女性权益了\n他对自己的底线要求连最基本的人权都是个问题 https://t.co/luCpyNOzTd https://t.co/3Es4TtWQ11"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932450773297672192",
+        "conversation_id": "1958013832158224505",
+        "created_at": "2025-08-21T07:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958427061275549706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958427061275549706",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 773,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958013832158224505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 第一这都是需要顺序的，必须先劝解，分床，最后才是“打”\n\n第二这里的“打”，是阿拉伯语和汉语翻译的问题，阿拉伯语中对打有不同等级，这里的“打［daraba］”就是轻击和离开的意思。\n\n圣训中有很多先知禁止打老婆的例子，当然你想做的是断章取义来贬低穆斯林😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 519,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 697
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T14:52:28.000Z",
+        "description": "看什么看🙄",
+        "id": "1932450773297672192",
+        "location": "东突厥斯坦",
+        "name": "。。。。。🟦☪️🟦",
+        "pinned_tweet_id": "1956399022492598442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953162232981823488/H5Q3UoqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 345,
+          "like_count": 6308,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2013
+        },
+        "username": "buxiangdangjiu3",
+        "verified": false
+      }
+    ]
+  }
+}
