@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2054476874676645981",
+    "created_at": "2026-05-13T08:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054476874676645981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/X507913386313/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/X507913386313/status/2054475809210196188",
+          "start": 19,
+          "url": "https://t.co/iyA6QxC6mK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054476874676645981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054475809210196188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我什么都不做的话\n确实会死不少人 https://t.co/iyA6QxC6mK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2054476874676645981",
+        "created_at": "2026-05-13T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054476874676645981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/X507913386313/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/X507913386313/status/2054475809210196188",
+              "start": 19,
+              "url": "https://t.co/iyA6QxC6mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054476874676645981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054475809210196188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我什么都不做的话\n确实会死不少人 https://t.co/iyA6QxC6mK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812883521180246017",
+        "conversation_id": "2054080144353161438",
+        "created_at": "2026-05-13T08:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054475809210196188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054475809210196188",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054080144353161438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你什么都不用就能害死别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5030,
+          "following_count": 2753,
+          "like_count": 2721,
+          "listed_count": 18,
+          "media_count": 409,
+          "tweet_count": 2716
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T16:15:13.000Z",
+        "description": "今日以后的你，昨日以前的你，我亦珍惜如旧，我依然喜欢你。",
+        "id": "1812883521180246017",
+        "location": "School",
+        "name": "初念X",
+        "pinned_tweet_id": "1895873887096954945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830846313824710656/wr29RzKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 392
+        },
+        "username": "X507913386313",
+        "verified": false
+      }
+    ]
+  }
+}

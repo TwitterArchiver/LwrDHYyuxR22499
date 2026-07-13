@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2069085063774646275",
+    "created_at": "2026-06-22T15:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069085063774646275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069085063774646275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068645376198836428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 牧鸢和亚明的团队真的为摧毁矫正机构 /Troubled Teen Industry 做了太多太多，历史会留下ta们的名字，致敬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069085063774646275",
+        "created_at": "2026-06-22T15:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069085063774646275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069085063774646275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068645376198836428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 牧鸢和亚明的团队真的为摧毁矫正机构 /Troubled Teen Industry 做了太多太多，历史会留下ta们的名字，致敬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2068645376198836428",
+        "created_at": "2026-06-21T10:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068645376198836428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2068609963535299062",
+              "start": 64,
+              "url": "https://t.co/71v1agXKAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068645376198836428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11876,
+          "like_count": 223,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068609963535299062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牧鸢和亚明的团队真的为摧毁矫正机构 /Troubled Teen Industry 做了太多太多，历史会留下ta们的名字，致敬 https://t.co/71v1agXKAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5949,
+          "following_count": 3216,
+          "like_count": 3449,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 1023,
+          "like_count": 5298,
+          "listed_count": 10,
+          "media_count": 207,
+          "tweet_count": 2773
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

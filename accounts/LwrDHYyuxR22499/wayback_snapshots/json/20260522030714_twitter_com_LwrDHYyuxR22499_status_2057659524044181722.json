@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2057632155543757057",
+    "created_at": "2026-05-22T03:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057659524044181722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "kilock_1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057659524044181722",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057659260050485503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kilock_1208 😈😈别笑\n再笑让教官叔叔在把你抓回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057632155543757057",
+        "created_at": "2026-05-22T03:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057659524044181722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057659524044181722",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057659260050485503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilock_1208 😈😈别笑\n再笑让教官叔叔在把你抓回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011073315763601416",
+        "conversation_id": "2057632155543757057",
+        "created_at": "2026-05-22T03:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057659260050485503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057659260050485503",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057632155543757057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 2911,
+          "like_count": 2885,
+          "listed_count": 18,
+          "media_count": 419,
+          "tweet_count": 2828
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 全干开发者 | intp | 宝 @qqqqqf_  | Arkloop的TelegramGroup :https://t.co/gW3NA9111V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 84,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 61,
+                "url": "https://t.co/gW3NA9111V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2037502430506795154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054035995654488064/NJV_p8vX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 737,
+          "like_count": 4990,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      }
+    ]
+  }
+}

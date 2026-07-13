@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068672284915896616",
+    "created_at": "2026-06-21T12:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068672284915896616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sauricat/statu…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/sauricat/status/2068669121059852603",
+          "start": 104,
+          "url": "https://t.co/XpCAGhe6wQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068672284915896616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068669121059852603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你既然知道我是专业的又凭什么认为\n我是故意使用指派性别\n又或者必须使用指派性别才愿意救别人😹😹\n如果你觉得可以不用指派性别就能救人请你自己去实践\n当时做不到的事客观条件就是做不到\n怎么被你们臆想出这么多讲法 https://t.co/XpCAGhe6wQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068672284915896616",
+        "created_at": "2026-06-21T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068672284915896616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/sauricat/status/2068669121059852603",
+              "start": 104,
+              "url": "https://t.co/XpCAGhe6wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068672284915896616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068669121059852603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你既然知道我是专业的又凭什么认为\n我是故意使用指派性别\n又或者必须使用指派性别才愿意救别人😹😹\n如果你觉得可以不用指派性别就能救人请你自己去实践\n当时做不到的事客观条件就是做不到\n怎么被你们臆想出这么多讲法 https://t.co/XpCAGhe6wQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "2068655625211699385",
+        "created_at": "2026-06-21T12:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068669121059852603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068669121059852603",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068668626379452660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我以为我上次跟你的事情已经解决了，结果你每次骂 valeria，都要把我拎出来。我跟 valeria 没有组织隶属关系，你们私人恩怨跟我没关系，我承认，你做救助是专业的，我人在国外，比不了。麻烦你以后不要再把我拎出来瞎骂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 3195,
+          "like_count": 3363,
+          "listed_count": 18,
+          "media_count": 465,
+          "tweet_count": 3063
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Shu the Internet Squirrel",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11182,
+          "following_count": 1037,
+          "like_count": 34483,
+          "listed_count": 35,
+          "media_count": 622,
+          "tweet_count": 12289
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

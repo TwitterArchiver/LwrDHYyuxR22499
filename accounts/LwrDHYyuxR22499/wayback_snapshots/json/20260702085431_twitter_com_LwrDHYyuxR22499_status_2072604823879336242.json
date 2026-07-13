@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072604794045239296",
+        "3_2072604798394732544"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2072604823879336242",
+    "created_at": "2026-07-02T08:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072604823879336242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mo.mbd.baidu.com/r/1YUNus11Tvq?…",
+          "end": 105,
+          "expanded_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+          "start": 82,
+          "unwound_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+          "url": "https://t.co/WGpUctcGSM"
+        },
+        {
+          "display_url": "xxcb.cn/m/video?id=csp…",
+          "end": 130,
+          "expanded_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+          "start": 107,
+          "unwound_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+          "url": "https://t.co/Wi8IjU4BLU"
+        },
+        {
+          "display_url": "pic.x.com/IuDR6HpPeU",
+          "end": 154,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+          "media_key": "3_2072604794045239296",
+          "start": 131,
+          "url": "https://t.co/IuDR6HpPeU"
+        },
+        {
+          "display_url": "pic.x.com/IuDR6HpPeU",
+          "end": 154,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+          "media_key": "3_2072604798394732544",
+          "start": 131,
+          "url": "https://t.co/IuDR6HpPeU"
+        },
+        {
+          "display_url": "x.com/AetherKyalo/st…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/AetherKyalo/status/2071160593495761130",
+          "start": 155,
+          "url": "https://t.co/9FX5rYI9nj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072604823879336242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071160593495761130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026/7/2/\n本案已被齐鲁壹点，潇湘晨报\n等媒体登刊报道\n很高兴本次以“张立”这个身份参与此案\n但需要纠正的时候能一眼认出学校\n并非我一人功劳\n下附新闻链接:https://t.co/WGpUctcGSM\n\nhttps://t.co/Wi8IjU4BLU https://t.co/IuDR6HpPeU https://t.co/9FX5rYI9nj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072604794045239296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNfFDzWkAAOoSf.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072604798394732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNfFUAWkAA91E0.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072604794045239296",
+            "3_2072604798394732544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2072604823879336242",
+        "created_at": "2026-07-02T08:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072604823879336242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mo.mbd.baidu.com/r/1YUNus11Tvq?…",
+              "end": 105,
+              "expanded_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "start": 82,
+              "unwound_url": "https://mo.mbd.baidu.com/r/1YUNus11Tvq?f=cp&rs=1776529953&ruk=3mig_v20PTowiRpgEYL6ug&u=59bf2171ba95b710",
+              "url": "https://t.co/WGpUctcGSM"
+            },
+            {
+              "display_url": "xxcb.cn/m/video?id=csp…",
+              "end": 130,
+              "expanded_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+              "start": 107,
+              "unwound_url": "https://www.xxcb.cn/m/video?id=csp2380534a7197dd9c83f5264335fbfd54&sign=c17b25431&t=1782981165",
+              "url": "https://t.co/Wi8IjU4BLU"
+            },
+            {
+              "display_url": "pic.x.com/IuDR6HpPeU",
+              "end": 154,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+              "media_key": "3_2072604794045239296",
+              "start": 131,
+              "url": "https://t.co/IuDR6HpPeU"
+            },
+            {
+              "display_url": "pic.x.com/IuDR6HpPeU",
+              "end": 154,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2072604823879336242/photo/1",
+              "media_key": "3_2072604798394732544",
+              "start": 131,
+              "url": "https://t.co/IuDR6HpPeU"
+            },
+            {
+              "display_url": "x.com/AetherKyalo/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/AetherKyalo/status/2071160593495761130",
+              "start": 155,
+              "url": "https://t.co/9FX5rYI9nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072604823879336242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071160593495761130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/7/2/\n本案已被齐鲁壹点，潇湘晨报\n等媒体登刊报道\n很高兴本次以“张立”这个身份参与此案\n但需要纠正的时候能一眼认出学校\n并非我一人功劳\n下附新闻链接:https://t.co/WGpUctcGSM\n\nhttps://t.co/Wi8IjU4BLU https://t.co/IuDR6HpPeU https://t.co/9FX5rYI9nj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406049068548169729",
+        "conversation_id": "2071160593495761130",
+        "created_at": "2026-06-28T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071160593495761130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1843201902550634496",
+              "start": 5,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071160593495761130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13223,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "感谢牧鸢 @LwrDHYyuxR22499 以及本人的亲友线下的努力争取，仓鼠（化名）已于今日乘坐飞机回家\n\n再次感谢各位对此事的关注！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6197,
+          "following_count": 3316,
+          "like_count": 3676,
+          "listed_count": 19,
+          "media_count": 483,
+          "tweet_count": 3313
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T00:40:07.000Z",
+        "description": "03年｜惠灵顿维多利亚大学｜Bachelor of Art｜从极权国家走出的革命者｜Gay🏳️‍🌈 Furry🦊 Neurodiversity🧠｜无政府共产主义者，社会主义人本主义者，黑格尔马克思主义者 & 文化女性主义者 | 规则改变将结局撼动，就是我们——这世界的英雄 | 中文，English 🆗|",
+        "id": "1406049068548169729",
+        "location": "Wellington City, New Zealand",
+        "name": "Kyalo 凯犽洛🏳️‍🌈🏳️‍⚧️🇵🇸🇺🇦",
+        "pinned_tweet_id": "1840547733717074257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880945817273397249/vevg9eel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 736,
+          "like_count": 1024,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 9617
+        },
+        "url": "",
+        "username": "AetherKyalo",
+        "verified": true
+      }
+    ]
+  }
+}

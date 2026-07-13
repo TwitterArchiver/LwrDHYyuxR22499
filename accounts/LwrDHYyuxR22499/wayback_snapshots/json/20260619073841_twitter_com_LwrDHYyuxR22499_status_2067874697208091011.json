@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067874697208091011",
+    "created_at": "2026-06-19T07:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067874697208091011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mngxiaohan/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mngxiaohan/status/2067834019379908879",
+          "start": 12,
+          "url": "https://t.co/fSQQ3rdqU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067874697208091011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067834019379908879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牢鲁出来后恢复的不错啊 https://t.co/fSQQ3rdqU5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067834011578437632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJsE-KakAAtQCN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067874697208091011",
+        "created_at": "2026-06-19T07:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067874697208091011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mngxiaohan/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mngxiaohan/status/2067834019379908879",
+              "start": 12,
+              "url": "https://t.co/fSQQ3rdqU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067874697208091011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067834019379908879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢鲁出来后恢复的不错啊 https://t.co/fSQQ3rdqU5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067834011578437632"
+          ]
+        },
+        "author_id": "1935221058489171971",
+        "conversation_id": "2067834019379908879",
+        "created_at": "2026-06-19T04:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067834019379908879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCNKjl4zi7",
+              "end": 29,
+              "expanded_url": "https://x.com/mngxiaohan/status/2067834019379908879/photo/1",
+              "media_key": "3_2067834011578437632",
+              "start": 6,
+              "url": "https://t.co/vCNKjl4zi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067834019379908879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2946,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反差 hh https://t.co/vCNKjl4zi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5680,
+          "following_count": 3173,
+          "like_count": 3277,
+          "listed_count": 18,
+          "media_count": 461,
+          "tweet_count": 3034
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T06:20:36.000Z",
+        "description": "可爱的小猫很乖的，快来领养喵，可投喂喵，生于2008/165 105g/无证含糖🍥MTF友跨，互fo/中度抑郁/",
+        "id": "1935221058489171971",
+        "name": "萌小涵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051659548260446208/z8hEgdq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 77,
+          "like_count": 29,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "mngxiaohan",
+        "verified": false
+      }
+    ]
+  }
+}

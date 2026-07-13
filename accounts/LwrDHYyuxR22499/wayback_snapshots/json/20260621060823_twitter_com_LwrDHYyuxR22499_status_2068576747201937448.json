@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068576747201937448",
+    "created_at": "2026-06-21T06:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068576747201937448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MizukiWorkshop…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/MizukiWorkshop/status/2068512428212498485",
+          "start": 97,
+          "url": "https://t.co/BuugdzplXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068576747201937448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068512428212498485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说跨卫兵跨卫兵就来了，断章取义有一手的。\n我们没办法按照投票结果，\n在保证不使用指派性别下救人，都会被你们这群人意淫成\n不用自己指派性别的不救，又或者不救这群人\n完全无视中国境内的环境客观规则 https://t.co/BuugdzplXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2068512424634757120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTVFzvWMAAEhXD.jpg",
+        "width": 192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068576747201937448",
+        "created_at": "2026-06-21T06:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068576747201937448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/2068512428212498485",
+              "start": 97,
+              "url": "https://t.co/BuugdzplXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068576747201937448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068512428212498485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说跨卫兵跨卫兵就来了，断章取义有一手的。\n我们没办法按照投票结果，\n在保证不使用指派性别下救人，都会被你们这群人意淫成\n不用自己指派性别的不救，又或者不救这群人\n完全无视中国境内的环境客观规则 https://t.co/BuugdzplXE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068512424634757120"
+          ]
+        },
+        "author_id": "1455052587145723904",
+        "conversation_id": "2068427392628949446",
+        "created_at": "2026-06-21T01:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068512428212498485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IqQrRuWnY",
+              "end": 72,
+              "expanded_url": "https://x.com/MizukiWorkshop/status/2068512428212498485/photo/1",
+              "media_key": "3_2068512424634757120",
+              "start": 49,
+              "url": "https://t.co/4IqQrRuWnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068512428212498485",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068427392628949446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 带来困难，指在一次投票中自己所支持的选项落选后宣布不再救那些人 https://t.co/4IqQrRuWnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 3195,
+          "like_count": 3346,
+          "listed_count": 18,
+          "media_count": 464,
+          "tweet_count": 3052
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 1184,
+          "like_count": 119043,
+          "listed_count": 7,
+          "media_count": 1797,
+          "tweet_count": 24314
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

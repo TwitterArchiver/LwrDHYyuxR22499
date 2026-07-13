@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2060296452321300539",
+    "created_at": "2026-05-29T14:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060363268921942184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2193559340",
+          "start": 0,
+          "username": "Evf_Trotsky"
+        },
+        {
+          "end": 25,
+          "id": "1505596113813876736",
+          "start": 13,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060363268921942184",
+    "in_reply_to_user_id": "2193559340",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060362914893365656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evf_Trotsky @chrorine_17 😺😺😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060296452321300539",
+        "created_at": "2026-05-29T14:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363268921942184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2193559340",
+              "start": 0,
+              "username": "Evf_Trotsky"
+            },
+            {
+              "end": 25,
+              "id": "1505596113813876736",
+              "start": 13,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363268921942184",
+        "in_reply_to_user_id": "2193559340",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060362914893365656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evf_Trotsky @chrorine_17 😺😺😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2193559340",
+        "conversation_id": "2060296452321300539",
+        "created_at": "2026-05-29T14:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060362914893365656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505596113813876736",
+              "start": 0,
+              "username": "chrorine_17"
+            },
+            {
+              "end": 29,
+              "id": "1843201902550634496",
+              "start": 13,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060362914893365656",
+        "in_reply_to_user_id": "1505596113813876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060343676812062949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chrorine_17 @LwrDHYyuxR22499 當事人認罪認罰了我也可以做獨立辯護🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5395,
+          "following_count": 3017,
+          "like_count": 3055,
+          "listed_count": 19,
+          "media_count": 432,
+          "tweet_count": 2898
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-14T05:13:45.000Z",
+        "description": "國際主義民革托派/烏克蘭閒散人士/飛天拉麵神教修女/德涅斯特河沿岸摩爾達維亞共和國駐華大使\nИнтернационалисты-демократы-революционеры-троцкисты/украинские бездельники/монахини FSM/посол Приднестровской Молд",
+        "id": "2193559340",
+        "location": "Одеса,Україна",
+        "name": "EvfrosiniaTC",
+        "pinned_tweet_id": "2055243923728347367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026014401980174336/BpS1kZKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 116,
+          "like_count": 1274,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 3344
+        },
+        "username": "Evf_Trotsky",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057245773130272768/VTd_dgeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 244,
+          "like_count": 18528,
+          "listed_count": 7,
+          "media_count": 253,
+          "tweet_count": 6505
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

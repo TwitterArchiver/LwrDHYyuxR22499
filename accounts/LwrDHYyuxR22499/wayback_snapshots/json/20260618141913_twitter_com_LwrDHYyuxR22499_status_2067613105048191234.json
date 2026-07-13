@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067588052088758695",
+    "created_at": "2026-06-18T14:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067613105048191234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799807052233179136",
+          "start": 0,
+          "username": "chi83688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067613105048191234",
+    "in_reply_to_user_id": "1799807052233179136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067612558622924810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi83688 那我们就坐在这期望法律能给他们公平吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067588052088758695",
+        "created_at": "2026-06-18T14:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067613105048191234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799807052233179136",
+              "start": 0,
+              "username": "chi83688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613105048191234",
+        "in_reply_to_user_id": "1799807052233179136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067612558622924810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi83688 那我们就坐在这期望法律能给他们公平吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799807052233179136",
+        "conversation_id": "2067588052088758695",
+        "created_at": "2026-06-18T14:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067612558622924810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067612558622924810",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067588052088758695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 为什么要学会\n本来就不是他们的问题\n他们还要分心力去冒风险报复回去？\n你这样说和检讨受害者没什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 3170,
+          "like_count": 3257,
+          "listed_count": 18,
+          "media_count": 458,
+          "tweet_count": 3021
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T14:14:02.000Z",
+        "description": "不od不紫餐的超级健全人｜生理女心理不明喜欢女的｜我的病都是自诊的因为现在还在排期看医生｜很多屁话所以上推吐一下",
+        "id": "1799807052233179136",
+        "name": "好耶good-yeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915225911492608/lBm2BrY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 164,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 122
+        },
+        "username": "chi83688",
+        "verified": false
+      }
+    ]
+  }
+}

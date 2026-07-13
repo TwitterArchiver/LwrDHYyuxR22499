@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2059087238454247566",
+    "created_at": "2026-06-10T07:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064611588175495445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1725952308402614272",
+          "start": 0,
+          "username": "benjueskea_kon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064611588175495445",
+    "in_reply_to_user_id": "1725952308402614272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059087238454247566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benjueskea_kon 只是随手关注别那么在意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059087231026176000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNY7VbboAAoxGK.jpg",
+        "width": 936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059087231063851009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNY7VkagAEfjTG.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2059087238454247566",
+        "created_at": "2026-06-10T07:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064611588175495445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1725952308402614272",
+              "start": 0,
+              "username": "benjueskea_kon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064611588175495445",
+        "in_reply_to_user_id": "1725952308402614272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059087238454247566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benjueskea_kon 只是随手关注别那么在意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059087231026176000",
+            "3_2059087231063851009"
+          ]
+        },
+        "author_id": "1725952308402614272",
+        "conversation_id": "2059087238454247566",
+        "created_at": "2026-05-26T01:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059087238454247566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBduBdWfs9",
+              "end": 78,
+              "expanded_url": "https://x.com/benjueskea_kon/status/2059087238454247566/photo/1",
+              "media_key": "3_2059087231026176000",
+              "start": 55,
+              "url": "https://t.co/xBduBdWfs9"
+            },
+            {
+              "display_url": "pic.x.com/xBduBdWfs9",
+              "end": 78,
+              "expanded_url": "https://x.com/benjueskea_kon/status/2059087238454247566/photo/1",
+              "media_key": "3_2059087231063851009",
+              "start": 55,
+              "url": "https://t.co/xBduBdWfs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059087238454247566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开始感觉我何德何能被大佬Follow,看到这个例子突然感到一阵恶寒，我记得我也没说啥逆天言论啊...... https://t.co/xBduBdWfs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 3129,
+          "like_count": 3199,
+          "listed_count": 19,
+          "media_count": 448,
+          "tweet_count": 2982
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T19:01:48.000Z",
+        "description": "",
+        "id": "1725952308402614272",
+        "name": "秀儿清洗者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725952464866959360/YlbLokwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 3797,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 383
+        },
+        "username": "benjueskea_kon",
+        "verified": false
+      }
+    ]
+  }
+}

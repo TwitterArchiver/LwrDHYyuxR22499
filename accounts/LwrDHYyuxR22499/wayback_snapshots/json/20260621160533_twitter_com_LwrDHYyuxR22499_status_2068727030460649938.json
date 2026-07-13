@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068727030460649938",
+    "created_at": "2026-06-21T16:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068727030460649938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rioshng/status…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/Rioshng/status/2068700596123898052",
+          "start": 124,
+          "url": "https://t.co/bwg9Avnmzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068727030460649938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068700596123898052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "武校……精神病院……\n还有合规的专门学校，本应只接收警方移送的学生，为了牟利却选择和它们一样，上门绑架他人\n所以我时常思考一个问题\n非法的机构解决完了，那么“合法”的呢？\n那些同样遭受暴力、霸凌侵害的孩子，以及滋生这一切的原生家庭，又该如何解决？ https://t.co/bwg9Avnmzc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068727030460649938",
+        "created_at": "2026-06-21T16:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068727030460649938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rioshng/status…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/Rioshng/status/2068700596123898052",
+              "start": 124,
+              "url": "https://t.co/bwg9Avnmzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068727030460649938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068700596123898052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "武校……精神病院……\n还有合规的专门学校，本应只接收警方移送的学生，为了牟利却选择和它们一样，上门绑架他人\n所以我时常思考一个问题\n非法的机构解决完了，那么“合法”的呢？\n那些同样遭受暴力、霸凌侵害的孩子，以及滋生这一切的原生家庭，又该如何解决？ https://t.co/bwg9Avnmzc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505448300132110338",
+        "conversation_id": "2068609963535299062",
+        "created_at": "2026-06-21T14:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068700596123898052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068700596123898052",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068609963535299062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 “以私人名义”，还有以非私人名义开设的吗😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5917,
+          "following_count": 3197,
+          "like_count": 3394,
+          "listed_count": 18,
+          "media_count": 465,
+          "tweet_count": 3083
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T07:37:11.000Z",
+        "description": "Non-binary非二元性别 | 大狗🐶 @Joestar8622 | 请勿将我的任何信息发布于任何国内社交媒体‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rioshng.com",
+                "end": 23,
+                "expanded_url": "https://rioshng.com",
+                "start": 0,
+                "url": "https://t.co/GziuK6uQNs"
+              }
+            ]
+          }
+        },
+        "id": "1505448300132110338",
+        "location": "京津",
+        "name": "楉笙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774122434142388224/kSw1Jt8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1178,
+          "like_count": 39158,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 3118
+        },
+        "url": "https://t.co/GziuK6uQNs",
+        "username": "Rioshng",
+        "verified": false
+      }
+    ]
+  }
+}

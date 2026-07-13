@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067670614052122625"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067670632175689993",
+    "created_at": "2026-06-18T18:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067670632175689993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "v.douyin.com/tSaYYtII-yA/",
+          "end": 146,
+          "expanded_url": "https://v.douyin.com/tSaYYtII-yA/",
+          "start": 123,
+          "unwound_url": "https://v.douyin.com/tSaYYtII-yA/",
+          "url": "https://t.co/8adOUIEuaw"
+        },
+        {
+          "display_url": "pic.x.com/rlrwb7DKdx",
+          "end": 170,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067670632175689993/photo/1",
+          "media_key": "3_2067670614052122625",
+          "start": 147,
+          "url": "https://t.co/rlrwb7DKdx"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2021834298287174137",
+          "start": 171,
+          "url": "https://t.co/B8D07UCd1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067670632175689993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021834298287174137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁😁😁想不到吧该案还有后续\n涉及到此案的最终高层“张丽红”\n经过我们调查核实后\n实际身份为\n已被中国标记的邪教头目\n通过开设邪教戒网瘾学校\n以及网络传销卖课\n年创收超五亿\n国内信徒被欺骗者广泛\n目前已被我们拿下\n你以为我们说打击邪教闹着玩的😁\n https://t.co/8adOUIEuaw https://t.co/rlrwb7DKdx https://t.co/B8D07UCd1D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067670614052122625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHXd-8XMAEGm7R.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 132900,
+        "height": 960,
+        "media_key": "7_2021834226442850304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021834226442850304/pu/img/1g-Q9tktPuSDamLK.jpg",
+        "public_metrics": {
+          "view_count": 7174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021834226442850304/pu/vid/avc1/320x564/G5htL8TR20z0Cr69.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021834226442850304/pu/vid/avc1/480x846/N0nKdVunxOvqQO80.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021834226442850304/pu/vid/avc1/544x960/af69K4Db4VC1UbHJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021834226442850304/pu/pl/TAIA2w8SCH4U7rqo.m3u8?tag=12&v=19d"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021834226996510720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7_hG7agAA_Jv6.jpg",
+        "width": 917
+      },
+      {
+        "height": 631,
+        "media_key": "3_2021834227378253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7_hIWbcAASnv_.jpg",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067670614052122625"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067670632175689993",
+        "created_at": "2026-06-18T18:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067670632175689993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/tSaYYtII-yA/",
+              "end": 146,
+              "expanded_url": "https://v.douyin.com/tSaYYtII-yA/",
+              "start": 123,
+              "unwound_url": "https://v.douyin.com/tSaYYtII-yA/",
+              "url": "https://t.co/8adOUIEuaw"
+            },
+            {
+              "display_url": "pic.x.com/rlrwb7DKdx",
+              "end": 170,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067670632175689993/photo/1",
+              "media_key": "3_2067670614052122625",
+              "start": 147,
+              "url": "https://t.co/rlrwb7DKdx"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2021834298287174137",
+              "start": 171,
+              "url": "https://t.co/B8D07UCd1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067670632175689993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021834298287174137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁😁😁想不到吧该案还有后续\n涉及到此案的最终高层“张丽红”\n经过我们调查核实后\n实际身份为\n已被中国标记的邪教头目\n通过开设邪教戒网瘾学校\n以及网络传销卖课\n年创收超五亿\n国内信徒被欺骗者广泛\n目前已被我们拿下\n你以为我们说打击邪教闹着玩的😁\n https://t.co/8adOUIEuaw https://t.co/rlrwb7DKdx https://t.co/B8D07UCd1D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021834226442850304",
+            "3_2021834226996510720",
+            "3_2021834227378253824"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2021834298287174137",
+        "created_at": "2026-02-12T06:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021834298287174137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wS2OsHu5Us",
+              "end": 165,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2021834298287174137/video/1",
+              "media_key": "7_2021834226442850304",
+              "start": 142,
+              "url": "https://t.co/wS2OsHu5Us"
+            },
+            {
+              "display_url": "pic.x.com/wS2OsHu5Us",
+              "end": 165,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2021834298287174137/video/1",
+              "media_key": "3_2021834226996510720",
+              "start": 142,
+              "url": "https://t.co/wS2OsHu5Us"
+            },
+            {
+              "display_url": "pic.x.com/wS2OsHu5Us",
+              "end": 165,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2021834298287174137/video/1",
+              "media_key": "3_2021834227378253824",
+              "start": 142,
+              "url": "https://t.co/wS2OsHu5Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021834298287174137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 45395,
+          "like_count": 237,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我这边在警局门口抢人的数据还没恢复出来呢，\n被抢的老猪狗自己倒把我们抢人的视频发出来了🤣🤣，在这网暴自己，蚌埠住了。还在视频里面把园区伤害自己女儿受到的伤扣在我们志愿者头上\n你甚至可以看到神秘组员拦截车辆一拳把门干开直接把人薅下来神秘蒙古长发男发动地面技直接把家长拖入地面暴打老猪狗 https://t.co/wS2OsHu5Us"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5676,
+          "following_count": 3171,
+          "like_count": 3267,
+          "listed_count": 18,
+          "media_count": 460,
+          "tweet_count": 3028
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

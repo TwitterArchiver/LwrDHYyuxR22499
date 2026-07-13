@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2062712136409944165",
+    "created_at": "2026-06-05T04:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062756583088734268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052759937567342592",
+          "start": 0,
+          "username": "sapphira76739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062756583088734268",
+    "in_reply_to_user_id": "2052759937567342592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062712781288415421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sapphira76739 你都想靠警察了那不寄嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062712136409944165",
+        "created_at": "2026-06-05T04:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062756583088734268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052759937567342592",
+              "start": 0,
+              "username": "sapphira76739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062756583088734268",
+        "in_reply_to_user_id": "2052759937567342592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062712781288415421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sapphira76739 你都想靠警察了那不寄嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052759937567342592",
+        "conversation_id": "2062712136409944165",
+        "created_at": "2026-06-05T01:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062712781288415421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1843201902550634496",
+              "start": 17,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062712781288415421",
+        "in_reply_to_user_id": "2052759937567342592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062712136409944165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @LwrDHYyuxR22499 我需要你们的指导和帮助。请帮帮我！我有和朋友的所有聊天记录。可是警方完全不认可我介入。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5483,
+          "following_count": 3086,
+          "like_count": 3171,
+          "listed_count": 19,
+          "media_count": 443,
+          "tweet_count": 2956
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T14:39:22.000Z",
+        "description": "莎菲娜·露薇娅是我小说的主角之一，不是本名或者oc什么的啦……是一个有些寂寞的男孩子，想要吃糖，只是有点负担不起。",
+        "id": "2052759937567342592",
+        "location": "西安",
+        "name": "Sapphira Luvia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052760273996451844/kJz6ekzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 21,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 84
+        },
+        "username": "sapphira76739",
+        "verified": false
+      }
+    ]
+  }
+}

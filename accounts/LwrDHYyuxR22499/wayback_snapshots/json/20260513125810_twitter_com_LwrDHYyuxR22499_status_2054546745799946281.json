@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2054479561585549683",
+    "created_at": "2026-05-13T12:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054546745799946281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1649683164502327296",
+          "start": 0,
+          "username": "lihao60439138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054546745799946281",
+    "in_reply_to_user_id": "1649683164502327296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054539178491429039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihao60439138 缺的兄弟缺的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2054479561585549683",
+        "created_at": "2026-05-13T12:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054546745799946281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1649683164502327296",
+              "start": 0,
+              "username": "lihao60439138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054546745799946281",
+        "in_reply_to_user_id": "1649683164502327296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054539178491429039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihao60439138 缺的兄弟缺的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649683164502327296",
+        "conversation_id": "2054479561585549683",
+        "created_at": "2026-05-13T12:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054539178491429039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054539178491429039",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479561585549683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 还缺人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 2760,
+          "like_count": 2729,
+          "listed_count": 18,
+          "media_count": 409,
+          "tweet_count": 2722
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T07:54:59.000Z",
+        "description": "",
+        "id": "1649683164502327296",
+        "location": "犯贱",
+        "name": "d宁艺卓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040732104204713984/M55XulNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "lihao60439138",
+        "verified": false
+      }
+    ]
+  }
+}

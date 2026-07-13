@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2074152561180033200",
+    "created_at": "2026-07-06T17:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074177776001691907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598343662357794816",
+          "start": 0,
+          "username": "yun85013877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074177776001691907",
+    "in_reply_to_user_id": "1598343662357794816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074176316337995995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun85013877 我还真就不会自己梳头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074152561180033200",
+        "created_at": "2026-07-06T17:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074177776001691907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598343662357794816",
+              "start": 0,
+              "username": "yun85013877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074177776001691907",
+        "in_reply_to_user_id": "1598343662357794816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074176316337995995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun85013877 我还真就不会自己梳头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598343662357794816",
+        "conversation_id": "2074152561180033200",
+        "created_at": "2026-07-06T16:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074176316337995995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074176316337995995",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074152561180033200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 想静静的帮你梳头，休息会儿吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6226,
+          "following_count": 3323,
+          "like_count": 3735,
+          "listed_count": 19,
+          "media_count": 488,
+          "tweet_count": 3358
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-01T15:50:10.000Z",
+        "description": "軍犬になりたい軍事愛好家、私を善良な犬として交流してください🐕☺️ 褒めるのは全然惜しまないタイプで、つい褒めちゃうんです。 もしご迷惑だったら、本当にすみません。サブカルチャー愛好家、電子音楽愛好家、哲学と心理学愛好家",
+        "id": "1598343662357794816",
+        "location": "奈良 奈良市",
+        "name": "輝夜kiko",
+        "pinned_tweet_id": "1999344603225563273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072737738898751488/oKA7aPbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 468,
+          "like_count": 3662,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "yun85013877",
+        "verified": false
+      }
+    ]
+  }
+}

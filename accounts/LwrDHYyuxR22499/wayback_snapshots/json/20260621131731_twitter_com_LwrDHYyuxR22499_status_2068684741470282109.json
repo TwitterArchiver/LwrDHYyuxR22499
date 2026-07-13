@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068684741470282109",
+    "created_at": "2026-06-21T13:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068684741470282109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y2D80355/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Y2D80355/status/2068684493641114111",
+          "start": 25,
+          "url": "https://t.co/KyVpE2llhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068684741470282109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068684493641114111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😹😹😹还真是\n国安线人大外宣之类的帽子逮到就扣的 https://t.co/KyVpE2llhZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068684741470282109",
+        "created_at": "2026-06-21T13:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068684741470282109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Y2D80355/status/2068684493641114111",
+              "start": 25,
+              "url": "https://t.co/KyVpE2llhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068684741470282109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068684493641114111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😹😹😹还真是\n国安线人大外宣之类的帽子逮到就扣的 https://t.co/KyVpE2llhZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2068674878673449170",
+        "created_at": "2026-06-21T13:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068684493641114111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068684493641114111",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068674878673449170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 考虑到双方的家庭背景谁更像国安我不好说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 3195,
+          "like_count": 3369,
+          "listed_count": 18,
+          "media_count": 465,
+          "tweet_count": 3071
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "ˈʏpsilɔn",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067210143670960128/Zy6zcsFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 815,
+          "like_count": 6584,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 6121
+        },
+        "url": "",
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

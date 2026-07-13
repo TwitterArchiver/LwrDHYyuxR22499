@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2070555568578953586",
+    "created_at": "2026-06-26T17:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070555568578953586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070554795241619892",
+          "start": 30,
+          "url": "https://t.co/3V7DfKpfEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070555568578953586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070554795241619892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怀念那个时候……\n脚上的老茧与地面摩擦\n一步一步走到今天… https://t.co/3V7DfKpfEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20758,
+        "height": 1280,
+        "media_key": "7_2070554697975648256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070554697975648256/pu/img/7dLTMcnjfj07UodW.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070554697975648256/pu/vid/avc1/320x568/YZfvRR2yCeIXumsm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070554697975648256/pu/vid/avc1/480x852/E_DdCQLa-hLFj9EY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070554697975648256/pu/vid/avc1/720x1280/ef3HjvDPHzFbI97X.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070554697975648256/pu/pl/BnnlSCgvRUXqURNu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2070555568578953586",
+        "created_at": "2026-06-26T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070555568578953586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070554795241619892",
+              "start": 30,
+              "url": "https://t.co/3V7DfKpfEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070555568578953586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070554795241619892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怀念那个时候……\n脚上的老茧与地面摩擦\n一步一步走到今天… https://t.co/3V7DfKpfEb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070554697975648256"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2070554795241619892",
+        "created_at": "2026-06-26T17:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070554795241619892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzekWjDPMw",
+              "end": 128,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2070554795241619892/video/1",
+              "media_key": "7_2070554697975648256",
+              "start": 105,
+              "url": "https://t.co/gzekWjDPMw"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2070438672844079482",
+              "start": 129,
+              "url": "https://t.co/CrDnd9hmC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070554795241619892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070438672844079482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是感叹……\n全国护航体系加起来一年流水就四个亿\n而反观我当年报着一腔热血\n对他下手的时候\n为了曝光他我已经花光了身上所有的钱穿着双已经被磨破了底的拖鞋东奔西走…那是我当时唯一的鞋…\n我再也买不起第二双拖鞋了 https://t.co/gzekWjDPMw https://t.co/CrDnd9hmC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6052,
+          "following_count": 3275,
+          "like_count": 3548,
+          "listed_count": 19,
+          "media_count": 474,
+          "tweet_count": 3189
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

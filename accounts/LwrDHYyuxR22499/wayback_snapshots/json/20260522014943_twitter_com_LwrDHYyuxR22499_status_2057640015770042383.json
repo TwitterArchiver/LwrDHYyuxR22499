@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2057636619264655465",
+    "created_at": "2026-05-22T01:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057640015770042383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057640015770042383",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057639766267728124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 来了指不定谁干谁呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057636619264655465",
+        "created_at": "2026-05-22T01:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057640015770042383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057640015770042383",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057639766267728124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 来了指不定谁干谁呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2057636619264655465",
+        "created_at": "2026-05-22T01:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057639766267728124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057639766267728124",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057636619264655465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 年收入700个亿居然没办法让把你种地里当人参，或者扔江里玩潜泳。。。。。。我开始震惊并且佩服椎名立希的扫黑除恶了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 2904,
+          "like_count": 2879,
+          "listed_count": 18,
+          "media_count": 418,
+          "tweet_count": 2824
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 427,
+          "like_count": 127293,
+          "listed_count": 3,
+          "media_count": 782,
+          "tweet_count": 19146
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2058201666038698047",
+    "created_at": "2026-05-23T15:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058201666038698047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Unknow_CVC/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Unknow_CVC/status/2058104977093222680",
+          "start": 37,
+          "url": "https://t.co/cVJeuRWzCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058201666038698047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058104977093222680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们还真有一份关于这方面的调查材料不过现在不给予公开\n放出来可就好玩了… https://t.co/cVJeuRWzCi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2058201666038698047",
+        "created_at": "2026-05-23T15:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058201666038698047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Unknow_CVC/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Unknow_CVC/status/2058104977093222680",
+              "start": 37,
+              "url": "https://t.co/cVJeuRWzCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058201666038698047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058104977093222680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们还真有一份关于这方面的调查材料不过现在不给予公开\n放出来可就好玩了… https://t.co/cVJeuRWzCi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629688098505510912",
+        "conversation_id": "2057632155543757057",
+        "created_at": "2026-05-23T08:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058104977093222680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058104977093222680",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057632155543757057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这群人里有多少是退伍就业的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5295,
+          "following_count": 2955,
+          "like_count": 2900,
+          "listed_count": 19,
+          "media_count": 421,
+          "tweet_count": 2840
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch苦手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|https://t.co/q0TRSt2d53",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/unknow_c",
+                "end": 154,
+                "expanded_url": "http://t.me/unknow_c",
+                "start": 131,
+                "url": "https://t.co/q0TRSt2d53"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9ej9s"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級の𝒞𝑒𝓃𝒱𝒞𝑒𝑒🍤",
+        "pinned_tweet_id": "2002402192716632415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 1628,
+          "like_count": 27847,
+          "listed_count": 0,
+          "media_count": 2387,
+          "tweet_count": 17490
+        },
+        "url": "https://t.co/3dxIv9ej9s",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

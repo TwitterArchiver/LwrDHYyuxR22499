@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065026088078860288",
+        "7_2065026153283534848"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2065026292127523315",
+    "created_at": "2026-06-11T11:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065026292127523315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mapp.api.weibo.cn/fx/906cf05eec6…",
+          "end": 114,
+          "expanded_url": "https://mapp.api.weibo.cn/fx/906cf05eec6aa9a1faa8144082e8a21b.html",
+          "start": 91,
+          "unwound_url": "https://m.weibo.cn/status/5308591406842632",
+          "url": "https://t.co/sY2hzEl511"
+        },
+        {
+          "display_url": "pic.x.com/UImozkM6Ed",
+          "end": 138,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2065026292127523315/video/1",
+          "media_key": "3_2065026088078860288",
+          "start": 115,
+          "url": "https://t.co/UImozkM6Ed"
+        },
+        {
+          "display_url": "pic.x.com/UImozkM6Ed",
+          "end": 138,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2065026292127523315/video/1",
+          "media_key": "7_2065026153283534848",
+          "start": 115,
+          "url": "https://t.co/UImozkM6Ed"
+        },
+        {
+          "display_url": "x.com/puppyhamburger…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/puppyhamburger/status/2063672406158504106",
+          "start": 139,
+          "url": "https://t.co/mpyY7kCrHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065026292127523315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063672406158504106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026/6/4/一名20岁的成年女性被绑架致重庆赋苗教育基地\n2026/6/5/极速受案\n2026/6/11/结案\n流水线化工作无特殊内容需要通报\n下附案主微博及该机构恶性新闻:\nhttps://t.co/sY2hzEl511 https://t.co/UImozkM6Ed https://t.co/mpyY7kCrHG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065026088078860288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhyST_a4AAkfGs.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 78228,
+        "height": 1280,
+        "media_key": "7_2065026153283534848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065026153283534848/pu/img/TNGS5yrX8sdH5TXP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065026153283534848/pu/vid/avc1/320x690/FSGm6qs_vOY5a5O5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065026153283534848/pu/vid/avc1/480x1036/0D_nlfFQ7Yk3SLZd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065026153283534848/pu/vid/avc1/592x1280/ouojEuElBwPJV-7f.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065026153283534848/pu/pl/6fAS2gDlKfY50iWs.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065026088078860288",
+            "7_2065026153283534848"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2065026292127523315",
+        "created_at": "2026-06-11T11:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065026292127523315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mapp.api.weibo.cn/fx/906cf05eec6…",
+              "end": 114,
+              "expanded_url": "https://mapp.api.weibo.cn/fx/906cf05eec6aa9a1faa8144082e8a21b.html",
+              "start": 91,
+              "unwound_url": "https://m.weibo.cn/status/5308591406842632",
+              "url": "https://t.co/sY2hzEl511"
+            },
+            {
+              "display_url": "pic.x.com/UImozkM6Ed",
+              "end": 138,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2065026292127523315/video/1",
+              "media_key": "3_2065026088078860288",
+              "start": 115,
+              "url": "https://t.co/UImozkM6Ed"
+            },
+            {
+              "display_url": "pic.x.com/UImozkM6Ed",
+              "end": 138,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2065026292127523315/video/1",
+              "media_key": "7_2065026153283534848",
+              "start": 115,
+              "url": "https://t.co/UImozkM6Ed"
+            },
+            {
+              "display_url": "x.com/puppyhamburger…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/puppyhamburger/status/2063672406158504106",
+              "start": 139,
+              "url": "https://t.co/mpyY7kCrHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065026292127523315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063672406158504106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/6/4/一名20岁的成年女性被绑架致重庆赋苗教育基地\n2026/6/5/极速受案\n2026/6/11/结案\n流水线化工作无特殊内容需要通报\n下附案主微博及该机构恶性新闻:\nhttps://t.co/sY2hzEl511 https://t.co/UImozkM6Ed https://t.co/mpyY7kCrHG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575686261909913600",
+        "conversation_id": "2063672406158504106",
+        "created_at": "2026-06-07T17:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063672406158504106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063672406158504106",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我的朋友赵健伊被绑架到重庆赋苗这个网瘾学校了，委托您帮忙救救我的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5635,
+          "following_count": 3136,
+          "like_count": 3204,
+          "listed_count": 19,
+          "media_count": 449,
+          "tweet_count": 2988
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T03:17:53.000Z",
+        "description": "ICON=花子｜20+｜ジャンル雑多 ギルティギア＆Project Moon｜カイテス推し｜無言フォロー失礼します。",
+        "id": "1575686261909913600",
+        "name": "愚かな王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747469092557291520/IWvwVCUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 697,
+          "like_count": 5186,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 3082
+        },
+        "username": "puppyhamburger",
+        "verified": false
+      }
+    ]
+  }
+}

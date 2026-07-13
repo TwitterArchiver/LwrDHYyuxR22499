@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067651319331241984"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067651335638671639",
+    "created_at": "2026-06-18T16:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067651335638671639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "ms.mbd.baidu.com/r/1YbpAW571M4?…",
+          "end": 93,
+          "expanded_url": "https://ms.mbd.baidu.com/r/1YbpAW571M4?f=cp&rs=2949728730&ruk=3mig_v20PTowiRpgEYL6ug&u=5551bd8bd9a0c48b&urlext=%7B%22cuid%22%3A%22_OBj8_87vi_2uv8s0i2BujiSvilHu2umga2ltlu0SuKm0qqSB%22%7D",
+          "start": 70,
+          "url": "https://t.co/z2RStXsQ1u"
+        },
+        {
+          "display_url": "ms.mbd.baidu.com/r/1YbpEEDWbQs?…",
+          "end": 118,
+          "expanded_url": "https://ms.mbd.baidu.com/r/1YbpEEDWbQs?f=cp&rs=2327072728&ruk=3mig_v20PTowiRpgEYL6ug&u=c5da4681cb897242",
+          "start": 95,
+          "url": "https://t.co/CfxRalG1wW"
+        },
+        {
+          "display_url": "pic.x.com/mKtset8IK9",
+          "end": 142,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067651335638671639/photo/1",
+          "media_key": "3_2067651319331241984",
+          "start": 119,
+          "url": "https://t.co/mKtset8IK9"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2067559967100395642",
+          "start": 143,
+          "url": "https://t.co/Z5vaYtzcZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067651335638671639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067559967100395642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该案已被多家国内媒体曝光由于文章过多再次只附下\n一些新闻链接供各位观赏\n【23岁双胞胎被强行拖进戒网瘾机构，哥哥自述：遭暴力虐打后自残求救】https://t.co/z2RStXsQ1u\n\nhttps://t.co/CfxRalG1wW https://t.co/mKtset8IK9 https://t.co/Z5vaYtzcZh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067651319331241984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHF64gbQAA8ign.jpg",
+        "width": 917
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2067559929599102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyzTOWEAAwKKR.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067559927602712576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyzLyXkAA1vYY.jpg",
+        "width": 921
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2067559929615994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyzTSX0AAjztk.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067651319331241984"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067651335638671639",
+        "created_at": "2026-06-18T16:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067651335638671639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ms.mbd.baidu.com/r/1YbpAW571M4?…",
+              "end": 93,
+              "expanded_url": "https://ms.mbd.baidu.com/r/1YbpAW571M4?f=cp&rs=2949728730&ruk=3mig_v20PTowiRpgEYL6ug&u=5551bd8bd9a0c48b&urlext=%7B%22cuid%22%3A%22_OBj8_87vi_2uv8s0i2BujiSvilHu2umga2ltlu0SuKm0qqSB%22%7D",
+              "start": 70,
+              "url": "https://t.co/z2RStXsQ1u"
+            },
+            {
+              "display_url": "ms.mbd.baidu.com/r/1YbpEEDWbQs?…",
+              "end": 118,
+              "expanded_url": "https://ms.mbd.baidu.com/r/1YbpEEDWbQs?f=cp&rs=2327072728&ruk=3mig_v20PTowiRpgEYL6ug&u=c5da4681cb897242",
+              "start": 95,
+              "url": "https://t.co/CfxRalG1wW"
+            },
+            {
+              "display_url": "pic.x.com/mKtset8IK9",
+              "end": 142,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067651335638671639/photo/1",
+              "media_key": "3_2067651319331241984",
+              "start": 119,
+              "url": "https://t.co/mKtset8IK9"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2067559967100395642",
+              "start": 143,
+              "url": "https://t.co/Z5vaYtzcZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067651335638671639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067559967100395642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该案已被多家国内媒体曝光由于文章过多再次只附下\n一些新闻链接供各位观赏\n【23岁双胞胎被强行拖进戒网瘾机构，哥哥自述：遭暴力虐打后自残求救】https://t.co/z2RStXsQ1u\n\nhttps://t.co/CfxRalG1wW https://t.co/mKtset8IK9 https://t.co/Z5vaYtzcZh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067559929599102976",
+            "3_2067559927602712576",
+            "3_2067559929615994880"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067559967100395642",
+        "created_at": "2026-06-18T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067559967100395642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一份伪造签名的托管协议，三名突然闯入的教官，将23岁双胞胎兄弟小豪和小洲拖入噩梦。",
+              "display_url": "m.mp.oeeee.com/a/BAAFRD000020…",
+              "end": 160,
+              "expanded_url": "https://m.mp.oeeee.com/a/BAAFRD0000202606181611319.html",
+              "start": 137,
+              "status": 200,
+              "title": "23岁双胞胎兄弟被抓进戒网瘾机构：非法拘禁罪为何启动难？",
+              "unwound_url": "https://m.mp.oeeee.com/a/BAAFRD0000202606181611319.html",
+              "url": "https://t.co/Lboz8Pyy0D"
+            },
+            {
+              "display_url": "pic.x.com/xEXTTgbSV6",
+              "end": 184,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067559967100395642/photo/1",
+              "media_key": "3_2067559929599102976",
+              "start": 161,
+              "url": "https://t.co/xEXTTgbSV6"
+            },
+            {
+              "display_url": "pic.x.com/xEXTTgbSV6",
+              "end": 184,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067559967100395642/photo/1",
+              "media_key": "3_2067559927602712576",
+              "start": 161,
+              "url": "https://t.co/xEXTTgbSV6"
+            },
+            {
+              "display_url": "pic.x.com/xEXTTgbSV6",
+              "end": 184,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067559967100395642/photo/1",
+              "media_key": "3_2067559929615994880",
+              "start": 161,
+              "url": "https://t.co/xEXTTgbSV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067559967100395642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5046,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "2026/5/22/\n我们参与了一起案件\n本次违法机构未“重庆市环帝青少年教育实践基地”\n该基地与我们曾参与报道山东环帝实为一家\n本次曝光中有两位年满二十三岁的双胞胎均被假装警察带走\n打成残疾\n甚至屡次发生学员曾出逃被警察抓回虐待的事件\n该案件已被南方都市报报道\n附文链接:https://t.co/Lboz8Pyy0D https://t.co/xEXTTgbSV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5676,
+          "following_count": 3170,
+          "like_count": 3260,
+          "listed_count": 18,
+          "media_count": 459,
+          "tweet_count": 3024
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

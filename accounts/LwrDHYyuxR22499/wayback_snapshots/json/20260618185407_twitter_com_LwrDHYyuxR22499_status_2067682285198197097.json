@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067588052088758695",
+    "created_at": "2026-06-18T18:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067682285198197097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055751423338713088",
+          "start": 0,
+          "username": "NKFglb8649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067682285198197097",
+    "in_reply_to_user_id": "2055751423338713088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067621755477475394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NKFglb8649 😁😁😁让哥们来试试好咧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067588052088758695",
+        "created_at": "2026-06-18T18:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067682285198197097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055751423338713088",
+              "start": 0,
+              "username": "NKFglb8649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067682285198197097",
+        "in_reply_to_user_id": "2055751423338713088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067621755477475394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NKFglb8649 😁😁😁让哥们来试试好咧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055751423338713088",
+        "conversation_id": "2067588052088758695",
+        "created_at": "2026-06-18T14:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067621755477475394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067621755477475394",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067588052088758695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 没法报复啊…你报复回去法律铁拳就砸你了😁你中法律这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5676,
+          "following_count": 3171,
+          "like_count": 3265,
+          "listed_count": 18,
+          "media_count": 460,
+          "tweet_count": 3031
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T20:46:22.000Z",
+        "description": "“自由永远是持不同意见者的自由”\n民主社·社民·自由意志社·第二国际·存在主义·微安倾向\n｜新左·反威权｜友跨🏳️‍⚧️非跨｜极端左腊左🚫｜对粉蛆会变支黑｜宇宙无敌第一包蜜｜绿畜皇汉死妈｜图纸大王习近平万岁｜欢迎互fo\n大号@lanbannono8964被晶暂弃用中\n或许是男娘/水仙时@lalag6498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "lanbannono8964"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "lalag6498"
+              }
+            ]
+          }
+        },
+        "id": "2055751423338713088",
+        "location": "疯狂习近平宇宙",
+        "name": "内科弗露露二代目·澜（转世寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056534987353325568/SbwE7rZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 956,
+          "like_count": 5429,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "NKFglb8649",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056924413719871709",
+    "created_at": "2026-05-20T03:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056946508646486387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056946508646486387",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056924413719871709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 当然是存档打完一条线\n在回档都体验一遍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2056924404983205888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIup2SjbEAARj2Z.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056924413719871709",
+        "created_at": "2026-05-20T03:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056946508646486387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056946508646486387",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056924413719871709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 当然是存档打完一条线\n在回档都体验一遍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056924404983205888"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056924413719871709",
+        "created_at": "2026-05-20T02:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056924413719871709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUDXQ66cE9",
+              "end": 30,
+              "expanded_url": "https://x.com/__fanqie__/status/2056924413719871709/photo/1",
+              "media_key": "3_2056924404983205888",
+              "start": 7,
+              "url": "https://t.co/hUDXQ66cE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056924413719871709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波怎么选？ https://t.co/hUDXQ66cE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 2874,
+          "like_count": 2832,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2795
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2054493321616375888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7127,
+          "following_count": 2963,
+          "like_count": 1551,
+          "listed_count": 13,
+          "media_count": 1362,
+          "tweet_count": 9527
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

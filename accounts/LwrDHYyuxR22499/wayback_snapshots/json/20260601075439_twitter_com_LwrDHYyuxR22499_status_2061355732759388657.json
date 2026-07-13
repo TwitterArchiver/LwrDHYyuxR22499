@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2061291030100783334",
+    "created_at": "2026-06-01T07:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061355732759388657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        },
+        {
+          "end": 19,
+          "id": "1463116235478999042",
+          "start": 10,
+          "username": "Nihili10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061355732759388657",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061329976469704712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 @Nihili10 王侯将相，宁有种乎?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2061291030100783334",
+        "created_at": "2026-06-01T07:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061355732759388657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            },
+            {
+              "end": 19,
+              "id": "1463116235478999042",
+              "start": 10,
+              "username": "Nihili10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061355732759388657",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061329976469704712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 @Nihili10 王侯将相，宁有种乎?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2061291030100783334",
+        "created_at": "2026-06-01T06:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061329976469704712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463116235478999042",
+              "start": 0,
+              "username": "Nihili10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061329976469704712",
+        "in_reply_to_user_id": "1463116235478999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061291030100783334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihili10 你圈最大权力机构就在多伦多..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 3072,
+          "like_count": 3110,
+          "listed_count": 19,
+          "media_count": 438,
+          "tweet_count": 2921
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 764,
+          "like_count": 5825,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 5736
+        },
+        "username": "Y2D80355",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "location": "Perth",
+        "name": "Nihili（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 529,
+          "like_count": 48038,
+          "listed_count": 1,
+          "media_count": 783,
+          "tweet_count": 12349
+        },
+        "username": "Nihili10",
+        "verified": false
+      }
+    ]
+  }
+}

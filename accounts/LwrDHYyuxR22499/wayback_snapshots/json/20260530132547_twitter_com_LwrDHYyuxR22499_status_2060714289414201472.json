@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060714283152048128",
+        "3_2060714282875310080",
+        "3_2060714285593214976"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2060714289414201472",
+    "created_at": "2026-05-30T13:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060714289414201472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D29wkK3kdI",
+          "end": 79,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060714289414201472/photo/1",
+          "media_key": "3_2060714283152048128",
+          "start": 56,
+          "url": "https://t.co/D29wkK3kdI"
+        },
+        {
+          "display_url": "pic.x.com/D29wkK3kdI",
+          "end": 79,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060714289414201472/photo/1",
+          "media_key": "3_2060714282875310080",
+          "start": 56,
+          "url": "https://t.co/D29wkK3kdI"
+        },
+        {
+          "display_url": "pic.x.com/D29wkK3kdI",
+          "end": 79,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060714289414201472/photo/1",
+          "media_key": "3_2060714285593214976",
+          "start": 56,
+          "url": "https://t.co/D29wkK3kdI"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2060704239807275157",
+          "start": 80,
+          "url": "https://t.co/qf9NM1auqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060714289414201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060704239807275157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想起来了让我注意到这逼体系针对组织维权抗议\n最开始的原因只是当时花了一个周没把人救出来让我觉得很丢面子😅😅 https://t.co/D29wkK3kdI https://t.co/qf9NM1auqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060714283152048128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkguO7aAAAInY0.jpg",
+        "width": 917
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2060714282875310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkguN5bUAAjbFU.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060714285593214976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkguYBbQAAp2fy.jpg",
+        "width": 917
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2060704236300877825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkXlbfbQAE1YE7.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2060704236326023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkXlbla8AA3Xj9.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060714283152048128",
+            "3_2060714282875310080",
+            "3_2060714285593214976"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060714289414201472",
+        "created_at": "2026-05-30T13:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060714289414201472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D29wkK3kdI",
+              "end": 79,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060714289414201472/photo/1",
+              "media_key": "3_2060714283152048128",
+              "start": 56,
+              "url": "https://t.co/D29wkK3kdI"
+            },
+            {
+              "display_url": "pic.x.com/D29wkK3kdI",
+              "end": 79,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060714289414201472/photo/1",
+              "media_key": "3_2060714282875310080",
+              "start": 56,
+              "url": "https://t.co/D29wkK3kdI"
+            },
+            {
+              "display_url": "pic.x.com/D29wkK3kdI",
+              "end": 79,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060714289414201472/photo/1",
+              "media_key": "3_2060714285593214976",
+              "start": 56,
+              "url": "https://t.co/D29wkK3kdI"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2060704239807275157",
+              "start": 80,
+              "url": "https://t.co/qf9NM1auqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060714289414201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060704239807275157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起来了让我注意到这逼体系针对组织维权抗议\n最开始的原因只是当时花了一个周没把人救出来让我觉得很丢面子😅😅 https://t.co/D29wkK3kdI https://t.co/qf9NM1auqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060704236300877825",
+            "3_2060704236326023168"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060704239807275157",
+        "created_at": "2026-05-30T12:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060704239807275157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9vuSx4QNn",
+              "end": 135,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060704239807275157/photo/1",
+              "media_key": "3_2060704236300877825",
+              "start": 112,
+              "url": "https://t.co/s9vuSx4QNn"
+            },
+            {
+              "display_url": "pic.x.com/s9vuSx4QNn",
+              "end": 135,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060704239807275157/photo/1",
+              "media_key": "3_2060704236326023168",
+              "start": 112,
+              "url": "https://t.co/s9vuSx4QNn"
+            },
+            {
+              "display_url": "x.com/nnxjing1/statu…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/nnxjing1/status/2051819427633725858",
+              "start": 136,
+              "url": "https://t.co/B6tAB7i2uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704239807275157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 575,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819427633725858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该案后续仍在推进，我们在组建受害者及其家长进行举报以及抗议活动。目前市场管理局已对其进行16万元罚款，并将其强制驱逐。\n\n不要让我觉得我有必要盯上你。\n也不要让我知道你在哪里绑架别人，不然等着你们只有赔钱卷铺盖滚一个下场。 https://t.co/s9vuSx4QNn https://t.co/B6tAB7i2uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 3028,
+          "like_count": 3073,
+          "listed_count": 19,
+          "media_count": 434,
+          "tweet_count": 2904
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

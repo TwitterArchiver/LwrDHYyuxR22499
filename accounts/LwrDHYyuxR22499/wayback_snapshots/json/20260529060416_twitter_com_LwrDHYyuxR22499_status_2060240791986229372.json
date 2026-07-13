@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2059579710263160836",
+    "created_at": "2026-05-29T06:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060240791986229372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1621259482704625671",
+          "start": 0,
+          "username": "Qinioo"
+        },
+        {
+          "end": 18,
+          "id": "1809752861146046464",
+          "start": 8,
+          "username": "Zxhark679"
+        },
+        {
+          "end": 35,
+          "id": "1800905994186432512",
+          "start": 19,
+          "username": "Hoshino_Iroha10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060240791986229372",
+    "in_reply_to_user_id": "1621259482704625671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059856367306027216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qinioo @Zxhark679 @Hoshino_Iroha10 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2059579710263160836",
+        "created_at": "2026-05-29T06:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060240791986229372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinioo"
+            },
+            {
+              "end": 18,
+              "id": "1809752861146046464",
+              "start": 8,
+              "username": "Zxhark679"
+            },
+            {
+              "end": 35,
+              "id": "1800905994186432512",
+              "start": 19,
+              "username": "Hoshino_Iroha10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060240791986229372",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059856367306027216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinioo @Zxhark679 @Hoshino_Iroha10 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621259482704625671",
+        "conversation_id": "2059579710263160836",
+        "created_at": "2026-05-28T04:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059856367306027216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809752861146046464",
+              "start": 0,
+              "username": "Zxhark679"
+            },
+            {
+              "end": 27,
+              "id": "1800905994186432512",
+              "start": 11,
+              "username": "Hoshino_Iroha10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059856367306027216",
+        "in_reply_to_user_id": "1809752861146046464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059579710263160836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxhark679 @Hoshino_Iroha10 拥有1k 粉丝其实根本没人理的我🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5387,
+          "following_count": 3008,
+          "like_count": 3017,
+          "listed_count": 19,
+          "media_count": 429,
+          "tweet_count": 2883
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | フォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "pinned_tweet_id": "2041214126140330063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 2676,
+          "like_count": 41336,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T00:55:09.000Z",
+        "description": "Serve the servants, oh no",
+        "id": "1809752861146046464",
+        "name": "Swhearn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060058758500229126/XFZX19bX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 159,
+          "like_count": 2802,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 339
+        },
+        "username": "Zxhark679",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生 不定期刷推 | 跨性别友好🏳️‍⚧️ | ADHD | SBTI FUCK | 爱好：💾数码、📸摄影、🎸音乐、🎮游戏 | 896489648964 | 正體中文🇹🇼简体中文🇨🇳 | TwitterTelegram | 不会打音游 | 求互Fo\n\n馬鹿なわたしは歌うだけ ぶちまけちゃおうか　星に",
+        "id": "1800905994186432512",
+        "location": "秦城监狱",
+        "name": "星野いろは",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041373858608070656/Vb9_n0Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1101,
+          "like_count": 53546,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2226
+        },
+        "username": "Hoshino_Iroha10",
+        "verified": false
+      }
+    ]
+  }
+}

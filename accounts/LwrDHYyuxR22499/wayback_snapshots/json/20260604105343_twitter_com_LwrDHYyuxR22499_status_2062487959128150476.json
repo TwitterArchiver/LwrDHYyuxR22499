@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2062485680937488660",
+    "created_at": "2026-06-04T10:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062487959128150476"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062487959128150476",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062485680937488660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人与人的关系，但凡还有一天是这样的，那扭转机构也不过是换种方式在开业解决另一批人的需求与仇恨，\n不过是折磨与被折磨的对象换了而已。\n有时看到这种巴不得把对方送进去的话就很庆幸他们并不掌握这个权利。顺带一提，\n已经有三家机构被我弄过之后想要化干戈为玉帛，找我洽谈合作开盒送终跨性别了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062485680937488660",
+        "created_at": "2026-06-04T10:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062487959128150476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062487959128150476",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062485680937488660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人与人的关系，但凡还有一天是这样的，那扭转机构也不过是换种方式在开业解决另一批人的需求与仇恨，\n不过是折磨与被折磨的对象换了而已。\n有时看到这种巴不得把对方送进去的话就很庆幸他们并不掌握这个权利。顺带一提，\n已经有三家机构被我弄过之后想要化干戈为玉帛，找我洽谈合作开盒送终跨性别了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062485680937488660",
+        "created_at": "2026-06-04T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062485680937488660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shivam3228/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Shivam3228/status/2062111801874284850",
+              "start": 148,
+              "url": "https://t.co/lziUFvqQ9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062485680937488660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062111801874284850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这正是不是谁都能做领袖的原因\n要知道往往当我掌握了一句话把人弄出来的能力的同时，\n   我也具备了一句话把人送进去的能力\n  无数机构向我抛出过橄榄枝\n但是无论这人或其同伴品行如何、性格如何 是否与我交恶，甚至伤害我、造谣我，我都不会动用手里的权利进行报复\n    光着一点就能刷下去绝大部分人 https://t.co/lziUFvqQ9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 3089,
+          "like_count": 3166,
+          "listed_count": 19,
+          "media_count": 443,
+          "tweet_count": 2954
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

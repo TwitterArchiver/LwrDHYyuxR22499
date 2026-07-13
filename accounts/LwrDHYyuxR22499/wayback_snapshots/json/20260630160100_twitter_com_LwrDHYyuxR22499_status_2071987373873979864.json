@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071987365799931904"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2071987373873979864",
+    "created_at": "2026-06-30T16:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071987373873979864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VUMfbiJX9Q",
+          "end": 132,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2071987373873979864/photo/1",
+          "media_key": "3_2071987365799931904",
+          "start": 109,
+          "url": "https://t.co/VUMfbiJX9Q"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2071985110023614920",
+          "start": 133,
+          "url": "https://t.co/3PBWwtpiJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071987373873979864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071985110023614920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这可真是个好机会，北燕书大人还有一众跨卫兵，不彰显一下威能给我看看么？\n证明一下不用指派性别也可以救人。如果能救，那证明我是错误的\n如果不能那只能证明这群司马跨卫兵，自己也没这能力不过是在猎巫扣帽子，把人逼走杀人而已 https://t.co/VUMfbiJX9Q https://t.co/3PBWwtpiJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071987365799931904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEtiAWaMAAG1Oa.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071987365799931904"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071987373873979864",
+        "created_at": "2026-06-30T16:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071987373873979864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUMfbiJX9Q",
+              "end": 132,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2071987373873979864/photo/1",
+              "media_key": "3_2071987365799931904",
+              "start": 109,
+              "url": "https://t.co/VUMfbiJX9Q"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2071985110023614920",
+              "start": 133,
+              "url": "https://t.co/3PBWwtpiJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071987373873979864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071985110023614920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这可真是个好机会，北燕书大人还有一众跨卫兵，不彰显一下威能给我看看么？\n证明一下不用指派性别也可以救人。如果能救，那证明我是错误的\n如果不能那只能证明这群司马跨卫兵，自己也没这能力不过是在猎巫扣帽子，把人逼走杀人而已 https://t.co/VUMfbiJX9Q https://t.co/3PBWwtpiJd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071985110023614920",
+        "created_at": "2026-06-30T15:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071985110023614920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1921733139245985792",
+              "start": 27,
+              "username": "PeiTuto21049"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/PeiTuto21049/s…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/PeiTuto21049/status/2010953989018239251",
+              "start": 94,
+              "url": "https://t.co/w1sLC3bCXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071985110023614920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010953989018239251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/6/22/11:19\n知名推主兔と爪呸罗呸罗@PeiTuto21049\n已被扭转\n因本人无法不用指派性别救人\n被贱畜跨卫兵扣威胁别人的帽子\n退出跨性别者救助\n有能力者可自行尝试 https://t.co/w1sLC3bCXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 3294,
+          "like_count": 3600,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3225
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056938346572869633"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056938357356445950",
+    "created_at": "2026-05-20T03:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056938357356445950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RMsOCEfIz",
+          "end": 23,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2056938357356445950/photo/1",
+          "media_key": "3_2056938346572869633",
+          "start": 0,
+          "url": "https://t.co/0RMsOCEfIz"
+        },
+        {
+          "display_url": "x.com/AngeloMcna6787…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/AngeloMcna6787/status/2056591228934988069",
+          "start": 24,
+          "url": "https://t.co/c6m4Vw9pkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056938357356445950",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056591228934988069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/0RMsOCEfIz https://t.co/c6m4Vw9pkl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2056938346572869633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIu2hzBa8AEtfcO.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056938346572869633"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056938357356445950",
+        "created_at": "2026-05-20T03:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056938357356445950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RMsOCEfIz",
+              "end": 23,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2056938357356445950/photo/1",
+              "media_key": "3_2056938346572869633",
+              "start": 0,
+              "url": "https://t.co/0RMsOCEfIz"
+            },
+            {
+              "display_url": "x.com/AngeloMcna6787…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AngeloMcna6787/status/2056591228934988069",
+              "start": 24,
+              "url": "https://t.co/c6m4Vw9pkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056938357356445950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056591228934988069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/0RMsOCEfIz https://t.co/c6m4Vw9pkl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "2056591228934988069",
+        "created_at": "2026-05-19T04:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056591228934988069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056591228934988069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14909,
+          "like_count": 40,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近突然想到，是不是有很多性工作者在大学都是学性别理论的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 2874,
+          "like_count": 2830,
+          "listed_count": 18,
+          "media_count": 417,
+          "tweet_count": 2793
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "2054321124281074074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 165,
+          "like_count": 11969,
+          "listed_count": 22,
+          "media_count": 1507,
+          "tweet_count": 23203
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

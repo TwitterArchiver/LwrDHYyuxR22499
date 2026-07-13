@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2055912079488651547",
+    "created_at": "2026-05-17T07:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055912079488651547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_Just__Girl/…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Im_Just__Girl/status/2055911700327797056",
+          "start": 57,
+          "url": "https://t.co/OZDvQVTrUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055912079488651547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055911700327797056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个冷知识…\n其实中国美国以及其他国家一直都有类似的扭转机构\n但似乎全世界只有一个国家有专业的反扭转机构志愿者… https://t.co/OZDvQVTrUd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055912079488651547",
+        "created_at": "2026-05-17T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055912079488651547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2055911700327797056",
+              "start": 57,
+              "url": "https://t.co/OZDvQVTrUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055912079488651547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055911700327797056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个冷知识…\n其实中国美国以及其他国家一直都有类似的扭转机构\n但似乎全世界只有一个国家有专业的反扭转机构志愿者… https://t.co/OZDvQVTrUd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2055851717158449605",
+        "created_at": "2026-05-17T07:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055911700327797056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 23,
+              "id": "1723532985679704064",
+              "start": 14,
+              "username": "HFRin_CN"
+            },
+            {
+              "end": 40,
+              "id": "1843201902550634496",
+              "start": 24,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055911700327797056",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055865907511972270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle @HFRin_CN @LwrDHYyuxR22499 与此同时美国准备建Detransition Clinic，这下真东升西降了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5112,
+          "following_count": 2823,
+          "like_count": 2813,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2771
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 891,
+          "like_count": 13371,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 7060
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      }
+    ]
+  }
+}

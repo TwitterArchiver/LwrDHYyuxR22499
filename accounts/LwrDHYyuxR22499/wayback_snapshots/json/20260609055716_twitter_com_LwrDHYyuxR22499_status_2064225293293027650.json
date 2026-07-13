@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2064225293293027650",
+    "created_at": "2026-06-09T05:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064225293293027650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540698144429596673",
+          "start": 3,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064225293293027650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064040272342798391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y2D80355: 朋友，当你天天在推上天天给人扣帽子的时候有没有想过个问题，你为什么要反对清蒸\n是为反对恶俗的挂人，反对人身攻击，希望有一个更纯洁的社群环境\n还是单纯因为这样的组织不能为自己所用\n再换句话问吧\n如果有一个组织，完全是清蒸的镜像，上面天天挂各种三好跨老保…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2064225293293027650",
+        "created_at": "2026-06-09T05:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225293293027650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540698144429596673",
+              "start": 3,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225293293027650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064040272342798391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y2D80355: 朋友，当你天天在推上天天给人扣帽子的时候有没有想过个问题，你为什么要反对清蒸\n是为反对恶俗的挂人，反对人身攻击，希望有一个更纯洁的社群环境\n还是单纯因为这样的组织不能为自己所用\n再换句话问吧\n如果有一个组织，完全是清蒸的镜像，上面天天挂各种三好跨老保…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2064040272342798391",
+        "created_at": "2026-06-08T17:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064040272342798391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064040272342798391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1826,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朋友，当你天天在推上天天给人扣帽子的时候有没有想过个问题，你为什么要反对清蒸\n是为反对恶俗的挂人，反对人身攻击，希望有一个更纯洁的社群环境\n还是单纯因为这样的组织不能为自己所用\n再换句话问吧\n如果有一个组织，完全是清蒸的镜像，上面天天挂各种三好跨老保跨，甚至人身攻击开盒\n你会加入吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 3116,
+          "like_count": 3193,
+          "listed_count": 19,
+          "media_count": 448,
+          "tweet_count": 2977
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 777,
+          "like_count": 6153,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 5924
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2075615178054418718",
+    "created_at": "2026-07-10T16:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075619281094729924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075619281094729924",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075615178054418718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做出一个预测\n随着现在主流媒体\n以及司法体系的介入打击曝光\n民众对此类机构的恶劣形象逐渐有普遍意识\n真正触犯刑法的警送生会被送到专门学校去\n只有不能生育的“性少数”在没犯法\n的同时\n又被家长视为即使“受点苦”\n也必须扭转的目标而进行迫害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2075615178054418718",
+        "created_at": "2026-07-10T16:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075619281094729924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075619281094729924",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075615178054418718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做出一个预测\n随着现在主流媒体\n以及司法体系的介入打击曝光\n民众对此类机构的恶劣形象逐渐有普遍意识\n真正触犯刑法的警送生会被送到专门学校去\n只有不能生育的“性少数”在没犯法\n的同时\n又被家长视为即使“受点苦”\n也必须扭转的目标而进行迫害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2075615178054418718",
+        "created_at": "2026-07-10T16:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075615178054418718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2075561320527941776",
+              "start": 138,
+              "url": "https://t.co/pE9W9up1Ek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075615178054418718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 174,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075561320527941776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这分明是冲着性少数群体来的一把充满恶意的刀子，\n利用中国家长的恐慌制造焦虑，逼迫家长做出错误的选择。\n不知道有多少性少数者，本应自由自在的活着或就诊\n最后却被这类矩阵影响，被家长送进矫正学校强奸虐待\n这是哪的校长，\n被我们打得没生源了？\n被你王爹知道了第一个干死你把你送进去 https://t.co/pE9W9up1Ek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6268,
+          "following_count": 3330,
+          "like_count": 3778,
+          "listed_count": 19,
+          "media_count": 496,
+          "tweet_count": 3403
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

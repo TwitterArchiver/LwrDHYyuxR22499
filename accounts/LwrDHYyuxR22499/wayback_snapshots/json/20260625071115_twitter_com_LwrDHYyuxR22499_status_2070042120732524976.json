@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068880801320804521",
+    "created_at": "2026-06-25T07:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070042120732524976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705623315170369536",
+          "start": 0,
+          "username": "mkc447108883371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070042120732524976",
+    "in_reply_to_user_id": "1705623315170369536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070030000770961781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkc447108883371 希望这位网友在确认事情真实性后可以给被起诉的人捐点律师费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068880801320804521",
+        "created_at": "2026-06-25T07:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070042120732524976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705623315170369536",
+              "start": 0,
+              "username": "mkc447108883371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070042120732524976",
+        "in_reply_to_user_id": "1705623315170369536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070030000770961781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkc447108883371 希望这位网友在确认事情真实性后可以给被起诉的人捐点律师费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705623315170369536",
+        "conversation_id": "2068880801320804521",
+        "created_at": "2026-06-25T06:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070030000770961781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070030000770961781",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070029436142137807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 也不知道该说些什么，总之感谢你一直以来的付出🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6013,
+          "following_count": 3259,
+          "like_count": 3505,
+          "listed_count": 19,
+          "media_count": 470,
+          "tweet_count": 3156
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T16:41:08.000Z",
+        "description": "A mortal",
+        "id": "1705623315170369536",
+        "name": "1ich",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069991053105696768/dhAKMM2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 43,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "mkc447108883371",
+        "verified": false
+      }
+    ]
+  }
+}

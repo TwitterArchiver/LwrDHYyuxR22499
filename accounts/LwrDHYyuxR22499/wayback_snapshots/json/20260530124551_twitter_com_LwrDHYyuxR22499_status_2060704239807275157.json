@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060704236300877825",
+        "3_2060704236326023168"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2060704239807275157",
+    "created_at": "2026-05-30T12:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060704239807275157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s9vuSx4QNn",
+          "end": 135,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060704239807275157/photo/1",
+          "media_key": "3_2060704236300877825",
+          "start": 112,
+          "url": "https://t.co/s9vuSx4QNn"
+        },
+        {
+          "display_url": "pic.x.com/s9vuSx4QNn",
+          "end": 135,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060704239807275157/photo/1",
+          "media_key": "3_2060704236326023168",
+          "start": 112,
+          "url": "https://t.co/s9vuSx4QNn"
+        },
+        {
+          "display_url": "x.com/nnxjing1/statu…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/nnxjing1/status/2051819427633725858",
+          "start": 136,
+          "url": "https://t.co/B6tAB7i2uL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060704239807275157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051819427633725858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该案后续仍在推进，我们在组建受害者及其家长进行举报以及抗议活动。目前市场管理局已对其进行16万元罚款，并将其强制驱逐。\n\n不要让我觉得我有必要盯上你。\n也不要让我知道你在哪里绑架别人，不然等着你们只有赔钱卷铺盖滚一个下场。 https://t.co/s9vuSx4QNn https://t.co/B6tAB7i2uL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2060704236300877825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkXlbfbQAE1YE7.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2060704236326023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkXlbla8AA3Xj9.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060704236300877825",
+            "3_2060704236326023168"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060704239807275157",
+        "created_at": "2026-05-30T12:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060704239807275157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9vuSx4QNn",
+              "end": 135,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060704239807275157/photo/1",
+              "media_key": "3_2060704236300877825",
+              "start": 112,
+              "url": "https://t.co/s9vuSx4QNn"
+            },
+            {
+              "display_url": "pic.x.com/s9vuSx4QNn",
+              "end": 135,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2060704239807275157/photo/1",
+              "media_key": "3_2060704236326023168",
+              "start": 112,
+              "url": "https://t.co/s9vuSx4QNn"
+            },
+            {
+              "display_url": "x.com/nnxjing1/statu…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/nnxjing1/status/2051819427633725858",
+              "start": 136,
+              "url": "https://t.co/B6tAB7i2uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704239807275157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819427633725858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该案后续仍在推进，我们在组建受害者及其家长进行举报以及抗议活动。目前市场管理局已对其进行16万元罚款，并将其强制驱逐。\n\n不要让我觉得我有必要盯上你。\n也不要让我知道你在哪里绑架别人，不然等着你们只有赔钱卷铺盖滚一个下场。 https://t.co/s9vuSx4QNn https://t.co/B6tAB7i2uL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559071293957255168",
+        "conversation_id": "2051819427633725858",
+        "created_at": "2026-05-06T00:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051819427633725858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1822200301345980416",
+              "start": 12,
+              "username": "shiyaoshiwo"
+            },
+            {
+              "end": 57,
+              "id": "1843201902550634496",
+              "start": 41,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051819427633725858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 55953,
+          "like_count": 202,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "紧急求助：17岁未成年（@shiyaoshiwo ）被戒网瘾学校强行带走拘禁\n \n@LwrDHYyuxR22499 请您帮忙救助\n \n一位17岁未成年人（因抑郁症焦虑症暂时休学在家），于4月7日在于我们视频通话时，被戒网瘾学校人员上门强行带走（视频里向我们求助但是被夺取手机并关机），目前已经失联"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 3027,
+          "like_count": 3069,
+          "listed_count": 19,
+          "media_count": 433,
+          "tweet_count": 2901
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:55:45.000Z",
+        "description": "出厂日期（已过保）：2007.9.25 mt（？）169/110 发疯和分享日常，🚪30000美金，过门可以聊天，可以打游戏",
+        "id": "1559071293957255168",
+        "location": "桥洞下",
+        "name": "板猫🍥",
+        "pinned_tweet_id": "2053889210416038347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993288174580498432/GvAMVLEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 202,
+          "like_count": 228,
+          "listed_count": 5,
+          "media_count": 111,
+          "tweet_count": 542
+        },
+        "username": "nnxjing1",
+        "verified": false
+      }
+    ]
+  }
+}

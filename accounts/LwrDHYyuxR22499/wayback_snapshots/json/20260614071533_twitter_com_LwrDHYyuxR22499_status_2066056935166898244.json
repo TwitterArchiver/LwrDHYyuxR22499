@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066056865604337664",
+        "3_2066056867043061760",
+        "3_2066056882377420800",
+        "3_2066056857115070464"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2066056935166898244",
+    "created_at": "2026-06-14T07:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066056935166898244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sEqmJ79k7p",
+          "end": 73,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+          "media_key": "3_2066056865604337664",
+          "start": 50,
+          "url": "https://t.co/sEqmJ79k7p"
+        },
+        {
+          "display_url": "pic.x.com/sEqmJ79k7p",
+          "end": 73,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+          "media_key": "3_2066056867043061760",
+          "start": 50,
+          "url": "https://t.co/sEqmJ79k7p"
+        },
+        {
+          "display_url": "pic.x.com/sEqmJ79k7p",
+          "end": 73,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+          "media_key": "3_2066056882377420800",
+          "start": 50,
+          "url": "https://t.co/sEqmJ79k7p"
+        },
+        {
+          "display_url": "pic.x.com/sEqmJ79k7p",
+          "end": 73,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+          "media_key": "3_2066056857115070464",
+          "start": 50,
+          "url": "https://t.co/sEqmJ79k7p"
+        },
+        {
+          "display_url": "x.com/L8n9poqq/statu…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/L8n9poqq/status/2062033611336069232",
+          "start": 74,
+          "url": "https://t.co/fjWopQkhTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066056935166898244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062033611336069232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😎😎😎此案现已被全国各地主流媒体争相报道\n好像劲使大了啊\n热搜新闻都霸榜了\n果然当年的选择是正确的 https://t.co/sEqmJ79k7p https://t.co/fjWopQkhTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066056865604337664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbxdgagAAuMEt.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066056867043061760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbxi3bsAAgFwD.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066056882377420800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbyb_bcAA4TYE.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066056857115070464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwbw94akAAGDk4.jpg",
+        "width": 917
+      },
+      {
+        "duration_ms": 84933,
+        "height": 1280,
+        "media_key": "13_2062033539596722176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062033539596722176/img/ZTHp4kZw_2H1OCzq.jpg",
+        "public_metrics": {
+          "view_count": 19788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062033539596722176/vid/avc1/320x568/XbFFJAsx0urcqnsL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062033539596722176/vid/avc1/480x852/X1-XSDOhnVE6oxMD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062033539596722176/vid/avc1/720x1280/VxRO2EuJ5Vpnlm2W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062033539596722176/pl/UPaKjMFVclGsmzyc.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066056865604337664",
+            "3_2066056867043061760",
+            "3_2066056882377420800",
+            "3_2066056857115070464"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2066056935166898244",
+        "created_at": "2026-06-14T07:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066056935166898244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEqmJ79k7p",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+              "media_key": "3_2066056865604337664",
+              "start": 50,
+              "url": "https://t.co/sEqmJ79k7p"
+            },
+            {
+              "display_url": "pic.x.com/sEqmJ79k7p",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+              "media_key": "3_2066056867043061760",
+              "start": 50,
+              "url": "https://t.co/sEqmJ79k7p"
+            },
+            {
+              "display_url": "pic.x.com/sEqmJ79k7p",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+              "media_key": "3_2066056882377420800",
+              "start": 50,
+              "url": "https://t.co/sEqmJ79k7p"
+            },
+            {
+              "display_url": "pic.x.com/sEqmJ79k7p",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2066056935166898244/photo/1",
+              "media_key": "3_2066056857115070464",
+              "start": 50,
+              "url": "https://t.co/sEqmJ79k7p"
+            },
+            {
+              "display_url": "x.com/L8n9poqq/statu…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/L8n9poqq/status/2062033611336069232",
+              "start": 74,
+              "url": "https://t.co/fjWopQkhTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066056935166898244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062033611336069232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😎😎😎此案现已被全国各地主流媒体争相报道\n好像劲使大了啊\n热搜新闻都霸榜了\n果然当年的选择是正确的 https://t.co/sEqmJ79k7p https://t.co/fjWopQkhTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062033539596722176"
+          ]
+        },
+        "author_id": "1655914995409113088",
+        "conversation_id": "2062033611336069232",
+        "created_at": "2026-06-03T04:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062033611336069232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC46odA8HA",
+              "end": 159,
+              "expanded_url": "https://x.com/L8n9poqq/status/2062033611336069232/video/1",
+              "media_key": "13_2062033539596722176",
+              "start": 136,
+              "url": "https://t.co/EC46odA8HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062033611336069232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 31572,
+          "like_count": 169,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我们拍摄到了重庆知行一生教育咨询有限公司（运营名称“胤呈素质教育基地”）教官于5月2日公然殴打学员的证据，报案并得到重庆公安局南川分局的证实与立案。值得一提的是，该学员的父母以起诉威胁我们，称我们“侵犯其儿子隐私”，但谈到真正侵害他们儿子的故意伤害行为时，又称“该打”。 https://t.co/EC46odA8HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5637,
+          "following_count": 3143,
+          "like_count": 3219,
+          "listed_count": 18,
+          "media_count": 453,
+          "tweet_count": 3001
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T12:38:25.000Z",
+        "description": "社会志愿工作者，反“特训机构”、反邪教、反家暴\n战绩：\n作为报案人向警方提供重大线索协助侦破邪教组织，救出四十余人，头目尽数缉拿\n作为核心成员参与对特训机构“安康沁元博素质教育基地”的搜证、曝光、举报工作，使其关停并遣返三百余名学员\n作为核心成员参与七起“特训机构”个案营救，全部救出",
+        "id": "1655914995409113088",
+        "name": "精英白给分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022175928974299136/twMmrNFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 15,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "L8n9poqq",
+        "verified": false
+      }
+    ]
+  }
+}

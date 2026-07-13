@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2060718613687066819",
+    "created_at": "2026-05-30T13:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060718613687066819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RfbxaUauj41685…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/RfbxaUauj41685/status/2060583325820207483",
+          "start": 116,
+          "url": "https://t.co/AS21zOimd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060718613687066819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060583325820207483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "湘潭的专门学校全是把黑洗成白。\n早些年全是非法矫治机构，\n花钱买的资质\n压根谈不上专业性，也根本无法真正帮助青少年戒除成瘾问题。\n里面充斥着地痞流氓、三教九流，有偷拉车门的，有聚众打架的。还有不少性少数群体被送进来的\n进去包挨打的 https://t.co/AS21zOimd5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2060583314428411905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJipm2aaQAE-uhF.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2060718613687066819",
+        "created_at": "2026-05-30T13:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060718613687066819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RfbxaUauj41685…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/RfbxaUauj41685/status/2060583325820207483",
+              "start": 116,
+              "url": "https://t.co/AS21zOimd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060718613687066819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060583325820207483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "湘潭的专门学校全是把黑洗成白。\n早些年全是非法矫治机构，\n花钱买的资质\n压根谈不上专业性，也根本无法真正帮助青少年戒除成瘾问题。\n里面充斥着地痞流氓、三教九流，有偷拉车门的，有聚众打架的。还有不少性少数群体被送进来的\n进去包挨打的 https://t.co/AS21zOimd5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060583314428411905"
+          ]
+        },
+        "author_id": "2013517011729465344",
+        "conversation_id": "2060583325820207483",
+        "created_at": "2026-05-30T04:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060583325820207483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iezaNm5vCx",
+              "end": 23,
+              "expanded_url": "https://x.com/RfbxaUauj41685/status/2060583325820207483/photo/1",
+              "media_key": "3_2060583314428411905",
+              "start": 0,
+              "url": "https://t.co/iezaNm5vCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583325820207483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1355,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iezaNm5vCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 3028,
+          "like_count": 3076,
+          "listed_count": 19,
+          "media_count": 434,
+          "tweet_count": 2906
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 85,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

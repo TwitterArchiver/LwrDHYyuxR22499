@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063588039235096576"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2063583804477051301",
+    "created_at": "2026-06-07T11:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063588043026772220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1655758232420249602",
+          "start": 0,
+          "username": "Yutuanzi2375"
+        }
+      ],
+      "urls": [
+        {
+          "description": "文｜财新周刊 姚炜增（实习），范俏佳 暴力矫正机构带来了什么？有病的是谁？谁对子女们负责？谁又对这些机构负责？ 仁人教育在官方宣传视频中称，“经国家各级部门批准设立”，目的是“帮....",
+          "display_url": "view.inews.qq.com/k/20260408A04A…",
+          "end": 37,
+          "expanded_url": "https://view.inews.qq.com/k/20260408A04A1600",
+          "start": 14,
+          "status": 200,
+          "title": "花6万矫正“躺平”子女后：殴打致伤、暴力胁迫、打火机烧灼……谁给了他们“治病”的权力？_腾讯新闻",
+          "unwound_url": "https://news.qq.com/rain/a/20260408A04A1600?suid=&media_id=",
+          "url": "https://t.co/ESBPp2bmTT"
+        },
+        {
+          "display_url": "pic.x.com/DYkIKmtNIa",
+          "end": 61,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063588043026772220/photo/1",
+          "media_key": "3_2063588039235096576",
+          "start": 38,
+          "url": "https://t.co/DYkIKmtNIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063588043026772220",
+    "in_reply_to_user_id": "1655758232420249602",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063587628528841196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yutuanzi2375 https://t.co/ESBPp2bmTT https://t.co/DYkIKmtNIa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063588039235096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNWY2laUAADeWT.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063588039235096576"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2063583804477051301",
+        "created_at": "2026-06-07T11:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063588043026772220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1655758232420249602",
+              "start": 0,
+              "username": "Yutuanzi2375"
+            }
+          ],
+          "urls": [
+            {
+              "description": "文｜财新周刊 姚炜增（实习），范俏佳 暴力矫正机构带来了什么？有病的是谁？谁对子女们负责？谁又对这些机构负责？ 仁人教育在官方宣传视频中称，“经国家各级部门批准设立”，目的是“帮....",
+              "display_url": "view.inews.qq.com/k/20260408A04A…",
+              "end": 37,
+              "expanded_url": "https://view.inews.qq.com/k/20260408A04A1600",
+              "start": 14,
+              "status": 200,
+              "title": "花6万矫正“躺平”子女后：殴打致伤、暴力胁迫、打火机烧灼……谁给了他们“治病”的权力？_腾讯新闻",
+              "unwound_url": "https://news.qq.com/rain/a/20260408A04A1600?suid=&media_id=",
+              "url": "https://t.co/ESBPp2bmTT"
+            },
+            {
+              "display_url": "pic.x.com/DYkIKmtNIa",
+              "end": 61,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2063588043026772220/photo/1",
+              "media_key": "3_2063588039235096576",
+              "start": 38,
+              "url": "https://t.co/DYkIKmtNIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063588043026772220",
+        "in_reply_to_user_id": "1655758232420249602",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063587628528841196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yutuanzi2375 https://t.co/ESBPp2bmTT https://t.co/DYkIKmtNIa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655758232420249602",
+        "conversation_id": "2063583804477051301",
+        "created_at": "2026-06-07T11:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063587628528841196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063587628528841196",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063583804477051301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 文章没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 3108,
+          "like_count": 3188,
+          "listed_count": 19,
+          "media_count": 448,
+          "tweet_count": 2971
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T02:15:17.000Z",
+        "description": "167cm，55kg，00年，应该是比较大龄了吧，无证嗑药，6月5日开始吃糖🏳️‍⚧️ 关注我会互fo /可爱的妹妹🥰@zhengzheng03（号又寄了初始号@penp58）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zhengzheng03"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "username": "penp58"
+              }
+            ]
+          }
+        },
+        "id": "1655758232420249602",
+        "location": "在你心里",
+        "name": "芋团子🏳️‍⚧️",
+        "pinned_tweet_id": "1840936789017833803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704477413542158336/w8horUOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 982,
+          "like_count": 81379,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 4632
+        },
+        "username": "Yutuanzi2375",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2068880801320804521",
+    "created_at": "2026-06-22T08:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068973781314580696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824119613162139648",
+          "start": 0,
+          "username": "void__empress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068973781314580696",
+    "in_reply_to_user_id": "1824119613162139648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068973398320169121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@void__empress 😹😹😹事到如今\n已然是把我气笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2068973389029797888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ4Vd7bcAAnA0k.jpg",
+        "width": 1080
+      },
+      {
+        "height": 603,
+        "media_key": "3_2068973389038182400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ4Vd9bYAAFXLw.png",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068880801320804521",
+        "created_at": "2026-06-22T08:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068973781314580696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824119613162139648",
+              "start": 0,
+              "username": "void__empress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068973781314580696",
+        "in_reply_to_user_id": "1824119613162139648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068973398320169121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@void__empress 😹😹😹事到如今\n已然是把我气笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068973389029797888",
+            "3_2068973389038182400"
+          ]
+        },
+        "author_id": "1824119613162139648",
+        "conversation_id": "2068880801320804521",
+        "created_at": "2026-06-22T08:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068973398320169121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KA32y0Kytm",
+              "end": 40,
+              "expanded_url": "https://x.com/void__empress/status/2068973398320169121/photo/1",
+              "media_key": "3_2068973389029797888",
+              "start": 17,
+              "url": "https://t.co/KA32y0Kytm"
+            },
+            {
+              "display_url": "pic.x.com/KA32y0Kytm",
+              "end": 40,
+              "expanded_url": "https://x.com/void__empress/status/2068973398320169121/photo/1",
+              "media_key": "3_2068973389038182400",
+              "start": 17,
+              "url": "https://t.co/KA32y0Kytm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068973398320169121",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068880801320804521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 https://t.co/KA32y0Kytm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5939,
+          "following_count": 3201,
+          "like_count": 3428,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3104
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:23:09.000Z",
+        "description": "第七星界之主",
+        "id": "1824119613162139648",
+        "location": "第七星界",
+        "name": "资本家（恩师罗龙飞，白柳元）",
+        "pinned_tweet_id": "2067293416694923490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042842369440272384/PHRXjLTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 682,
+          "like_count": 8987,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 4250
+        },
+        "url": "",
+        "username": "void__empress",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2061637233636204771",
+    "created_at": "2026-06-02T08:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061732691934888018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867596733884379136",
+          "start": 0,
+          "username": "VmikufansV"
+        },
+        {
+          "end": 24,
+          "id": "1494669485214633984",
+          "start": 12,
+          "username": "Nu1tZ333216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061732691934888018",
+    "in_reply_to_user_id": "1867596733884379136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061637233636204771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VmikufansV @Nu1tZ333216 选择多如牛毛，后果自行承担…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "by:@mia28828",
+        "height": 1722,
+        "media_key": "3_2061637230104649728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxoI0QboAAKa4S.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1722,
+        "media_key": "3_2061637230150713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxoI0bagAAcg8B.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2061637233636204771",
+        "created_at": "2026-06-02T08:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061732691934888018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867596733884379136",
+              "start": 0,
+              "username": "VmikufansV"
+            },
+            {
+              "end": 24,
+              "id": "1494669485214633984",
+              "start": 12,
+              "username": "Nu1tZ333216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061732691934888018",
+        "in_reply_to_user_id": "1867596733884379136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061637233636204771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VmikufansV @Nu1tZ333216 选择多如牛毛，后果自行承担…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061637230104649728",
+            "3_2061637230150713344"
+          ]
+        },
+        "author_id": "1867596733884379136",
+        "conversation_id": "2061637233636204771",
+        "created_at": "2026-06-02T02:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061637233636204771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCYIRmdYab",
+              "end": 35,
+              "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+              "media_key": "3_2061637230104649728",
+              "start": 12,
+              "url": "https://t.co/OCYIRmdYab"
+            },
+            {
+              "display_url": "pic.x.com/OCYIRmdYab",
+              "end": 35,
+              "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+              "media_key": "3_2061637230150713344",
+              "start": 12,
+              "url": "https://t.co/OCYIRmdYab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061637233636204771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1328,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "飞升类固醇星球的两种人 https://t.co/OCYIRmdYab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5436,
+          "following_count": 3074,
+          "like_count": 3125,
+          "listed_count": 19,
+          "media_count": 440,
+          "tweet_count": 2934
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A丨\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 232,
+          "like_count": 737,
+          "listed_count": 5,
+          "media_count": 949,
+          "tweet_count": 4956
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？      航天/交通/地理/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 混沌中立 已去键政化......                  夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 139,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 116,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "Nu1tZ.",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1706,
+          "like_count": 76791,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 4643
+        },
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

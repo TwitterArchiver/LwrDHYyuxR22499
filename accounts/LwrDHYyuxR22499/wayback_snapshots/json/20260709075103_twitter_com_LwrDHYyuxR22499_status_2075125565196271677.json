@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2074824268987457918",
+    "created_at": "2026-07-09T07:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075125565196271677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072208739281866752",
+          "start": 0,
+          "username": "jingzi6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075125565196271677",
+    "in_reply_to_user_id": "2072208739281866752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075007785054646674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi6666 一贱畜天天闲得蛋疼满世界溜达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074824268987457918",
+        "created_at": "2026-07-09T07:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075125565196271677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072208739281866752",
+              "start": 0,
+              "username": "jingzi6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075125565196271677",
+        "in_reply_to_user_id": "2072208739281866752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075007785054646674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi6666 一贱畜天天闲得蛋疼满世界溜达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072208739281866752",
+        "conversation_id": "2074824268987457918",
+        "created_at": "2026-07-09T00:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075007785054646674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075007785054646674",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074824268987457918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 王宇航是谁🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6257,
+          "following_count": 3321,
+          "like_count": 3755,
+          "listed_count": 19,
+          "media_count": 493,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T06:42:47.000Z",
+        "description": "176/70，超大只🙂\n90后江苏农村贫苦小药娘🥲\n靠打零工，做脱毛，卖雌二醇维生😮‍💨\n一把年纪，没钱还幻想有朝一日去泰国SRS🙂‍↕️",
+        "id": "2072208739281866752",
+        "name": "京子🍥（糖商）",
+        "pinned_tweet_id": "2073341408740884941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073338424229240833/qrruTRLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 158,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "jingzi6666",
+        "verified": false
+      }
+    ]
+  }
+}

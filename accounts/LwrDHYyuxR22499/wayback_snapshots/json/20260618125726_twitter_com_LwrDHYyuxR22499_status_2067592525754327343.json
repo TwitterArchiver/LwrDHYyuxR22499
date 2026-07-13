@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067588052088758695",
+    "created_at": "2026-06-18T12:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592525754327343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592525754327343",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067590876856193234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger 😁为软弱找借口的话总是不缺乏的\n问题在于他们可以形成一个组织迫害\n但为什么没一个组织报复呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067588052088758695",
+        "created_at": "2026-06-18T12:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592525754327343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592525754327343",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067590876856193234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger 😁为软弱找借口的话总是不缺乏的\n问题在于他们可以形成一个组织迫害\n但为什么没一个组织报复呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2067588052088758695",
+        "created_at": "2026-06-18T12:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067590876856193234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067590876856193234",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067588052088758695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你说的是那个还在准备中考的小朋友吧？这个年纪的人，只要不是比较混的一般，大部分精力都在考试上了，哪有时间想这些…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 3170,
+          "like_count": 3256,
+          "listed_count": 18,
+          "media_count": 458,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 769,
+          "like_count": 24096,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 10791
+        },
+        "url": "",
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

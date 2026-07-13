@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075196959619710976"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2075197036006457468",
+    "created_at": "2026-07-09T12:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075197036006457468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lkzxvPgebQ",
+          "end": 172,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2075197036006457468/video/1",
+          "media_key": "13_2075196959619710976",
+          "start": 149,
+          "url": "https://t.co/lkzxvPgebQ"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2071813744343368137",
+          "start": 173,
+          "url": "https://t.co/p5QVyBAznF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075197036006457468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071813744343368137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026/7/6，《四川法制报》曝光此前被我们以及其他媒体多次曝光过的“重庆赋苗”\n与此前有所不同的是《四川法制报》本次直接呼吁：要的不是一份停业通报，而是刑事立案\n对组织者以非法拘禁罪追究刑责\n接下来还会有更多法治栏目报道跟团\n直到促进立法执法\n让这些人意识到作恶要付出代价\n这下又言出法随了😋 https://t.co/lkzxvPgebQ https://t.co/p5QVyBAznF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 91393,
+        "height": 1280,
+        "media_key": "13_2075196959619710976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075196959619710976/img/WTY8m9Aomzzjdvck.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075196959619710976/vid/avc1/320x568/qRrX-PonmzIAN-fu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075196959619710976/vid/avc1/480x852/6CwUUGuQ5vJlP3sH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075196959619710976/vid/avc1/720x1280/D5-g_Uv587V7S_6q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075196959619710976/pl/4LRPq93zbk7RjpwA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075196959619710976"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2075197036006457468",
+        "created_at": "2026-07-09T12:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075197036006457468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkzxvPgebQ",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2075197036006457468/video/1",
+              "media_key": "13_2075196959619710976",
+              "start": 149,
+              "url": "https://t.co/lkzxvPgebQ"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2071813744343368137",
+              "start": 173,
+              "url": "https://t.co/p5QVyBAznF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075197036006457468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071813744343368137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/7/6，《四川法制报》曝光此前被我们以及其他媒体多次曝光过的“重庆赋苗”\n与此前有所不同的是《四川法制报》本次直接呼吁：要的不是一份停业通报，而是刑事立案\n对组织者以非法拘禁罪追究刑责\n接下来还会有更多法治栏目报道跟团\n直到促进立法执法\n让这些人意识到作恶要付出代价\n这下又言出法随了😋 https://t.co/lkzxvPgebQ https://t.co/p5QVyBAznF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2071813744343368137",
+        "created_at": "2026-06-30T04:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071813744343368137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071813744343368137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5514,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🥰我觉得接下来要把开机构入刑法\n这个标准提起来\n有赞同的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6261,
+          "following_count": 3322,
+          "like_count": 3761,
+          "listed_count": 19,
+          "media_count": 495,
+          "tweet_count": 3385
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

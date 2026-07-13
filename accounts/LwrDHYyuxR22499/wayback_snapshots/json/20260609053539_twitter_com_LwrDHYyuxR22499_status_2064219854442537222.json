@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2064216633967829035",
+    "created_at": "2026-06-09T05:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064219854442537222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048045804959436800",
+          "start": 0,
+          "username": "shifengshua0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064219854442537222",
+    "in_reply_to_user_id": "2048045804959436800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064216633967829035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shifengshua0717 不挺好的我巴不得没人管我\n虽然我也得到这个结果了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2064216631128236032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWSFt3aIAAs01U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2064216633967829035",
+        "created_at": "2026-06-09T05:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064219854442537222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048045804959436800",
+              "start": 0,
+              "username": "shifengshua0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064219854442537222",
+        "in_reply_to_user_id": "2048045804959436800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064216633967829035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shifengshua0717 不挺好的我巴不得没人管我\n虽然我也得到这个结果了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064216631128236032"
+          ]
+        },
+        "author_id": "2048045804959436800",
+        "conversation_id": "2064216633967829035",
+        "created_at": "2026-06-09T05:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064216633967829035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffouxWxCpW",
+              "end": 135,
+              "expanded_url": "https://x.com/shifengshua0717/status/2064216633967829035/photo/1",
+              "media_key": "3_2064216631128236032",
+              "start": 112,
+              "url": "https://t.co/ffouxWxCpW"
+            },
+            {
+              "display_url": "x.com/shifengshua071…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/shifengshua0717/status/2063582159416459485",
+              "start": 136,
+              "url": "https://t.co/chnptoYYib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064216633967829035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063582159416459485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真完了，原本就和家里人关系冷淡，家长这个后勤也总是迟到。现在被警察找上门一次后，和家里人的关系已经废了。老爸把我当空气，这真绷不住了。\n以现在的情形来看，我老爸大概是把希望寄托给小我11岁的妹妹了，总之我是真tm完了。 https://t.co/ffouxWxCpW https://t.co/chnptoYYib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 3116,
+          "like_count": 3192,
+          "listed_count": 19,
+          "media_count": 448,
+          "tweet_count": 2976
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "做伟大事情的唯一方法就是热爱你所做的事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfsa.mrgzs.top",
+                "end": 23,
+                "expanded_url": "https://sfsa.mrgzs.top",
+                "start": 0,
+                "url": "https://t.co/TkxUTTp1Rs"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "location": "Hong Kong",
+        "name": "枫书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 13,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/TkxUTTp1Rs",
+        "username": "shifengshua0717",
+        "verified": false
+      }
+    ]
+  }
+}

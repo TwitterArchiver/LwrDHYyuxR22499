@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2058064036542173556",
+    "created_at": "2026-05-23T05:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058064036542173556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942136939735560192",
+          "start": 3,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058064036542173556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058060164159463509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @picxis63594: 本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2058064036542173556",
+        "created_at": "2026-05-23T05:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058064036542173556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942136939735560192",
+              "start": 3,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058064036542173556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058060164159463509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @picxis63594: 本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2058060164159463509",
+        "created_at": "2026-05-23T05:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058060164159463509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058060164159463509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "本人因为违背父母的意愿进行跨性别激素替代治疗，\n曾经无病非自愿强制入院山东省精卫两个月；\n并且被在无任何精神疾病的状况下被迫服用艾司西酞普兰，奥氮平，丙戊酸镁。\n今二度被强制入院。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5268,
+          "following_count": 2936,
+          "like_count": 2893,
+          "listed_count": 19,
+          "media_count": 420,
+          "tweet_count": 2835
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/hrt 2026.4.22/互fo喵！陪咱聊天喵",
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "无人机潜水_SubDrone🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 183,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

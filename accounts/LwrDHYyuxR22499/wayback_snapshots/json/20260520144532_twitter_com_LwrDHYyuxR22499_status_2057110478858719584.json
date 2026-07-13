@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2057102932550852672",
+    "created_at": "2026-05-20T14:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057110478858719584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1518525034704236544",
+          "start": 0,
+          "username": "museyutang2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057110478858719584",
+    "in_reply_to_user_id": "1518525034704236544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057110332536172832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@museyutang2 准备好你的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057102932550852672",
+        "created_at": "2026-05-20T14:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057110478858719584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1518525034704236544",
+              "start": 0,
+              "username": "museyutang2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057110478858719584",
+        "in_reply_to_user_id": "1518525034704236544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057110332536172832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@museyutang2 准备好你的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518525034704236544",
+        "conversation_id": "2057102932550852672",
+        "created_at": "2026-05-20T14:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057110332536172832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057110332536172832",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057102932550852672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5224,
+          "following_count": 2886,
+          "like_count": 2847,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2806
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T09:39:28.000Z",
+        "description": "作者P站主页指路：https://t.co/tYtBahOMWw\n\n这是一个忙着臭写文和赚钱的人，有意者可以联系作者，其余详情请看pixiv主页内容。他做人做事都很无聊。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42411586",
+                "end": 32,
+                "expanded_url": "https://www.pixiv.net/users/42411586",
+                "start": 9,
+                "url": "https://t.co/tYtBahOMWw"
+              }
+            ]
+          }
+        },
+        "id": "1518525034704236544",
+        "name": "暮色鱼汤（P站写手，接定制文约稿委托）",
+        "pinned_tweet_id": "1574736680702967809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974797077780586496/FpmksnhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 6721,
+          "like_count": 35956,
+          "listed_count": 10,
+          "media_count": 9,
+          "tweet_count": 46843
+        },
+        "username": "museyutang2",
+        "verified": false
+      }
+    ]
+  }
+}

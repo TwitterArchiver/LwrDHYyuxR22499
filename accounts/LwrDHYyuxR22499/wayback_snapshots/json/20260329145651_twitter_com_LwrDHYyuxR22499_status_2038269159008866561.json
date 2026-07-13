@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2038269159008866561",
+    "created_at": "2026-03-29T14:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038269159008866561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038266666614943939",
+          "start": 145,
+          "url": "https://t.co/vLGzogANPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038269159008866561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038266666614943939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "若是说到底，我也痛恨这样的世界、这样的网络环境。\n一个人，哪怕已经离世，或是正在遭受迫害\n都只能被迫隐去真实身份，才能换来一点点关注与同情这让就让我无比煎熬\n可两害相权取其轻\n唯有这样做才能救下一个十个、百个千个同样身处险境的人\n世界为什么会这样呢?\n我也不知道…\n我只知道这已经是上策了 https://t.co/vLGzogANPg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038269159008866561",
+        "created_at": "2026-03-29T14:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038269159008866561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038266666614943939",
+              "start": 145,
+              "url": "https://t.co/vLGzogANPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038269159008866561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038266666614943939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "若是说到底，我也痛恨这样的世界、这样的网络环境。\n一个人，哪怕已经离世，或是正在遭受迫害\n都只能被迫隐去真实身份，才能换来一点点关注与同情这让就让我无比煎熬\n可两害相权取其轻\n唯有这样做才能救下一个十个、百个千个同样身处险境的人\n世界为什么会这样呢?\n我也不知道…\n我只知道这已经是上策了 https://t.co/vLGzogANPg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038266666614943939",
+        "created_at": "2026-03-29T14:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038266666614943939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurabaEma_IT…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2037972354014605383",
+              "start": 136,
+              "url": "https://t.co/ytg0UdZPVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038266666614943939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 163,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037972354014605383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多时候不敢直白说出他们跨性别的身份。\n一旦点明评论区的态度就会瞬间反转\n从原本的同情、关照与共情，\n变成清一色的嘲讽、讥讽，甚至是对逝者的恶意攻击。\n不止一次，仅仅因为提及受害者是跨性别，\n就会被卷入网暴\n这不是任何人想看到的局面\n若问为什么会变成这样，\n我也答不上来 https://t.co/ytg0UdZPVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 2299,
+          "like_count": 2206,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2429
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

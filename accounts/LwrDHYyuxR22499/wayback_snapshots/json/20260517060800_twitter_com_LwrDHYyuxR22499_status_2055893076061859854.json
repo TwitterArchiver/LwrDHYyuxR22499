@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055893067950120960",
+        "3_2055893068243714048"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2055893076061859854",
+    "created_at": "2026-05-17T06:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055893076061859854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcrrEDAYmy",
+          "end": 77,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+          "media_key": "3_2055893067950120960",
+          "start": 54,
+          "url": "https://t.co/qcrrEDAYmy"
+        },
+        {
+          "display_url": "pic.x.com/qcrrEDAYmy",
+          "end": 77,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+          "media_key": "3_2055893068243714048",
+          "start": 54,
+          "url": "https://t.co/qcrrEDAYmy"
+        },
+        {
+          "display_url": "x.com/HFRin_CN/statu…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/HFRin_CN/status/2055851717158449605",
+          "start": 78,
+          "url": "https://t.co/rqCoDvGoWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055893076061859854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055851717158449605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充一下更为重要的两条信息，这两条才是明确规定：禁止任何组织还有个人以任何方式、名义开展不良行为矫正活动。 https://t.co/qcrrEDAYmy https://t.co/rqCoDvGoWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2055893067950120960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf_2kta4AAP2mo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1324,
+        "media_key": "3_2055893068243714048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf_2lzawAAWTld.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055851708585213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfaPJEaAAAKfFl.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055851708543373312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfaPI6bkAAbk1n.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055893067950120960",
+            "3_2055893068243714048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055893076061859854",
+        "created_at": "2026-05-17T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055893076061859854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 77,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893067950120960",
+              "start": 54,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 77,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893068243714048",
+              "start": 54,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "x.com/HFRin_CN/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/HFRin_CN/status/2055851717158449605",
+              "start": 78,
+              "url": "https://t.co/rqCoDvGoWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055893076061859854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851717158449605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下更为重要的两条信息，这两条才是明确规定：禁止任何组织还有个人以任何方式、名义开展不良行为矫正活动。 https://t.co/qcrrEDAYmy https://t.co/rqCoDvGoWK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055851708585213952",
+            "3_2055851708543373312"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "conversation_id": "2055851717158449605",
+        "created_at": "2026-05-17T03:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055851717158449605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ5TvZtQEE",
+              "end": 67,
+              "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+              "media_key": "3_2055851708585213952",
+              "start": 44,
+              "url": "https://t.co/qQ5TvZtQEE"
+            },
+            {
+              "display_url": "pic.x.com/qQ5TvZtQEE",
+              "end": 67,
+              "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+              "media_key": "3_2055851708543373312",
+              "start": 44,
+              "url": "https://t.co/qQ5TvZtQEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055851717158449605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16610,
+          "like_count": 150,
+          "quote_count": 13,
+          "reply_count": 22,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "5月30日开始，四川省全面禁止戒网瘾类似机构，明确规定不得强迫未成年人进行不适合的劳动 https://t.co/qQ5TvZtQEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5107,
+          "following_count": 2820,
+          "like_count": 2808,
+          "listed_count": 19,
+          "media_count": 416,
+          "tweet_count": 2769
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007.10/大一在读/165-46kg/已有对象/欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgdbbx"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "不明",
+        "name": "HFRin🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052322043283259392/ncPV9icw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 210,
+          "like_count": 2419,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/N9WRdgdbbx",
+        "username": "HFRin_CN",
+        "verified": false
+      }
+    ]
+  }
+}

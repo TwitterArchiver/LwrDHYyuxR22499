@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2062217278050238682",
+    "created_at": "2026-06-03T16:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062217278050238682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhh1650192/sta…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/hhh1650192/status/2062214404566057235",
+          "start": 106,
+          "url": "https://t.co/Ez6rj2Nx7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062217278050238682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062214404566057235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的身份也太多啦…\n你跨说我是国安线人，大外宣，诈骗犯\n墙内小粉红建制派因为BBC的事又说我是走狗汉奸境外势力\n反贼又说我是共匪\n而你我的朋友到你嘴里我又成反贼了\n看来在这个时代只要你想做点事情\n帽子总是难免的 https://t.co/Ez6rj2Nx7d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2062217278050238682",
+        "created_at": "2026-06-03T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062217278050238682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhh1650192/sta…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/hhh1650192/status/2062214404566057235",
+              "start": 106,
+              "url": "https://t.co/Ez6rj2Nx7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217278050238682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062214404566057235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的身份也太多啦…\n你跨说我是国安线人，大外宣，诈骗犯\n墙内小粉红建制派因为BBC的事又说我是走狗汉奸境外势力\n反贼又说我是共匪\n而你我的朋友到你嘴里我又成反贼了\n看来在这个时代只要你想做点事情\n帽子总是难免的 https://t.co/Ez6rj2Nx7d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020277992250044417",
+        "conversation_id": "2062192602569695259",
+        "created_at": "2026-06-03T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062214404566057235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062214404566057235",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062192602569695259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你们这些反贼真死🐴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 3080,
+          "like_count": 3152,
+          "listed_count": 19,
+          "media_count": 442,
+          "tweet_count": 2948
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T23:26:35.000Z",
+        "description": "",
+        "id": "2020277992250044417",
+        "name": "hhh",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 213,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 366
+        },
+        "username": "hhh1650192",
+        "verified": false
+      }
+    ]
+  }
+}

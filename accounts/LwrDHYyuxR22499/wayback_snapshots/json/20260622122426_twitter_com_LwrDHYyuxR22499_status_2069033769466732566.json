@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2069029860635455613",
+    "created_at": "2026-06-22T12:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069033769466732566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1838527847570509826",
+          "start": 0,
+          "username": "CLK5601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069033769466732566",
+    "in_reply_to_user_id": "1838527847570509826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069032662250213748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CLK5601 对不起我认为这可算不上\n两者有很明显的差异\n一个是“我目前见过”\n一个是我见过一两个所有我觉得都是\n我对你的建议表示采纳\n但我同样对能把这句话误解成地图炮的人表示应该进修一下思考方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2069029860635455613",
+        "created_at": "2026-06-22T12:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069033769466732566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1838527847570509826",
+              "start": 0,
+              "username": "CLK5601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033769466732566",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069032662250213748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLK5601 对不起我认为这可算不上\n两者有很明显的差异\n一个是“我目前见过”\n一个是我见过一两个所有我觉得都是\n我对你的建议表示采纳\n但我同样对能把这句话误解成地图炮的人表示应该进修一下思考方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2069029860635455613",
+        "created_at": "2026-06-22T12:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069032662250213748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069032662250213748",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069031759392788577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 “明显”是当然的，毕竟都用上“全部都是”了\n你要是认为这都不是地图炮，那“图纸”什么的也不算地图炮了\n全天下的当然没有直接说明，但是当用到了“全部都是”这种带有明确极端化的词语的时候，就是可能被人误解\n这种由于误解导致的骂战相信也经历过不少了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 3210,
+          "like_count": 3442,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3113
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14\n不追求互fo，一般是fo感兴趣或喜欢的人（但是因为感兴趣的太多，看不过来）",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 1579,
+          "like_count": 2916,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "CLK5601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2062598435854012755",
+    "created_at": "2026-06-04T18:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062598435854012755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyobewild/sta…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/yoyobewild/status/2062582048561521134",
+          "start": 146,
+          "url": "https://t.co/01Iond5hxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062598435854012755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062582048561521134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "掌握他人生死的瘾是最强烈的\n许多孩子在里面混着混着就认同了力勉弱肉强食的理念\n最终加入施暴者的行列\n甚至不愿再离开\n最终成为班长助教甚至应聘为教官\n当一个曾经受过羞辱伤害的人\n得到了权力\n他会做什么?他反而会加倍的欺负向他曾经一样的人\n到这一步这个人才算是真正的改变了\n因为他爱上了这份暴力 https://t.co/01Iond5hxs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062598435854012755",
+        "created_at": "2026-06-04T18:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062598435854012755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyobewild/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/yoyobewild/status/2062582048561521134",
+              "start": 146,
+              "url": "https://t.co/01Iond5hxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062598435854012755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062582048561521134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掌握他人生死的瘾是最强烈的\n许多孩子在里面混着混着就认同了力勉弱肉强食的理念\n最终加入施暴者的行列\n甚至不愿再离开\n最终成为班长助教甚至应聘为教官\n当一个曾经受过羞辱伤害的人\n得到了权力\n他会做什么?他反而会加倍的欺负向他曾经一样的人\n到这一步这个人才算是真正的改变了\n因为他爱上了这份暴力 https://t.co/01Iond5hxs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2062582048561521134",
+        "created_at": "2026-06-04T17:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062582048561521134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2062050203453251607",
+              "start": 58,
+              "url": "https://t.co/J0M8wyHn4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062582048561521134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062050203453251607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我常常会觉得这些所谓的“教官”在这片小王国里已经上了瘾，出了这个地方，他们再不敢感受到如此直观又强烈的权力的滋味。 https://t.co/J0M8wyHn4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5482,
+          "following_count": 3087,
+          "like_count": 3167,
+          "listed_count": 19,
+          "media_count": 443,
+          "tweet_count": 2954
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5096,
+          "following_count": 188,
+          "like_count": 39370,
+          "listed_count": 18,
+          "media_count": 396,
+          "tweet_count": 8352
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2056941077488402883",
+    "created_at": "2026-05-20T03:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056941077488402883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2056937037501264033",
+          "start": 22,
+          "url": "https://t.co/uQDr2x1AfL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056941077488402883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056937037501264033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😓感觉扔了会把自己炸死\n但是不扔又好可惜… https://t.co/uQDr2x1AfL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056941077488402883",
+        "created_at": "2026-05-20T03:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056941077488402883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2056937037501264033",
+              "start": 22,
+              "url": "https://t.co/uQDr2x1AfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056941077488402883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056937037501264033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😓感觉扔了会把自己炸死\n但是不扔又好可惜… https://t.co/uQDr2x1AfL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2056937037501264033",
+        "created_at": "2026-05-20T03:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056937037501264033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056937037501264033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😑正在纠结要不要把一份机密文件\n通过外媒扔出来…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5202,
+          "following_count": 2874,
+          "like_count": 2832,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2795
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

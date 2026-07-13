@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2062820961779679314",
+    "created_at": "2026-06-05T18:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062962153985028442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1364535076294254599",
+          "start": 0,
+          "username": "aa_sopra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062962153985028442",
+    "in_reply_to_user_id": "1364535076294254599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062953988656411121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa_sopra 你觉得拿电棍逼着一群小孩信教的组织算是宗教自由权吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062820961779679314",
+        "created_at": "2026-06-05T18:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062962153985028442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1364535076294254599",
+              "start": 0,
+              "username": "aa_sopra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062962153985028442",
+        "in_reply_to_user_id": "1364535076294254599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062953988656411121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa_sopra 你觉得拿电棍逼着一群小孩信教的组织算是宗教自由权吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364535076294254599",
+        "conversation_id": "2062820961779679314",
+        "created_at": "2026-06-05T17:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062953988656411121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062953988656411121",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062820961779679314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你被威胁了吗？其次，你知道这是侵犯了别人的宗教自由权了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5493,
+          "following_count": 3093,
+          "like_count": 3181,
+          "listed_count": 19,
+          "media_count": 444,
+          "tweet_count": 2964
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T11:18:16.000Z",
+        "description": "和平、自由、民主与人权                                Paix, Liberté, Démocratie et Droits humains",
+        "id": "1364535076294254599",
+        "location": "France",
+        "name": "☧ 亚松森圆脸▐┛",
+        "pinned_tweet_id": "2007247722093682752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982987184169783296/18Zpz9L6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 2240,
+          "like_count": 41972,
+          "listed_count": 14,
+          "media_count": 100,
+          "tweet_count": 8149
+        },
+        "username": "aa_sopra",
+        "verified": true
+      }
+    ]
+  }
+}

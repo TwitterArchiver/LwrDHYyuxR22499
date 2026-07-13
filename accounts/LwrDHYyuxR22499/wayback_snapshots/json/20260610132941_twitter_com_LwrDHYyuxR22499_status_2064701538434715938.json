@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2064701538434715938",
+    "created_at": "2026-06-10T13:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064701538434715938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhh1650192/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hhh1650192/status/2064700637888274900",
+          "start": 12,
+          "url": "https://t.co/a4VDYYdOaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064701538434715938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064700637888274900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😹要真学的明白到还行呢 https://t.co/a4VDYYdOaW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2064701538434715938",
+        "created_at": "2026-06-10T13:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064701538434715938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhh1650192/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hhh1650192/status/2064700637888274900",
+              "start": 12,
+              "url": "https://t.co/a4VDYYdOaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064701538434715938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064700637888274900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😹要真学的明白到还行呢 https://t.co/a4VDYYdOaW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020277992250044417",
+        "conversation_id": "2064324882436165999",
+        "created_at": "2026-06-10T13:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064700637888274900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064700637888274900",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064324882436165999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 反贼好似，评论区的跨畜你们好好看着，要是再学他你们就跟他一个下场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5621,
+          "following_count": 3133,
+          "like_count": 3201,
+          "listed_count": 19,
+          "media_count": 448,
+          "tweet_count": 2986
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T23:26:35.000Z",
+        "description": "",
+        "id": "2020277992250044417",
+        "name": "hhh",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 214,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 370
+        },
+        "username": "hhh1650192",
+        "verified": false
+      }
+    ]
+  }
+}

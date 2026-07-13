@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2073019173404570036",
+    "created_at": "2026-07-03T12:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073019173404570036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hu_qin_/status…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/hu_qin_/status/2073018078787441078",
+          "start": 109,
+          "url": "https://t.co/MUObvroTsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073019173404570036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073018078787441078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好的宝宝🤓，但我其实感觉已经快成功了，现在属于鸭子划水，脚下使劲。看不到我最近在干的事情很正常，你可以多关注近期相关新闻的定调与走向。\n我预计一年内彻底清除这类机构，同时推动立法，杜绝机构关停后换场地继续经营的乱象。 https://t.co/MUObvroTsA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2073019173404570036",
+        "created_at": "2026-07-03T12:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073019173404570036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2073018078787441078",
+              "start": 109,
+              "url": "https://t.co/MUObvroTsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073019173404570036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073018078787441078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的宝宝🤓，但我其实感觉已经快成功了，现在属于鸭子划水，脚下使劲。看不到我最近在干的事情很正常，你可以多关注近期相关新闻的定调与走向。\n我预计一年内彻底清除这类机构，同时推动立法，杜绝机构关停后换场地继续经营的乱象。 https://t.co/MUObvroTsA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2073003743369642048",
+        "created_at": "2026-07-03T12:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073018078787441078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 31,
+              "id": "1788950422188593152",
+              "start": 17,
+              "username": "remain1123345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073018078787441078",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073016204575588476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @remain1123345 不能自满啊，革命尚未成功，还有那么多的机构和继续受伤害的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6205,
+          "following_count": 3319,
+          "like_count": 3715,
+          "listed_count": 19,
+          "media_count": 484,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2059224600471294044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 1837,
+          "like_count": 21763,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 5525
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

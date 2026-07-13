@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2067653591490597000",
+    "created_at": "2026-06-18T18:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067680312017272850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067680312017272850",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067653591490597000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我始终认为，我是一个国家的公民，我有义务也有能力，对着违法违反人性的东西进行制止。该逃跑的从来都不是我，我要干，\n就要留下来把他们全都干死。\n当年是这样想的，然后一咬牙就留下来，一直干到现在了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067653591490597000",
+        "created_at": "2026-06-18T18:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067680312017272850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067680312017272850",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067653591490597000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我始终认为，我是一个国家的公民，我有义务也有能力，对着违法违反人性的东西进行制止。该逃跑的从来都不是我，我要干，\n就要留下来把他们全都干死。\n当年是这样想的，然后一咬牙就留下来，一直干到现在了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067653591490597000",
+        "created_at": "2026-06-18T17:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067653591490597000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanzheng_stree…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/hanzheng_street/status/2067642917993509137",
+              "start": 135,
+              "url": "https://t.co/jggcXSeMIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653591490597000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 570,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067642917993509137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道吗？当我力排众议\n否定出国逃跑那一刻，\n背着嘲笑戏谑造谣一个人从破碎中将自己拾起\n站在所有人的对立面\n直面对抗这一切的时候\n就只有一个结局\n不是你死，就是我亡\n而历史会由我们这些人改变\n我已经证明了自己的能力与当初的选择\n一路走来并不孤独…因为死去之人常伴我身😙😙 https://t.co/jggcXSeMIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5676,
+          "following_count": 3171,
+          "like_count": 3270,
+          "listed_count": 18,
+          "media_count": 460,
+          "tweet_count": 3030
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}
