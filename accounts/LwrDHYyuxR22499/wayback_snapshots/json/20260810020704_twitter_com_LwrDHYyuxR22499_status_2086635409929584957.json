@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2086635409929584957",
+    "created_at": "2026-08-10T02:07:04.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086635409929584957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2086633456902303841",
+          "start": 134,
+          "url": "https://t.co/uzNnMDj3fJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086635409929584957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086633456902303841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔很明显能感觉到，不允许我指认皇帝的时候，同样也不期望我有任何成就。\n😋\n具体表现为：自己不救人，也会把救人的人挤兑走\n同时自己明明救不了人，硬要装模作样声称自己可以救人、能够取代我。\n \n再时不时把狗放出来咬人，\n并声明“此狗无主”，\n再通过支付宝打赏点狗粮过去。 https://t.co/uzNnMDj3fJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2086635409929584957",
+        "created_at": "2026-08-10T02:07:04.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086635409929584957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2086633456902303841",
+              "start": 134,
+              "url": "https://t.co/uzNnMDj3fJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086635409929584957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086633456902303841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔很明显能感觉到，不允许我指认皇帝的时候，同样也不期望我有任何成就。\n😋\n具体表现为：自己不救人，也会把救人的人挤兑走\n同时自己明明救不了人，硬要装模作样声称自己可以救人、能够取代我。\n \n再时不时把狗放出来咬人，\n并声明“此狗无主”，\n再通过支付宝打赏点狗粮过去。 https://t.co/uzNnMDj3fJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2086633456902303841",
+        "created_at": "2026-08-10T01:59:18.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:58:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086633378435211548",
+          "2086633456902303841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianACT/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/maoxianACT/status/2086155491831582919",
+              "start": 140,
+              "url": "https://t.co/dmuGEeqmwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086633456902303841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086155491831582919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也只能证明中推圈是个粪坑。\n其次，这些人真能算皇帝吗?🤔\n真的皇帝可不是这群人，\n而是某些躲在角落里，掌握定义权、玩弄话语权的门阀世家。\n皇帝都是他们竖起来的一杆旗子。\n🤔能很明显感觉到当我指认皇帝的时候就会有一群人急眼\n国安线人，反跨人，建制派\n清真小编\n的大帽子就会飞过来 https://t.co/dmuGEeqmwi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086635409929584957",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6981,
+          "following_count": 3388,
+          "like_count": 4348,
+          "listed_count": 21,
+          "media_count": 555,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

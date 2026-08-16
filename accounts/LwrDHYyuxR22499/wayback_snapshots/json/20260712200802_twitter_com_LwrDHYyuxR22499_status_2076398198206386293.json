@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2076398198206386293",
+    "created_at": "2026-07-12T20:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076398198206386293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2076374700071190641",
+          "start": 82,
+          "url": "https://t.co/NWWL99m1CV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076398198206386293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076374700071190641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在我们都知道谁是小丑了\n我怀疑一些人对我报有敌意\n是因为拉拢不了我\n还会被我指认的同时\n我又证明了他们是一群酒囊饭袋\n因为现在与我为敌的人\n曾大多数都拉拢过我… https://t.co/NWWL99m1CV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2076398198206386293",
+        "created_at": "2026-07-12T20:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076398198206386293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2076374700071190641",
+              "start": 82,
+              "url": "https://t.co/NWWL99m1CV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076398198206386293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076374700071190641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在我们都知道谁是小丑了\n我怀疑一些人对我报有敌意\n是因为拉拢不了我\n还会被我指认的同时\n我又证明了他们是一群酒囊饭袋\n因为现在与我为敌的人\n曾大多数都拉拢过我… https://t.co/NWWL99m1CV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2076374700071190641",
+        "created_at": "2026-07-12T18:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076374700071190641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076374700071190641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 726,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟团队里的组员聚会了\n从他嘴里了解到当年救可橙的一些事。\n“我当时在群里说给我找两个人，我们直接进去就能把这个人抢出来交给你们\n”但是这句话说出来之后，就当成小丑被人骂脑袋有问题\n美国大片看多了\n被踢出群了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6363,
+          "following_count": 3330,
+          "like_count": 3794,
+          "listed_count": 20,
+          "media_count": 499,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082470535011914235",
+    "created_at": "2026-07-29T14:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082472030067400947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082472030067400947",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082470535011914235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样昂\n北燕书走国外NGO公账用支付宝给别人打钱也不是一次两次了\n一草台班子\n我能说出来的人都不下仨\n\n她给谁打钱了我估计记得国安比她自己都更清楚\n来这装犊子找借口来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082470015513862144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrchobIAA4f4I.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082470075312074752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrgAZbcAAXKiM.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082470099676749824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrhbKa4AAfEax.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082470535011914235",
+        "created_at": "2026-07-29T14:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082472030067400947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082472030067400947",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082470535011914235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样昂\n北燕书走国外NGO公账用支付宝给别人打钱也不是一次两次了\n一草台班子\n我能说出来的人都不下仨\n\n她给谁打钱了我估计记得国安比她自己都更清楚\n来这装犊子找借口来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082470015513862144",
+            "3_2082470075312074752",
+            "3_2082470099676749824"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082470535011914235",
+        "created_at": "2026-07-29T14:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082470535011914235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7G9bFDdaA2",
+              "end": 76,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+              "media_key": "3_2082470015513862144",
+              "start": 53,
+              "url": "https://t.co/7G9bFDdaA2"
+            },
+            {
+              "display_url": "pic.x.com/7G9bFDdaA2",
+              "end": 76,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+              "media_key": "3_2082470075312074752",
+              "start": 53,
+              "url": "https://t.co/7G9bFDdaA2"
+            },
+            {
+              "display_url": "pic.x.com/7G9bFDdaA2",
+              "end": 76,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+              "media_key": "3_2082470099676749824",
+              "start": 53,
+              "url": "https://t.co/7G9bFDdaA2"
+            },
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/2082303642829476260",
+              "start": 77,
+              "url": "https://t.co/SzoO7Snjgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082470535011914235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082303642829476260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北燕书:我可以不用指派性别救人\n证明你是错的\n我:真的假的?看看实际案例?\n北燕书:你是国安线人你在钓鱼 https://t.co/7G9bFDdaA2 https://t.co/SzoO7Snjgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6509,
+          "following_count": 3337,
+          "like_count": 4027,
+          "listed_count": 19,
+          "media_count": 512,
+          "tweet_count": 3566
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

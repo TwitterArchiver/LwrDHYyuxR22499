@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2080276882705244257",
+    "created_at": "2026-07-23T13:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080276882705244257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2080260325366976589",
+          "start": 81,
+          "url": "https://t.co/rLHPFiDBMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080276882705244257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080260325366976589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警察接到举报就得打个电话搞一哈😅😅\n明明这群人这个年龄段才是最有可能\n因为玩个游戏就被送进去\n被从粉红扭转成反贼的群体啊\n\n好吧我已经习惯了被我保护的人群反对了 https://t.co/rLHPFiDBMk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2080276882705244257",
+        "created_at": "2026-07-23T13:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080276882705244257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2080260325366976589",
+              "start": 81,
+              "url": "https://t.co/rLHPFiDBMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080276882705244257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080260325366976589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警察接到举报就得打个电话搞一哈😅😅\n明明这群人这个年龄段才是最有可能\n因为玩个游戏就被送进去\n被从粉红扭转成反贼的群体啊\n\n好吧我已经习惯了被我保护的人群反对了 https://t.co/rLHPFiDBMk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2080260325366976589",
+        "created_at": "2026-07-23T11:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080260325366976589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080260325366976589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 593,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔小粉红天天举报我\n说我刻意爆破经营企业\n对国家不好\n呃呃……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6446,
+          "following_count": 3341,
+          "like_count": 3957,
+          "listed_count": 20,
+          "media_count": 507,
+          "tweet_count": 3531
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

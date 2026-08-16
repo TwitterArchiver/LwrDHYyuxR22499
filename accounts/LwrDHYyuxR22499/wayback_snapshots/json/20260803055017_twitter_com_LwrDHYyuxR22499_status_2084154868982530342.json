@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084151306273673216",
+        "13_2084154281171849217"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084154868982530342",
+    "created_at": "2026-08-03T05:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084154868982530342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rOY2MDKZFX",
+          "end": 159,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084154868982530342/video/1",
+          "media_key": "3_2084151306273673216",
+          "start": 136,
+          "url": "https://t.co/rOY2MDKZFX"
+        },
+        {
+          "display_url": "pic.x.com/rOY2MDKZFX",
+          "end": 159,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084154868982530342/video/1",
+          "media_key": "13_2084154281171849217",
+          "start": 136,
+          "url": "https://t.co/rOY2MDKZFX"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 183,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082395081076777135",
+          "start": 160,
+          "url": "https://t.co/sX0lESlfet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084154868982530342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通过发帖制造舆论互相攻伐，党同伐异。\n \n之前被我搞倒闭的这所\n喜欢绑架性少数的学校，\n其校长因同业竞争，遭到另一机构外号“河南凤凰姐”的股东针对，直接害得对方另一所学校关门歇业，\n对方还借机对他敲诈勒索。\n走投无路之下，\n\n这名校长甚至打算斥重金雇佣我做他们的专职枪手，\n协助我们取证，\n对身边所有潜在竞争对手进行毁灭打击。\n \n🤤🤤我现在打击哪家机构\n都会套上对方竞争对手的皮\n\n我只要选一块地方把周围的扭转机构信息整理一遍发给各自场地的校长\n\n到最后这群蠢货就会自己死光\n或者找到我们\n把对方违法犯罪的证据全都交给我\n\n借力原有矛盾，挑动各方敌对势力缠斗。\n我自可抽身局外，坐山观虎斗，\n隐于幕后，静候各方互相攻伐\n\n🤤🤤🤤🤤这下发动文和乱武了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082395081076777135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通过发帖制造舆论互相攻伐，党同伐异。 https://t.co/rOY2MDKZFX https://t.co/sX0lESlfet"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_2084151306273673216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxkkhyb0AANyoQ.jpg",
+        "width": 839
+      },
+      {
+        "duration_ms": 177888,
+        "height": 1080,
+        "media_key": "13_2084154281171849217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084154281171849217/img/Y64NS8-jgtGy5hYt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/1280x720/DgBBJS5i2UuSzlaS.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/1920x1080/w9_yKe0XIrzQZJjR.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/480x270/VM2O3YbGGX_q4LoA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/vid/avc1/640x360/cOAkOcnOLTMHOgFh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084154281171849217/pl/guOKAVZMvtnWaxnM.m3u8"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394502833283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmxG-aoAAiedr.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394530742210560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmyu8bEAAGAMr.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394548781932544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmzyJbYAAoq2n.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084151306273673216",
+            "13_2084154281171849217"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084154868982530342",
+        "created_at": "2026-08-03T05:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084154868982530342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOY2MDKZFX",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084154868982530342/video/1",
+              "media_key": "3_2084151306273673216",
+              "start": 136,
+              "url": "https://t.co/rOY2MDKZFX"
+            },
+            {
+              "display_url": "pic.x.com/rOY2MDKZFX",
+              "end": 159,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084154868982530342/video/1",
+              "media_key": "13_2084154281171849217",
+              "start": 136,
+              "url": "https://t.co/rOY2MDKZFX"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082395081076777135",
+              "start": 160,
+              "url": "https://t.co/sX0lESlfet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084154868982530342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通过发帖制造舆论互相攻伐，党同伐异。\n \n之前被我搞倒闭的这所\n喜欢绑架性少数的学校，\n其校长因同业竞争，遭到另一机构外号“河南凤凰姐”的股东针对，直接害得对方另一所学校关门歇业，\n对方还借机对他敲诈勒索。\n走投无路之下，\n\n这名校长甚至打算斥重金雇佣我做他们的专职枪手，\n协助我们取证，\n对身边所有潜在竞争对手进行毁灭打击。\n \n🤤🤤我现在打击哪家机构\n都会套上对方竞争对手的皮\n\n我只要选一块地方把周围的扭转机构信息整理一遍发给各自场地的校长\n\n到最后这群蠢货就会自己死光\n或者找到我们\n把对方违法犯罪的证据全都交给我\n\n借力原有矛盾，挑动各方敌对势力缠斗。\n我自可抽身局外，坐山观虎斗，\n隐于幕后，静候各方互相攻伐\n\n🤤🤤🤤🤤这下发动文和乱武了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082395081076777135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自从全国各地开始整治清理无资质的不良特训机构以来，\n \n不止是我们在收集线索、举报这些机构，行业里暗流涌动。\n \n这些机构的校长，也在借着这波风潮对付竞争对手：\n表面大打价格战、抢生源，\n背地里搞暗箱举报\n\n甚至花钱暗中培养网络枪手，通过发帖制造舆论互相攻伐，党同伐异。 https://t.co/rOY2MDKZFX https://t.co/sX0lESlfet"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082394502833283072",
+            "3_2082394530742210560",
+            "3_2082394548781932544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082395081076777135",
+        "created_at": "2026-07-29T09:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082395081076777135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394502833283072",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394530742210560",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394548781932544",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2040824335661941010",
+              "start": 172,
+              "url": "https://t.co/1sNChCBLew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082395081076777135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。\n\n开扭转机构的别睡太死，别哪天突然发现身边的教官都是我的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 47743,
+          "like_count": 466,
+          "quote_count": 4,
+          "reply_count": 69,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040824335661941010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。 https://t.co/GjZ9CKv3D4 https://t.co/1sNChCBLew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6827,
+          "following_count": 3360,
+          "like_count": 4196,
+          "listed_count": 19,
+          "media_count": 532,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

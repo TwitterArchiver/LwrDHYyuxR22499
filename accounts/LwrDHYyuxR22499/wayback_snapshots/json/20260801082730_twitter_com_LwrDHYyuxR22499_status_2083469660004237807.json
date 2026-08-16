@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2083469535081083303",
+    "created_at": "2026-08-01T08:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083469660004237807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940622242381262848",
+          "start": 0,
+          "username": "Sayuki_Inoue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083469660004237807",
+    "in_reply_to_user_id": "1940622242381262848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083469535081083303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sayuki_Inoue 蒙古人高人一等懂不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083469535081083303",
+        "created_at": "2026-08-01T08:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083469660004237807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940622242381262848",
+              "start": 0,
+              "username": "Sayuki_Inoue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469660004237807",
+        "in_reply_to_user_id": "1940622242381262848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083469535081083303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sayuki_Inoue 蒙古人高人一等懂不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "2083469535081083303",
+        "created_at": "2026-08-01T08:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083469535081083303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2083348062047715826",
+              "start": 33,
+              "url": "https://t.co/xoMBt60luQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469535081083303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083348062047715826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蒙古的住址可以这么敷衍的吗？我头一次见到一个数字也没有的正式住址 https://t.co/xoMBt60luQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6794,
+          "following_count": 3346,
+          "like_count": 4147,
+          "listed_count": 19,
+          "media_count": 525,
+          "tweet_count": 3650
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "Graduated from Shanghai Polytechnic University",
+        "id": "1940622242381262848",
+        "name": "井上 彩結樹 Inoue Sayuki ༒R.I.P.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 178,
+          "like_count": 129,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 2012
+        },
+        "url": "",
+        "username": "Sayuki_Inoue",
+        "verified": false
+      }
+    ]
+  }
+}

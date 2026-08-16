@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2083052854303146289",
+    "created_at": "2026-07-31T05:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083059589625635207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068572638965104640",
+          "start": 0,
+          "username": "AhnBriggssxkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083059589625635207",
+    "in_reply_to_user_id": "2068572638965104640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083059164486484098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AhnBriggssxkg 显然你并不是这里玩的最开的那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083052854303146289",
+        "created_at": "2026-07-31T05:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083059589625635207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068572638965104640",
+              "start": 0,
+              "username": "AhnBriggssxkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083059589625635207",
+        "in_reply_to_user_id": "2068572638965104640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083059164486484098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AhnBriggssxkg 显然你并不是这里玩的最开的那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068572638965104640",
+        "conversation_id": "2083052854303146289",
+        "created_at": "2026-07-31T05:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083059164486484098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083059164486484098",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083052854303146289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 应该没人比我玩的开了吧🌖😉我福不黑不信你看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6666,
+          "following_count": 3345,
+          "like_count": 4098,
+          "listed_count": 19,
+          "media_count": 521,
+          "tweet_count": 3607
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T05:53:23.000Z",
+        "description": "线下选妃 身高168cm 接线下 口嗨的勿扰 喝🍵可以深入哟\n\n~~同😊城🍅上🎴椚~下方👇👇可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/linlove9",
+                "end": 23,
+                "expanded_url": "http://telegram.me/linlove9",
+                "start": 0,
+                "url": "https://t.co/pTq2jnnMYx"
+              }
+            ]
+          }
+        },
+        "id": "2068572638965104640",
+        "location": "距离2.5km👉✈",
+        "name": "潘月🌸同城丄门♥喝茶选妃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083059167087005696/PwSP9M-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/pTq2jnnMYx",
+        "username": "AhnBriggssxkg",
+        "verified": false
+      }
+    ]
+  }
+}

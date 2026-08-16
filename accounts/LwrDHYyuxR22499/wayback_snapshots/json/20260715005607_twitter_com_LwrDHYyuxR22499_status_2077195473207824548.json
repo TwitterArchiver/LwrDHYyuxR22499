@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077192548842647848",
+    "created_at": "2026-07-15T00:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077195473207824548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406049068548169729",
+          "start": 0,
+          "username": "AetherKyalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077195473207824548",
+    "in_reply_to_user_id": "1406049068548169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077192548842647848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AetherKyalo 好文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077192548842647848",
+        "created_at": "2026-07-15T00:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077195473207824548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406049068548169729",
+              "start": 0,
+              "username": "AetherKyalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077195473207824548",
+        "in_reply_to_user_id": "1406049068548169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077192548842647848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AetherKyalo 好文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406049068548169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2077192548842647848",
+        "created_at": "2026-07-15T00:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077192548842647848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2077178201042989074",
+              "start": 109,
+              "url": "https://t.co/liYeWYUuWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077192548842647848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "战略并不是在行动结束后为行动补上长远意义，而是行动在发生时，就已经通过自己的组织方式生产未来\n\n“先动员，之后再组织”之所以常常失败，不只是因为组织者后来没有时间，而是因为动员本身已经教育了参与者如何理解自己的位置。\n\n如果一个人在高潮中始终只是被通知去哪里、转发什么、服从谁，那么他从这场行动中学到的就是：政治是少数人作出判断，多数人提供人数。退潮之后，他自然很难突然成为具有自主能力的组织者。\n\n相反，如果参与者在行动中已经开始调查问题、承担任务、表达分歧、参与决策、总结得失，那么即使行动没有达到直接目标，它仍然可能生产出下一轮斗争所需要的人。所以，行动形式并不是中性的包装。它本身就在塑造未来的政治主体。\n\n而“下一次行动的条件”究竟包括什么不只是留下一个通讯群或一份成员名单，而至少包括：\n\n共同经历所形成的信任；可以传递的知识和经验；能够独立承担工作的组织者；不依赖单一人物的平台与资源；公开处理错误和冲突的程序；对行动为什么成功或失败的共同理解；不同群体在斗争中形成的联系；即使原有领导、口号和平台失效，也能重新判断现实的能力。\n\n这些条件的共同点在于，它们都使政治行动具有可再生性。\n\n一次行动结束了，但行动能力没有随之归零；某个中心失效了，但人们仍能重新组织；原有路线被现实否定了，但运动能够修改路线而不至于解体。\n\n这才是“扎根”的真正含义。扎根不是单纯延长组织存在的时间，而是使行动能力不再完全依附于某一场高潮、某一个人物、某一个平台或某一种话语。\n\n由此也可以理解，为什么一场看似成功的行动可能在战略上失败。\n\n它可能赢得大量关注，却使所有公共关系都集中到少数发言人手里；可能获得制度让步，却让普通参与者更加依赖专业人员；可能迅速扩张成员，却没有培养任何能够承担责任的人；可能控制了某个节点，却没有形成脱离这个节点仍能继续行动的社会联系。\n\n这种行动在短期中获得了结果，却消耗了自己的未来。\n\n反过来，一场没有立即胜利的行动，也可能留下新的关系、组织者、共同知识和纠错机制。它在直接目标上失败，却使下一次行动不必从零开始。\n\n因此，不能简单地用“赢了还是输了”衡量行动，而应进一步追问：\n\n行动之后，人们是更有能力理解和改变现实，还是更依赖少数替他们理解和行动的人？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077178201042989074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "战略并不是在行动结束后为行动补上长远意义，而是行动在发生时，就已经通过自己的组织方式生产未来\n\n“先动员，之后再组织”之所以常常失败，不只是因为组织者后来没有时间，而是因为动员本身已经教育了参与者如何理解自己的位置。 https://t.co/liYeWYUuWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6430,
+          "following_count": 3340,
+          "like_count": 3849,
+          "listed_count": 20,
+          "media_count": 504,
+          "tweet_count": 3477
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-19T00:40:07.000Z",
+        "description": "03年｜惠灵顿维多利亚大学｜Bachelor of Art｜从极权国家走出的革命者｜Gay🏳️‍🌈 Furry🦊 Neurodiversity🧠｜无政府共产主义者，社会主义人本主义者，黑格尔马克思主义者 & 文化女性主义者 | 规则改变将结局撼动，就是我们——这世界的英雄 | 中文，English 🆗|",
+        "id": "1406049068548169729",
+        "location": "Wellington City, New Zealand",
+        "name": "Kyalo 凯犽洛🏳️‍🌈🏳️‍⚧️🇵🇸🇺🇦",
+        "pinned_tweet_id": "1840547733717074257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880945817273397249/vevg9eel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 742,
+          "like_count": 1024,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 9735
+        },
+        "url": "",
+        "username": "AetherKyalo",
+        "verified": true
+      }
+    ]
+  }
+}

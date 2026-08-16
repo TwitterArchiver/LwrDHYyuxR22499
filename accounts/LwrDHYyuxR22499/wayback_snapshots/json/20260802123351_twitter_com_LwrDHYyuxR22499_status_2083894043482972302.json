@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2083892819111166057",
+    "created_at": "2026-08-02T12:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083894043482972302"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083894043482972302",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083892819111166057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧐不得不感叹\n汤弋韬的赢学造诣还是高的啊\n跟AI串两下都能看到\n这人得拿去赢一下\n有种小学的时候被霸凌导致人格歇斯底里的美……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083892139365412864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt43B0asAAxEsq.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083892139537387521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt43Cda0AEcPTA.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083892141483524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt43JtagAAD1AI.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083892819111166057",
+        "created_at": "2026-08-02T12:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083894043482972302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083894043482972302",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083892819111166057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧐不得不感叹\n汤弋韬的赢学造诣还是高的啊\n跟AI串两下都能看到\n这人得拿去赢一下\n有种小学的时候被霸凌导致人格歇斯底里的美……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083892139365412864",
+            "3_2083892139537387521",
+            "3_2083892141483524096"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083892819111166057",
+        "created_at": "2026-08-02T12:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083892819111166057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhRuBzaLMM",
+              "end": 111,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083892819111166057/photo/1",
+              "media_key": "3_2083892139365412864",
+              "start": 88,
+              "url": "https://t.co/dhRuBzaLMM"
+            },
+            {
+              "display_url": "pic.x.com/dhRuBzaLMM",
+              "end": 111,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083892819111166057/photo/1",
+              "media_key": "3_2083892139537387521",
+              "start": 88,
+              "url": "https://t.co/dhRuBzaLMM"
+            },
+            {
+              "display_url": "pic.x.com/dhRuBzaLMM",
+              "end": 111,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083892819111166057/photo/1",
+              "media_key": "3_2083892141483524096",
+              "start": 88,
+              "url": "https://t.co/dhRuBzaLMM"
+            },
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/grok/status/2083879147332370851",
+              "start": 112,
+              "url": "https://t.co/Aa73OKKxtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083892819111166057",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083879147332370851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia\n疑似是吃帕夏接吻，牙结石吃多了，影响智商了。\n比起汤弋韬看不懂我在串着玩的这脑子都得拿去赢一下的脑子\n更令我惊奇的是，\n你是怎么下得去嘴的？ https://t.co/dhRuBzaLMM https://t.co/Aa73OKKxtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6825,
+          "following_count": 3358,
+          "like_count": 4187,
+          "listed_count": 19,
+          "media_count": 529,
+          "tweet_count": 3675
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2082040850805305766",
+    "created_at": "2026-07-28T09:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082040850805305766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082039138149388461",
+          "start": 67,
+          "url": "https://t.co/A0QJsUAm7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082040850805305766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082039138149388461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "BYD😹😹\n国外BBC满世界播放\n国内法制栏目央视半月谈也放\n真是时无英雄，使竖子成名\n怎么能让你王人这么烂的人\n家喻户晓内外皆知的 https://t.co/A0QJsUAm7b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082039097418457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTjhyoaIAAFWRp.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2082040850805305766",
+        "created_at": "2026-07-28T09:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082040850805305766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082039138149388461",
+              "start": 67,
+              "url": "https://t.co/A0QJsUAm7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082040850805305766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082039138149388461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BYD😹😹\n国外BBC满世界播放\n国内法制栏目央视半月谈也放\n真是时无英雄，使竖子成名\n怎么能让你王人这么烂的人\n家喻户晓内外皆知的 https://t.co/A0QJsUAm7b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082039097418457088"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082039138149388461",
+        "created_at": "2026-07-28T09:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082039138149388461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "□ 本报记者 孙天骄 时隔近两年，回忆起被强行送入特训机构的三个月，18岁的安红（化名）依旧难掩心底的创伤。 2024年8月，本该坐在重点高中教室备战高考的她，因家庭矛盾，经父母联系，被人强行带到一家特训机构，度过了一段她从未想象过的、充斥着体罚的生活。 安红的遭遇并非孤例。 《法治日报》记者采访及梳理公开报道发现，一段时间以来，一批披着国学教育、心理疏导、军事化矫正外衣的封闭式特训机构，正游走在法律灰色地带。此类机构多以“基地”“学院”命名，打着“素质教育”“青少年特训”甚至“行为矫治”“网瘾戒治”的旗号，以强制带离等方式接收“学员”，以人身限制和体罚羞辱等方式进行“训练”，而从学员输送到运营管理，均暗藏多重违法操作。 河南省郑州市的安红至今仍清晰地记得自己被带走的过程。 2024年8月25日，在外吃过晚饭后，安红乘坐自家汽车回家，车开到小区楼下，还没来得及下车，旁边便驶来一辆黑色面包车，车上下来几名陌生男子，径直上前叫出了她的名字，这些男子自称“网警”，以“网 上发表不当言论需要配合笔录”为由，要求安红随他们上车。心生疑虑的安红拒绝配合，对方当即扬言要强行拖拽，出于对肢体冲突的恐惧，她只得被迫上车。",
+              "display_url": "epaper.legaldaily.com.cn/fzrb/content/2…",
+              "end": 87,
+              "expanded_url": "http://epaper.legaldaily.com.cn/fzrb/content/20260717/Articel04002GN.htm",
+              "start": 64,
+              "status": 200,
+              "title": "在那里，学员被随意体罚打骂",
+              "unwound_url": "http://epaper.legaldaily.com.cn/fzrb/content/20260717/Articel04002GN.htm",
+              "url": "https://t.co/zxDoA021SS"
+            },
+            {
+              "display_url": "pic.x.com/suEvcg6Dkn",
+              "end": 111,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082039138149388461/photo/1",
+              "media_key": "3_2082039097418457088",
+              "start": 88,
+              "url": "https://t.co/suEvcg6Dkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082039138149388461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🧐🧐\n威能大大的提升了\n这下恁王人不止上电视\n还上报纸了\n法制日报等主流法制栏目开始上我的稿子讲述我们做的事迹了\n下附文章链接:https://t.co/zxDoA021SS https://t.co/suEvcg6Dkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 3331,
+          "like_count": 3974,
+          "listed_count": 19,
+          "media_count": 508,
+          "tweet_count": 3546
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

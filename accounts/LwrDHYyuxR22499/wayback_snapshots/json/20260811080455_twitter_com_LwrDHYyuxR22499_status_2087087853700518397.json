@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2087087853700518397",
+    "created_at": "2026-08-11T08:04:55.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087087853700518397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lianyiganyu/st…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/lianyiganyu/status/2082074276887445748",
+          "start": 67,
+          "url": "https://t.co/e9xC3SXvPt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087087853700518397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082074276887445748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧐我们看到了一个严肃的问题\n没有强硬手段的干预\n在事情发生前或者发生中就断绝迫害是多么恐怖\n一个破碎的人将会用一辈子去\n缓和他的创伤 https://t.co/e9xC3SXvPt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2087087853700518397",
+        "created_at": "2026-08-11T08:04:55.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087087853700518397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/2082074276887445748",
+              "start": 67,
+              "url": "https://t.co/e9xC3SXvPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087087853700518397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082074276887445748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧐我们看到了一个严肃的问题\n没有强硬手段的干预\n在事情发生前或者发生中就断绝迫害是多么恐怖\n一个破碎的人将会用一辈子去\n缓和他的创伤 https://t.co/e9xC3SXvPt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "conversation_id": "2081449365370245189",
+        "created_at": "2026-07-28T12:02:45.000Z",
+        "display_text_range": [
+          15,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082074276887445748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2080653636418326528",
+              "start": 0,
+              "username": "sanyueqiuqoji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082074276887445748",
+        "in_reply_to_user_id": "2080653636418326528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 32533,
+          "like_count": 145,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081449365370245189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyueqiuqoji 三秋，跨女，于2026年7月27日自杀身亡，年仅17岁。当事人于7月20日在QQ列表等途径寻找购买亚盐的渠道，与我结识的一位助人者相识。经过为期一周的对话及安抚，确认个案存在严重的家庭暴力情况，包括殴打、精神暴力和拒绝提供医疗资源，同时存在严重的抑郁情绪，疑似存在精神病性症状。（1/n）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087087853700518397",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7005,
+          "following_count": 3389,
+          "like_count": 4378,
+          "listed_count": 21,
+          "media_count": 555,
+          "tweet_count": 3808
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "is_identity_verified": true,
+        "location": "武汉",
+        "most_recent_tweet_id": "2085711943445471636",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 6,
+          "like_count": 65,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

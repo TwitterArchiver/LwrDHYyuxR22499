@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2083499472961888549",
+    "created_at": "2026-08-01T10:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083499472961888549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935251668188413955",
+          "start": 3,
+          "username": "yourmaodie"
+        },
+        {
+          "end": 32,
+          "id": "1843201902550634496",
+          "start": 16,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083499472961888549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083499052537393469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yourmaodie: @LwrDHYyuxR22499 我看见羔羊换成奶龙揭开七印中第一印的时候，就听见四活物中的一个活物，声音如雷，说：“你来！”我就观看，见有一匹白马，骑在马上的奶龙拿着弓，并有冠冕赐给他。他便出来，笑了又要笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083499472961888549",
+        "created_at": "2026-08-01T10:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083499472961888549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935251668188413955",
+              "start": 3,
+              "username": "yourmaodie"
+            },
+            {
+              "end": 32,
+              "id": "1843201902550634496",
+              "start": 16,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083499472961888549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083499052537393469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yourmaodie: @LwrDHYyuxR22499 我看见羔羊换成奶龙揭开七印中第一印的时候，就听见四活物中的一个活物，声音如雷，说：“你来！”我就观看，见有一匹白马，骑在马上的奶龙拿着弓，并有冠冕赐给他。他便出来，笑了又要笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935251668188413955",
+        "conversation_id": "2083424645756399723",
+        "created_at": "2026-08-01T10:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083499052537393469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083499052537393469",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083424645756399723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我看见羔羊换成奶龙揭开七印中第一印的时候，就听见四活物中的一个活物，声音如雷，说：“你来！”我就观看，见有一匹白马，骑在马上的奶龙拿着弓，并有冠冕赐给他。他便出来，笑了又要笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6795,
+          "following_count": 3347,
+          "like_count": 4155,
+          "listed_count": 19,
+          "media_count": 526,
+          "tweet_count": 3655
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-18T08:22:23.000Z",
+        "description": "麦再恨了",
+        "id": "1935251668188413955",
+        "name": "虚",
+        "pinned_tweet_id": "2081773760693297626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074761877411033089/spVWFJuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 672,
+          "like_count": 5915,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2881
+        },
+        "url": "",
+        "username": "yourmaodie",
+        "verified": false
+      }
+    ]
+  }
+}

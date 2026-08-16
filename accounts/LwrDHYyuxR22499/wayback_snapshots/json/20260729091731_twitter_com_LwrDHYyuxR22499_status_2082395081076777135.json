@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082394502833283072",
+        "3_2082394530742210560",
+        "3_2082394548781932544"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082395081076777135",
+    "created_at": "2026-07-29T09:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082395081076777135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GjZ9CKv3D4",
+          "end": 171,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+          "media_key": "3_2082394502833283072",
+          "start": 148,
+          "url": "https://t.co/GjZ9CKv3D4"
+        },
+        {
+          "display_url": "pic.x.com/GjZ9CKv3D4",
+          "end": 171,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+          "media_key": "3_2082394530742210560",
+          "start": 148,
+          "url": "https://t.co/GjZ9CKv3D4"
+        },
+        {
+          "display_url": "pic.x.com/GjZ9CKv3D4",
+          "end": 171,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+          "media_key": "3_2082394548781932544",
+          "start": 148,
+          "url": "https://t.co/GjZ9CKv3D4"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2040824335661941010",
+          "start": 172,
+          "url": "https://t.co/1sNChCBLew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082395081076777135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。\n\n开扭转机构的别睡太死，别哪天突然发现身边的教官都是我的人。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040824335661941010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。 https://t.co/GjZ9CKv3D4 https://t.co/1sNChCBLew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082394502833283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmxG-aoAAiedr.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394530742210560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmyu8bEAAGAMr.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394548781932544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmzyJbYAAoq2n.jpg",
+        "width": 859
+      },
+      {
+        "duration_ms": 73769,
+        "height": 1280,
+        "media_key": "7_2040823976092741632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040823976092741632/pu/img/EyCJ2SffXzIdZ81I.jpg",
+        "public_metrics": {
+          "view_count": 2435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/vid/avc1/320x710/XV_ehuzv9lu8LNEb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/vid/avc1/480x1066/Fw7deBqGO9K4WjQa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/vid/avc1/576x1280/4YjP4Gu70nCVBe3R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040823976092741632/pu/pl/XG4eRhgR4kgKYahj.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082394502833283072",
+            "3_2082394530742210560",
+            "3_2082394548781932544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082395081076777135",
+        "created_at": "2026-07-29T09:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082395081076777135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394502833283072",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394530742210560",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394548781932544",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2040824335661941010",
+              "start": 172,
+              "url": "https://t.co/1sNChCBLew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082395081076777135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。\n\n开扭转机构的别睡太死，别哪天突然发现身边的教官都是我的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040824335661941010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。 https://t.co/GjZ9CKv3D4 https://t.co/1sNChCBLew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040823976092741632"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2040824335661941010",
+        "created_at": "2026-04-05T16:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040824335661941010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeFaeR4lC2",
+              "end": 96,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2040824335661941010/video/1",
+              "media_key": "7_2040823976092741632",
+              "start": 73,
+              "url": "https://t.co/FeFaeR4lC2"
+            },
+            {
+              "display_url": "x.com/yururu107925/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/yururu107925/status/2035615033468830046",
+              "start": 97,
+              "url": "https://t.co/WCe8nezOgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040824335661941010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8736,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035615033468830046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "将该机构绑架受害者的原视频在此处\n补档\n后续会将受害者全程采访录音更新在youtub上方便更多人了解这些学校的危害\n以上行为均得到受害者本人许可 https://t.co/FeFaeR4lC2 https://t.co/WCe8nezOgi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 3337,
+          "like_count": 4014,
+          "listed_count": 19,
+          "media_count": 511,
+          "tweet_count": 3561
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

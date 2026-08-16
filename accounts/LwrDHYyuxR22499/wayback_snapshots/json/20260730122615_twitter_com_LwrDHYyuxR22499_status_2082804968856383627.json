@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082804968856383627",
+    "created_at": "2026-07-30T12:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082804968856383627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Diamond_Kokoro…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2082703429768548493",
+          "start": 18,
+          "url": "https://t.co/dDTDExLEjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082804968856383627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082703429768548493",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧐🧐🧐真的\n我可以说跟他脱不开关系 https://t.co/dDTDExLEjG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082804968856383627",
+        "created_at": "2026-07-30T12:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082804968856383627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2082703429768548493",
+              "start": 18,
+              "url": "https://t.co/dDTDExLEjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082804968856383627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082703429768548493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧐🧐🧐真的\n我可以说跟他脱不开关系 https://t.co/dDTDExLEjG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2082420426886795578",
+        "created_at": "2026-07-30T05:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082703429768548493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 21,
+              "id": "1736265610911428608",
+              "start": 9,
+              "username": "noname2095_"
+            },
+            {
+              "end": 31,
+              "id": "1459453832",
+              "start": 22,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082703429768548493",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082446793367802095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ @noname2095_ @sauricat this true？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6564,
+          "following_count": 3338,
+          "like_count": 4046,
+          "listed_count": 19,
+          "media_count": 514,
+          "tweet_count": 3576
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 189,
+          "like_count": 14937,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 10111
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

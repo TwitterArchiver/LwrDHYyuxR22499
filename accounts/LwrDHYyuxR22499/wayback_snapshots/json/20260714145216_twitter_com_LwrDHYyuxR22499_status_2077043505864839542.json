@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077043505864839542",
+    "created_at": "2026-07-14T14:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077043505864839542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2077040613275623914",
+          "start": 146,
+          "url": "https://t.co/BEQD8MXmHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077043505864839542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077040613275623914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在中国\n紧急避险这类场景里医护、施救者必须依靠生理特征社会性别展开\n这毋庸置疑\n是现实条件下的常规选择，\n本身谈不上主观恶意与刻意迫害\n一部分人一边宣称\n可以完全绕开指派性\n却自己也拿不出\n可落地可复制的替代处置方案\n这难道不是天大的玩笑吗\n无非一群带着同党伐异的目的\n引导舆论的杀人犯而已 https://t.co/BEQD8MXmHB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077043505864839542",
+        "created_at": "2026-07-14T14:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077043505864839542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2077040613275623914",
+              "start": 146,
+              "url": "https://t.co/BEQD8MXmHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077043505864839542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077040613275623914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在中国\n紧急避险这类场景里医护、施救者必须依靠生理特征社会性别展开\n这毋庸置疑\n是现实条件下的常规选择，\n本身谈不上主观恶意与刻意迫害\n一部分人一边宣称\n可以完全绕开指派性\n却自己也拿不出\n可落地可复制的替代处置方案\n这难道不是天大的玩笑吗\n无非一群带着同党伐异的目的\n引导舆论的杀人犯而已 https://t.co/BEQD8MXmHB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077040613275623914",
+        "created_at": "2026-07-14T14:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077040613275623914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baizhimengyao/…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/baizhimengyao/status/2077037357933756877",
+              "start": 138,
+              "url": "https://t.co/1tUjPqJbNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077040613275623914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037357933756877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只说实际的：\n没有任何一个真正进到扭转中的跨性别者，会因为我使用了他们的指派性别救人而感到不适\n人们也有不选择我的权利。但把别人客观上做不到的事，\n无数次实践的刚性需求\n用舆论引导成故意迫害不尊重跨性别\n又宣称自己可以不用指派性别就能救人\n却什么都不做的人，才是最小丑的。 https://t.co/1tUjPqJbNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6420,
+          "following_count": 3335,
+          "like_count": 3827,
+          "listed_count": 20,
+          "media_count": 502,
+          "tweet_count": 3451
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

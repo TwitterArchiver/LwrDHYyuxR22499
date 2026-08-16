@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077287057333035051",
+    "created_at": "2026-07-15T07:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077287057333035051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2077106828983357664",
+          "start": 19,
+          "url": "https://t.co/JtB3cBFUsB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077287057333035051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077106828983357664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👌🏻🤓这家机构最近又重新开张了知道吧 https://t.co/JtB3cBFUsB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2077106826575761408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNdp16WUAAoNVZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077287057333035051",
+        "created_at": "2026-07-15T07:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077287057333035051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2077106828983357664",
+              "start": 19,
+              "url": "https://t.co/JtB3cBFUsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077287057333035051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077106828983357664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👌🏻🤓这家机构最近又重新开张了知道吧 https://t.co/JtB3cBFUsB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077106826575761408"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077106828983357664",
+        "created_at": "2026-07-14T19:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077106828983357664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJ9h0SWBLS",
+              "end": 28,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077106828983357664/photo/1",
+              "media_key": "3_2077106826575761408",
+              "start": 5,
+              "url": "https://t.co/uJ9h0SWBLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077106828983357664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8108,
+          "like_count": 171,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "吾辈楷模 https://t.co/uJ9h0SWBLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6434,
+          "following_count": 3342,
+          "like_count": 3876,
+          "listed_count": 20,
+          "media_count": 504,
+          "tweet_count": 3482
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 1091,
+          "like_count": 6330,
+          "listed_count": 11,
+          "media_count": 314,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

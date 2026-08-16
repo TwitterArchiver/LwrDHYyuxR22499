@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2084891356082970782",
+    "created_at": "2026-08-10T01:38:49.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086628299783196905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758022486237782017",
+          "start": 0,
+          "username": "Easterrnvillain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086628299783196905",
+    "in_reply_to_user_id": "1758022486237782017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085679486096544036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easterrnvillain 竟然还是老资历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2084891356082970782",
+        "created_at": "2026-08-10T01:38:49.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086628299783196905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758022486237782017",
+              "start": 0,
+              "username": "Easterrnvillain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086628299783196905",
+        "in_reply_to_user_id": "1758022486237782017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085679486096544036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easterrnvillain 竟然还是老资历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758022486237782017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2084891356082970782",
+        "created_at": "2026-08-07T10:48:34.000Z",
+        "display_text_range": [
+          17,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085679486096544036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085679486096544036",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084891356082970782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 第一个应该是某个扭转机构（也就是戒网瘾学校）在把受害者带上车后跟父母发的交代视频，第二个是塔沟武校，但这个视频我老早之前就看过了，确实是发生过，现在也有，但变成体罚了，不是直接打。一般进过扭转机构的出来由于跟12年教育对接不上，就只能去读武校你说我是怎么知道这么清楚的？因为我经历过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086628299783196905",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6980,
+          "following_count": 3388,
+          "like_count": 4346,
+          "listed_count": 21,
+          "media_count": 555,
+          "tweet_count": 3784
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T06:56:57.000Z",
+        "description": "",
+        "id": "1758022486237782017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086622205241438475",
+        "name": "虎子酱",
+        "pinned_tweet_id": "2020960434824843344",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758022486237782017/1747263843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031008453460987904/c0VIjpdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 329,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Easterrnvillain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

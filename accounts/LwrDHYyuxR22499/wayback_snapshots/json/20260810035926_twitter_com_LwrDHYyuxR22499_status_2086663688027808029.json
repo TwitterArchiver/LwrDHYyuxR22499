@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2086659507355316484",
+    "created_at": "2026-08-10T03:59:26.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086663688027808029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074667929908502529",
+          "start": 0,
+          "username": "johnsmithqewgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086663688027808029",
+    "in_reply_to_user_id": "2074667929908502529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086663633132794080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnsmithqewgh 个人崇拜不可取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2086659507355316484",
+        "created_at": "2026-08-10T03:59:26.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086663688027808029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074667929908502529",
+              "start": 0,
+              "username": "johnsmithqewgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086663688027808029",
+        "in_reply_to_user_id": "2074667929908502529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086663633132794080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnsmithqewgh 个人崇拜不可取"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074667929908502529",
+        "conversation_id": "2086659507355316484",
+        "created_at": "2026-08-10T03:59:13.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086663633132794080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086663633132794080",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086659507355316484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 会的，你是我的偶像"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086663688027808029",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6984,
+          "following_count": 3388,
+          "like_count": 4352,
+          "listed_count": 21,
+          "media_count": 555,
+          "tweet_count": 3791
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T01:36:08.000Z",
+        "description": "原来的号被炸毁了。转生成功，这里是二周目。为了保证不再被狂轰滥炸，决定安静地当个斯人。",
+        "id": "2074667929908502529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086663633132794080",
+        "name": "JS二周目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074667929908502529/1783477305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830605200535552/6F__D4nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 35,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "johnsmithqewgh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082757011759136768",
+        "3_2082757039210778624"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082757528761586111",
+    "created_at": "2026-07-30T09:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082757528761586111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gk3tIvBLj",
+          "end": 83,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082757528761586111/photo/1",
+          "media_key": "3_2082757011759136768",
+          "start": 60,
+          "url": "https://t.co/9gk3tIvBLj"
+        },
+        {
+          "display_url": "pic.x.com/9gk3tIvBLj",
+          "end": 83,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082757528761586111/photo/1",
+          "media_key": "3_2082757039210778624",
+          "start": 60,
+          "url": "https://t.co/9gk3tIvBLj"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1962541171315499128",
+          "start": 84,
+          "url": "https://t.co/jMbT4EYnbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082757528761586111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962541171315499128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😅😅😅\n刚看到个求助\n恁河南汝州若水的教官玩的挺变态啊\n对睾丸上私刑性虐待都来了。\n当年心软没把你干死，实乃我的失职。 https://t.co/9gk3tIvBLj https://t.co/jMbT4EYnbk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082757011759136768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdwd59bgAACd20.jpg",
+        "width": 883
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082757039210778624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdwfgOaUAAyynQ.jpg",
+        "width": 883
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541163765813248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYyltX0AAduD6.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541163715436544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYylhXIAAe8Lh.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541162864029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYyiWXsAADugl.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541167435816961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYyzYXoAEyUw6.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082757011759136768",
+            "3_2082757039210778624"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082757528761586111",
+        "created_at": "2026-07-30T09:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082757528761586111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gk3tIvBLj",
+              "end": 83,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082757528761586111/photo/1",
+              "media_key": "3_2082757011759136768",
+              "start": 60,
+              "url": "https://t.co/9gk3tIvBLj"
+            },
+            {
+              "display_url": "pic.x.com/9gk3tIvBLj",
+              "end": 83,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082757528761586111/photo/1",
+              "media_key": "3_2082757039210778624",
+              "start": 60,
+              "url": "https://t.co/9gk3tIvBLj"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1962541171315499128",
+              "start": 84,
+              "url": "https://t.co/jMbT4EYnbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082757528761586111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962541171315499128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅😅😅\n刚看到个求助\n恁河南汝州若水的教官玩的挺变态啊\n对睾丸上私刑性虐待都来了。\n当年心软没把你干死，实乃我的失职。 https://t.co/9gk3tIvBLj https://t.co/jMbT4EYnbk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962541163765813248",
+            "3_1962541163715436544",
+            "3_1962541162864029696",
+            "3_1962541167435816961"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1962541171315499128",
+        "created_at": "2025-09-01T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962541171315499128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648122510121271296",
+              "start": 8,
+              "username": "Zeriy_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541163765813248",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            },
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541163715436544",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            },
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541162864029696",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            },
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541167435816961",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962541171315499128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17433,
+          "like_count": 79,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "寻血猎犬启动！\n@Zeriy_1真实姓名赵轶群\n年纪22岁\n于一个月前强行被扭转机构绑架至\n河南若水教育\n本人于9.1日晚9点偶然间看到了求救信息\n请\n王某已就位😁\n请帮我转发\n让这位的亲密关系以及朋友看到并且联系我帮我尽快收集更多信息救援此人 https://t.co/cgsWDZv20d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 3339,
+          "like_count": 4045,
+          "listed_count": 19,
+          "media_count": 514,
+          "tweet_count": 3573
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

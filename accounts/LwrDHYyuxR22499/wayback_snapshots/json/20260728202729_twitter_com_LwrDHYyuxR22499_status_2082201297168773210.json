@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082201297168773210",
+    "created_at": "2026-07-28T20:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082201297168773210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082190609104986460",
+          "start": 129,
+          "url": "https://t.co/WHTamrpQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082201297168773210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082190609104986460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今日救助笑话一则：\n一身处国外，打着（海外救跨）走NGO公账的民运，\n指责一群在国内拒绝募捐\n靠教小孩上网课、摆摊售卖烤肠熟食赚钱，坚持做救助的活动家怀有政治目的，还拿这套说辞屡次挑拨离间\n北燕书自己不想笑吗\n反正我是气笑了\n说你巴不得人死真是一点不带差的 https://t.co/WHTamrpQid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_2082190139770748928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVs5nPbQAAbHuP.jpg",
+        "width": 743
+      },
+      {
+        "height": 495,
+        "media_key": "3_2082190166169686016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVs7JlbEAAqMIM.jpg",
+        "width": 1049
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082190350064730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVtF2pawAAOen8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082201297168773210",
+        "created_at": "2026-07-28T20:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082201297168773210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082190609104986460",
+              "start": 129,
+              "url": "https://t.co/WHTamrpQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082201297168773210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082190609104986460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日救助笑话一则：\n一身处国外，打着（海外救跨）走NGO公账的民运，\n指责一群在国内拒绝募捐\n靠教小孩上网课、摆摊售卖烤肠熟食赚钱，坚持做救助的活动家怀有政治目的，还拿这套说辞屡次挑拨离间\n北燕书自己不想笑吗\n反正我是气笑了\n说你巴不得人死真是一点不带差的 https://t.co/WHTamrpQid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082190139770748928",
+            "3_2082190166169686016",
+            "3_2082190350064730112"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082190609104986460",
+        "created_at": "2026-07-28T19:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082190609104986460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQxzzzl5yZ",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082190609104986460/photo/1",
+              "media_key": "3_2082190139770748928",
+              "start": 139,
+              "url": "https://t.co/TQxzzzl5yZ"
+            },
+            {
+              "display_url": "pic.x.com/TQxzzzl5yZ",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082190609104986460/photo/1",
+              "media_key": "3_2082190166169686016",
+              "start": 139,
+              "url": "https://t.co/TQxzzzl5yZ"
+            },
+            {
+              "display_url": "pic.x.com/TQxzzzl5yZ",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082190609104986460/photo/1",
+              "media_key": "3_2082190350064730112",
+              "start": 139,
+              "url": "https://t.co/TQxzzzl5yZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082190609104986460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北燕书女士，请您划清界限。\n我们全程没有得到过您的任何实质帮助，\n我不知道\n这究竟是哪个时间线的故事\n \n恰恰相反，跟你反目是因为在2024年我刚刚启动救援工作的初期，您刻意引战\n险些直接导致我救援行动失败，没能顺利救出当事人\n你道歉了挂在你的博客上\n我想变也罢了\n但在此之后\n您刻意歪曲事实：我基于现实条件，不得已使用指派性别开展救援这件事，\n被你刻意曲解为我故意羞辱跨性别群体\n借此引导舆论网暴我。\n \n两年时间过去，我以为经过这么久会有所收敛\n可如今您自己不愿伸手帮助受难者\n我承接救助工作之后\n你跟受害者说\n我帮跨性别者有政治目的?\n我能有什么政治目的?\n这致使受害者心生忌惮，不敢再来向我求助。\n \n为什么???\n难道就是因为我做的太好了\n显得你们都没用?\n屡次挑拨离间我与案主?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北燕书女士，请您划清界限。\n我们全程没有得到过您的任何实质帮助，\n我不知道\n这究竟是哪个时间线的故事\n \n恰恰相反，跟你反目是因为在2024年我刚刚启动救援工作的初期，您刻意引战\n险些直接导致我救援行动失败，没能顺利救出当事人\n你道歉了挂在你的博客上\n我想变也罢了\n但在此之后 https://t.co/TQxzzzl5yZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6457,
+          "following_count": 3335,
+          "like_count": 4004,
+          "listed_count": 22,
+          "media_count": 510,
+          "tweet_count": 3558
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

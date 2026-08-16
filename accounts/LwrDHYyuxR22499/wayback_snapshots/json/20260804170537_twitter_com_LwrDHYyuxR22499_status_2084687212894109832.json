@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2084235161689067762",
+    "created_at": "2026-08-04T17:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084687212894109832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1952096601222320128",
+          "start": 0,
+          "username": "guazQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084687212894109832",
+    "in_reply_to_user_id": "1952096601222320128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084687137258324063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guazQAQ 这下变成死人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2084235161689067762",
+        "created_at": "2026-08-04T17:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084687212894109832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1952096601222320128",
+              "start": 0,
+              "username": "guazQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084687212894109832",
+        "in_reply_to_user_id": "1952096601222320128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084687137258324063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guazQAQ 这下变成死人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952096601222320128",
+        "conversation_id": "2084235161689067762",
+        "created_at": "2026-08-04T17:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084687137258324063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084687137258324063",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084686886325662162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 来接电话来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 3370,
+          "like_count": 4226,
+          "listed_count": 20,
+          "media_count": 534,
+          "tweet_count": 3701
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T19:58:04.000Z",
+        "description": "09年，广西南宁，MTF，ISFP，173cm，59kg。\n你没有资格替从前的自己原谅任何人",
+        "id": "1952096601222320128",
+        "location": "dust2",
+        "name": "许霞🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985332980483751937/QKJ9zsG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 303,
+          "like_count": 863,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "guazQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

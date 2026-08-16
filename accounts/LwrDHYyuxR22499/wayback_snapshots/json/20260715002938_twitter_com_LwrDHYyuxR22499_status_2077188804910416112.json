@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077178201042989074",
+    "created_at": "2026-07-15T00:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077188804910416112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760449581630758912",
+          "start": 0,
+          "username": "Freeman01234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077188804910416112",
+    "in_reply_to_user_id": "1760449581630758912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077188299047776263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freeman01234567 从不要求我救的人为我做任何事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077178201042989074",
+        "created_at": "2026-07-15T00:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077188804910416112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760449581630758912",
+              "start": 0,
+              "username": "Freeman01234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077188804910416112",
+        "in_reply_to_user_id": "1760449581630758912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077188299047776263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freeman01234567 从不要求我救的人为我做任何事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760449581630758912",
+        "conversation_id": "2077178201042989074",
+        "created_at": "2026-07-15T00:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077188299047776263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077188299047776263",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077178201042989074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 救人这事，尽力而为吧。\n不求回报心，\n或许可以更长久些。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6429,
+          "following_count": 3340,
+          "like_count": 3849,
+          "listed_count": 20,
+          "media_count": 504,
+          "tweet_count": 3476
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T23:41:18.000Z",
+        "description": "欲与恶龙缠斗，终须躬身做恶龙。\n习近平系列卡牌持续制作中，请点击“相片”列表查看。\nwho fight with evil dragons risk becoming another evil dragon.",
+        "id": "1760449581630758912",
+        "location": "The Bottom of Hell",
+        "name": "New York Tank 🇺🇸纽约坦克",
+        "pinned_tweet_id": "2069140405762015417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064459642235658240/1Rnr-sLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1938,
+          "like_count": 24174,
+          "listed_count": 1,
+          "media_count": 713,
+          "tweet_count": 22888
+        },
+        "url": "",
+        "username": "Freeman01234567",
+        "verified": false
+      }
+    ]
+  }
+}

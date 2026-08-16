@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2085653027256738194",
+    "created_at": "2026-08-07T09:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085653027256738194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sacrificeQAQ/s…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/sacrificeQAQ/status/2085650557239497004",
+          "start": 119,
+          "url": "https://t.co/Bd8TNoLrOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085653027256738194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085650557239497004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的。\n但区别就是我的权势绝不用来害人制造不平等去霸凌😁。\n反对我的人那么多，你问问，有一个遭受过打击报复?\n我救助的人那么多，\n问问，有一个人遭受过我的剥削吗？\n批评不自由，赞美无意义。\n我要是用我手里的权利害人，\n我会瞧不起我自己。 https://t.co/Bd8TNoLrOE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2085653027256738194",
+        "created_at": "2026-08-07T09:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085653027256738194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sacrificeQAQ/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/sacrificeQAQ/status/2085650557239497004",
+              "start": 119,
+              "url": "https://t.co/Bd8TNoLrOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085653027256738194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085650557239497004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的。\n但区别就是我的权势绝不用来害人制造不平等去霸凌😁。\n反对我的人那么多，你问问，有一个遭受过打击报复?\n我救助的人那么多，\n问问，有一个人遭受过我的剥削吗？\n批评不自由，赞美无意义。\n我要是用我手里的权利害人，\n我会瞧不起我自己。 https://t.co/Bd8TNoLrOE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "conversation_id": "2085570254533693681",
+        "created_at": "2026-08-07T08:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085650557239497004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1313383273079345152",
+              "start": 17,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085650557239497004",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085570254533693681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @ValeriaEulabeia 我觉得你也挺有权有势的，能不上班搞救助，还能不被抓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6935,
+          "following_count": 3394,
+          "like_count": 4297,
+          "listed_count": 21,
+          "media_count": 545,
+          "tweet_count": 3753
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "QT间期延长 室间隔缺损(已康复) 轻度肺阻塞 慢性肛裂 肝内胆管结石 肾结石 高度近视 散光 弱视 慢性扁桃体炎 髌骨软骨软化 慢性外耳道炎 感音神经性聋",
+        "id": "1077035952655163392",
+        "name": "lastwidecat𓃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 1835,
+          "like_count": 214924,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 7771
+        },
+        "url": "",
+        "username": "sacrificeQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

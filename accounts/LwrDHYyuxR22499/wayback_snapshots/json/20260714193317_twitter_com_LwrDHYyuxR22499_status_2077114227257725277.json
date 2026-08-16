@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077114227257725277",
+    "created_at": "2026-07-14T19:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077114227257725277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkggxxyy/statu…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/kkggxxyy/status/2077055540430262336",
+          "start": 75,
+          "url": "https://t.co/vwaycNUaYf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077114227257725277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077055540430262336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "枪炮与烈火带来的恐惧是没办法永远吓住一个人的\n真正能改变人们的\n往往是一份被融入生活可以潜移默化\n被认同的理念与日常的琐碎\n外加香肠钞票还有一打啤酒 https://t.co/vwaycNUaYf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077114227257725277",
+        "created_at": "2026-07-14T19:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077114227257725277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkggxxyy/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/kkggxxyy/status/2077055540430262336",
+              "start": 75,
+              "url": "https://t.co/vwaycNUaYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077114227257725277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077055540430262336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "枪炮与烈火带来的恐惧是没办法永远吓住一个人的\n真正能改变人们的\n往往是一份被融入生活可以潜移默化\n被认同的理念与日常的琐碎\n外加香肠钞票还有一打啤酒 https://t.co/vwaycNUaYf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2077055540430262336",
+        "created_at": "2026-07-14T15:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077055540430262336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077055540430262336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1040,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是得多读书啊\n朋友圈一个河北女同也是突然结婚了\n什么扭转学校都不如小县城"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6427,
+          "following_count": 3336,
+          "like_count": 3837,
+          "listed_count": 20,
+          "media_count": 502,
+          "tweet_count": 3459
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "🏳️‍⚧️ 不可结缘",
+        "id": "1452537509875834880",
+        "location": "大象鼻子",
+        "name": "하나나",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 237,
+          "like_count": 7122,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 6595
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false
+      }
+    ]
+  }
+}

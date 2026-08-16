@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083017854228824064",
+        "3_2083017886667538432"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083017900173197500",
+    "created_at": "2026-07-31T02:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083017900173197500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3pFQjTFulD",
+          "end": 133,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083017900173197500/photo/1",
+          "media_key": "3_2083017854228824064",
+          "start": 110,
+          "url": "https://t.co/3pFQjTFulD"
+        },
+        {
+          "display_url": "pic.x.com/3pFQjTFulD",
+          "end": 133,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083017900173197500/photo/1",
+          "media_key": "3_2083017886667538432",
+          "start": 110,
+          "url": "https://t.co/3pFQjTFulD"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082757528761586111",
+          "start": 134,
+          "url": "https://t.co/HNUWaccYhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083017900173197500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082757528761586111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经叫你王人去“了解情况”了\n这位自称睾丸受到私刑的\n还是个跨性别者\n\n我一眼就看出这不是顺直\n这下鉴跨了\n\n不过情理上讲我已经退出跨性别救助了🧐🧐🤓\n听说北燕书建立了一个完全排除我还有受我指导的团队?\n这北燕书不管吗 https://t.co/3pFQjTFulD https://t.co/HNUWaccYhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083017854228824064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhds74bAAAgv1t.jpg",
+        "width": 949
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083017886667538432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhdu0uagAAtLpd.jpg",
+        "width": 311
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082757011759136768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdwd59bgAACd20.jpg",
+        "width": 883
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082757039210778624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdwfgOaUAAyynQ.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083017854228824064",
+            "3_2083017886667538432"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083017900173197500",
+        "created_at": "2026-07-31T02:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083017900173197500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pFQjTFulD",
+              "end": 133,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083017900173197500/photo/1",
+              "media_key": "3_2083017854228824064",
+              "start": 110,
+              "url": "https://t.co/3pFQjTFulD"
+            },
+            {
+              "display_url": "pic.x.com/3pFQjTFulD",
+              "end": 133,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083017900173197500/photo/1",
+              "media_key": "3_2083017886667538432",
+              "start": 110,
+              "url": "https://t.co/3pFQjTFulD"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082757528761586111",
+              "start": 134,
+              "url": "https://t.co/HNUWaccYhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083017900173197500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082757528761586111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经叫你王人去“了解情况”了\n这位自称睾丸受到私刑的\n还是个跨性别者\n\n我一眼就看出这不是顺直\n这下鉴跨了\n\n不过情理上讲我已经退出跨性别救助了🧐🧐🤓\n听说北燕书建立了一个完全排除我还有受我指导的团队?\n这北燕书不管吗 https://t.co/3pFQjTFulD https://t.co/HNUWaccYhK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082757011759136768",
+            "3_2082757039210778624"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082757528761586111",
+        "created_at": "2026-07-30T09:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082757528761586111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gk3tIvBLj",
+              "end": 83,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082757528761586111/photo/1",
+              "media_key": "3_2082757011759136768",
+              "start": 60,
+              "url": "https://t.co/9gk3tIvBLj"
+            },
+            {
+              "display_url": "pic.x.com/9gk3tIvBLj",
+              "end": 83,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082757528761586111/photo/1",
+              "media_key": "3_2082757039210778624",
+              "start": 60,
+              "url": "https://t.co/9gk3tIvBLj"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1962541171315499128",
+              "start": 84,
+              "url": "https://t.co/jMbT4EYnbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082757528761586111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 105831,
+          "like_count": 396,
+          "quote_count": 4,
+          "reply_count": 192,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962541171315499128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅😅😅\n刚看到个求助\n恁河南汝州若水的教官玩的挺变态啊\n对睾丸上私刑性虐待都来了。\n当年心软没把你干死，实乃我的失职。 https://t.co/9gk3tIvBLj https://t.co/jMbT4EYnbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6646,
+          "following_count": 3345,
+          "like_count": 4091,
+          "listed_count": 19,
+          "media_count": 520,
+          "tweet_count": 3598
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

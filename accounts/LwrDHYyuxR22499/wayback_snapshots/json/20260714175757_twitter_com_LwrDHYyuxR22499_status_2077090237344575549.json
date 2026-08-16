@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077090237344575549",
+    "created_at": "2026-07-14T17:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077090237344575549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baizhimengyao/…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/baizhimengyao/status/2077037357933756877",
+          "start": 137,
+          "url": "https://t.co/1tUjPqJbNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077090237344575549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077037357933756877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没什么好迷茫的\n照刚性条件\n你进入了扭转机构\n救你用指派性别称呼你不会超过五次\n你在里面续满期限待一年\n你无时无刻不被当成男性\n性侵虐待毒打体罚恐惧终日伴你左右\n\n黑色幽默的是即使你想带着女性身份去死\n也要先活着出来\n因为在里面\n尝试自杀也只会被救活过来被吊在树上毒打一顿 https://t.co/1tUjPqJbNt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077090237344575549",
+        "created_at": "2026-07-14T17:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077090237344575549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baizhimengyao/…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/baizhimengyao/status/2077037357933756877",
+              "start": 137,
+              "url": "https://t.co/1tUjPqJbNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077090237344575549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037357933756877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没什么好迷茫的\n照刚性条件\n你进入了扭转机构\n救你用指派性别称呼你不会超过五次\n你在里面续满期限待一年\n你无时无刻不被当成男性\n性侵虐待毒打体罚恐惧终日伴你左右\n\n黑色幽默的是即使你想带着女性身份去死\n也要先活着出来\n因为在里面\n尝试自杀也只会被救活过来被吊在树上毒打一顿 https://t.co/1tUjPqJbNt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2076386626360791252",
+        "created_at": "2026-07-14T14:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077037357933756877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077037357933756877",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1689,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076386626360791252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 先生……我有点……迷茫……？我们的性别和我们的生命哪个更重要？死了就什么都没了……什么都不用想了……什么都和你没关系了……也就不用考虑这些事情了……也许抱着自己的性别认同死会更好点……？可这个结论很明显是荒谬的……如果死了就都没意义了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6423,
+          "following_count": 3336,
+          "like_count": 3836,
+          "listed_count": 20,
+          "media_count": 502,
+          "tweet_count": 3457
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头/防迷路：曾用id白芷梦瑶🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "羽琳琳🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 34,
+          "like_count": 454,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

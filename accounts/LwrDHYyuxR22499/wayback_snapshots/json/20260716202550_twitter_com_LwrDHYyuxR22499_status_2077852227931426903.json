@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077852227931426903",
+    "created_at": "2026-07-16T20:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T21:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077852227931426903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077852227931426903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我跟别人传统做救助的是完全不一样的别人做救助\n是自己淋过雨就想着给别人撑把伞。这在我看来太迂腐了\n我不一样，我被雨淋透了\n干脆直接把天捅个洞，别下雨好咧。这点在我当年最开始干涉家暴的时候就开始暴露了\n有家暴干预对象家里人耳朵被我在警察局打聋了（小声逼逼）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077852227931426903",
+        "created_at": "2026-07-16T20:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077852227931426903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077852227931426903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟别人传统做救助的是完全不一样的别人做救助\n是自己淋过雨就想着给别人撑把伞。这在我看来太迂腐了\n我不一样，我被雨淋透了\n干脆直接把天捅个洞，别下雨好咧。这点在我当年最开始干涉家暴的时候就开始暴露了\n有家暴干预对象家里人耳朵被我在警察局打聋了（小声逼逼）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6438,
+          "following_count": 3338,
+          "like_count": 3915,
+          "listed_count": 20,
+          "media_count": 505,
+          "tweet_count": 3502
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

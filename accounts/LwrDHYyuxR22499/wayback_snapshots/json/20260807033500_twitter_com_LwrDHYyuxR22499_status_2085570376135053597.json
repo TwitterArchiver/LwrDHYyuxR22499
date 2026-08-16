@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2085570254533693681",
+    "created_at": "2026-08-07T03:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085570376135053597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085570376135053597",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085570254533693681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋汤女士什么时候才能不玩过家家\n自己全家要么当官要么从政从医\n拿着贪污腐败的钱\n惯出来这么个出生\n你爹汤铁刚还在帮共产党研究武器呢\n自己家什么成分不知道么\n还隔着过家家\n恨上建制派了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2085570254533693681",
+        "created_at": "2026-08-07T03:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085570376135053597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085570376135053597",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085570254533693681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋汤女士什么时候才能不玩过家家\n自己全家要么当官要么从政从医\n拿着贪污腐败的钱\n惯出来这么个出生\n你爹汤铁刚还在帮共产党研究武器呢\n自己家什么成分不知道么\n还隔着过家家\n恨上建制派了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2085570254533693681",
+        "created_at": "2026-08-07T03:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085570254533693681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1313383273079345152",
+              "start": 67,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085570254533693681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋😋科普个冷知识。\n我当年因为想要救更多的人，而不是选择出国政治庇护，执意留下来和诸多践踏人权的机构对抗。跟受贿赂的政府做斗争\n汤弋韬@ValeriaEulabeia \n\n自己不敢出头，就因为我不肯逃跑\n还带着一群人扣我建制派叛徒的帽子，造谣说我诈捐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6919,
+          "following_count": 3392,
+          "like_count": 4281,
+          "listed_count": 21,
+          "media_count": 546,
+          "tweet_count": 3744
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

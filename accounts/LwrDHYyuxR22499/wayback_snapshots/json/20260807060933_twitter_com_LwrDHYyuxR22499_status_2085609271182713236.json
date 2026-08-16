@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2085570254533693681",
+    "created_at": "2026-08-07T06:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085609271182713236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886449401029140485",
+          "start": 0,
+          "username": "shuanghenru"
+        },
+        {
+          "end": 22,
+          "id": "600386393",
+          "start": 13,
+          "username": "59Tankie"
+        },
+        {
+          "end": 39,
+          "id": "1313383273079345152",
+          "start": 23,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085609271182713236",
+    "in_reply_to_user_id": "1886449401029140485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085608769132904958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuanghenru @59Tankie @ValeriaEulabeia 是的\n家里有权有势\n亲爹还在给我党搞武器研发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2085570254533693681",
+        "created_at": "2026-08-07T06:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085609271182713236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886449401029140485",
+              "start": 0,
+              "username": "shuanghenru"
+            },
+            {
+              "end": 22,
+              "id": "600386393",
+              "start": 13,
+              "username": "59Tankie"
+            },
+            {
+              "end": 39,
+              "id": "1313383273079345152",
+              "start": 23,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085609271182713236",
+        "in_reply_to_user_id": "1886449401029140485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085608769132904958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuanghenru @59Tankie @ValeriaEulabeia 是的\n家里有权有势\n亲爹还在给我党搞武器研发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886449401029140485",
+        "conversation_id": "2085570254533693681",
+        "created_at": "2026-08-07T06:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085608769132904958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 26,
+              "id": "600386393",
+              "start": 17,
+              "username": "59Tankie"
+            },
+            {
+              "end": 43,
+              "id": "1313383273079345152",
+              "start": 27,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085608769132904958",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085573267637903718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @59Tankie @ValeriaEulabeia 红三代指的是这位吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6926,
+          "following_count": 3394,
+          "like_count": 4292,
+          "listed_count": 21,
+          "media_count": 545,
+          "tweet_count": 3751
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T16:19:29.000Z",
+        "description": "09.12.23 MTF (She/Her) | HRT 25.5.9 | 双相 小证",
+        "id": "1886449401029140485",
+        "location": "🫥🫥🫥🫥🫥🫥",
+        "name": "霜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952663751691255808/P0sBq0XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 940,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "shuanghenru",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-05T20:16:33.000Z",
+        "description": "云挼猫，健身，碾反贼。",
+        "id": "600386393",
+        "name": "Type 59 Tankie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774969449713475584/oQnwC8pC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 529,
+          "like_count": 321282,
+          "listed_count": 17,
+          "media_count": 2283,
+          "tweet_count": 19610
+        },
+        "url": "",
+        "username": "59Tankie",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🏴‍☠️Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082274819450732544/2k3gw41X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7044,
+          "following_count": 4130,
+          "like_count": 169657,
+          "listed_count": 19,
+          "media_count": 2854,
+          "tweet_count": 27646
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2087987084099535142",
+    "created_at": "2026-08-14T02:20:36.000Z",
+    "display_text_range": [
+      15,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088088370069303772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624705678593134592",
+          "start": 0,
+          "username": "Ripperdoc2034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088088370069303772",
+    "in_reply_to_user_id": "1624705678593134592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088051468901437679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ripperdoc2034 在网上骂人汴京而已嘛🤓\n就像我一想到那些骂我干活方式有问题的啥逼其实压根不干活\n我都释怀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2087987084099535142",
+        "created_at": "2026-08-14T02:20:36.000Z",
+        "display_text_range": [
+          15,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088088370069303772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624705678593134592",
+              "start": 0,
+              "username": "Ripperdoc2034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088088370069303772",
+        "in_reply_to_user_id": "1624705678593134592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088051468901437679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ripperdoc2034 在网上骂人汴京而已嘛🤓\n就像我一想到那些骂我干活方式有问题的啥逼其实压根不干活\n我都释怀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624705678593134592",
+        "conversation_id": "2087987084099535142",
+        "created_at": "2026-08-13T23:53:58.000Z",
+        "display_text_range": [
+          17,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088051468901437679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088051468901437679",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087987084099535142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 有可能是被骂完一句，然后想骂回去时发现对方一击脱离了，骂不回去，感到憋气🫠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088088370069303772",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7012,
+          "following_count": 3391,
+          "like_count": 4395,
+          "listed_count": 21,
+          "media_count": 557,
+          "tweet_count": 3826
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-12T09:43:55.000Z",
+        "description": "曾经是MtX如今早已断药🙂‍↔️现在就一肥佬/擅长投机倒把，注册于HSHR企业并任职决策顾问/理想远大但行动力存疑/躺平于辽西~喜欢在网上瞎哔哔~/有个笨笨的@bibibizizizi/合作伙伴@DLYXS2006///下方链接👇的博客中发布了我写的小说和一些文章☺️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "bibibizizizi"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "DLYXS2006"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ripperdoc2034.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://ripperdoc2034.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/JJ6KnUu6Tw"
+              }
+            ]
+          }
+        },
+        "id": "1624705678593134592",
+        "is_identity_verified": false,
+        "location": "不周山",
+        "most_recent_tweet_id": "2088051468901437679",
+        "name": "金流☯",
+        "pinned_tweet_id": "2066889989120733402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624705678593134592/1729793211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005672767795134465/LGc5y-yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 271,
+          "like_count": 30594,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/JJ6KnUu6Tw",
+        "username": "Ripperdoc2034",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

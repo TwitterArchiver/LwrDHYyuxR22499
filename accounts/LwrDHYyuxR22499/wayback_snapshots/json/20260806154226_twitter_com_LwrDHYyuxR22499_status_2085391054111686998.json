@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085390406137884672",
+        "3_2085390406213365760"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2085391054111686998",
+    "created_at": "2026-08-06T15:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085391054111686998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBbFnow2XW",
+          "end": 82,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2085391054111686998/photo/1",
+          "media_key": "3_2085390406137884672",
+          "start": 59,
+          "url": "https://t.co/GBbFnow2XW"
+        },
+        {
+          "display_url": "pic.x.com/GBbFnow2XW",
+          "end": 82,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2085391054111686998/photo/1",
+          "media_key": "3_2085390406213365760",
+          "start": 59,
+          "url": "https://t.co/GBbFnow2XW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085391054111686998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤧🤧啊呀因为常年穿靴子东奔西跑\n今天剪指甲的时候突然发现脚指甲已经被挤翻起来畸形了\n一边脚指甲已经跟甲床分家翘起来了 https://t.co/GBbFnow2XW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2085390406137884672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDLhofbMAARTNG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2085390406213365760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDLhoxa8AAuyss.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085390406137884672",
+            "3_2085390406213365760"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2085391054111686998",
+        "created_at": "2026-08-06T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085391054111686998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBbFnow2XW",
+              "end": 82,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2085391054111686998/photo/1",
+              "media_key": "3_2085390406137884672",
+              "start": 59,
+              "url": "https://t.co/GBbFnow2XW"
+            },
+            {
+              "display_url": "pic.x.com/GBbFnow2XW",
+              "end": 82,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2085391054111686998/photo/1",
+              "media_key": "3_2085390406213365760",
+              "start": 59,
+              "url": "https://t.co/GBbFnow2XW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085391054111686998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤧🤧啊呀因为常年穿靴子东奔西跑\n今天剪指甲的时候突然发现脚指甲已经被挤翻起来畸形了\n一边脚指甲已经跟甲床分家翘起来了 https://t.co/GBbFnow2XW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6905,
+          "following_count": 3394,
+          "like_count": 4279,
+          "listed_count": 21,
+          "media_count": 546,
+          "tweet_count": 3738
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

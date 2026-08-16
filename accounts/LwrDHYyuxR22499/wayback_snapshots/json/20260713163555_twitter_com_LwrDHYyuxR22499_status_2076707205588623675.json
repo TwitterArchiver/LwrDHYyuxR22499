@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2076701249844740571",
+    "created_at": "2026-07-13T16:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076707205588623675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520126866132434944",
+          "start": 0,
+          "username": "baimao_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076707205588623675",
+    "in_reply_to_user_id": "1520126866132434944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076706973945602108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimao_suki 河南湖南山东重庆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2076701249844740571",
+        "created_at": "2026-07-13T16:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076707205588623675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520126866132434944",
+              "start": 0,
+              "username": "baimao_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076707205588623675",
+        "in_reply_to_user_id": "1520126866132434944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076706973945602108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimao_suki 河南湖南山东重庆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520126866132434944",
+        "conversation_id": "2076701249844740571",
+        "created_at": "2026-07-13T16:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076706973945602108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076706973945602108",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076701249844740571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我有个疑问 这些机构的迫害的学生一般来自哪个省居多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6381,
+          "following_count": 3329,
+          "like_count": 3809,
+          "listed_count": 20,
+          "media_count": 501,
+          "tweet_count": 3435
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T19:44:32.000Z",
+        "description": "电脑DIY爱好者/ ysyxer/CS2玩家/ 头像是⁹ 背景是桜田シロ/疑似双A被bug拖着走 /容易踩地雷（雾）",
+        "id": "1520126866132434944",
+        "location": "广州",
+        "name": "白毛suki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671767047737602051/c8nMOrhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 1503,
+          "like_count": 27839,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "baimao_suki",
+        "verified": true
+      }
+    ]
+  }
+}

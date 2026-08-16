@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2083348937130614908",
+    "created_at": "2026-08-01T00:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083348937130614908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2083348062047715826",
+          "start": 99,
+          "url": "https://t.co/XXM8TfardJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083348937130614908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083348062047715826",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请OAU的负责人对此事进行回复。\n贵组织疑似有成员，企图通过开盒这类恶俗方式逼迫他人闭嘴。\n\n贵组织便是以这般党同伐异的手段清除异己的吗？\n\n我暂且相信这只是个别成员的个人行为，静候贵方给出解释。 https://t.co/XXM8TfardJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2083347567187021824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmJkwXbUAAF4Iz.jpg",
+        "width": 674
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2083347734309040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmJue8a8AA5HUk.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083348937130614908",
+        "created_at": "2026-08-01T00:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083348937130614908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2083348062047715826",
+              "start": 99,
+              "url": "https://t.co/XXM8TfardJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083348937130614908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083348062047715826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请OAU的负责人对此事进行回复。\n贵组织疑似有成员，企图通过开盒这类恶俗方式逼迫他人闭嘴。\n\n贵组织便是以这般党同伐异的手段清除异己的吗？\n\n我暂且相信这只是个别成员的个人行为，静候贵方给出解释。 https://t.co/XXM8TfardJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083347567187021824",
+            "3_2083347734309040128"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2083348062047715826",
+        "created_at": "2026-08-01T00:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083348062047715826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Evc8nStd5E",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083348062047715826/photo/1",
+              "media_key": "3_2083347567187021824",
+              "start": 141,
+              "url": "https://t.co/Evc8nStd5E"
+            },
+            {
+              "display_url": "pic.x.com/Evc8nStd5E",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083348062047715826/photo/1",
+              "media_key": "3_2083347734309040128",
+              "start": 141,
+              "url": "https://t.co/Evc8nStd5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083348062047715826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这位名叫花崎明里（akakristalo）的女士\n你好我在这里公开回复您的问题\n\n首先我并不清楚OAU具体是什么其次，我从头到尾针对的只有北燕书难道这个所谓的OAU，莫非是北燕书意志的化身？👂🏻👂🏻👂🏻\n \n我指责的无非是一类人自身不肯救人，还阻挠旁人施救反倒污蔑别人怀有政治目的\n世上还有比这更党同伐异的行径吗🧐？\n至于我本人是否理念是否进步，一切凭实际做事的成果分高下口说无凭。\n我身在国内，尚且敢在BBC指着实名指着共产党鼻子骂，不知阁下又…\n \n至于想要扒取他人隐私信息\n拿来玩谁最恶俗没底线??\n我就不直说了\n\n你们假借维护OAU的名义，热衷于扒查别人身份隐私这类卑劣勾当\n是不是不是第一次干了\n\n如果非要选个人撒气\n我的个人身份信息给你任凭你们拿去做什么\n但不要伤害别人\n\n但是但凡出现与我相关的新闻报道，纪录片，其他二创\n我都会特意附上一句话：\n“我曾因斥责北燕书阻挠救援行动，遭到OAU成员恶意使用个人身份信息”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这位名叫花崎明里（akakristalo）的女士\n你好我在这里公开回复您的问题\n\n首先我并不清楚OAU具体是什么其次，我从头到尾针对的只有北燕书难道这个所谓的OAU，莫非是北燕书意志的化身？👂🏻👂🏻👂🏻\n \n我指责的无非是一类人自身不肯救人，还阻挠旁人施救反倒污蔑别人怀有政治目的 https://t.co/Evc8nStd5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6770,
+          "following_count": 3346,
+          "like_count": 4106,
+          "listed_count": 19,
+          "media_count": 523,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

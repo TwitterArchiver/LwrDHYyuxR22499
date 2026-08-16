@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077164999756365863",
+    "created_at": "2026-07-14T22:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T23:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077164999756365863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540698144429596673",
+          "start": 3,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077164999756365863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076716325112607029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y2D80355: 以前卖药的现在连自己都吃不上药，好人没好报这一块\n\n与此同时在加拿大的寻求庇护者还有心思过骄傲节举牌子和民逗混一起，能有一个正常使用的证件没有居住限制，还有极高通过率支撑着，这真的是一个世界的吗😬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077164999756365863",
+        "created_at": "2026-07-14T22:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T23:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077164999756365863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540698144429596673",
+              "start": 3,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077164999756365863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076716325112607029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y2D80355: 以前卖药的现在连自己都吃不上药，好人没好报这一块\n\n与此同时在加拿大的寻求庇护者还有心思过骄傲节举牌子和民逗混一起，能有一个正常使用的证件没有居住限制，还有极高通过率支撑着，这真的是一个世界的吗😬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2076716325112607029",
+        "created_at": "2026-07-13T17:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076716325112607029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y2d80355/statu…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/y2d80355/status/2076709781402767840",
+              "start": 99,
+              "url": "https://t.co/TIvYFZahCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076716325112607029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1955,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076709781402767840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前卖药的现在连自己都吃不上药，好人没好报这一块\n\n与此同时在加拿大的寻求庇护者还有心思过骄傲节举牌子和民逗混一起，能有一个正常使用的证件没有居住限制，还有极高通过率支撑着，这真的是一个世界的吗😬 https://t.co/TIvYFZahCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6429,
+          "following_count": 3340,
+          "like_count": 3846,
+          "listed_count": 20,
+          "media_count": 503,
+          "tweet_count": 3470
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "ˈʏpsilɔn",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074827288361713664/TdNVdAn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 856,
+          "like_count": 7222,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 6386
+        },
+        "url": "",
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

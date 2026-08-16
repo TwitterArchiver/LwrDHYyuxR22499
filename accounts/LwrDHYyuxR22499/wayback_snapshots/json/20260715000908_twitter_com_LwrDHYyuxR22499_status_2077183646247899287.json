@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2077183646247899287",
+    "created_at": "2026-07-15T00:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077183646247899287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2077178201042989074",
+          "start": 101,
+          "url": "https://t.co/rZlno6RYvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077183646247899287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077178201042989074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及再次为自己去神圣化\n很多人因为我的功绩把我当救世主\n停止这样的幻想\n我充其量只能算是一个高尚一点\n胆子大一点的找对了方法敢打敢拼的人而已\n并诚挚邀请所有愿意共事的人加入我们去掉这层“神圣化”的外衣 https://t.co/rZlno6RYvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2077178193577185280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOej8tbEAA4cGx.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077183646247899287",
+        "created_at": "2026-07-15T00:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077183646247899287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2077178201042989074",
+              "start": 101,
+              "url": "https://t.co/rZlno6RYvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077183646247899287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077178201042989074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及再次为自己去神圣化\n很多人因为我的功绩把我当救世主\n停止这样的幻想\n我充其量只能算是一个高尚一点\n胆子大一点的找对了方法敢打敢拼的人而已\n并诚挚邀请所有愿意共事的人加入我们去掉这层“神圣化”的外衣 https://t.co/rZlno6RYvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077178193577185280"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2077178201042989074",
+        "created_at": "2026-07-14T23:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077178201042989074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBAVM01rDO",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2077178201042989074/photo/1",
+              "media_key": "3_2077178193577185280",
+              "start": 149,
+              "url": "https://t.co/xBAVM01rDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077178201042989074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实给各位一种\n“只有我能救人”\n“我垄断了救助资源”\n是一种假象\n真相是我把我所有的个案都扔在推特共各位观摩\n把救人的方法都传授出去\n也看不到他们端邪教、毁窝点扫机构开铁门放学生\n要么就学会了自救\n对别人无动于衷\n所以怪我“垄断救助资源”的\n有没有可能是因为\n方法都扔新闻纪录片里了你也不敢学呢 https://t.co/xBAVM01rDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6429,
+          "following_count": 3340,
+          "like_count": 3847,
+          "listed_count": 20,
+          "media_count": 504,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

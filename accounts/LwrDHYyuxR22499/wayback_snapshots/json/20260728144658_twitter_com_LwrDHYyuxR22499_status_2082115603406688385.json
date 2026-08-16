@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082113595903823872",
+        "3_2082113711175860224"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082115603406688385",
+    "created_at": "2026-07-28T14:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082115603406688385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KU1r0A3ocW",
+          "end": 162,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082115603406688385/photo/1",
+          "media_key": "3_2082113595903823872",
+          "start": 139,
+          "url": "https://t.co/KU1r0A3ocW"
+        },
+        {
+          "display_url": "pic.x.com/KU1r0A3ocW",
+          "end": 162,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082115603406688385/photo/1",
+          "media_key": "3_2082113711175860224",
+          "start": 139,
+          "url": "https://t.co/KU1r0A3ocW"
+        },
+        {
+          "display_url": "x.com/yifu0753/statu…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/yifu0753/status/2082100466280964179",
+          "start": 163,
+          "url": "https://t.co/9mnUOUbLLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082115603406688385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我确实因为特派任务不在现场，但请不要因为我不在现场\n就把我捐给受害者的真金白银当成冥币\n\n我们还正在为受害者租房，并向线下输送法律支援。\n \n更重要的是，我不知道你带着什么目的污名化受害者。\n施暴者本人已经自行认罪的事实还能洗白吗？\n如果需要施暴者认罪及被行政处罚的相关证据，\n可以私信我，欢迎各位审阅查明真相。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082100466280964179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我确实因为特派任务不在现场，但请不要因为我不在现场\n就把我捐给受害者的真金白银当成冥币\n\n我们还正在为受害者租房，并向线下输送法律支援。\n \n更重要的是，我不知道你带着什么目的污名化受害者。\n施暴者本人已经自行认罪的事实还能洗白吗？\n如果需要施暴者认罪及被行政处罚的相关证据， https://t.co/KU1r0A3ocW https://t.co/9mnUOUbLLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082113595903823872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUnSLHb0AAlgeD.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082113711175860224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUnY4ibgAApCyj.jpg",
+        "width": 917
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2082100448492998656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUbU5MbUAAA9ed.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082113595903823872",
+            "3_2082113711175860224"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082115603406688385",
+        "created_at": "2026-07-28T14:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082115603406688385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KU1r0A3ocW",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082115603406688385/photo/1",
+              "media_key": "3_2082113595903823872",
+              "start": 139,
+              "url": "https://t.co/KU1r0A3ocW"
+            },
+            {
+              "display_url": "pic.x.com/KU1r0A3ocW",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082115603406688385/photo/1",
+              "media_key": "3_2082113711175860224",
+              "start": 139,
+              "url": "https://t.co/KU1r0A3ocW"
+            },
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/yifu0753/status/2082100466280964179",
+              "start": 163,
+              "url": "https://t.co/9mnUOUbLLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082115603406688385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我确实因为特派任务不在现场，但请不要因为我不在现场\n就把我捐给受害者的真金白银当成冥币\n\n我们还正在为受害者租房，并向线下输送法律支援。\n \n更重要的是，我不知道你带着什么目的污名化受害者。\n施暴者本人已经自行认罪的事实还能洗白吗？\n如果需要施暴者认罪及被行政处罚的相关证据，\n可以私信我，欢迎各位审阅查明真相。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082100466280964179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我确实因为特派任务不在现场，但请不要因为我不在现场\n就把我捐给受害者的真金白银当成冥币\n\n我们还正在为受害者租房，并向线下输送法律支援。\n \n更重要的是，我不知道你带着什么目的污名化受害者。\n施暴者本人已经自行认罪的事实还能洗白吗？\n如果需要施暴者认罪及被行政处罚的相关证据， https://t.co/KU1r0A3ocW https://t.co/9mnUOUbLLX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082100448492998656"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082100466280964179",
+        "created_at": "2026-07-28T13:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082100466280964179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bdm3m2gmCE",
+              "end": 109,
+              "expanded_url": "https://x.com/yifu0753/status/2082100466280964179/photo/1",
+              "media_key": "3_2082100448492998656",
+              "start": 86,
+              "url": "https://t.co/Bdm3m2gmCE"
+            },
+            {
+              "display_url": "x.com/CicadaSeventee…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/CicadaSeventeen/status/2082057559285149728",
+              "start": 110,
+              "url": "https://t.co/yMYGlMJKVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082100466280964179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082057559285149728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于一些个人所称我的精神状态导致我可能对事件和事实进行编造，现在在此进行说明：我确实患有会影响情绪的精神障碍，但经医疗机构诊断不具有精神病性症状，不会影响我的认知或感知。 https://t.co/Bdm3m2gmCE https://t.co/yMYGlMJKVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6444,
+          "following_count": 3331,
+          "like_count": 3977,
+          "listed_count": 19,
+          "media_count": 509,
+          "tweet_count": 3547
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1396,
+          "like_count": 8984,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 2285
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

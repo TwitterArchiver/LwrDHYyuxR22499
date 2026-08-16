@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "1883340975281725556",
+    "created_at": "2026-07-14T18:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077098876490981605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818931253846196224",
+          "start": 0,
+          "username": "younstark3000_"
+        },
+        {
+          "end": 32,
+          "id": "1313383273079345152",
+          "start": 16,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077098876490981605",
+    "in_reply_to_user_id": "1818931253846196224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077098363565256717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@younstark3000_ @ValeriaEulabeia 我甚至觉得最难的都不是对付教官而是这群啥逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077098356837675008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNV81rbcAAGKi-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1883340975281725556",
+        "created_at": "2026-07-14T18:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077098876490981605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818931253846196224",
+              "start": 0,
+              "username": "younstark3000_"
+            },
+            {
+              "end": 32,
+              "id": "1313383273079345152",
+              "start": 16,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077098876490981605",
+        "in_reply_to_user_id": "1818931253846196224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077098363565256717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@younstark3000_ @ValeriaEulabeia 我甚至觉得最难的都不是对付教官而是这群啥逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077098356837675008"
+          ]
+        },
+        "author_id": "1818931253846196224",
+        "conversation_id": "1883340975281725556",
+        "created_at": "2026-07-14T18:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077098363565256717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1313383273079345152",
+              "start": 17,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsFJeiypjf",
+              "end": 63,
+              "expanded_url": "https://x.com/younstark3000_/status/2077098363565256717/photo/1",
+              "media_key": "3_2077098356837675008",
+              "start": 40,
+              "url": "https://t.co/ZsFJeiypjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077098363565256717",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883340975281725556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @ValeriaEulabeia 哎，太难了 https://t.co/ZsFJeiypjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6425,
+          "following_count": 3336,
+          "like_count": 3837,
+          "listed_count": 20,
+          "media_count": 502,
+          "tweet_count": 3458
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-01T08:46:38.000Z",
+        "description": "这个东西介绍不了我",
+        "id": "1818931253846196224",
+        "location": "2.3km",
+        "name": "青影",
+        "pinned_tweet_id": "1818942290947453339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960965246606303232/_ljrhRkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 86,
+          "like_count": 4317,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "younstark3000_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049492315513950209/Cp9UnZ_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6996,
+          "following_count": 4007,
+          "like_count": 166147,
+          "listed_count": 19,
+          "media_count": 2803,
+          "tweet_count": 27048
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

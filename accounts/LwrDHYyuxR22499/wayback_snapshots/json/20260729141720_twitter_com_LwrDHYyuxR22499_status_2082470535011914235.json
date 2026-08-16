@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082470015513862144",
+        "3_2082470075312074752",
+        "3_2082470099676749824"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2082470535011914235",
+    "created_at": "2026-07-29T14:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082470535011914235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7G9bFDdaA2",
+          "end": 76,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+          "media_key": "3_2082470015513862144",
+          "start": 53,
+          "url": "https://t.co/7G9bFDdaA2"
+        },
+        {
+          "display_url": "pic.x.com/7G9bFDdaA2",
+          "end": 76,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+          "media_key": "3_2082470075312074752",
+          "start": 53,
+          "url": "https://t.co/7G9bFDdaA2"
+        },
+        {
+          "display_url": "pic.x.com/7G9bFDdaA2",
+          "end": 76,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+          "media_key": "3_2082470099676749824",
+          "start": 53,
+          "url": "https://t.co/7G9bFDdaA2"
+        },
+        {
+          "display_url": "x.com/AsdQWD358224/s…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/AsdQWD358224/status/2082303642829476260",
+          "start": 77,
+          "url": "https://t.co/SzoO7Snjgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082470535011914235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082303642829476260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "北燕书:我可以不用指派性别救人\n证明你是错的\n我:真的假的?看看实际案例?\n北燕书:你是国安线人你在钓鱼 https://t.co/7G9bFDdaA2 https://t.co/SzoO7Snjgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082470015513862144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrchobIAA4f4I.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082470075312074752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrgAZbcAAXKiM.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082470099676749824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZrhbKa4AAfEax.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082303169242202112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXTsy1aAAAsYvz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082470015513862144",
+            "3_2082470075312074752",
+            "3_2082470099676749824"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082470535011914235",
+        "created_at": "2026-07-29T14:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082470535011914235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7G9bFDdaA2",
+              "end": 76,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+              "media_key": "3_2082470015513862144",
+              "start": 53,
+              "url": "https://t.co/7G9bFDdaA2"
+            },
+            {
+              "display_url": "pic.x.com/7G9bFDdaA2",
+              "end": 76,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+              "media_key": "3_2082470075312074752",
+              "start": 53,
+              "url": "https://t.co/7G9bFDdaA2"
+            },
+            {
+              "display_url": "pic.x.com/7G9bFDdaA2",
+              "end": 76,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082470535011914235/photo/1",
+              "media_key": "3_2082470099676749824",
+              "start": 53,
+              "url": "https://t.co/7G9bFDdaA2"
+            },
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/2082303642829476260",
+              "start": 77,
+              "url": "https://t.co/SzoO7Snjgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082470535011914235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082303642829476260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北燕书:我可以不用指派性别救人\n证明你是错的\n我:真的假的?看看实际案例?\n北燕书:你是国安线人你在钓鱼 https://t.co/7G9bFDdaA2 https://t.co/SzoO7Snjgr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082303169242202112"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "2082303642829476260",
+        "created_at": "2026-07-29T03:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082303642829476260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xn72Qmeih8",
+              "end": 164,
+              "expanded_url": "https://x.com/AsdQWD358224/status/2082303642829476260/photo/1",
+              "media_key": "3_2082303169242202112",
+              "start": 141,
+              "url": "https://t.co/xn72Qmeih8"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082190609104986460",
+              "start": 165,
+              "url": "https://t.co/jH2PlbCUtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082303642829476260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082190609104986460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从未见过北燕书对国内社群内的成员做出了哪怕是一丁点的帮助\n他所在网上发表的言论无非是炒作罢了\n而且这个人还特别喜欢给别人扣帽子\n一旦他觉得你说的话冒犯到他了，就开始哈气，就开始给别人安“国安警察““右翼“这样子的帽子\n你自己以前整的那个“全跨小队”那哪怕帮助到了国内的同袍了吗？ https://t.co/xn72Qmeih8 https://t.co/jH2PlbCUtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6508,
+          "following_count": 3337,
+          "like_count": 4026,
+          "listed_count": 19,
+          "media_count": 512,
+          "tweet_count": 3565
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 3004,
+          "like_count": 102885,
+          "listed_count": 13,
+          "media_count": 2335,
+          "tweet_count": 18279
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2079960092364226976",
+    "created_at": "2026-07-23T11:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080256047500169646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1060842677464252416",
+          "start": 0,
+          "username": "maho_citrus"
+        },
+        {
+          "end": 24,
+          "id": "291599744",
+          "start": 13,
+          "username": "hello_lyra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080256047500169646",
+    "in_reply_to_user_id": "1060842677464252416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080251258712305967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maho_citrus @hello_lyra 那必须帮的他没钱可以随时找我要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2079960092364226976",
+        "created_at": "2026-07-23T11:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080256047500169646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1060842677464252416",
+              "start": 0,
+              "username": "maho_citrus"
+            },
+            {
+              "end": 24,
+              "id": "291599744",
+              "start": 13,
+              "username": "hello_lyra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080256047500169646",
+        "in_reply_to_user_id": "1060842677464252416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080251258712305967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maho_citrus @hello_lyra 那必须帮的他没钱可以随时找我要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060842677464252416",
+        "conversation_id": "2079960092364226976",
+        "created_at": "2026-07-23T11:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080251258712305967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 42,
+              "id": "291599744",
+              "start": 31,
+              "username": "hello_lyra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080251258712305967",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079960092364226976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 那就帮一下吧，zen的tg是@Hello_Lyra，现在应该用的上很多帮助，比如住所，食物，陪伴和照看。请。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6447,
+          "following_count": 3341,
+          "like_count": 3954,
+          "listed_count": 20,
+          "media_count": 507,
+          "tweet_count": 3529
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-09T10:32:58.000Z",
+        "description": "谢谢你叫我小姑娘",
+        "id": "1060842677464252416",
+        "location": "The Earth",
+        "name": "魔法少女橙昔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029465363969392640/RLqZtHLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 88,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "maho_citrus",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-02T09:11:10.000Z",
+        "description": "",
+        "id": "291599744",
+        "location": "laguna",
+        "name": "lyra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042518179/dorothy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "hello_lyra",
+        "verified": false
+      }
+    ]
+  }
+}
