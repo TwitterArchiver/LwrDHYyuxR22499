@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2090697713205809572",
+    "created_at": "2026-08-21T07:09:12.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:40:48.000Z",
+      "edits_remaining": 2,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090690566006644879",
+      "2090691284688367998",
+      "2090693794681475141",
+      "2090697713205809572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oyama_Tsuimei/…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2083535857764753623",
+          "start": 128,
+          "url": "https://t.co/plDJ4yVbzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090697713205809572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？\n充分证明你们国内这群玩政治身份的，有多迂腐无能。\n \n你们这群怪宣传还有救人用指派性别的，只告诉了我一件事：\n“没替你们争取政治身份，就是我的原罪。”\n😁😁\n \n你们这群废人但凡有我一半敢跟建制作斗争，\n天天带着家长去政府拉横幅抗议，\n有几个被特警打残、进去蹲班房。\n有自己嘴里千分之一敢跟建制做斗争，\n何至于我退出后连人都救不出来，让我上嘴脸吗？\n至于到现在，连拒绝指派性别都做不到吗？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083535857764753623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？ https://t.co/plDJ4yVbzC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2090690566006644879",
+        "created_at": "2026-08-21T06:40:48.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:40:48.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090690566006644879",
+          "2090691284688367998",
+          "2090693794681475141",
+          "2090697713205809572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Tsuimei/…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2083535857764753623",
+              "start": 128,
+              "url": "https://t.co/plDJ4yUDK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090690566006644879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？\n充分证明你们国内这群玩政治身份的，有多迂腐无能。\n \n你说的这话，只告诉了我一件事：\n“没替你们争取政治身份，就是我有罪。”\n😁😁\n \n你们这群废人但凡有我一半能耐呢？\n何至我退出后连人都救不出来\n让我上嘴脸吗?\n至于到现在，连拒绝指派性别都做不到吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083535857764753623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？ https://t.co/plDJ4yUDK4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2090691284688367998",
+        "created_at": "2026-08-21T06:43:40.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:40:48.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090690566006644879",
+          "2090691284688367998",
+          "2090693794681475141",
+          "2090697713205809572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Tsuimei/…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2083535857764753623",
+              "start": 128,
+              "url": "https://t.co/plDJ4yVbzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090691284688367998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？\n充分证明你们国内这群玩政治身份的，有多迂腐无能。\n \n你们这群怪宣传还有救人用指派性别的，只告诉了我一件事：\n“没替你们争取政治身份，就是我的原罪。”\n😁😁\n \n你们这群废人但凡有我一半能耐呢？\n何至我退出后连人都救不出来\n让我上嘴脸吗?\n至于到现在，连拒绝指派性别都做不到吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083535857764753623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？ https://t.co/plDJ4yVbzC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2090693794681475141",
+        "created_at": "2026-08-21T06:53:38.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:40:48.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090690566006644879",
+          "2090691284688367998",
+          "2090693794681475141",
+          "2090697713205809572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Tsuimei/…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2083535857764753623",
+              "start": 128,
+              "url": "https://t.co/plDJ4yVbzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090693794681475141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？\n充分证明你们国内这群玩政治身份的，有多迂腐无能。\n \n你们这群怪宣传还有救人用指派性别的，只告诉了我一件事：\n“没替你们争取政治身份，就是我的原罪。”\n😁😁\n \n你们这群废人但凡有我一半\n敢跟建制作对\n天天带着家长拉横幅抗议\n何至我退出后连人都救不出来\n让我上嘴脸吗?\n至于到现在，连拒绝指派性别都做不到吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083535857764753623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？ https://t.co/plDJ4yVbzC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2090697713205809572",
+        "created_at": "2026-08-21T07:09:12.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:40:48.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090690566006644879",
+          "2090691284688367998",
+          "2090693794681475141",
+          "2090697713205809572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Tsuimei/…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2083535857764753623",
+              "start": 128,
+              "url": "https://t.co/plDJ4yVbzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090697713205809572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？\n充分证明你们国内这群玩政治身份的，有多迂腐无能。\n \n你们这群怪宣传还有救人用指派性别的，只告诉了我一件事：\n“没替你们争取政治身份，就是我的原罪。”\n😁😁\n \n你们这群废人但凡有我一半敢跟建制作斗争，\n天天带着家长去政府拉横幅抗议，\n有几个被特警打残、进去蹲班房。\n有自己嘴里千分之一敢跟建制做斗争，\n何至于我退出后连人都救不出来，让我上嘴脸吗？\n至于到现在，连拒绝指派性别都做不到吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083535857764753623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁是废物，不敢指着建制鼻子骂？😁😁\n你王人因为人权问题，天天上媒体指着鼻子骂政府，你眼瞎了？\n我明后年还要上联合国演讲去骂呢，你信不信？\n \n难道不是你们跨人，在社会上这么多年了，连个性别身份都没争取到？\n却还要跟巨婴一样，怪我为什么使用指派性别？ https://t.co/plDJ4yVbzC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2083535857764753623",
+        "created_at": "2026-08-01T12:50:33.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083535857764753623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083428198923001993",
+              "start": 143,
+              "url": "https://t.co/bfJl1dO1eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083535857764753623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1638,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428198923001993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你牧鸢就是爹味大的批爆洗不了一点\n我一直是旗帜鲜明的支持多快好省的苦力怕自助主义来救跨的\n你自愿去搞救助当然是好事，但是你拿这个事来要挟社群自己当皇帝那你就是傻逼\n我的评价是你不想干了大可以撂挑子\n而不是像个弱智一样在那说我不敢和建制和平台爆so我以后不救跨子了\n本质欺软怕硬有感觉吗 https://t.co/bfJl1dO1eL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090697713205809572",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7041,
+          "following_count": 3421,
+          "like_count": 4627,
+          "listed_count": 21,
+          "media_count": 572,
+          "tweet_count": 3954
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "我是坠明｜挚友：@ceptyphe｜没有牺牲大到不能接受，没有背叛小到可以忍受｜粥瓦派魂鸣蒸音火撸命 十项全能｜头像图源蓝p摸头神力庇佑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "ceptyphe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "is_identity_verified": false,
+        "location": "距你头顶514米的热熔跳帮舱中",
+        "most_recent_tweet_id": "2089661628686250085",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759598042704207872/1782399268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082029242980986880/MwPHNy5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1053,
+          "like_count": 1276,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 4920
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

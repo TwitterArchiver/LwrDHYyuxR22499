@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091244136435458048"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2091244192349700219",
+    "created_at": "2026-08-22T19:20:43.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T20:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091244192349700219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tTu9msnmGN",
+          "end": 38,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2091244192349700219/photo/1",
+          "media_key": "3_2091244136435458048",
+          "start": 15,
+          "url": "https://t.co/tTu9msnmGN"
+        },
+        {
+          "display_url": "x.com/bolckAshley/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/bolckAshley/status/2091095344084058374",
+          "start": 39,
+          "url": "https://t.co/Y5Ni8hfLIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091244192349700219",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091244136435458048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091095344084058374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反对自己是因为对自己十分不满 https://t.co/tTu9msnmGN https://t.co/Y5Ni8hfLIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2091244136435458048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWXdlLaoAAaQQ3.jpg",
+        "width": 701
+      },
+      {
+        "height": 655,
+        "media_key": "3_2091095337343819776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUQIVXaoAA_i3m.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091244136435458048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2091244192349700219",
+        "created_at": "2026-08-22T19:20:43.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091244192349700219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTu9msnmGN",
+              "end": 38,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2091244192349700219/photo/1",
+              "media_key": "3_2091244136435458048",
+              "start": 15,
+              "url": "https://t.co/tTu9msnmGN"
+            },
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2091095344084058374",
+              "start": 39,
+              "url": "https://t.co/Y5Ni8hfLIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091244192349700219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091244136435458048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091095344084058374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对自己是因为对自己十分不满 https://t.co/tTu9msnmGN https://t.co/Y5Ni8hfLIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091095337343819776"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2091095344084058374",
+        "created_at": "2026-08-22T09:29:15.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091095344084058374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3rHi2xXks",
+              "end": 42,
+              "expanded_url": "https://x.com/bolckAshley/status/2091095344084058374/photo/1",
+              "media_key": "3_2091095337343819776",
+              "start": 19,
+              "url": "https://t.co/Z3rHi2xXks"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/bghtnya/status/2090699044620558532",
+              "start": 43,
+              "url": "https://t.co/eKbHjVSIsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091095344084058374",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091095337343819776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5206,
+          "like_count": 32,
+          "quote_count": 11,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090699044620558532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仿照這個做了一個另外的版本 歡迎來玩 https://t.co/Z3rHi2xXks https://t.co/eKbHjVSIsb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091244192349700219",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 3425,
+          "like_count": 4675,
+          "listed_count": 21,
+          "media_count": 573,
+          "tweet_count": 3981
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2091213792591945938",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 2259,
+          "like_count": 43954,
+          "listed_count": 31,
+          "media_count": 2041,
+          "tweet_count": 24332
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

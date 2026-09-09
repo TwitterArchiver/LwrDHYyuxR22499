@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2088547688988234100",
+    "created_at": "2026-08-15T08:45:47.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088547688988234100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko_ruyue/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/neko_ruyue/status/2088078172059521089",
+          "start": 31,
+          "url": "https://t.co/AJM2UmAeO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088547688988234100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088078172059521089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身份政治立场叙事\n跨权大于人权\n这个结果是谁造成的呢?🤔🤔🤔 https://t.co/AJM2UmAeO2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2088547688988234100",
+        "created_at": "2026-08-15T08:45:47.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088547688988234100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko_ruyue/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/neko_ruyue/status/2088078172059521089",
+              "start": 31,
+              "url": "https://t.co/AJM2UmAeO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088547688988234100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088078172059521089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身份政治立场叙事\n跨权大于人权\n这个结果是谁造成的呢?🤔🤔🤔 https://t.co/AJM2UmAeO2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "2088078172059521089",
+        "created_at": "2026-08-14T01:40:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088078172059521089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088078172059521089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 43468,
+          "like_count": 782,
+          "quote_count": 5,
+          "reply_count": 152,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "当公共场所捅人你不站在法律治安一边 \n\n非要搞个跨性别和顺直的站队吗\n要举例子出来证明支持谁\n吃药吃傻了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088547688988234100",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7022,
+          "following_count": 3396,
+          "like_count": 4426,
+          "listed_count": 21,
+          "media_count": 562,
+          "tweet_count": 3838
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "主人@zs_mine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "zs_mine"
+              }
+            ]
+          }
+        },
+        "id": "1015788561088630791",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088521969453203860",
+        "name": "小猫月月",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015788561088630791/1725280337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32964,
+          "following_count": 4106,
+          "like_count": 152804,
+          "listed_count": 78,
+          "media_count": 2735,
+          "tweet_count": 31049
+        },
+        "url": "",
+        "username": "neko_ruyue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

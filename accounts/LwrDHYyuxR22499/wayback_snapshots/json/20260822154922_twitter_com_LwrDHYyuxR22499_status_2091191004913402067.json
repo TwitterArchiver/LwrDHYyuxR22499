@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2090686116894843037",
+    "created_at": "2026-08-22T15:49:22.000Z",
+    "display_text_range": [
+      10,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091191004913402067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1686284307319738368",
+          "start": 0,
+          "username": "Liearmer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091191004913402067",
+    "in_reply_to_user_id": "1686284307319738368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091189387480744166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liearmer 我其实也支持跨性别😁\n随便跨\n不过他们的权利不应由我来争取\n我只负责在最大程度上利用最便捷的手段保护他们的生命安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2090686116894843037",
+        "created_at": "2026-08-22T15:49:22.000Z",
+        "display_text_range": [
+          10,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091191004913402067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1686284307319738368",
+              "start": 0,
+              "username": "Liearmer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091191004913402067",
+        "in_reply_to_user_id": "1686284307319738368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091189387480744166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liearmer 我其实也支持跨性别😁\n随便跨\n不过他们的权利不应由我来争取\n我只负责在最大程度上利用最便捷的手段保护他们的生命安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686284307319738368",
+        "conversation_id": "2090686116894843037",
+        "created_at": "2026-08-22T15:42:57.000Z",
+        "display_text_range": [
+          17,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091189387480744166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091189387480744166",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090686116894843037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 其实你可以说的更清楚一些：「我救援跨性别，是因为我反对对于任何人的囚禁和虐待；但这不代表我支持。」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091191004913402067",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 3424,
+          "like_count": 4669,
+          "listed_count": 21,
+          "media_count": 572,
+          "tweet_count": 3980
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T07:54:48.000Z",
+        "description": "温和地有立场，克制地有坚持。\nGentle yet principled, restrained yet resolute.\nA blogger, own https://t.co/ti9Uphi5tp.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "101application.com",
+                "end": 101,
+                "expanded_url": "http://101application.com",
+                "start": 78,
+                "url": "https://t.co/ti9Uphi5tp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "earmer.top",
+                "end": 23,
+                "expanded_url": "https://www.earmer.top",
+                "start": 0,
+                "url": "https://t.co/gs0Bzr7tkK"
+              }
+            ]
+          }
+        },
+        "id": "1686284307319738368",
+        "is_identity_verified": false,
+        "location": "须弥·须弥城·净善宫",
+        "most_recent_tweet_id": "2091189990810419604",
+        "name": "Earmer Carey",
+        "pinned_tweet_id": "1897208525027467704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686284307319738368/1781019327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686284402165469184/OUsqEhxO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/gs0Bzr7tkK",
+        "username": "Liearmer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2091020101659312527",
+    "created_at": "2026-08-22T05:36:48.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091036845778010410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972497129550860288",
+          "start": 0,
+          "username": "Isolation8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091036845778010410",
+    "in_reply_to_user_id": "1972497129550860288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091036424313401415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isolation8964 大家都带不带不行说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2091020101659312527",
+        "created_at": "2026-08-22T05:36:48.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091036845778010410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972497129550860288",
+              "start": 0,
+              "username": "Isolation8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091036845778010410",
+        "in_reply_to_user_id": "1972497129550860288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091036424313401415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isolation8964 大家都带不带不行说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972497129550860288",
+        "conversation_id": "2091020101659312527",
+        "created_at": "2026-08-22T05:35:07.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091036424313401415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091036424313401415",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091020101659312527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 有过创伤经历的,进学校带刀不很正常吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091036845778010410",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7042,
+          "following_count": 3427,
+          "like_count": 4652,
+          "listed_count": 21,
+          "media_count": 572,
+          "tweet_count": 3973
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "查成分fo|INTP-A|CN/TW/EN|友跨非跨|自由主义|音游人|C-PTSD|轻抑|不割不O不健全\n能拥抱文明 能批判野蛮 / 永远与霸凌敌对\nAsk: https://t.co/mUxacbCW24\nOtherX:@Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 104,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 81,
+                "url": "https://t.co/mUxacbCW24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInGWdc"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2091036424313401415",
+        "name": "𝓘𝓼𝓸.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050975410301849600/VTYUpb2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 125,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/lEYNInGWdc",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

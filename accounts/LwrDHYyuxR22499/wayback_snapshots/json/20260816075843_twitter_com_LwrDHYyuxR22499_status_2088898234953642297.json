@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2088895045181313333",
+    "created_at": "2026-08-16T07:58:43.000Z",
+    "display_text_range": [
+      12,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088898234953642297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1115304322454044681",
+          "start": 0,
+          "username": "nagoribird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088898234953642297",
+    "in_reply_to_user_id": "1115304322454044681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088897074695647248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagoribird 所以我不得而知吗😁\n你怎么就确保\n没人冲着他这个项目给她恰钱?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2088895045181313333",
+        "created_at": "2026-08-16T07:58:43.000Z",
+        "display_text_range": [
+          12,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088898234953642297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1115304322454044681",
+              "start": 0,
+              "username": "nagoribird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088898234953642297",
+        "in_reply_to_user_id": "1115304322454044681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088897074695647248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagoribird 所以我不得而知吗😁\n你怎么就确保\n没人冲着他这个项目给她恰钱?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115304322454044681",
+        "conversation_id": "2088895045181313333",
+        "created_at": "2026-08-16T07:54:07.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088897074695647248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088897074695647248",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088896279317528944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 上面不是说了都是北雁书自己的积蓄吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088898234953642297",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7021,
+          "following_count": 3398,
+          "like_count": 4457,
+          "listed_count": 21,
+          "media_count": 565,
+          "tweet_count": 3852
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-08T17:24:06.000Z",
+        "description": "🏳️‍⚧️ she/they·zh/en/ja·视觉小说爱好者·百合控·摩托车驾驶员·竞技麻将裁判员",
+        "id": "1115304322454044681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088897074695647248",
+        "name": "名残鳥",
+        "pinned_tweet_id": "2083507670275801256",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083089914439036928/yORtPdeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 158,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "nagoribird",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

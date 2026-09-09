@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2091020101659312527",
+    "created_at": "2026-08-22T04:30:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:26:25.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091019133370658912",
+      "2091020101659312527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2090594226698354968",
+          "start": 141,
+          "url": "https://t.co/feESMG8Uiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091020101659312527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "😁BYD，你们一个个的过得怎么这么爽，这么天龙人啊。\n\n我小时候走路都是自己学会的，\n从小到大，父母跟我说话平均一下，一天连一句都说不到。\n\n家里不打我，是从打不过我开始的，然后就开始把我赶出去，\n让我在零下三十度的冬天开启城市求生，\n \n我家坐落在靠铁矿发展经济的三不管小镇上。\n在这之前相当一部分人还靠着打猎为生\n随处可见毒品、妓女、暴力犯罪。\n\n在网吧上网，小混混打架，能看见有人手被砍断的。\n晚上凌晨一两点，夜店门口随处可见磕多了摇头丸就拿自己头撞墙的人。\n\n上学天天有高年级的堵在门口勒索，不给钱就打。\n从那个时候就开始斗智斗勇了，\n以至于我小学三年级就学会拿剪刀捅人眼睛，\n初中就开始带匕首上学了😁😁😁\n\n这跟是不是男人有什么关系吗"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090594226698354968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁BYD，你们一个个的过得怎么这么爽，这么天龙人啊。\n\n我小时候走路都是自己学会的，\n从小到大，父母跟我说话平均一下，一天连一句都说不到。\n\n家里不打我，是从打不过我开始的，然后就开始把我赶出去，\n让我在零下三十度的冬天开启城市求生，\n \n我家坐落在靠铁矿发展经济的三不管小镇上。 https://t.co/feESMG8Uiq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2091019133370658912",
+        "created_at": "2026-08-22T04:26:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:26:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091019133370658912",
+          "2091020101659312527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2090594226698354968",
+              "start": 141,
+              "url": "https://t.co/feESMG8Uiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091019133370658912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "😁BYD，你们一个个的过得怎么这么爽，这么天龙人啊。\n\n我小时候走路都是自己学会的，\n从小到大，父母跟我说话平均一下，一天连一句都说不到。\n\n家里不打我，是从打不过我开始的，然后就开始把我赶出去，\n让我在零下三十度的冬天开启城市求生，\n \n我家坐落在靠铁矿发展经济的三不管小镇上。\n在这之前相当一部分人还靠着打猎为生\n随处可见毒品、妓女、暴力犯罪。\n\n在网吧上网，小混混打架，能看见有人手被砍断的。\n晚上凌晨一两点，夜店门口随处可见磕多了摇头丸就拿自己头撞墙的人。\n\n上学天天有高年级的堵在门口勒索，不给钱就打。\n从那个时候就开始斗智斗勇了，\n以至于我小学三年级就学会拿剪刀捅人眼睛，\n初中就开始带匕首上学了😁😁😁"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090594226698354968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁BYD，你们一个个的过得怎么这么爽，这么天龙人啊。\n\n我小时候走路都是自己学会的，\n从小到大，父母跟我说话平均一下，一天连一句都说不到。\n\n家里不打我，是从打不过我开始的，然后就开始把我赶出去，\n让我在零下三十度的冬天开启城市求生，\n \n我家坐落在靠铁矿发展经济的三不管小镇上。 https://t.co/feESMG8Uiq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2091020101659312527",
+        "created_at": "2026-08-22T04:30:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:26:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091019133370658912",
+          "2091020101659312527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2090594226698354968",
+              "start": 141,
+              "url": "https://t.co/feESMG8Uiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091020101659312527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "😁BYD，你们一个个的过得怎么这么爽，这么天龙人啊。\n\n我小时候走路都是自己学会的，\n从小到大，父母跟我说话平均一下，一天连一句都说不到。\n\n家里不打我，是从打不过我开始的，然后就开始把我赶出去，\n让我在零下三十度的冬天开启城市求生，\n \n我家坐落在靠铁矿发展经济的三不管小镇上。\n在这之前相当一部分人还靠着打猎为生\n随处可见毒品、妓女、暴力犯罪。\n\n在网吧上网，小混混打架，能看见有人手被砍断的。\n晚上凌晨一两点，夜店门口随处可见磕多了摇头丸就拿自己头撞墙的人。\n\n上学天天有高年级的堵在门口勒索，不给钱就打。\n从那个时候就开始斗智斗勇了，\n以至于我小学三年级就学会拿剪刀捅人眼睛，\n初中就开始带匕首上学了😁😁😁\n\n这跟是不是男人有什么关系吗"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090594226698354968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁BYD，你们一个个的过得怎么这么爽，这么天龙人啊。\n\n我小时候走路都是自己学会的，\n从小到大，父母跟我说话平均一下，一天连一句都说不到。\n\n家里不打我，是从打不过我开始的，然后就开始把我赶出去，\n让我在零下三十度的冬天开启城市求生，\n \n我家坐落在靠铁矿发展经济的三不管小镇上。 https://t.co/feESMG8Uiq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2090594226698354968",
+        "created_at": "2026-08-21T00:17:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090594226698354968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamazaki_neo/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/yamazaki_neo/status/2090368767146770916",
+              "start": 141,
+              "url": "https://t.co/Anj83ZoVtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090594226698354968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "错误的，我当男人的时候真的过得很舒服。我当了十年家里的独生子+耀祖，从小就被各路亲戚百般呵护簇拥着长大，撒尿撒到别人头上了都会被夸，无论做了什么坏事都有人用「小男孩嘛」之类的说法打发过去。上学后因为别的男生都过于愚蠢吵闹，只要我稍微达到女生的一般水平就会直接脱颖而出，老师和家长还经常念叨一些男生后劲足、女生只会死记硬背学不好理科的逼话，我太知道男生到底是在一种多么捧杀和特权的位置下长大的了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 155814,
+          "like_count": 1177,
+          "quote_count": 55,
+          "reply_count": 128,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090368767146770916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "错误的，我当男人的时候真的过得很舒服。我当了十年家里的独生子+耀祖，从小就被各路亲戚百般呵护簇拥着长大，撒尿撒到别人头上了都会被夸，无论做了什么坏事都有人用「小男孩嘛」之类的说法打发过去。上学后因为别的男生都过于愚蠢吵闹，只要我稍微达到女生的一般水平就会直接脱颖而出，老师和家长还 https://t.co/Anj83ZoVtN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091020101659312527",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7041,
+          "following_count": 3427,
+          "like_count": 4651,
+          "listed_count": 21,
+          "media_count": 572,
+          "tweet_count": 3969
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2091006621962961326",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5359,
+          "following_count": 899,
+          "like_count": 4173,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

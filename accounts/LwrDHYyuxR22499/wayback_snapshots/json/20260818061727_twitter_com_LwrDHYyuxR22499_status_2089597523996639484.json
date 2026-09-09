@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2089597523996639484",
+    "created_at": "2026-08-18T06:17:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089597523996639484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089597523996639484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088992701408858433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: KiraEqual官网已上线Stories功能\nStories中目前收录了119位跨性别朋友的经历🏳️‍⚧️\n我们非常感谢所有投稿者，并为100字以上的文章制作了寓意深刻的定制封面。 \n非常欢迎大家的投稿和关注，同时我们将在近期开启抽奖活动，具体规则…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2088992663957798913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2XwomaAAE71M1.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2089597523996639484",
+        "created_at": "2026-08-18T06:17:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089597523996639484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089597523996639484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088992701408858433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: KiraEqual官网已上线Stories功能\nStories中目前收录了119位跨性别朋友的经历🏳️‍⚧️\n我们非常感谢所有投稿者，并为100字以上的文章制作了寓意深刻的定制封面。 \n非常欢迎大家的投稿和关注，同时我们将在近期开启抽奖活动，具体规则…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088992663957798913"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088992701408858433",
+        "created_at": "2026-08-16T14:14:06.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088992701408858433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwMr7ciIAa",
+              "end": 176,
+              "expanded_url": "https://x.com/KiraMyao/status/2088992701408858433/photo/1",
+              "media_key": "3_2088992663957798913",
+              "start": 153,
+              "url": "https://t.co/qwMr7ciIAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088992701408858433",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088992663957798913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4236,
+          "like_count": 35,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "KiraEqual官网已上线Stories功能\nStories中目前收录了119位跨性别朋友的经历🏳️‍⚧️\n我们非常感谢所有投稿者，并为100字以上的文章制作了寓意深刻的定制封面。 \n非常欢迎大家的投稿和关注，同时我们将在近期开启抽奖活动，具体规则敬请期待……  \n\n——让真实的经历成为社会包容的证据 https://t.co/qwMr7ciIAa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089597523996639484",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7031,
+          "following_count": 3422,
+          "like_count": 4562,
+          "listed_count": 21,
+          "media_count": 569,
+          "tweet_count": 3926
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2089544770133918156",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 371,
+          "like_count": 10241,
+          "listed_count": 7,
+          "media_count": 423,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

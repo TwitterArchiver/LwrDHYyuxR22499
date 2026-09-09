@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2090782862794785087",
+    "created_at": "2026-08-21T12:53:10.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090784272378732866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851919588508016640",
+          "start": 0,
+          "username": "rainppr2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090784272378732866",
+    "in_reply_to_user_id": "1851919588508016640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090782862794785087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainppr2008 也刷到了?😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2090782667843215360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPzwktWoAA5NXT.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2090782862794785087",
+        "created_at": "2026-08-21T12:53:10.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090784272378732866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851919588508016640",
+              "start": 0,
+              "username": "rainppr2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090784272378732866",
+        "in_reply_to_user_id": "1851919588508016640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090782862794785087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainppr2008 也刷到了?😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090782667843215360"
+          ]
+        },
+        "author_id": "1851919588508016640",
+        "conversation_id": "2090782862794785087",
+        "created_at": "2026-08-21T12:47:34.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090782862794785087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "baijiahao.baidu.com/s?id=187412736…",
+              "end": 40,
+              "expanded_url": "https://baijiahao.baidu.com/s?id=1874127368257917436",
+              "start": 17,
+              "unwound_url": "https://baijiahao.baidu.com/s?id=1874127368257917436",
+              "url": "https://t.co/91rpKzDepe"
+            },
+            {
+              "display_url": "pic.x.com/rOv5iJl67w",
+              "end": 64,
+              "expanded_url": "https://x.com/rainppr2008/status/2090782862794785087/photo/1",
+              "media_key": "3_2090782667843215360",
+              "start": 41,
+              "url": "https://t.co/rOv5iJl67w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090782862794785087",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090782667843215360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 https://t.co/91rpKzDepe https://t.co/rOv5iJl67w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090784272378732866",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7044,
+          "following_count": 3420,
+          "like_count": 4639,
+          "listed_count": 21,
+          "media_count": 572,
+          "tweet_count": 3964
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T09:30:22.000Z",
+        "description": "佐倉杏子 | 友🏳️‍⚧️🏳️‍🌈（无证无糖和家长爆版） | 想变可爱 想做女生 awa | she / her / 妹妹 | 江苏杭州（划掉）准高考考生 | AFOed 算法竞赛 OIer | 喜欢贴贴抱抱 | 记性不好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/RainPPR",
+                "end": 23,
+                "expanded_url": "https://github.com/RainPPR",
+                "start": 0,
+                "url": "https://t.co/BfzuVXa1T1"
+              }
+            ]
+          }
+        },
+        "id": "1851919588508016640",
+        "is_identity_verified": false,
+        "location": "Hangzhou",
+        "most_recent_tweet_id": "2090782862794785087",
+        "name": "Kyoko",
+        "pinned_tweet_id": "2073037008570909154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851919588508016640/1753267277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903688129925844992/zWYRRprm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 235,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/BfzuVXa1T1",
+        "username": "rainppr2008",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2089570751808774332",
+    "created_at": "2026-08-18T04:31:04.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089570751808774332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HosinoEJ/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/HosinoEJ/status/2089570021186121924",
+          "start": 41,
+          "url": "https://t.co/3Mkcv7nZol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089570751808774332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089570021186121924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爆神器了\n当你戴上这顶帽子的时候\n王人将自动把你归为队友\n救援速度加10086% https://t.co/3Mkcv7nZol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2089570010490654720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-k2oCa0AAHnnw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2089570751808774332",
+        "created_at": "2026-08-18T04:31:04.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089570751808774332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HosinoEJ/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/HosinoEJ/status/2089570021186121924",
+              "start": 41,
+              "url": "https://t.co/3Mkcv7nZol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089570751808774332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089570021186121924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爆神器了\n当你戴上这顶帽子的时候\n王人将自动把你归为队友\n救援速度加10086% https://t.co/3Mkcv7nZol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089570010490654720"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089570021186121924",
+        "created_at": "2026-08-18T04:28:10.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089570021186121924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8SuVmvWqO",
+              "end": 35,
+              "expanded_url": "https://x.com/HosinoEJ/status/2089570021186121924/photo/1",
+              "media_key": "3_2089570010490654720",
+              "start": 12,
+              "url": "https://t.co/q8SuVmvWqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089570021186121924",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089570010490654720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救人成功率+9999% https://t.co/q8SuVmvWqO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089570751808774332",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7029,
+          "following_count": 3422,
+          "like_count": 4556,
+          "listed_count": 21,
+          "media_count": 568,
+          "tweet_count": 3923
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw19SA"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2089570376405918075",
+        "name": "HosinoNeko",
+        "pinned_tweet_id": "2085715578875228528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 584,
+          "like_count": 4373,
+          "listed_count": 4,
+          "media_count": 862,
+          "tweet_count": 4374
+        },
+        "url": "https://t.co/2FBvyw19SA",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

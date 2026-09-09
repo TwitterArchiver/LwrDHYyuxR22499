@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093759415707201537",
+        "3_2093757570125266944"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2093759538562490380",
+    "created_at": "2026-08-29T17:55:48.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T18:54:09.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093759123070546248",
+      "2093759538562490380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RocnpYnkSQ",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093759538562490380/photo/1",
+          "media_key": "3_2093759415707201537",
+          "start": 143,
+          "url": "https://t.co/RocnpYnkSQ"
+        },
+        {
+          "display_url": "pic.x.com/RocnpYnkSQ",
+          "end": 166,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093759538562490380/photo/1",
+          "media_key": "3_2093757570125266944",
+          "start": 143,
+          "url": "https://t.co/RocnpYnkSQ"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 190,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2093746416065933366",
+          "start": 167,
+          "url": "https://t.co/HZoyFmwwxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093759538562490380",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093759415707201537"
+      },
+      {
+        "media_key": "3_2093757570125266944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "这里跟我住在一个宾馆的“老学员”提到另外一个传销组织是法轮功🫠\n如平的关系网里是真的有人\n在拿国外给的钱在国内教法轮功的。\n如平不仅许多洗脑模式借鉴了李宏志大师，\n还直接在课上讲“神韵”\n啊呀……哈死我力\n这下真境外势力了。\n国安干什么吃的，天天猛猛干我\n真境外邪教势力在这祸害老百姓\n报警十几年没人管"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093746416065933366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里跟我住在一个宾馆的“老学员”提到另外一个传销组织是法轮功🫠\n如平的关系网里是真的有人\n在拿国外给的钱在国内教法轮功的。\n如平不仅许多洗脑模式借鉴了李宏志大师，\n还直接在课上讲“神韵”\n啊呀……哈死我力\n这下真境外势力了。\n国安干什么吃的，天天猛猛干我\n真境外邪教势力在这祸害老百姓 https://t.co/RocnpYnkSQ https://t.co/HZoyFmwwxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093757568359514112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6FakvawAAcaO8.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093757570125266944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6FarUaAAAyXJ8.jpg",
+        "width": 917
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2093759415707201537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6HGGpbcAEPTQ6.jpg",
+        "width": 537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093746394821734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ57QMEasAATKB6.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093746394834391040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ57QMHb0AAYdaM.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093746394834309120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ57QMHakAAkQpr.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093746394851061760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ57QMLaMAA560T.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093757568359514112",
+            "3_2093757570125266944"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2093759123070546248",
+        "created_at": "2026-08-29T17:54:09.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:54:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093759123070546248",
+          "2093759538562490380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tobxv2Nk5X",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093759123070546248/photo/1",
+              "media_key": "3_2093757568359514112",
+              "start": 143,
+              "url": "https://t.co/tobxv2Nk5X"
+            },
+            {
+              "display_url": "pic.x.com/tobxv2Nk5X",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093759123070546248/photo/1",
+              "media_key": "3_2093757570125266944",
+              "start": 143,
+              "url": "https://t.co/tobxv2Nk5X"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2093746416065933366",
+              "start": 167,
+              "url": "https://t.co/HZoyFmwwxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093759123070546248",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093757568359514112"
+          },
+          {
+            "media_key": "3_2093757570125266944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这里跟我住在一个宾馆的“老学员”提到另外一个传销组织是法轮功🫠\n如平的关系网里是真的有人\n在拿国外给的钱在国内教法轮功的。\n如平不仅许多洗脑模式借鉴了李鸿章大师，\n还直接在课上讲“神韵”\n啊呀……哈死我力\n这下真境外势力了。\n国安干什么吃的，天天猛猛干我\n真境外邪教势力在这祸害老百姓\n报警十几年没人管"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093746416065933366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里跟我住在一个宾馆的“老学员”提到另外一个传销组织是法轮功🫠\n如平的关系网里是真的有人\n在拿国外给的钱在国内教法轮功的。\n如平不仅许多洗脑模式借鉴了李鸿章大师，\n还直接在课上讲“神韵”\n啊呀……哈死我力\n这下真境外势力了。\n国安干什么吃的，天天猛猛干我\n真境外邪教势力在这祸害老百姓 https://t.co/tobxv2Nk5X https://t.co/HZoyFmwwxX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093759415707201537",
+            "3_2093757570125266944"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2093759538562490380",
+        "created_at": "2026-08-29T17:55:48.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:54:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093759123070546248",
+          "2093759538562490380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RocnpYnkSQ",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093759538562490380/photo/1",
+              "media_key": "3_2093759415707201537",
+              "start": 143,
+              "url": "https://t.co/RocnpYnkSQ"
+            },
+            {
+              "display_url": "pic.x.com/RocnpYnkSQ",
+              "end": 166,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093759538562490380/photo/1",
+              "media_key": "3_2093757570125266944",
+              "start": 143,
+              "url": "https://t.co/RocnpYnkSQ"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2093746416065933366",
+              "start": 167,
+              "url": "https://t.co/HZoyFmwwxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093759538562490380",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093759415707201537"
+          },
+          {
+            "media_key": "3_2093757570125266944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这里跟我住在一个宾馆的“老学员”提到另外一个传销组织是法轮功🫠\n如平的关系网里是真的有人\n在拿国外给的钱在国内教法轮功的。\n如平不仅许多洗脑模式借鉴了李宏志大师，\n还直接在课上讲“神韵”\n啊呀……哈死我力\n这下真境外势力了。\n国安干什么吃的，天天猛猛干我\n真境外邪教势力在这祸害老百姓\n报警十几年没人管"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093746416065933366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里跟我住在一个宾馆的“老学员”提到另外一个传销组织是法轮功🫠\n如平的关系网里是真的有人\n在拿国外给的钱在国内教法轮功的。\n如平不仅许多洗脑模式借鉴了李宏志大师，\n还直接在课上讲“神韵”\n啊呀……哈死我力\n这下真境外势力了。\n国安干什么吃的，天天猛猛干我\n真境外邪教势力在这祸害老百姓 https://t.co/RocnpYnkSQ https://t.co/HZoyFmwwxX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093746394821734400",
+            "3_2093746394834391040",
+            "3_2093746394834309120",
+            "3_2093746394851061760"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2093746416065933366",
+        "created_at": "2026-08-29T17:03:40.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093746416065933366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "上观新闻是由解放日报社、文汇报社、新民晚报社联合推出新媒体品牌，聚焦深度和思想，提供精选原创新闻，深度分析评论，立足上海，面向全国，观察世界。",
+              "display_url": "shobserver.cn/staticsg/wap/n…",
+              "end": 66,
+              "expanded_url": "https://shobserver.cn/staticsg/wap/newsDetail?fm=app&id=1165514",
+              "start": 43,
+              "status": 200,
+              "title": "上观新闻-站上海，观天下",
+              "unwound_url": "https://www.shobserver.cn/staticsg/home",
+              "url": "https://t.co/RczOSAoPc7"
+            },
+            {
+              "display_url": "pic.x.com/Q4FC0GfHPQ",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093746416065933366/photo/1",
+              "media_key": "3_2093746394821734400",
+              "start": 154,
+              "url": "https://t.co/Q4FC0GfHPQ"
+            },
+            {
+              "display_url": "pic.x.com/Q4FC0GfHPQ",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093746416065933366/photo/1",
+              "media_key": "3_2093746394834391040",
+              "start": 154,
+              "url": "https://t.co/Q4FC0GfHPQ"
+            },
+            {
+              "display_url": "pic.x.com/Q4FC0GfHPQ",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093746416065933366/photo/1",
+              "media_key": "3_2093746394834309120",
+              "start": 154,
+              "url": "https://t.co/Q4FC0GfHPQ"
+            },
+            {
+              "display_url": "pic.x.com/Q4FC0GfHPQ",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093746416065933366/photo/1",
+              "media_key": "3_2093746394851061760",
+              "start": 154,
+              "url": "https://t.co/Q4FC0GfHPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093746416065933366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093746394821734400"
+          },
+          {
+            "media_key": "3_2093746394834391040"
+          },
+          {
+            "media_key": "3_2093746394834309120"
+          },
+          {
+            "media_key": "3_2093746394851061760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 928,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本次以张立的身份出现在报道中感谢解放日报对我以及我所从事活动的报道\n下附新闻链接：\n\nhttps://t.co/RczOSAoPc7。\n \n🤔不过话说回来当时我被如平召见，单独见面，\n当面拆穿了他这套逻辑运行如何盈利的蛊惑人心把戏\n\n不仅没生气还被他夸聪明了，\n邀请我一起去学习他的传销方式，一起发财玩女人 https://t.co/Q4FC0GfHPQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093759538562490380",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7054,
+          "following_count": 3425,
+          "like_count": 4718,
+          "listed_count": 21,
+          "media_count": 580,
+          "tweet_count": 4010
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

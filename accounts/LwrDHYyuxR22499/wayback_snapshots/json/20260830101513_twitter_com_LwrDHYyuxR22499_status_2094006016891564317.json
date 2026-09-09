@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2093430343764521397",
+    "created_at": "2026-08-30T10:15:13.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T11:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094006016891564317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835385904866656256",
+          "start": 0,
+          "username": "AIsaraChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094006016891564317",
+    "in_reply_to_user_id": "1835385904866656256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093551691043946958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIsaraChan 他们要真有这能力我到也认了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2093430343764521397",
+        "created_at": "2026-08-30T10:15:13.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094006016891564317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835385904866656256",
+              "start": 0,
+              "username": "AIsaraChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094006016891564317",
+        "in_reply_to_user_id": "1835385904866656256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093551691043946958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIsaraChan 他们要真有这能力我到也认了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835385904866656256",
+        "conversation_id": "2093430343764521397",
+        "created_at": "2026-08-29T04:09:54.000Z",
+        "display_text_range": [
+          17,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093551691043946958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093551691043946958",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093430343764521397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 别这么说，不然小心他们把别人当成筹码用完之后“民主之后杀你全家”😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094006016891564317",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7052,
+          "following_count": 3424,
+          "like_count": 4723,
+          "listed_count": 21,
+          "media_count": 579,
+          "tweet_count": 4010
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T18:31:22.000Z",
+        "description": "我感觉我内心的一小部分似乎死去了……",
+        "id": "1835385904866656256",
+        "is_identity_verified": false,
+        "location": "SITE-CN-44",
+        "most_recent_tweet_id": "2093554947384303977",
+        "name": "AIsaraChan",
+        "pinned_tweet_id": "2019460160633348148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835385904866656256/1770311667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019110672207134720/Z3nEInVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 67,
+          "like_count": 2014,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "AIsaraChan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

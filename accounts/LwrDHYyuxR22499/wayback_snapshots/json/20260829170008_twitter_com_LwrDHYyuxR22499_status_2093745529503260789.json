@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093743705488596993",
+        "3_2093743705471832064",
+        "3_2093743705484300288",
+        "3_2093743705471721472"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2093745529503260789",
+    "created_at": "2026-08-29T17:00:08.000Z",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T18:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093745529503260789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "上观新闻-站上海，观天下",
+          "display_url": "shobserver.cn/staticsg/wap/n…",
+          "end": 65,
+          "expanded_url": "https://www.shobserver.cn/staticsg/wap/newsDetail?fm=app&id=1165514",
+          "start": 42,
+          "status": 200,
+          "title": "上观新闻-站上海，观天下",
+          "unwound_url": "https://www.shobserver.cn/staticsg/wap/newsDetail?fm=app&id=1165514",
+          "url": "https://t.co/jD1t9x7i7m"
+        },
+        {
+          "display_url": "pic.x.com/w2b6BS9ZMl",
+          "end": 176,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+          "media_key": "3_2093743705488596993",
+          "start": 153,
+          "url": "https://t.co/w2b6BS9ZMl"
+        },
+        {
+          "display_url": "pic.x.com/w2b6BS9ZMl",
+          "end": 176,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+          "media_key": "3_2093743705471832064",
+          "start": 153,
+          "url": "https://t.co/w2b6BS9ZMl"
+        },
+        {
+          "display_url": "pic.x.com/w2b6BS9ZMl",
+          "end": 176,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+          "media_key": "3_2093743705484300288",
+          "start": 153,
+          "url": "https://t.co/w2b6BS9ZMl"
+        },
+        {
+          "display_url": "pic.x.com/w2b6BS9ZMl",
+          "end": 176,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+          "media_key": "3_2093743705471721472",
+          "start": 153,
+          "url": "https://t.co/w2b6BS9ZMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093745529503260789",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093743705488596993"
+      },
+      {
+        "media_key": "3_2093743705471832064"
+      },
+      {
+        "media_key": "3_2093743705484300288"
+      },
+      {
+        "media_key": "3_2093743705471721472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本次以张立的身份出现在报道中感谢解放日报对我以及我所从事活动的报道。\n下附新闻链接：https://t.co/jD1t9x7i7m。\n \n🤔不过话说回来当时我被如平召见，单独见面，\n当面拆穿了他这套逻辑运行如何盈利的蛊惑人心把戏\n不仅没生气\n还被他夸聪明了，\n邀请我一起去学习他的传销方式，一起发财玩女人 https://t.co/w2b6BS9ZMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093743705488596993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ54zphboAEkgWm.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093743705471832064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ54zpdb0AA0mBW.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093743705484300288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ54zpgaEAAhIys.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093743705471721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ54zpdaIAAIRZ8.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093743705488596993",
+            "3_2093743705471832064",
+            "3_2093743705484300288",
+            "3_2093743705471721472"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2093745529503260789",
+        "created_at": "2026-08-29T17:00:08.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093745529503260789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "上观新闻-站上海，观天下",
+              "display_url": "shobserver.cn/staticsg/wap/n…",
+              "end": 65,
+              "expanded_url": "https://www.shobserver.cn/staticsg/wap/newsDetail?fm=app&id=1165514",
+              "start": 42,
+              "status": 200,
+              "title": "上观新闻-站上海，观天下",
+              "unwound_url": "https://www.shobserver.cn/staticsg/wap/newsDetail?fm=app&id=1165514",
+              "url": "https://t.co/jD1t9x7i7m"
+            },
+            {
+              "display_url": "pic.x.com/w2b6BS9ZMl",
+              "end": 176,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+              "media_key": "3_2093743705488596993",
+              "start": 153,
+              "url": "https://t.co/w2b6BS9ZMl"
+            },
+            {
+              "display_url": "pic.x.com/w2b6BS9ZMl",
+              "end": 176,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+              "media_key": "3_2093743705471832064",
+              "start": 153,
+              "url": "https://t.co/w2b6BS9ZMl"
+            },
+            {
+              "display_url": "pic.x.com/w2b6BS9ZMl",
+              "end": 176,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+              "media_key": "3_2093743705484300288",
+              "start": 153,
+              "url": "https://t.co/w2b6BS9ZMl"
+            },
+            {
+              "display_url": "pic.x.com/w2b6BS9ZMl",
+              "end": 176,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2093745529503260789/photo/1",
+              "media_key": "3_2093743705471721472",
+              "start": 153,
+              "url": "https://t.co/w2b6BS9ZMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093745529503260789",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093743705488596993"
+          },
+          {
+            "media_key": "3_2093743705471832064"
+          },
+          {
+            "media_key": "3_2093743705484300288"
+          },
+          {
+            "media_key": "3_2093743705471721472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本次以张立的身份出现在报道中感谢解放日报对我以及我所从事活动的报道。\n下附新闻链接：https://t.co/jD1t9x7i7m。\n \n🤔不过话说回来当时我被如平召见，单独见面，\n当面拆穿了他这套逻辑运行如何盈利的蛊惑人心把戏\n不仅没生气\n还被他夸聪明了，\n邀请我一起去学习他的传销方式，一起发财玩女人 https://t.co/w2b6BS9ZMl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093745529503260789",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7054,
+          "following_count": 3425,
+          "like_count": 4714,
+          "listed_count": 21,
+          "media_count": 578,
+          "tweet_count": 4006
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

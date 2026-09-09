@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2088876078450524645",
+    "created_at": "2026-08-16T07:07:22.000Z",
+    "display_text_range": [
+      14,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088885309979447558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088885309979447558",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088883222029758602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 其次，你说我被盯上了、被阻止了，请你拿出相关的信息来源、截图给我，我才能加以佐证。\n不然，我知道你说的是什么事情吗？\n你的思维似乎非常跳跃。\n我在跟你讲，我这句话没在造谣，你蹦出来一句连信息来源、截图都没有的话，说我一点证据拿不出来，不好笑吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2088876078450524645",
+        "created_at": "2026-08-16T07:07:22.000Z",
+        "display_text_range": [
+          14,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088885309979447558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088885309979447558",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088883222029758602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 其次，你说我被盯上了、被阻止了，请你拿出相关的信息来源、截图给我，我才能加以佐证。\n不然，我知道你说的是什么事情吗？\n你的思维似乎非常跳跃。\n我在跟你讲，我这句话没在造谣，你蹦出来一句连信息来源、截图都没有的话，说我一点证据拿不出来，不好笑吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2088876078450524645",
+        "created_at": "2026-08-16T06:59:04.000Z",
+        "display_text_range": [
+          17,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088883222029758602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088883222029758602",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088882668771656113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 哦哦哦你说自己被这个盯上了被那个阻止了，结果一点证据是拿不出来啊，那到底谁在岁月史书编故事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088885309979447558",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7021,
+          "following_count": 3398,
+          "like_count": 4453,
+          "listed_count": 21,
+          "media_count": 563,
+          "tweet_count": 3847
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \nMSCS |\n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营 |\n我族长兴 天佑跨儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "is_identity_verified": false,
+        "location": "万达广场楼下",
+        "most_recent_tweet_id": "2088884795745149325",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844926832967286785/1774464267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4947,
+          "following_count": 1432,
+          "like_count": 83512,
+          "listed_count": 12,
+          "media_count": 1239,
+          "tweet_count": 24906
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
