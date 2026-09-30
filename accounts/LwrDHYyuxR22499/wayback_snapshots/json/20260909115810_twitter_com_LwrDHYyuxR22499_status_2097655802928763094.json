@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2097407325359542356",
+    "created_at": "2026-09-09T11:58:10.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097655802928763094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "994208371040337921",
+          "start": 0,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097655802928763094",
+    "in_reply_to_user_id": "994208371040337921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097407325359542356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litztsong byd触摸谁呢😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2097407325359542356",
+        "created_at": "2026-09-09T11:58:10.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097655802928763094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "994208371040337921",
+              "start": 0,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097655802928763094",
+        "in_reply_to_user_id": "994208371040337921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097407325359542356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litztsong byd触摸谁呢😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2097407325359542356",
+        "created_at": "2026-09-08T19:30:48.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:27:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097406533420368226",
+          "2097407325359542356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isabellekuran0…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/isabellekuran03/status/2097158603375616247",
+              "start": 144,
+              "url": "https://t.co/OM697V1gpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097407325359542356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想起某个做LGBT救助的名人之前发的东西了\n他从戒网瘾学校救了很多被家人送进去的LGBT群体\n他说大多数被他的团队救出来的人都很感恩他们，除了一个群体，就是女同性恋\n她们普遍非常厌男，对生理男性救助者毫无感激就算了，其中一个还倒打一耙，联合了自己的家长要用法律手段起诉救助者，让他们赔钱\n这就是我作为一名手术改证后的个体现在更愿意认同自己为性少数群体中的MTX而不是MTF的原因\n因为我发现近些年，很多性少数的女性和女权主义者很不对劲\n性少数指派男我接触过相当多，很少见到我认为明显厌女的\n但是厌男的女性就明显太多了\n都要搞得我质疑自己的性别认同了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2093,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097158603375616247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起某个做LGBT救助的名人之前发的东西了\n他从戒网瘾学校救了很多被家人送进去的LGBT群体\n他说大多数被他的团队救出来的人都很感恩他们，除了一个群体，就是女同性恋\n她们普遍非常厌男，对生理男性救助者毫无感激就算了，其中一个还倒打一耙，联合了自己的家长要用法律手段起诉救助者，让他们赔钱 https://t.co/OM697V1gpY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097655802928763094",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7112,
+          "following_count": 3423,
+          "like_count": 4757,
+          "listed_count": 21,
+          "media_count": 581,
+          "tweet_count": 4032
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtX(post surgery)/mentally challenged(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 149,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 126,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "is_identity_verified": false,
+        "location": "Shanghai, china",
+        "most_recent_tweet_id": "2097637713902293253",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2097394254385696946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994208371040337921/1755939838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 2142,
+          "like_count": 3624,
+          "listed_count": 17,
+          "media_count": 1715,
+          "tweet_count": 14538
+        },
+        "url": "",
+        "username": "litztsong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

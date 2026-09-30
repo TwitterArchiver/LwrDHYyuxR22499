@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2100508808787480836",
+    "created_at": "2026-09-17T13:36:44.000Z",
+    "display_text_range": [
+      28,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100579709595844672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        },
+        {
+          "end": 27,
+          "id": "1624556678858395648",
+          "start": 14,
+          "username": "huhu12027596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100579709595844672",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100521115152175292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArk0106 @huhu12027596 纯粹想多了你会漏尿尿床"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2100508808787480836",
+        "created_at": "2026-09-17T13:36:44.000Z",
+        "display_text_range": [
+          28,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100579709595844672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            },
+            {
+              "end": 27,
+              "id": "1624556678858395648",
+              "start": 14,
+              "username": "huhu12027596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100579709595844672",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100521115152175292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArk0106 @huhu12027596 纯粹想多了你会漏尿尿床"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2100508808787480836",
+        "created_at": "2026-09-17T09:43:54.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100521115152175292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624556678858395648",
+              "start": 0,
+              "username": "huhu12027596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100521115152175292",
+        "in_reply_to_user_id": "1624556678858395648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100508808787480836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu12027596 第六条岂不是时时刻刻都在憋尿play，听起来好色情喵🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100579709595844672",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7307,
+          "following_count": 3444,
+          "like_count": 4812,
+          "listed_count": 21,
+          "media_count": 586,
+          "tweet_count": 4055
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "“爱具体的人，不要爱抽象的人；\n  爱生活本身，胜于爱生活的意义”\n                                               ——陀思妥耶夫斯基\n点击给我发匿名消息喵↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "location": "广州海珠广场",
+        "most_recent_tweet_id": "2100579157113819245",
+        "name": "社恐猫猫Ark🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2094999110789251152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1788339807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098109363168890880/i84-jJPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 540,
+          "like_count": 9641,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 4084
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T23:51:47.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF68XG\n微信：admin22334\nqq:1621320515\n老婆:@ChiAki1000kzm\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "ChiAki1000kzm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF68XG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF68XG"
+              }
+            ]
+          }
+        },
+        "id": "1624556678858395648",
+        "is_identity_verified": false,
+        "location": "广东韶关，同类可面基❤️",
+        "most_recent_tweet_id": "2100569458452365329",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）（糖🍬商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624556678858395648/1788723973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096686309930840064/uDxcUaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 338,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/mhMUnF68XG",
+        "username": "huhu12027596",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

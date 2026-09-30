@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2098498424786305507",
+    "created_at": "2026-09-11T19:46:27.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098498424786305507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TixItem4527/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/TixItem4527/status/2098416050266395086",
+          "start": 21,
+          "url": "https://t.co/llakacMduW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098498424786305507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098416050266395086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔好的我们再次看到了一位扭转机构的受害者 https://t.co/llakacMduW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2098498424786305507",
+        "created_at": "2026-09-11T19:46:27.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098498424786305507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TixItem4527/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/TixItem4527/status/2098416050266395086",
+              "start": 21,
+              "url": "https://t.co/llakacMduW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098498424786305507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098416050266395086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔好的我们再次看到了一位扭转机构的受害者 https://t.co/llakacMduW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2098416050266395086",
+        "created_at": "2026-09-11T14:19:07.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098416050266395086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098416050266395086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 249,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "エゴ消滅させる事件を考えています......\nわたし自分を見たくなくなった、\n疲れた......\n私は女の子になる機会がありません...運命かな......\n死ね、くたばれ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098498424786305507",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 3441,
+          "like_count": 4800,
+          "listed_count": 21,
+          "media_count": 583,
+          "tweet_count": 4046
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息?:https://t.co/xRZn1FKrFG|？|Hrt?:26.01.12|11.03.25|？|？改？o|？cm|？kg|INFP?|CNTK?:註銷|邮箱?:430830097@qq.com|最LOVE的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527",
+                "end": 29,
+                "expanded_url": "http://ngl.link/tixitem4527",
+                "start": 6,
+                "url": "https://t.co/xRZn1FKrFG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "is_identity_verified": false,
+        "location": "？？？？",
+        "most_recent_tweet_id": "2098416050266395086",
+        "name": "?TixItem4527🏳️‍⚧🍥?",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708446662514110464/1786026224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1522,
+          "like_count": 4393,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

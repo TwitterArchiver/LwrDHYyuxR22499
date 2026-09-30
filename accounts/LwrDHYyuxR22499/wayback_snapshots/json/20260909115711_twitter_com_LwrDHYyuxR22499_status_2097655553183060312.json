@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2097655553183060312",
+    "created_at": "2026-09-09T11:57:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097655553183060312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918593759121690625",
+          "start": 3,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097655553183060312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097647656176660627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hu_qin_: 讲一个好笑的，我们学校当时有学校高层人士组织放映宣传扭转治疗的反跨纪录片«Adult Human Female»，上千同学老师组织了抗议来反对／阻止放映——最后学校为此处分了两个跨女。然而她们既不是组织者（！），也根本没有在抗议中做什么和别人不同的事情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2097655553183060312",
+        "created_at": "2026-09-09T11:57:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097655553183060312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918593759121690625",
+              "start": 3,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097655553183060312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097647656176660627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hu_qin_: 讲一个好笑的，我们学校当时有学校高层人士组织放映宣传扭转治疗的反跨纪录片«Adult Human Female»，上千同学老师组织了抗议来反对／阻止放映——最后学校为此处分了两个跨女。然而她们既不是组织者（！），也根本没有在抗议中做什么和别人不同的事情…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2097637661053702439",
+        "created_at": "2026-09-09T11:25:48.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097647656176660627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097647656176660627",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097637661053702439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲一个好笑的，我们学校当时有学校高层人士组织放映宣传扭转治疗的反跨纪录片«Adult Human Female»，上千同学老师组织了抗议来反对／阻止放映——最后学校为此处分了两个跨女。然而她们既不是组织者（！），也根本没有在抗议中做什么和别人不同的事情。实际上她们只不过是被反跨人士知道了名字而已。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097655553183060312",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7112,
+          "following_count": 3423,
+          "like_count": 4756,
+          "listed_count": 21,
+          "media_count": 581,
+          "tweet_count": 4031
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, trans, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "is_identity_verified": false,
+        "location": "PRC／Scotland／transfem🏳️‍⚧",
+        "most_recent_tweet_id": "2097647661385974263",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058665016270655497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918593759121690625/1568448031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1856,
+          "like_count": 22921,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 5783
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

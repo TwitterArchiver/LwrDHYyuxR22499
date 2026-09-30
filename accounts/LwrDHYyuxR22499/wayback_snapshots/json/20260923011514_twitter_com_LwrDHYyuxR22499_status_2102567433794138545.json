@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2102567433794138545",
+    "created_at": "2026-09-23T01:15:14.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T02:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102567433794138545"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102567433794138545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☝🏻🐱\n一个关于我加入团队的冷知识：\n考验一个人究竟能不能玩到一起去、长期合作、值得信任\n就得看一个人足不足够“搞”\n\n能不能放下体面\n不装道德高人\n不对彼此迅速上价值扣帽子\n筛掉活在精致叙事里的人\n \n关于我的测试是：\n在上海随便找条河，一人往里面撒泡尿再都跳下去泡在尿和排放污水里游一晚上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2102567433794138545",
+        "created_at": "2026-09-23T01:15:14.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T02:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102567433794138545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102567433794138545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☝🏻🐱\n一个关于我加入团队的冷知识：\n考验一个人究竟能不能玩到一起去、长期合作、值得信任\n就得看一个人足不足够“搞”\n\n能不能放下体面\n不装道德高人\n不对彼此迅速上价值扣帽子\n筛掉活在精致叙事里的人\n \n关于我的测试是：\n在上海随便找条河，一人往里面撒泡尿再都跳下去泡在尿和排放污水里游一晚上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102567433794138545",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7442,
+          "following_count": 3434,
+          "like_count": 4832,
+          "listed_count": 20,
+          "media_count": 590,
+          "tweet_count": 4071
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2102800878428463312",
+    "created_at": "2026-09-23T16:42:52.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102800878428463312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hu_qin_/status…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/hu_qin_/status/2102759163944128820",
+          "start": 90,
+          "url": "https://t.co/XY85vVIdlf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102800878428463312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102759163944128820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接受批判，\n不过我得给自己叠个甲：这场团建只有两个人，\n也只有两个人跳下去了。\n所以其实理论上讲，\n与其算服从性测试，倒不如说我在跟另一位抽象人比谁更恶俗一起在泥窝打滚增进感情。 https://t.co/XY85vVIdlf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2102800878428463312",
+        "created_at": "2026-09-23T16:42:52.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102800878428463312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2102759163944128820",
+              "start": 90,
+              "url": "https://t.co/XY85vVIdlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102800878428463312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102759163944128820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接受批判，\n不过我得给自己叠个甲：这场团建只有两个人，\n也只有两个人跳下去了。\n所以其实理论上讲，\n与其算服从性测试，倒不如说我在跟另一位抽象人比谁更恶俗一起在泥窝打滚增进感情。 https://t.co/XY85vVIdlf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2102574997508378774",
+        "created_at": "2026-09-23T13:57:06.000Z",
+        "display_text_range": [
+          17,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102759163944128820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102759163944128820",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1840,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102574997508378774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你们这样的做法是很有问题的，你要是让我跳，我反正不跳，但是行动我还是愿意参加。我觉得这种服从性训练跟很多家庭和机构喜欢做的也是同一种东西呀，人不想做也有很多正当的理由。\n\n本身反戒志愿者就有性侵和利用权力关系的情况，再去主张这种兄弟会文化，这是很危险的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102800878428463312",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7437,
+          "following_count": 3432,
+          "like_count": 4844,
+          "listed_count": 20,
+          "media_count": 590,
+          "tweet_count": 4079
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, trans, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "is_identity_verified": false,
+        "location": "P.R.China／UK／transfem🏳️‍⚧",
+        "most_recent_tweet_id": "2102798608777249019",
+        "name": "胡琴",
+        "pinned_tweet_id": "2081362569181134887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918593759121690625/1568448031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 1860,
+          "like_count": 23396,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 5919
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

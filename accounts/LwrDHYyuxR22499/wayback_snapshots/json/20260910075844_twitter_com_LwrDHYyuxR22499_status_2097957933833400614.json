@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2097957933833400614",
+    "created_at": "2026-09-10T07:58:44.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097957933833400614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2097792979012632645",
+          "start": 54,
+          "url": "https://t.co/tIqqp2Havc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097957933833400614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097792979012632645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他家的情况很复杂相当于捞一次\n出来就再送一次\n而且每次都会送到更差的地方去\n在这种情况下捞人已经是没意义了 https://t.co/tIqqp2Havc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2097957933833400614",
+        "created_at": "2026-09-10T07:58:44.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097957933833400614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2097792979012632645",
+              "start": 54,
+              "url": "https://t.co/tIqqp2Havc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097957933833400614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097792979012632645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他家的情况很复杂相当于捞一次\n出来就再送一次\n而且每次都会送到更差的地方去\n在这种情况下捞人已经是没意义了 https://t.co/tIqqp2Havc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2097792979012632645",
+        "created_at": "2026-09-09T21:03:15.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T22:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097792979012632645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/1972264850312376472",
+              "start": 34,
+              "url": "https://t.co/hs1eZY7h3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097792979012632645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10108,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972264850312376472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新一下救出来之后被送到另外一家小作坊武校去了\n预计三年内出不来了 https://t.co/hs1eZY7h3Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097957933833400614",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7129,
+          "following_count": 3430,
+          "like_count": 4766,
+          "listed_count": 21,
+          "media_count": 582,
+          "tweet_count": 4036
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

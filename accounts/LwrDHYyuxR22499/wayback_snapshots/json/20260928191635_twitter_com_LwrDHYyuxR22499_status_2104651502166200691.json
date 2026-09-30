@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2104651502166200691",
+    "created_at": "2026-09-28T19:16:35.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T20:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104651502166200691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499260297982398473",
+          "start": 3,
+          "username": "xwlinovo"
+        },
+        {
+          "end": 30,
+          "id": "1843201902550634496",
+          "start": 14,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104651502166200691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104609656505253900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xwlinovo: @LwrDHYyuxR22499 我是此类机构受害者，最近打算在墙内分享一下自己的经历。前两年根本不敢讲，直接打电话过来威胁你哦，据说很多都和地头蛇或者小领导有关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2104651502166200691",
+        "created_at": "2026-09-28T19:16:35.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104651502166200691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499260297982398473",
+              "start": 3,
+              "username": "xwlinovo"
+            },
+            {
+              "end": 30,
+              "id": "1843201902550634496",
+              "start": 14,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104651502166200691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104609656505253900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xwlinovo: @LwrDHYyuxR22499 我是此类机构受害者，最近打算在墙内分享一下自己的经历。前两年根本不敢讲，直接打电话过来威胁你哦，据说很多都和地头蛇或者小领导有关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499260297982398473",
+        "conversation_id": "2104516824281047135",
+        "created_at": "2026-09-28T16:30:18.000Z",
+        "display_text_range": [
+          17,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104609656505253900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104609656505253900",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104516824281047135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我是此类机构受害者，最近打算在墙内分享一下自己的经历。前两年根本不敢讲，直接打电话过来威胁你哦，据说很多都和地头蛇或者小领导有关系"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104651502166200691",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7505,
+          "following_count": 3425,
+          "like_count": 4897,
+          "listed_count": 19,
+          "media_count": 595,
+          "tweet_count": 4104
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T05:48:14.000Z",
+        "description": "coser|清水|🚪30︱小可爱欢迎扩列｜xp：拘束/tk/男娘/足控︱墙外第二人格｜🚫抖机灵转墙内︱不互推",
+        "id": "1499260297982398473",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2104635957094027489",
+        "name": "小凛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499260297982398473/1776080518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655932962578432/qDTe6rcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 746,
+          "like_count": 7903,
+          "listed_count": 19,
+          "media_count": 49,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "xwlinovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
