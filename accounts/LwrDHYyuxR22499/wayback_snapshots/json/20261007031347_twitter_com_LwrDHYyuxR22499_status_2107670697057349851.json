@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107670659409276928"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2107670697057349851",
+    "created_at": "2026-10-07T03:13:47.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T04:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107670697057349851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/muCicjr6qg",
+          "end": 42,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107670697057349851/video/1",
+          "media_key": "13_2107670659409276928",
+          "start": 19,
+          "url": "https://t.co/muCicjr6qg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107670697057349851",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2107670659409276928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Peace and equality https://t.co/muCicjr6qg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21083,
+        "height": 720,
+        "media_key": "13_2107670659409276928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107670659409276928/img/YOynuCq6Jagyv4y7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107670659409276928/vid/avc1/584x270/sxtbnJ5suVE5ySdY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107670659409276928/vid/avc1/780x360/qi_uf0MAvOxN94h9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107670659409276928/vid/avc1/1560x720/oV7E7sfiQfgYw13r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107670659409276928/pl/3Re-c79913Oitnog.m3u8"
+          }
+        ],
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107670659409276928"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2107670697057349851",
+        "created_at": "2026-10-07T03:13:47.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107670697057349851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muCicjr6qg",
+              "end": 42,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107670697057349851/video/1",
+              "media_key": "13_2107670659409276928",
+              "start": 19,
+              "url": "https://t.co/muCicjr6qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107670697057349851",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2107670659409276928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Peace and equality https://t.co/muCicjr6qg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107670697057349851",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7615,
+          "following_count": 3423,
+          "like_count": 4930,
+          "listed_count": 19,
+          "media_count": 603,
+          "tweet_count": 4144
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2106921803058938274",
+    "created_at": "2026-10-05T08:39:58.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107028007651303750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107028007651303750",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106921803058938274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 阅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2106921803058938274",
+        "created_at": "2026-10-05T08:39:58.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107028007651303750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107028007651303750",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106921803058938274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 阅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2106921803058938274",
+        "created_at": "2026-10-05T01:37:57.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106921803058938274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_depussy/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_depussy/status/2106827469651374586",
+              "start": 15,
+              "url": "https://t.co/2NBNNwdmMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106921803058938274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 990,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106827469651374586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是真的喜欢吃精液的骚货… https://t.co/2NBNNwdmMZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107028007651303750",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7588,
+          "following_count": 3429,
+          "like_count": 4929,
+          "listed_count": 19,
+          "media_count": 602,
+          "tweet_count": 4143
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "难道你忘了是战场，冒失的夜莺你还唱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/blackcrow1917",
+                "end": 23,
+                "expanded_url": "http://t.me/blackcrow1917",
+                "start": 0,
+                "url": "https://t.co/vMj4wbJjus"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "梧州",
+        "most_recent_tweet_id": "2107016645877313898",
+        "name": "胃烧书🍥",
+        "pinned_tweet_id": "2091424273349193934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1791185946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101391930638942209/5VZ4C__l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1232,
+          "like_count": 19827,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/vMj4wbJjus",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

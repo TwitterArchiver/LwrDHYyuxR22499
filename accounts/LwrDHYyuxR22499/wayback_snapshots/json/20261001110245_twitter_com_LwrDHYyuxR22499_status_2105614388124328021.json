@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2105593150861697244",
+    "created_at": "2026-10-01T11:02:45.000Z",
+    "display_text_range": [
+      10,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105614388124328021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452537509875834880",
+          "start": 0,
+          "username": "kkggxxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105614388124328021",
+    "in_reply_to_user_id": "1452537509875834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105611991381614615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkggxxyy 你偷换了讨论对象。\n原本聊的是对顺直男整个群体的标签化攻击\n现在被换成了批评抽烟扰民这种具体行为\n转而将话题引导成了\n是在替有不良行为的人喊冤卖惨\n如果原帖只谈论扰民我完全没意见\n \n跟你的对话中我感受到了\n一股十分大的怨气，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2105593150861697244",
+        "created_at": "2026-10-01T11:02:45.000Z",
+        "display_text_range": [
+          10,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105614388124328021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105614388124328021",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105611991381614615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy 你偷换了讨论对象。\n原本聊的是对顺直男整个群体的标签化攻击\n现在被换成了批评抽烟扰民这种具体行为\n转而将话题引导成了\n是在替有不良行为的人喊冤卖惨\n如果原帖只谈论扰民我完全没意见\n \n跟你的对话中我感受到了\n一股十分大的怨气，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2105593150861697244",
+        "created_at": "2026-10-01T10:53:13.000Z",
+        "display_text_range": [
+          17,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105611991381614615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105611991381614615",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105610073464873429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我的妈呀苦难\n请问原帖陈述事实咋成你的苦难了\n是因为不是所有男人都抽烟吗\n你所遭受的攻击是零\n咋自动共情本该被骂的人了\n在熏人的时候闭上眼，有人说两句就啊啊啊啊啊不是所有男人都这样，啊啊啊我在遭受无妄之灾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105614388124328021",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7510,
+          "following_count": 3427,
+          "like_count": 4905,
+          "listed_count": 19,
+          "media_count": 596,
+          "tweet_count": 4117
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "不可结缘",
+        "id": "1452537509875834880",
+        "is_identity_verified": false,
+        "location": "大象鼻子",
+        "most_recent_tweet_id": "2105613368480735572",
+        "name": "하나나",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452537509875834880/1734359512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 245,
+          "like_count": 7422,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 7118
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

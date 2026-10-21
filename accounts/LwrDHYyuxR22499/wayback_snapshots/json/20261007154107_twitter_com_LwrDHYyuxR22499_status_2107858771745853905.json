@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107858750136893440",
+        "3_2107858762296135680"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2107858771745853905",
+    "created_at": "2026-10-07T15:41:07.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T16:40:04.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107858506410009035",
+      "2107858771745853905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xP6kVJiktZ",
+          "end": 146,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107858771745853905/photo/1",
+          "media_key": "3_2107858750136893440",
+          "start": 123,
+          "url": "https://t.co/xP6kVJiktZ"
+        },
+        {
+          "display_url": "pic.x.com/xP6kVJiktZ",
+          "end": 146,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107858771745853905/photo/1",
+          "media_key": "3_2107858762296135680",
+          "start": 123,
+          "url": "https://t.co/xP6kVJiktZ"
+        },
+        {
+          "display_url": "x.com/fake_fuji/stat…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/fake_fuji/status/2107849527151775835",
+          "start": 147,
+          "url": "https://t.co/Gt6qySE2GA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107858771745853905",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107858750136893440"
+      },
+      {
+        "media_key": "3_2107858762296135680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107849527151775835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗨嗨嗨，我立马就找两个出来给你看。\n现在唯一一个真正实现了完全清零、一家都找不到的城市是重庆\n自从我们跟几个媒体把重庆市长点了之后老实多了\n\n当地教育局为了避免孩子被送到省外的扭转机构\n还会联系所有处在义务教育没来准时上学的孩子\n重庆孩子有福了 https://t.co/xP6kVJiktZ https://t.co/Gt6qySE2GA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2107858483412688896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCeH2ybYAAO_xP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2107858495756546048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCeIkxbsAAXtk5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2107858750136893440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCeXYabwAArB-1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2107858762296135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCeYFtbEAAerNk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107858483412688896",
+            "3_2107858495756546048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2107858506410009035",
+        "created_at": "2026-10-07T15:40:04.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:40:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107858506410009035",
+          "2107858771745853905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sE4BbzNFRE",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107858506410009035/photo/1",
+              "media_key": "3_2107858483412688896",
+              "start": 123,
+              "url": "https://t.co/sE4BbzNFRE"
+            },
+            {
+              "display_url": "pic.x.com/sE4BbzNFRE",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107858506410009035/photo/1",
+              "media_key": "3_2107858495756546048",
+              "start": 123,
+              "url": "https://t.co/sE4BbzNFRE"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2107849527151775835",
+              "start": 147,
+              "url": "https://t.co/Gt6qySE2GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107858506410009035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107858483412688896"
+          },
+          {
+            "media_key": "3_2107858495756546048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107849527151775835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗨嗨嗨，我立马就找两个出来给你看。\n现在唯一一个真正实现了完全清零、一家都找不到的城市是重庆\n，\n自从我们跟几个媒体把重庆市长点了之后老实多\n当地教育局为了避免孩子被送到省外的扭转机构\n还会联系所有处在义务教育没来准时上学的孩子\n重庆孩子有福了 https://t.co/sE4BbzNFRE https://t.co/Gt6qySE2GA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107858750136893440",
+            "3_2107858762296135680"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2107858771745853905",
+        "created_at": "2026-10-07T15:41:07.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:40:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107858506410009035",
+          "2107858771745853905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xP6kVJiktZ",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107858771745853905/photo/1",
+              "media_key": "3_2107858750136893440",
+              "start": 123,
+              "url": "https://t.co/xP6kVJiktZ"
+            },
+            {
+              "display_url": "pic.x.com/xP6kVJiktZ",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2107858771745853905/photo/1",
+              "media_key": "3_2107858762296135680",
+              "start": 123,
+              "url": "https://t.co/xP6kVJiktZ"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2107849527151775835",
+              "start": 147,
+              "url": "https://t.co/Gt6qySE2GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107858771745853905",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107858750136893440"
+          },
+          {
+            "media_key": "3_2107858762296135680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107849527151775835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗨嗨嗨，我立马就找两个出来给你看。\n现在唯一一个真正实现了完全清零、一家都找不到的城市是重庆\n自从我们跟几个媒体把重庆市长点了之后老实多了\n\n当地教育局为了避免孩子被送到省外的扭转机构\n还会联系所有处在义务教育没来准时上学的孩子\n重庆孩子有福了 https://t.co/xP6kVJiktZ https://t.co/Gt6qySE2GA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4313176880",
+        "conversation_id": "2107845322655556082",
+        "created_at": "2026-10-07T15:04:23.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107849527151775835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107849527151775835",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107848663901028508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 甚至还是在河北最发达的唐山\n\n我老家石家庄算不上发达，但是我可以确定没有这种机构"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107858771745853905",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7614,
+          "following_count": 3421,
+          "like_count": 4931,
+          "listed_count": 19,
+          "media_count": 605,
+          "tweet_count": 4146
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world🇺🇳｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHI6pD"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2107858651205804279",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3501,
+          "following_count": 994,
+          "like_count": 2840,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/46yRJHI6pD",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw1HI8"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2107848663901028508",
+        "name": "HosinoNeko",
+        "pinned_tweet_id": "2104926841668768056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 623,
+          "like_count": 4802,
+          "listed_count": 3,
+          "media_count": 976,
+          "tweet_count": 4882
+        },
+        "url": "https://t.co/2FBvyw1HI8",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

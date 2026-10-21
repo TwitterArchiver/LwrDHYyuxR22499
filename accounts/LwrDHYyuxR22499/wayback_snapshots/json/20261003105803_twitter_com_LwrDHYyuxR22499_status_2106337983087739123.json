@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106314552761835520",
+        "3_2106314566506549248"
+      ],
+      "media_source_tweet_id": [
+        "2106314577399169392",
+        "2106314577399169392"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "conversation_id": "2106337983087739123",
+    "created_at": "2026-10-03T10:58:03.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106337983087739123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1781868776918790144",
+          "start": 3,
+          "username": "Hoshika_Mahiyo"
+        },
+        {
+          "end": 33,
+          "id": "2079578733929754624",
+          "start": 24,
+          "username": "Kabibqi9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWQ8hJvRv6",
+          "end": 75,
+          "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2106314577399169392/photo/1",
+          "media_key": "3_2106314552761835520",
+          "start": 52,
+          "url": "https://t.co/iWQ8hJvRv6"
+        },
+        {
+          "display_url": "pic.x.com/iWQ8hJvRv6",
+          "end": 75,
+          "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2106314577399169392/photo/1",
+          "media_key": "3_2106314566506549248",
+          "start": 52,
+          "url": "https://t.co/iWQ8hJvRv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106337983087739123",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106314552761835520"
+      },
+      {
+        "media_key": "3_2106314566506549248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106314577399169392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshika_Mahiyo: 求助！\n@Kabibqi9 \n被关在温州康宁医院，遭受了电击！ https://t.co/iWQ8hJvRv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2106314552761835520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsh7Q6a4AATmvb.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2106314566506549248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsh8EHakAATvl4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106314552761835520",
+            "3_2106314566506549248"
+          ],
+          "media_source_tweet_id": [
+            "2106314577399169392",
+            "2106314577399169392"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2106337983087739123",
+        "created_at": "2026-10-03T10:58:03.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106337983087739123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1781868776918790144",
+              "start": 3,
+              "username": "Hoshika_Mahiyo"
+            },
+            {
+              "end": 33,
+              "id": "2079578733929754624",
+              "start": 24,
+              "username": "Kabibqi9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWQ8hJvRv6",
+              "end": 75,
+              "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2106314577399169392/photo/1",
+              "media_key": "3_2106314552761835520",
+              "start": 52,
+              "url": "https://t.co/iWQ8hJvRv6"
+            },
+            {
+              "display_url": "pic.x.com/iWQ8hJvRv6",
+              "end": 75,
+              "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2106314577399169392/photo/1",
+              "media_key": "3_2106314566506549248",
+              "start": 52,
+              "url": "https://t.co/iWQ8hJvRv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106337983087739123",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106314552761835520"
+          },
+          {
+            "media_key": "3_2106314566506549248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106314577399169392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshika_Mahiyo: 求助！\n@Kabibqi9 \n被关在温州康宁医院，遭受了电击！ https://t.co/iWQ8hJvRv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106314552761835520",
+            "3_2106314566506549248"
+          ]
+        },
+        "author_id": "1781868776918790144",
+        "conversation_id": "2106314577399169392",
+        "created_at": "2026-10-03T09:25:03.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106314577399169392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079578733929754624",
+              "start": 4,
+              "username": "Kabibqi9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWQ8hJvRv6",
+              "end": 55,
+              "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2106314577399169392/photo/1",
+              "media_key": "3_2106314552761835520",
+              "start": 32,
+              "url": "https://t.co/iWQ8hJvRv6"
+            },
+            {
+              "display_url": "pic.x.com/iWQ8hJvRv6",
+              "end": 55,
+              "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2106314577399169392/photo/1",
+              "media_key": "3_2106314566506549248",
+              "start": 32,
+              "url": "https://t.co/iWQ8hJvRv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106314577399169392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106314552761835520"
+          },
+          {
+            "media_key": "3_2106314566506549248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "求助！\n@Kabibqi9 \n被关在温州康宁医院，遭受了电击！ https://t.co/iWQ8hJvRv6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106337983087739123",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7531,
+          "following_count": 3432,
+          "like_count": 4920,
+          "listed_count": 19,
+          "media_count": 599,
+          "tweet_count": 4134
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "也可以叫我刘星瑶~\n同类互fo喵\n💕最爱的老婆@fengxinovo\n🏳️‍⚧️11/08/17 高一 MtF 泛性恋 天残党 半家长党\n『姐姐支持父母反对』\n🍥2026/08/02 小证？含糖 已炸柜\n❌无任何政治立场，三好yn\n👤INFP 乐观 佛系 非牛顿流体 有点强迫症 敏感 \n♥️爱好 折腾/音乐/写作/美食",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "fengxinovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "现居🇨🇳吉林四平梨树    想移民去Canada🇨🇦",
+        "most_recent_tweet_id": "2106321958254284882",
+        "name": "Hoshika_Mahiyo🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2096462009609166971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1786784735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475212271489024/A9cxjBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 2267,
+          "like_count": 5232,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Hoshika_Mahiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T14:46:44.000Z",
+        "description": "2010出厂喵/🏳️‍⚧️\n日语生喵/超爱@kerosene233\n我想od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "kerosene233"
+              }
+            ]
+          }
+        },
+        "id": "2079578733929754624",
+        "is_identity_verified": false,
+        "location": "世间混沌之起源，空间时间静止杂糅的异墟之土",
+        "most_recent_tweet_id": "2101504174508876238",
+        "name": "一ノ瀬花名🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101495675527831745",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079578733929754624/1786644284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099665519230205952/GV6G8VkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 536,
+          "like_count": 3457,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "Kabibqi9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

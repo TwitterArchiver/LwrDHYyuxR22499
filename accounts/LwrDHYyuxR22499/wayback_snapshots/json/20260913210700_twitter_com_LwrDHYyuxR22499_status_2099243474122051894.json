@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099243412558163968",
+        "13_2099243421777137664",
+        "3_2099243460016697344",
+        "3_2099243466282926080"
+      ]
+    },
+    "author_id": "1843201902550634496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099243474122051894",
+    "created_at": "2026-09-13T21:07:00.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T22:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099243474122051894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j24s2tVkFP",
+          "end": 31,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+          "media_key": "3_2099243412558163968",
+          "start": 8,
+          "url": "https://t.co/j24s2tVkFP"
+        },
+        {
+          "display_url": "pic.x.com/j24s2tVkFP",
+          "end": 31,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+          "media_key": "13_2099243421777137664",
+          "start": 8,
+          "url": "https://t.co/j24s2tVkFP"
+        },
+        {
+          "display_url": "pic.x.com/j24s2tVkFP",
+          "end": 31,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+          "media_key": "3_2099243460016697344",
+          "start": 8,
+          "url": "https://t.co/j24s2tVkFP"
+        },
+        {
+          "display_url": "pic.x.com/j24s2tVkFP",
+          "end": 31,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+          "media_key": "3_2099243466282926080",
+          "start": 8,
+          "url": "https://t.co/j24s2tVkFP"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2099130486685614542",
+          "start": 32,
+          "url": "https://t.co/y2Vsyl1YIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099243474122051894",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099243412558163968"
+      },
+      {
+        "media_key": "13_2099243421777137664"
+      },
+      {
+        "media_key": "3_2099243460016697344"
+      },
+      {
+        "media_key": "3_2099243466282926080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099130486685614542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛牛逼逼见自己 https://t.co/j24s2tVkFP https://t.co/y2Vsyl1YIZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2099243412558163968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSICwu6bsAA10sl.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 26564,
+        "height": 1280,
+        "media_key": "13_2099243421777137664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099243421777137664/img/FhS3sRxU0zY_XDnB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099243421777137664/vid/avc1/320x568/vbvbQHiXhcmBPpxq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099243421777137664/vid/avc1/480x852/0EI9knz5czbTD5ub.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099243421777137664/vid/avc1/720x1280/K0UxybmTagvOS_uo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099243421777137664/pl/doEOU473Hju511i_.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2099243460016697344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSICzftbcAAV9dp.jpg",
+        "width": 810
+      },
+      {
+        "height": 3282,
+        "media_key": "3_2099243466282926080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSICz3DagAA2RL-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1469,
+        "media_key": "3_2099130482420330496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGcDVXbsAAOPBo.jpg",
+        "width": 1282
+      },
+      {
+        "height": 1233,
+        "media_key": "3_2099130482310914058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGcDU9WIAoabcO.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2099130482491596800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGcDVobIAADQi1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099243412558163968",
+            "13_2099243421777137664",
+            "3_2099243460016697344",
+            "3_2099243466282926080"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099243474122051894",
+        "created_at": "2026-09-13T21:07:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T22:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099243474122051894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j24s2tVkFP",
+              "end": 31,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+              "media_key": "3_2099243412558163968",
+              "start": 8,
+              "url": "https://t.co/j24s2tVkFP"
+            },
+            {
+              "display_url": "pic.x.com/j24s2tVkFP",
+              "end": 31,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+              "media_key": "13_2099243421777137664",
+              "start": 8,
+              "url": "https://t.co/j24s2tVkFP"
+            },
+            {
+              "display_url": "pic.x.com/j24s2tVkFP",
+              "end": 31,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+              "media_key": "3_2099243460016697344",
+              "start": 8,
+              "url": "https://t.co/j24s2tVkFP"
+            },
+            {
+              "display_url": "pic.x.com/j24s2tVkFP",
+              "end": 31,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2099243474122051894/video/1",
+              "media_key": "3_2099243466282926080",
+              "start": 8,
+              "url": "https://t.co/j24s2tVkFP"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2099130486685614542",
+              "start": 32,
+              "url": "https://t.co/y2Vsyl1YIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099243474122051894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099243412558163968"
+          },
+          {
+            "media_key": "13_2099243421777137664"
+          },
+          {
+            "media_key": "3_2099243460016697344"
+          },
+          {
+            "media_key": "3_2099243466282926080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099130486685614542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛牛逼逼见自己 https://t.co/j24s2tVkFP https://t.co/y2Vsyl1YIZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099130482420330496",
+            "3_2099130482310914058",
+            "3_2099130482491596800"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2099130486685614542",
+        "created_at": "2026-09-13T13:38:02.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099130486685614542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/172H1iBWoM",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099130486685614542/photo/1",
+              "media_key": "3_2099130482420330496",
+              "start": 8,
+              "url": "https://t.co/172H1iBWoM"
+            },
+            {
+              "display_url": "pic.x.com/172H1iBWoM",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099130486685614542/photo/1",
+              "media_key": "3_2099130482310914058",
+              "start": 8,
+              "url": "https://t.co/172H1iBWoM"
+            },
+            {
+              "display_url": "pic.x.com/172H1iBWoM",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2099130486685614542/photo/1",
+              "media_key": "3_2099130482491596800",
+              "start": 8,
+              "url": "https://t.co/172H1iBWoM"
+            },
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2099074627775709521",
+              "start": 32,
+              "url": "https://t.co/pvBcaABkph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099130486685614542",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099130482420330496"
+          },
+          {
+            "media_key": "3_2099130482310914058"
+          },
+          {
+            "media_key": "3_2099130482491596800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4213,
+          "like_count": 67,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099074627775709521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很普通地见自己 https://t.co/172H1iBWoM https://t.co/pvBcaABkph"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099243474122051894",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7202,
+          "following_count": 3442,
+          "like_count": 4805,
+          "listed_count": 21,
+          "media_count": 584,
+          "tweet_count": 4049
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2099226395259871635",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10829,
+          "following_count": 1299,
+          "like_count": 9817,
+          "listed_count": 14,
+          "media_count": 463,
+          "tweet_count": 5820
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

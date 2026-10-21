@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1843201902550634496",
+    "conversation_id": "2105305146888683994",
+    "created_at": "2026-09-30T14:33:56.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105305146888683994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042631060685754368",
+          "start": 3,
+          "username": "pb12201231"
+        },
+        {
+          "end": 32,
+          "id": "1843201902550634496",
+          "start": 16,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105305146888683994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105301894851940847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pb12201231: @LwrDHYyuxR22499 我面临急性的被送扭转风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2105305146888683994",
+        "created_at": "2026-09-30T14:33:56.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105305146888683994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042631060685754368",
+              "start": 3,
+              "username": "pb12201231"
+            },
+            {
+              "end": 32,
+              "id": "1843201902550634496",
+              "start": 16,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105305146888683994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105301894851940847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pb12201231: @LwrDHYyuxR22499 我面临急性的被送扭转风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042631060685754368",
+        "conversation_id": "2105277817571463491",
+        "created_at": "2026-09-30T14:21:01.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105301894851940847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105301894851940847",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105277817571463491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 我面临急性的被送扭转风险"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105305146888683994",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7511,
+          "following_count": 3426,
+          "like_count": 4899,
+          "listed_count": 19,
+          "media_count": 596,
+          "tweet_count": 4108
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-10T15:51:16.000Z",
+        "description": "最珍贵的人:@pengbo002nnq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "pengbo002nnq"
+              }
+            ]
+          }
+        },
+        "id": "2042631060685754368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105302744550809701",
+        "name": "晏谨时🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042631632117813248/nUl0BEiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 236,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "pb12201231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
